@@ -1,271 +1,5 @@
 [
   {
-    "id": "f9716c3a-580f-41ba-91bb-171aaa1d40c8",
-    "title": "JESUS IS KING",
-    "artist": "Kanye West",
-    "releaseDate": "2019-10-25",
-    "songs": [
-      "Every Hour (feat. Sunday Service Choir)",
-      "Selah",
-      "Follow God",
-      "Closed on Sunday",
-      "On God",
-      "Everything We Need (feat. Ty Dolla $ign & Ant Clemons)",
-      "Water (feat. Ant Clemons)",
-      "God Is",
-      "Hands On (feat. Fred Hammond)",
-      "Use This Gospel (feat. Clipse & Kenny G)",
-      "Jesus Is Lord"
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/21/fd/d3/21fdd3d4-0c00-53ef-3903-d0569c49a812/19UMGIM89397.rgb.jpg/600x600bb.jpg",
-    "appleId": 1484936940,
-    "type": "Album"
-  },
-  {
-    "id": "7d8cb634-48bb-4188-b166-af30488572e1",
-    "title": "808s & Heartbreak",
-    "artist": "Kanye West",
-    "releaseDate": "2008-11-25",
-    "songs": [
-      "Say You Will",
-      "Welcome To Heartbreak (feat. Kid Cudi)",
-      "Heartless",
-      "Amazing (feat. Young Jeezy)",
-      "Love Lockdown",
-      "Paranoid (feat. Mr Hudson)",
-      "RoboCop",
-      "Street Lights",
-      "Bad News",
-      "See You In My Nightmares (feat. Lil Wayne)",
-      "Coldest Winter",
-      "Pinocchio Story (Freestyle Live From Singapore)",
-      "Pinocchio Story (Freestyle Live From Singapore)",
-      "Heartless"
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4d/75/2d/4d752db1-022d-f65d-40a1-a2390f01427a/13UAEIM26465.rgb.jpg/600x600bb.jpg",
-    "appleId": 1441410287,
-    "type": "Album"
-  },
-  {
-    "id": "92332d3a-1710-41d2-b2e3-6a13d57dd926",
-    "title": "ye",
-    "artist": "Kanye West",
-    "releaseDate": "2018-06-06",
-    "songs": [
-      "I Thought About Killing You",
-      "Yikes",
-      "All Mine",
-      "Wouldn't Leave (feat. PARTYNEXTDOOR)",
-      "No Mistakes",
-      "Ghost Town (feat. PARTYNEXTDOOR)",
-      "Violent Crimes"
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/92/62/f892628e-bfd5-2437-c1f5-0ebbd366de09/00602577303098.rgb.jpg/600x600bb.jpg",
-    "appleId": 1441460375,
-    "type": "Album"
-  },
-  {
-    "id": "5c65a93a-7153-4e81-a44b-99107bdbfbd5",
-    "title": "Donda (Deluxe)",
-    "artist": "Kanye West",
-    "releaseDate": "2021-08-29",
-    "songs": [
-      "Donda Chant",
-      "Hurricane",
-      "Moon",
-      "Life Of The Party",
-      "Off The Grid",
-      "Jail",
-      "Praise God",
-      "Come to Life",
-      "Believe What I Say",
-      "No Child Left Behind",
-      "Up From The Ashes",
-      "Remote Control pt 2",
-      "God Breathed",
-      "Lord I Need You",
-      "24",
-      "Junya",
-      "Never Abandon Your Family",
-      "Donda",
-      "Keep My Spirit Alive",
-      "Jesus Lord pt 2",
-      "Heaven and Hell",
-      "Remote Control",
-      "Tell The Vision",
-      "Jonah",
-      "Pure Souls",
-      "Ok Ok",
-      "New Again",
-      "Jesus Lord",
-      "Ok Ok pt 2",
-      "Junya pt 2",
-      "Jail pt 2",
-      "Keep My Spirit Alive pt 2"
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/a7/f9/cfa7f9be-2d62-89a4-19bf-26276ab39f16/21UMGIM64738.rgb.jpg/600x600bb.jpg",
-    "appleId": 1595496182,
-    "type": "Album"
-  },
-  {
-    "id": "a70af3fa-f3d0-4c2e-a530-6176ae4ec4e7",
-    "title": "The College Dropout",
-    "artist": "Kanye West",
-    "releaseDate": "2004-02-10",
-    "songs": [
-      "Intro",
-      "We Don't Care",
-      "Graduation Day",
-      "All Falls Down (feat. Syleena Johnson)",
-      "I'll Fly Away",
-      "Spaceship (feat. GLC & Consequence)",
-      "Jesus Walks",
-      "Never Let Me Down (feat. JA\u0178-Z & J. Ivy)",
-      "Get Em High (feat. Talib Kweli & Common)",
-      "Workout Plan",
-      "The New Workout Plan",
-      "Slow Jamz",
-      "Breathe In Breathe Out (feat. Ludacris)",
-      "School Spirit Skit 1",
-      "School Spirit",
-      "School Spirit Skit 2",
-      "Lil Jimmy Skit",
-      "Two Words (feat. Mos Def, Freeway & The Boys Choir of Harlem)",
-      "Through the Wire",
-      "Family Business",
-      "Last Call"
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/600x600bb.jpg",
-    "appleId": 1437467864,
-    "type": "Album"
-  },
-  {
-    "id": "54f3265c-6eb8-41c8-878e-518bff5ef01d",
-    "title": "My Beautiful Dark Twisted Fantasy (Deluxe Edition)",
-    "artist": "Kanye West",
-    "releaseDate": "2010-01-01",
-    "songs": [
-      "Dark Fantasy",
-      "See Me Now (feat. Beyonc\u00e9, Charlie Wilson & Big Sean) [Bonus Track]",
-      "Gorgeous (feat. Kid Cudi & Raekwon)",
-      "Runway (Film)",
-      "Power",
-      "All of the Lights (Interlude)",
-      "All of the Lights",
-      "Monster (feat. JA\u0178-Z, Rick Ross, Nicki Minaj & Bon Iver)",
-      "So Appalled (feat. JA\u0178-Z, Pusha T, Prynce Cy Hi, Swizz Beatz & RZA)",
-      "Devil In a New Dress (feat. Rick Ross)",
-      "Runaway (feat. Pusha T)",
-      "Hell of a Life",
-      "Blame Game (feat. John Legend)",
-      "Lost In the World (feat. Bon Iver)",
-      "Who Will Survive In America"
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/da/7c/37da7cc5-2b6f-9bb8-30ba-8a8c3be3e16a/00602527584973.rgb.jpg/600x600bb.jpg",
-    "appleId": 1445865909,
-    "type": "Album"
-  },
-  {
-    "id": "ea948d0a-9c6b-4af4-a1d3-157314b41197",
-    "title": "The Life of Pablo",
-    "artist": "Kanye West",
-    "releaseDate": "2016-04-05",
-    "songs": [
-      "Ultralight Beam",
-      "Father Stretch My Hands, Pt. 1",
-      "Pt. 2",
-      "Famous",
-      "Feedback",
-      "Low Lights",
-      "Highlights",
-      "Freestyle 4",
-      "I Love Kanye",
-      "Waves",
-      "FML",
-      "Real Friends",
-      "Wolves",
-      "Frank's Track",
-      "Siiiiiiiiilver Surffffeeeeer Intermission",
-      "30 Hours",
-      "No More Parties in LA",
-      "Facts (Charlie Heat Version)",
-      "Fade"
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/fd/e0/ecfde04e-6db2-e55e-41fe-83c87a52b16e/00602547908339.rgb.jpg/600x600bb.jpg",
-    "appleId": 1442966257,
-    "type": "Album"
-  },
-  {
-    "id": "4e13baab-318c-4d89-8be1-2ea281dc491d",
-    "title": "Late Registration",
-    "artist": "Kanye West",
-    "releaseDate": "2005-08-30",
-    "songs": [
-      "Wake Up Mr. West",
-      "Heard 'Em Say (feat. Adam Levine)",
-      "Touch the Sky (feat. Lupe Fiasco)",
-      "Gold Digger (feat. Jamie Foxx)",
-      "Skit #1",
-      "Drive Slow (feat. Paul Wall & GLC)",
-      "My Way Home (feat. Common)",
-      "Crack Music (feat. The Game)",
-      "Roses",
-      "Bring Me Down (feat. Brandy)",
-      "Addiction",
-      "Skit #2",
-      "Diamonds from Sierra Leone (feat. JA\u0178-Z) [Remix]",
-      "We Major (feat. Nas & Really Doe)",
-      "Skit #3",
-      "Hey Mama",
-      "Celebration",
-      "Skit #4",
-      "Gone (feat. Consequence & Cam'ron)",
-      "Diamonds from Sierra Leone (Bonus Track)",
-      "Late"
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/600x600bb.jpg",
-    "appleId": 1440763821,
-    "type": "Album"
-  },
-  {
-    "id": "44fc584d-ad6d-4a60-9a4e-5c98f4e38569",
-    "title": "Donda",
-    "artist": "Kanye West",
-    "releaseDate": "2021-08-29",
-    "songs": [
-      "Donda Chant",
-      "Jail",
-      "God Breathed",
-      "Off The Grid",
-      "Hurricane",
-      "Praise God",
-      "Jonah",
-      "Ok Ok",
-      "Junya",
-      "Believe What I Say",
-      "24",
-      "Remote Control",
-      "Moon",
-      "Heaven and Hell",
-      "Donda",
-      "Keep My Spirit Alive",
-      "Jesus Lord",
-      "New Again",
-      "Tell The Vision",
-      "Lord I Need You",
-      "Pure Souls",
-      "Come to Life",
-      "No Child Left Behind",
-      "Jail pt 2",
-      "Ok Ok pt 2",
-      "Junya pt 2",
-      "Jesus Lord pt 2"
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/13/7b/62137b3f-7722-59f5-2ee1-b5aff9426869/21UMGIM64738.rgb.jpg/600x600bb.jpg",
-    "appleId": 1587795158,
-    "type": "Album"
-  },
-  {
     "id": "a1324b89-c31c-485e-b509-65a4cf5e847e",
     "title": "Kanye (feat. sirenxx)",
     "artist": "The Chainsmokers",
@@ -5044,5 +4778,1646 @@
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c4/3a/78/c43a7814-b089-9447-8688-a2fb9bf12c1e/00602547899972.rgb.jpg/600x600bb.jpg",
     "type": "Single",
     "appleId": 1444879252
+  },
+  {
+    "id": "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+    "title": "GEMINI SEASON",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0"
+      ]
+    },
+    "releaseDate": "2026-06-08",
+    "songs": [],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/6d/41/f46d418c-4494-9410-5473-f608c24b006b/712132021876_cover.jpg/600x600bb.jpg",
+    "type": "Single",
+    "appleId": 6778145473
+  },
+  {
+    "id": "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+    "title": "808s & Heartbreak",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9"
+      ]
+    },
+    "releaseDate": "2008-11-25",
+    "songs": [
+      {
+        "id": "d06642e5-3662-4163-a1af-8cf21404a85b",
+        "albumID": "1441410287",
+        "name": "Say You Will",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "b198c148-543b-4634-b8cb-13fc65eafd0f",
+        "albumID": "1441410287",
+        "name": "Welcome To Heartbreak (feat. Kid Cudi)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "43438482-ba73-4106-b0da-7c4bd1649857",
+        "albumID": "1441410287",
+        "name": "Heartless",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "b067115c-855c-42c4-b257-6a54d84dfc00",
+        "albumID": "1441410287",
+        "name": "Amazing (feat. Young Jeezy)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "36ce3f46-c27b-4b97-801b-c9f137431a7b",
+        "albumID": "1441410287",
+        "name": "Love Lockdown",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "d30607b8-49bd-4ada-a2ab-ee9a2d35b76f",
+        "albumID": "1441410287",
+        "name": "Paranoid (feat. Mr Hudson)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "58a62570-60c9-4c65-bac1-2c7cccba510a",
+        "albumID": "1441410287",
+        "name": "RoboCop",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "6e624661-2a9a-435f-a4d2-740a753a5c58",
+        "albumID": "1441410287",
+        "name": "Street Lights",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "cfd0175f-1c2c-453b-aba7-77fe661f822f",
+        "albumID": "1441410287",
+        "name": "Bad News",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "4a39f6b6-a4bb-47f7-aff1-6fa9c26825b3",
+        "albumID": "1441410287",
+        "name": "See You In My Nightmares (feat. Lil Wayne)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "72877994-d223-43a2-b854-137191c26415",
+        "albumID": "1441410287",
+        "name": "Coldest Winter",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "c758c327-77e2-47f6-8cb6-6ef34c92cf88",
+        "albumID": "1441410287",
+        "name": "Pinocchio Story (Freestyle Live From Singapore)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "9d57033f-8020-4d3b-89d3-e544cf662e2e",
+        "albumID": "1441410287",
+        "name": "Pinocchio Story (Freestyle Live From Singapore)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "af46dd53-fcbe-469e-9e40-eba77265c129",
+        "albumID": "1441410287",
+        "name": "Heartless",
+        "artist": "Kanye West"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4d/75/2d/4d752db1-022d-f65d-40a1-a2390f01427a/13UAEIM26465.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1441410287
+  },
+  {
+    "id": "2e461058-d77c-4076-9897-6f4098c24b9f",
+    "title": "JESUS IS KING",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f"
+      ]
+    },
+    "releaseDate": "2019-10-25",
+    "songs": [
+      {
+        "id": "079fcfb2-3b16-40b4-a899-a68691e4f9a8",
+        "albumID": "1484936940",
+        "name": "Every Hour (feat. Sunday Service Choir)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "81185a84-eae3-4a81-94e6-025b912f119c",
+        "albumID": "1484936940",
+        "name": "Selah",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "b262fcfa-39fd-4437-8df8-9aff346da8d0",
+        "albumID": "1484936940",
+        "name": "Follow God",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "afab793b-deaf-4fda-bdb6-0369ddeb3e32",
+        "albumID": "1484936940",
+        "name": "Closed on Sunday",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "4b737f11-2085-4963-ae0e-e74fe819ed9f",
+        "albumID": "1484936940",
+        "name": "On God",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "577fe0c7-f8a4-4b0c-b09a-205a8865243b",
+        "albumID": "1484936940",
+        "name": "Everything We Need (feat. Ty Dolla $ign & Ant Clemons)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "9cdf9b9a-bad4-4e27-bceb-9c99953f9412",
+        "albumID": "1484936940",
+        "name": "Water (feat. Ant Clemons)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "c109e04b-8b85-4c6f-9c25-4e0a0fd97fe6",
+        "albumID": "1484936940",
+        "name": "God Is",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "4fe0f4b0-5726-4fe3-9eac-d9f8083b6f5e",
+        "albumID": "1484936940",
+        "name": "Hands On (feat. Fred Hammond)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "a36def93-f1d2-4633-9454-758d481cd02c",
+        "albumID": "1484936940",
+        "name": "Use This Gospel (feat. Clipse & Kenny G)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "26db77af-d1c8-495a-9f33-1f86630d08e3",
+        "albumID": "1484936940",
+        "name": "Jesus Is Lord",
+        "artist": "Kanye West"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/21/fd/d3/21fdd3d4-0c00-53ef-3903-d0569c49a812/19UMGIM89397.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1484936940
+  },
+  {
+    "id": "57360a64-cd6a-4ae7-8166-d1712b5a8600",
+    "title": "Jesus Is Born",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f",
+        "57360a64-cd6a-4ae7-8166-d1712b5a8600"
+      ]
+    },
+    "releaseDate": "2019-12-25",
+    "songs": [
+      {
+        "id": "e25834e1-4292-44b4-8d4f-b8d76b0abe22",
+        "albumID": "1492874574",
+        "name": "Count Your Blessings",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "41f79a98-4945-4222-a1a7-9d0ee7866c91",
+        "albumID": "1492874574",
+        "name": "Excellent",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "24ad355b-0986-43d7-9459-438d98337c47",
+        "albumID": "1492874574",
+        "name": "Revelations 19:1",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "09e495ff-30ea-4489-9885-8789261f30d6",
+        "albumID": "1492874574",
+        "name": "Rain",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "4757596f-8b4a-4fc4-b95e-86dcbf930923",
+        "albumID": "1492874574",
+        "name": "Balm in Gilead",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "431b1a9e-2630-4264-99ec-c13b269bf57f",
+        "albumID": "1492874574",
+        "name": "Father Stretch",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "fa6d8d54-1cc8-4cd5-8df6-35a5b514ab95",
+        "albumID": "1492874574",
+        "name": "Follow Me - Faith",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "cb280917-efb8-486d-be9b-6e3d7b66cc4c",
+        "albumID": "1492874574",
+        "name": "Ultralight Beam",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "b6a3ba36-7706-4083-bedc-5d6c6362c96b",
+        "albumID": "1492874574",
+        "name": "Lift Up Your Voices",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "28c7e227-1400-4a5f-91e8-e66e7dce7598",
+        "albumID": "1492874574",
+        "name": "More Than Anything",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "19312adf-398d-451e-a5b2-8c975133b7d1",
+        "albumID": "1492874574",
+        "name": "Weak",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "e1fcc15d-dbdc-4c2c-9899-3b1f815161db",
+        "albumID": "1492874574",
+        "name": "That's How the Good Lord Works",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "7ab7e2de-cdf5-49ca-99f4-6f8d7065c110",
+        "albumID": "1492874574",
+        "name": "Sunshine",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "8fe4bc0f-4e2e-4234-9db2-418661820499",
+        "albumID": "1492874574",
+        "name": "Back to Life",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "a1e387da-6225-4f74-ac0a-d6ba2bc8ff50",
+        "albumID": "1492874574",
+        "name": "Souls Anchored",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "7ff11c69-4ad7-4c86-8f35-482c7cf529e0",
+        "albumID": "1492874574",
+        "name": "Sweet Grace",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "925e3b42-b511-44fd-985a-af9190696811",
+        "albumID": "1492874574",
+        "name": "Paradise",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "2efd92ea-5d82-48d7-8889-493e51b36ad0",
+        "albumID": "1492874574",
+        "name": "Satan, We\u2019re Gonna Tear Your Kingdom Down",
+        "artist": "Sunday Service Choir"
+      },
+      {
+        "id": "f4965670-987c-4f90-bfd3-3d9b1d30af1d",
+        "albumID": "1492874574",
+        "name": "Total Praise",
+        "artist": "Sunday Service Choir"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b5/5b/e9/b55be92b-e426-0d23-2e62-4126a0c3b582/748926808514_cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1492874574
+  },
+  {
+    "id": "bf9174c8-f088-4aa8-83e7-209f5a2bc1cc",
+    "title": "Donda",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f",
+        "57360a64-cd6a-4ae7-8166-d1712b5a8600",
+        "bf9174c8-f088-4aa8-83e7-209f5a2bc1cc"
+      ]
+    },
+    "releaseDate": "2021-08-29",
+    "songs": [
+      {
+        "id": "3fc51a1f-85bb-4f04-9b96-a24f8e4f4493",
+        "albumID": "1587795158",
+        "name": "Donda Chant",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "776ca905-bf62-4a5b-8434-39b0d4b04489",
+        "albumID": "1587795158",
+        "name": "Jail",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "839506d6-c305-45f3-9e24-7bfa937ca478",
+        "albumID": "1587795158",
+        "name": "God Breathed",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "3545a923-166b-4f38-a966-cb3d74016eba",
+        "albumID": "1587795158",
+        "name": "Off The Grid",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "9b5b6d24-77c4-4277-87bd-b5a77e47cbac",
+        "albumID": "1587795158",
+        "name": "Hurricane",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "2894c1af-b112-4d3e-a66f-4b15cb06136d",
+        "albumID": "1587795158",
+        "name": "Praise God",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "d1a3a7ac-197d-4ce9-92ff-3538fe65dce0",
+        "albumID": "1587795158",
+        "name": "Jonah",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "7858f6f1-b974-4acc-bb80-c131903b97b6",
+        "albumID": "1587795158",
+        "name": "Ok Ok",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "d1bca43e-a473-4f61-a806-af23ee6ff5be",
+        "albumID": "1587795158",
+        "name": "Junya",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "a53d13cd-2b7d-4e60-8541-d1b743ab5007",
+        "albumID": "1587795158",
+        "name": "Believe What I Say",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "d070751a-5df2-4d88-bf4f-e2085b64ddad",
+        "albumID": "1587795158",
+        "name": "24",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "98769de5-257f-4416-802e-afc7526353d7",
+        "albumID": "1587795158",
+        "name": "Remote Control",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "e23bf7f8-64d4-44d4-ab38-cd2ac5889be6",
+        "albumID": "1587795158",
+        "name": "Moon",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "c79c3752-db41-437b-be75-404b9c4cfe1c",
+        "albumID": "1587795158",
+        "name": "Heaven and Hell",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "d25b7c9a-2a72-47a6-a13c-5e91cc722470",
+        "albumID": "1587795158",
+        "name": "Donda",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "c11eb80e-e305-4d26-a0dc-51124a3ab7b1",
+        "albumID": "1587795158",
+        "name": "Keep My Spirit Alive",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "be57ef5f-d77e-406b-8aae-c06fa7e70b26",
+        "albumID": "1587795158",
+        "name": "Jesus Lord",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "52a4a5da-07c8-4666-a18f-0b81cad8eb59",
+        "albumID": "1587795158",
+        "name": "New Again",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "812a8698-ec30-43b8-8acc-a1aa9e60eac0",
+        "albumID": "1587795158",
+        "name": "Tell The Vision",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "fb544916-8ad1-4fff-b616-b137e20e09d2",
+        "albumID": "1587795158",
+        "name": "Lord I Need You",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "81813e9e-31bd-4036-8a73-82396a33ce42",
+        "albumID": "1587795158",
+        "name": "Pure Souls",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "85b224b9-1fe2-4b05-b262-58eac561d1b8",
+        "albumID": "1587795158",
+        "name": "Come to Life",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "f1a42a98-ed97-4279-b640-32c17ff7ab5c",
+        "albumID": "1587795158",
+        "name": "No Child Left Behind",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "06e1c425-4a60-4ea7-b982-a6a1a53b1d4a",
+        "albumID": "1587795158",
+        "name": "Jail pt 2",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "ff500e0e-210f-448f-b72b-0c1044a626a6",
+        "albumID": "1587795158",
+        "name": "Ok Ok pt 2",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "ca6496de-25d2-4208-ba7c-75ddff50c94f",
+        "albumID": "1587795158",
+        "name": "Junya pt 2",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "f8778552-f225-4c6c-a368-fe150ef45419",
+        "albumID": "1587795158",
+        "name": "Jesus Lord pt 2",
+        "artist": "Kanye West"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/62/13/7b/62137b3f-7722-59f5-2ee1-b5aff9426869/21UMGIM64738.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1587795158
+  },
+  {
+    "id": "f9cf39a1-2e6b-425a-ac88-adac9e4f4af1",
+    "title": "Graduation",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f",
+        "57360a64-cd6a-4ae7-8166-d1712b5a8600",
+        "bf9174c8-f088-4aa8-83e7-209f5a2bc1cc",
+        "f9cf39a1-2e6b-425a-ac88-adac9e4f4af1"
+      ]
+    },
+    "releaseDate": "2007-01-01",
+    "songs": [
+      {
+        "id": "d025ef2d-bec0-484a-814e-69e6a9007ae7",
+        "albumID": "1442845779",
+        "name": "Good Morning",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "150854c0-ff70-4255-8dcd-6aa0f29a1486",
+        "albumID": "1442845779",
+        "name": "Champion",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "e7aec391-cd8f-452c-88ef-b6dad1ae391e",
+        "albumID": "1442845779",
+        "name": "Stronger",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "ea05237a-7d17-4e13-b2ff-964f642d3188",
+        "albumID": "1442845779",
+        "name": "I Wonder",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "ee532b9b-2294-4bcb-a8e6-387f8ae9e51c",
+        "albumID": "1442845779",
+        "name": "Good Life (feat. T-Pain)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "56c277e9-2a7b-422a-9428-4c1a9e7a7829",
+        "albumID": "1442845779",
+        "name": "Can't Tell Me Nothing",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "748f6057-0bcc-48e7-8e69-04119df8fbdf",
+        "albumID": "1442845779",
+        "name": "Barry Bonds (feat. Lil Wayne)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "7fe85cdd-a409-41a1-8040-8b43d32640f3",
+        "albumID": "1442845779",
+        "name": "Drunk and Hot Girls (feat. Mos Def)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "0531e169-a054-427d-bd05-2501054b2353",
+        "albumID": "1442845779",
+        "name": "Flashing Lights",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "02d68085-cd18-4740-a92c-89b3160eba0a",
+        "albumID": "1442845779",
+        "name": "Everything I Am (feat. DJ Premier)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "6beef9bc-8264-4f81-8b59-52757537e812",
+        "albumID": "1442845779",
+        "name": "The Glory",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "3899d399-eee9-4397-b711-8ee6416c6300",
+        "albumID": "1442845779",
+        "name": "Homecoming (feat. Chris Martin)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "a241141e-19b6-413a-82df-593197eb9926",
+        "albumID": "1442845779",
+        "name": "Big Brother",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "d08f6a7c-cb75-488d-ac13-5b93f7f04a2f",
+        "albumID": "1442845779",
+        "name": "Good Night",
+        "artist": "Kanye West"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/25/2d/39252d65-2d50-b991-0962-f7a98a761271/00602517483507.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1442845779
+  },
+  {
+    "id": "47cc228b-6242-42b3-934c-f244618f181e",
+    "title": "The College Dropout",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f",
+        "57360a64-cd6a-4ae7-8166-d1712b5a8600",
+        "bf9174c8-f088-4aa8-83e7-209f5a2bc1cc",
+        "f9cf39a1-2e6b-425a-ac88-adac9e4f4af1",
+        "47cc228b-6242-42b3-934c-f244618f181e"
+      ]
+    },
+    "releaseDate": "2004-02-10",
+    "songs": [
+      {
+        "id": "5935803e-e430-4966-9594-fa5757a101bc",
+        "albumID": "1437467864",
+        "name": "Intro",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "98aaef6e-63d4-49ce-b4c2-66d394476f72",
+        "albumID": "1437467864",
+        "name": "We Don't Care",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "1cbe2b20-ac86-482b-b622-39268cde2c82",
+        "albumID": "1437467864",
+        "name": "Graduation Day",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "20bcd44c-d8dc-42d3-8a2f-bd1726222bde",
+        "albumID": "1437467864",
+        "name": "All Falls Down (feat. Syleena Johnson)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "deb5f3b6-1c67-40c9-9628-d5167c72da2c",
+        "albumID": "1437467864",
+        "name": "I'll Fly Away",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "96cb7ddd-a8d9-40b4-a185-bbff0661153b",
+        "albumID": "1437467864",
+        "name": "Spaceship (feat. GLC & Consequence)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "de5d5e5c-f61b-4850-8f52-8f089820a830",
+        "albumID": "1437467864",
+        "name": "Jesus Walks",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "a8f3153f-b351-4cb9-8847-5f310fe722ea",
+        "albumID": "1437467864",
+        "name": "Never Let Me Down (feat. JA\u0178-Z & J. Ivy)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "86f32182-2db3-41f2-8c1f-ed1cd14c4356",
+        "albumID": "1437467864",
+        "name": "Get Em High (feat. Talib Kweli & Common)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "930ba455-c123-4e42-993f-0691bfda9127",
+        "albumID": "1437467864",
+        "name": "Workout Plan",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "6d5e0bb2-1eee-4fbb-ac1b-81c0af4ceb8e",
+        "albumID": "1437467864",
+        "name": "The New Workout Plan",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "d77c04e3-5c26-4497-8a43-13edd3851c11",
+        "albumID": "1437467864",
+        "name": "Slow Jamz",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "00839a62-ed6d-4b07-acc4-ced11cea84b0",
+        "albumID": "1437467864",
+        "name": "Breathe In Breathe Out (feat. Ludacris)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "ce576d75-a7c6-4e91-8ec2-ae857f51d46b",
+        "albumID": "1437467864",
+        "name": "School Spirit Skit 1",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "d66816db-28c5-4e9e-ae02-94fe1332443f",
+        "albumID": "1437467864",
+        "name": "School Spirit",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "ebc5199e-706b-48ce-853a-02ef5bc14ce5",
+        "albumID": "1437467864",
+        "name": "School Spirit Skit 2",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "2b2b4aa9-b341-49be-a8e1-607bbcdfdef6",
+        "albumID": "1437467864",
+        "name": "Lil Jimmy Skit",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "b5168fee-cac9-47bb-8ef7-45d013cfd620",
+        "albumID": "1437467864",
+        "name": "Two Words (feat. Mos Def, Freeway & The Boys Choir of Harlem)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "d8b9a55e-e3aa-48c6-87c1-5f8cdb913d95",
+        "albumID": "1437467864",
+        "name": "Through the Wire",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "27b945de-7cd6-4a57-a36f-93846e33d008",
+        "albumID": "1437467864",
+        "name": "Family Business",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "b02b5201-ac2e-457a-85fa-a7c9669ab477",
+        "albumID": "1437467864",
+        "name": "Last Call",
+        "artist": "Kanye West"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/15/05/09/15050911-a2f1-9ebc-0d16-6e8faad1cf80/00602567924326.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1437467864
+  },
+  {
+    "id": "f5cc3768-0d71-4d1d-a566-8db49db71765",
+    "title": "Late Registration",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f",
+        "57360a64-cd6a-4ae7-8166-d1712b5a8600",
+        "bf9174c8-f088-4aa8-83e7-209f5a2bc1cc",
+        "f9cf39a1-2e6b-425a-ac88-adac9e4f4af1",
+        "47cc228b-6242-42b3-934c-f244618f181e",
+        "f5cc3768-0d71-4d1d-a566-8db49db71765"
+      ]
+    },
+    "releaseDate": "2005-08-30",
+    "songs": [
+      {
+        "id": "28a4b425-b849-406e-8176-7f56344db752",
+        "albumID": "1440763821",
+        "name": "Wake Up Mr. West",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "2c198d39-b33d-4439-ad9a-4456afcef54b",
+        "albumID": "1440763821",
+        "name": "Heard 'Em Say (feat. Adam Levine)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "98d89f76-f131-4b3c-a6b9-7195518b9b0f",
+        "albumID": "1440763821",
+        "name": "Touch the Sky (feat. Lupe Fiasco)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "5bc5bcbf-48e1-4fff-bea7-018e2482e21c",
+        "albumID": "1440763821",
+        "name": "Gold Digger (feat. Jamie Foxx)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "fd11ca65-1a3e-4614-8406-776cdea08d7d",
+        "albumID": "1440763821",
+        "name": "Skit #1",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "8673e249-0399-4e82-aa40-bfa85727a0dc",
+        "albumID": "1440763821",
+        "name": "Drive Slow (feat. Paul Wall & GLC)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "3c702e86-e11f-4229-9624-95371442d756",
+        "albumID": "1440763821",
+        "name": "My Way Home (feat. Common)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "789d1225-d8ac-4067-bb24-849f4055a67e",
+        "albumID": "1440763821",
+        "name": "Crack Music (feat. The Game)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "4093c428-5c2e-4814-81ee-319ab527bbc5",
+        "albumID": "1440763821",
+        "name": "Roses",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "9b893a92-3900-476a-a2fd-6b0adfd5ce4c",
+        "albumID": "1440763821",
+        "name": "Bring Me Down (feat. Brandy)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "5924902a-31b1-4643-b9c7-494f952d8ee1",
+        "albumID": "1440763821",
+        "name": "Addiction",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "870712c1-c9d8-45fb-ad45-fa22dbb59ae3",
+        "albumID": "1440763821",
+        "name": "Skit #2",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "357d14c4-4343-48e5-9420-717339c377c0",
+        "albumID": "1440763821",
+        "name": "Diamonds from Sierra Leone (feat. JA\u0178-Z) [Remix]",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "b7281c9a-87f2-4b88-b8dd-142eef49dc72",
+        "albumID": "1440763821",
+        "name": "We Major (feat. Nas & Really Doe)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "87ccb7c5-799d-4376-9362-b2ba0ba068ef",
+        "albumID": "1440763821",
+        "name": "Skit #3",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "b95cc7d8-a6e0-478e-9a3a-52d124569e9e",
+        "albumID": "1440763821",
+        "name": "Hey Mama",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "71ec3334-af7e-4628-a97a-f28b8aec36ce",
+        "albumID": "1440763821",
+        "name": "Celebration",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "3eb69f70-f3f7-4d82-b7d2-5852c8ffef78",
+        "albumID": "1440763821",
+        "name": "Skit #4",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "fd9f5a96-ef7a-4d32-a60a-00b159d577ac",
+        "albumID": "1440763821",
+        "name": "Gone (feat. Consequence & Cam'ron)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "152b994d-8231-434e-92f8-94193dad733c",
+        "albumID": "1440763821",
+        "name": "Diamonds from Sierra Leone (Bonus Track)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "f0bdfd04-b4a4-4138-a5b6-58f4d8c53b11",
+        "albumID": "1440763821",
+        "name": "Late",
+        "artist": "Kanye West"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0e/90/3c/0e903c43-9d81-f91b-90f1-727a58f7fb2c/00602498824030.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1440763821
+  },
+  {
+    "id": "5b874bc3-9936-4ad8-b52e-5596bb81370c",
+    "title": "Donda (Deluxe)",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f",
+        "57360a64-cd6a-4ae7-8166-d1712b5a8600",
+        "bf9174c8-f088-4aa8-83e7-209f5a2bc1cc",
+        "f9cf39a1-2e6b-425a-ac88-adac9e4f4af1",
+        "47cc228b-6242-42b3-934c-f244618f181e",
+        "f5cc3768-0d71-4d1d-a566-8db49db71765",
+        "5b874bc3-9936-4ad8-b52e-5596bb81370c"
+      ]
+    },
+    "releaseDate": "2021-08-29",
+    "songs": [
+      {
+        "id": "11c063d7-79b4-4ad9-8eaa-4a6e9c858941",
+        "albumID": "1595496182",
+        "name": "Donda Chant",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "e887e2a3-5873-458f-873a-980fcb7101c3",
+        "albumID": "1595496182",
+        "name": "Hurricane",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "68a63a54-28c0-4778-b2b8-a345e1c14eb0",
+        "albumID": "1595496182",
+        "name": "Moon",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "97bdc48d-0164-43a7-b575-9ec74775f77b",
+        "albumID": "1595496182",
+        "name": "Life Of The Party",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "ee549fd5-a758-47de-a53b-dfe7c46d69eb",
+        "albumID": "1595496182",
+        "name": "Off The Grid",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "ecfa9c1c-9232-4dc9-87ef-c8555cfe4a3c",
+        "albumID": "1595496182",
+        "name": "Jail",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "81aaa4fe-3748-476f-877f-bc0da42d7e89",
+        "albumID": "1595496182",
+        "name": "Praise God",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "b7283632-b1ad-43ee-a2af-a168144b8a43",
+        "albumID": "1595496182",
+        "name": "Come to Life",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "f89b7223-3840-4dd1-8369-68b6aa0c4b06",
+        "albumID": "1595496182",
+        "name": "Believe What I Say",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "f5a00749-0300-45ae-8387-538a11175e84",
+        "albumID": "1595496182",
+        "name": "No Child Left Behind",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "0a752294-5b63-4c74-8ca0-355c6247398c",
+        "albumID": "1595496182",
+        "name": "Up From The Ashes",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "9cc5080a-aa16-4c7a-8c6b-c5059d6d11b0",
+        "albumID": "1595496182",
+        "name": "Remote Control pt 2",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "f280aecf-a8d3-4be4-8493-685536ab6f0c",
+        "albumID": "1595496182",
+        "name": "God Breathed",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "0a65db8f-4384-4c78-966c-23b4b8d32054",
+        "albumID": "1595496182",
+        "name": "Lord I Need You",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "2986ca38-a820-4eb5-91f9-679208eabf3a",
+        "albumID": "1595496182",
+        "name": "24",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "c4fdc1b3-6183-4242-a27f-b0c9b9b3e4d8",
+        "albumID": "1595496182",
+        "name": "Junya",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "7783035f-6059-42dd-b104-a005b76ff4f3",
+        "albumID": "1595496182",
+        "name": "Never Abandon Your Family",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "674a4cc8-4f53-4955-a623-08c7922a8c60",
+        "albumID": "1595496182",
+        "name": "Donda",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "94eb9fbb-eee4-45a0-b8fc-707aa0af634e",
+        "albumID": "1595496182",
+        "name": "Keep My Spirit Alive",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "eccf1181-fa82-466b-b8f3-7d973f309059",
+        "albumID": "1595496182",
+        "name": "Jesus Lord pt 2",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "3616736e-2756-4a12-b920-a446e8d0a173",
+        "albumID": "1595496182",
+        "name": "Heaven and Hell",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "5eaa0279-8539-4eeb-855e-4918bdbdbb61",
+        "albumID": "1595496182",
+        "name": "Remote Control",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "892bf19e-c13e-4b3a-9629-5e22ea927271",
+        "albumID": "1595496182",
+        "name": "Tell The Vision",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "4dbdde37-c743-4e85-ab9c-f0ed346d0fa6",
+        "albumID": "1595496182",
+        "name": "Jonah",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "0621a166-8236-4c14-b804-870719123b55",
+        "albumID": "1595496182",
+        "name": "Pure Souls",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "9c661f9f-9a74-45a6-aaf4-c90c3cafecbe",
+        "albumID": "1595496182",
+        "name": "Ok Ok",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "c3df1adb-61d8-4f6a-8c5a-c0d9bc2bfad0",
+        "albumID": "1595496182",
+        "name": "New Again",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "6ac048f6-aa44-42b0-b942-80919a714f08",
+        "albumID": "1595496182",
+        "name": "Jesus Lord",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "27876a13-7f59-4794-9abf-bb88b5a3518d",
+        "albumID": "1595496182",
+        "name": "Ok Ok pt 2",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "88d158a4-948a-43c3-b3ce-f967e37dfa11",
+        "albumID": "1595496182",
+        "name": "Junya pt 2",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "f9a5405a-8865-4337-8279-e8df04061f67",
+        "albumID": "1595496182",
+        "name": "Jail pt 2",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "a7882935-c360-465d-9fd5-5f50af6be0ca",
+        "albumID": "1595496182",
+        "name": "Keep My Spirit Alive pt 2",
+        "artist": "Kanye West"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/a7/f9/cfa7f9be-2d62-89a4-19bf-26276ab39f16/21UMGIM64738.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1595496182
+  },
+  {
+    "id": "058990cf-6de1-4d60-b5a0-2e3aa6c2e1fc",
+    "title": "808s & Heartbreak (Exclusive Edition)",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f",
+        "57360a64-cd6a-4ae7-8166-d1712b5a8600",
+        "bf9174c8-f088-4aa8-83e7-209f5a2bc1cc",
+        "f9cf39a1-2e6b-425a-ac88-adac9e4f4af1",
+        "47cc228b-6242-42b3-934c-f244618f181e",
+        "f5cc3768-0d71-4d1d-a566-8db49db71765",
+        "5b874bc3-9936-4ad8-b52e-5596bb81370c",
+        "058990cf-6de1-4d60-b5a0-2e3aa6c2e1fc"
+      ]
+    },
+    "releaseDate": "2008-01-01",
+    "songs": [
+      {
+        "id": "62743dab-e902-462d-af6d-067e8b88909f",
+        "albumID": "1609149054",
+        "name": "Say You Will",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "0aba847c-e96d-42b0-8af9-09ba88c98120",
+        "albumID": "1609149054",
+        "name": "Welcome To Heartbreak (feat. Kid Cudi)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "8b4b72ba-a8d1-4afd-ae77-238fb13d1fc5",
+        "albumID": "1609149054",
+        "name": "Heartless",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "8bf58a14-9229-46da-85df-8a66950d0076",
+        "albumID": "1609149054",
+        "name": "Amazing (feat. Young Jeezy)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "5b187dd8-f992-454b-bdd3-2a2632408bbd",
+        "albumID": "1609149054",
+        "name": "Love Lockdown",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "9bd56954-d4d5-4603-85fb-3fdb60960c63",
+        "albumID": "1609149054",
+        "name": "Paranoid (feat. Mr Hudson)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "9f4b9e07-2b47-4caa-a839-54563a86c844",
+        "albumID": "1609149054",
+        "name": "RoboCop",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "c9760473-f4ee-4af6-b447-9220daf4da98",
+        "albumID": "1609149054",
+        "name": "Street Lights",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "f997e04d-cc9b-45d9-bb04-accfd5464026",
+        "albumID": "1609149054",
+        "name": "Bad News",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "a8557e7e-60a1-4461-b702-78f77861114e",
+        "albumID": "1609149054",
+        "name": "See You In My Nightmares (feat. Lil Wayne)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "f8b848dc-5f74-478e-9753-dc9e2986fed7",
+        "albumID": "1609149054",
+        "name": "Coldest Winter",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "4e4cf635-5c9c-4426-a939-80b87b971e7c",
+        "albumID": "1609149054",
+        "name": "Pinocchio Story (Freestyle / Live From Singapore)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "a900a592-7e00-47d4-802c-93648dd2ae18",
+        "albumID": "1609149054",
+        "name": "Pinocchio Story (Freestyle Live From Singapore)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "a7ab2da2-96ac-4eda-95a4-78683e041cf2",
+        "albumID": "1609149054",
+        "name": "Heartless",
+        "artist": "Kanye West"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f3/61/19/f36119b9-4d88-05eb-4306-2ae0e7decf88/08UMGIM26559.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1609149054
+  },
+  {
+    "id": "51fca3e8-93a9-41b9-99fa-1ada4b50882c",
+    "title": "My Beautiful Dark Twisted Fantasy (Deluxe Edition)",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f",
+        "57360a64-cd6a-4ae7-8166-d1712b5a8600",
+        "bf9174c8-f088-4aa8-83e7-209f5a2bc1cc",
+        "f9cf39a1-2e6b-425a-ac88-adac9e4f4af1",
+        "47cc228b-6242-42b3-934c-f244618f181e",
+        "f5cc3768-0d71-4d1d-a566-8db49db71765",
+        "5b874bc3-9936-4ad8-b52e-5596bb81370c",
+        "058990cf-6de1-4d60-b5a0-2e3aa6c2e1fc",
+        "51fca3e8-93a9-41b9-99fa-1ada4b50882c"
+      ]
+    },
+    "releaseDate": "2010-01-01",
+    "songs": [
+      {
+        "id": "33fbfe83-c308-47f0-ad21-f6e6c53eb629",
+        "albumID": "1445865909",
+        "name": "Dark Fantasy",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "26dc60fb-7c38-414a-b93f-9e7085d9894a",
+        "albumID": "1445865909",
+        "name": "See Me Now (feat. Beyonc\u00e9, Charlie Wilson & Big Sean) [Bonus Track]",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "79a44169-e55d-4fcf-89aa-d21c6c82c3f9",
+        "albumID": "1445865909",
+        "name": "Gorgeous (feat. Kid Cudi & Raekwon)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "68ee70f2-d80b-4f6c-90dc-1a943d29186a",
+        "albumID": "1445865909",
+        "name": "Runway (Film)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "ebc510a0-61bb-4f32-bb12-7b6df3c888fb",
+        "albumID": "1445865909",
+        "name": "Power",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "741229f1-1184-4387-af8d-2c34fadf8228",
+        "albumID": "1445865909",
+        "name": "All of the Lights (Interlude)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "52e4eadd-b1d9-4a9f-8043-60283fcfeedf",
+        "albumID": "1445865909",
+        "name": "All of the Lights",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "7ac58161-93a7-4d53-afe9-e804dd548dfd",
+        "albumID": "1445865909",
+        "name": "Monster (feat. JA\u0178-Z, Rick Ross, Nicki Minaj & Bon Iver)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "c572e931-7c7b-44c6-bf6c-da5179ccef86",
+        "albumID": "1445865909",
+        "name": "So Appalled (feat. JA\u0178-Z, Pusha T, Prynce Cy Hi, Swizz Beatz & RZA)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "95ee3536-a1c7-48ea-bbc9-0fcdd0a61049",
+        "albumID": "1445865909",
+        "name": "Devil In a New Dress (feat. Rick Ross)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "c3e0bf31-1a0e-4e4f-b61b-f8361a3cbd0f",
+        "albumID": "1445865909",
+        "name": "Runaway (feat. Pusha T)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "c11266a9-caab-4db0-9971-3aaef2b0154e",
+        "albumID": "1445865909",
+        "name": "Hell of a Life",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "7dc10e4b-44a7-46b9-86b6-917c9853dbb5",
+        "albumID": "1445865909",
+        "name": "Blame Game (feat. John Legend)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "81d80798-ccd8-4ba5-ba0d-bd6f67a598f5",
+        "albumID": "1445865909",
+        "name": "Lost In the World (feat. Bon Iver)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "109988ab-9138-44bc-9d6a-42cbed292c46",
+        "albumID": "1445865909",
+        "name": "Who Will Survive In America",
+        "artist": "Kanye West"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/37/da/7c/37da7cc5-2b6f-9bb8-30ba-8a8c3be3e16a/00602527584973.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1445865909
+  },
+  {
+    "id": "ec673de7-5a75-40e2-9d48-8315e42c649d",
+    "title": "ye",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f",
+        "57360a64-cd6a-4ae7-8166-d1712b5a8600",
+        "bf9174c8-f088-4aa8-83e7-209f5a2bc1cc",
+        "f9cf39a1-2e6b-425a-ac88-adac9e4f4af1",
+        "47cc228b-6242-42b3-934c-f244618f181e",
+        "f5cc3768-0d71-4d1d-a566-8db49db71765",
+        "5b874bc3-9936-4ad8-b52e-5596bb81370c",
+        "058990cf-6de1-4d60-b5a0-2e3aa6c2e1fc",
+        "51fca3e8-93a9-41b9-99fa-1ada4b50882c",
+        "ec673de7-5a75-40e2-9d48-8315e42c649d"
+      ]
+    },
+    "releaseDate": "2018-06-06",
+    "songs": [
+      {
+        "id": "679b210c-a42e-4572-a39a-91b820348fe2",
+        "albumID": "1441460375",
+        "name": "I Thought About Killing You",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "b3eeb70c-3035-4c5f-9bb0-144290d67f35",
+        "albumID": "1441460375",
+        "name": "Yikes",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "8eeefa63-65ef-4c35-9902-8315d596a2d8",
+        "albumID": "1441460375",
+        "name": "All Mine",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "4e375375-7441-4a5a-9e3f-23312e1cc4f3",
+        "albumID": "1441460375",
+        "name": "Wouldn't Leave (feat. PARTYNEXTDOOR)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "dc1f2aa0-5bb3-479a-b019-467736a7e43f",
+        "albumID": "1441460375",
+        "name": "No Mistakes",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "ada30dad-5864-45c4-b424-80a4f360a2c8",
+        "albumID": "1441460375",
+        "name": "Ghost Town (feat. PARTYNEXTDOOR)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "f29d01f8-c008-405e-95ad-e5e6d6b7665c",
+        "albumID": "1441460375",
+        "name": "Violent Crimes",
+        "artist": "Kanye West"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/92/62/f892628e-bfd5-2437-c1f5-0ebbd366de09/00602577303098.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1441460375
+  },
+  {
+    "id": "60bfab41-a0e1-4e28-80a8-fcce61c2c704",
+    "title": "The Life of Pablo",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f",
+        "57360a64-cd6a-4ae7-8166-d1712b5a8600",
+        "bf9174c8-f088-4aa8-83e7-209f5a2bc1cc",
+        "f9cf39a1-2e6b-425a-ac88-adac9e4f4af1",
+        "47cc228b-6242-42b3-934c-f244618f181e",
+        "f5cc3768-0d71-4d1d-a566-8db49db71765",
+        "5b874bc3-9936-4ad8-b52e-5596bb81370c",
+        "058990cf-6de1-4d60-b5a0-2e3aa6c2e1fc",
+        "51fca3e8-93a9-41b9-99fa-1ada4b50882c",
+        "ec673de7-5a75-40e2-9d48-8315e42c649d",
+        "60bfab41-a0e1-4e28-80a8-fcce61c2c704"
+      ]
+    },
+    "releaseDate": "2016-04-05",
+    "songs": [
+      {
+        "id": "58acc1bd-4e01-4813-8d21-3ea74645d010",
+        "albumID": "1442966257",
+        "name": "Ultralight Beam",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "0ee724fa-88d9-4d04-a656-438182da9870",
+        "albumID": "1442966257",
+        "name": "Father Stretch My Hands, Pt. 1",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "eff0d5f5-6b1d-44d6-a940-e96cb55cbd33",
+        "albumID": "1442966257",
+        "name": "Pt. 2",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "9a9fb799-8149-4237-8272-0504c811f5e7",
+        "albumID": "1442966257",
+        "name": "Famous",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "d104b6e4-f226-4dd5-adee-8f69ce2cf400",
+        "albumID": "1442966257",
+        "name": "Feedback",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "ddd3282c-a908-40f0-b264-021998bffaf2",
+        "albumID": "1442966257",
+        "name": "Low Lights",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "bfdd7e79-c587-4a4d-b650-d401bcd9e286",
+        "albumID": "1442966257",
+        "name": "Highlights",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "15521fa0-5385-4022-9d87-ebf481443971",
+        "albumID": "1442966257",
+        "name": "Freestyle 4",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "55b2a5f9-deae-4506-9bf1-8069c9017579",
+        "albumID": "1442966257",
+        "name": "I Love Kanye",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "66c37c22-6678-4e90-95a3-dc641903a1e0",
+        "albumID": "1442966257",
+        "name": "Waves",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "b1d00697-2635-4fec-a742-b6424c557dda",
+        "albumID": "1442966257",
+        "name": "FML",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "c67eb336-05ac-4c0c-8f68-359e66c7210c",
+        "albumID": "1442966257",
+        "name": "Real Friends",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "ebc96b5b-dca0-4ed1-8daa-1022ad0aab10",
+        "albumID": "1442966257",
+        "name": "Wolves",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "b7bc4776-ea78-4bf4-b255-4bfd12458463",
+        "albumID": "1442966257",
+        "name": "Frank's Track",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "dc2d8919-d25b-4795-91d7-660dd8a777ce",
+        "albumID": "1442966257",
+        "name": "Siiiiiiiiilver Surffffeeeeer Intermission",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "1e1e30d3-1459-4d8e-b4da-5bbca64d24b3",
+        "albumID": "1442966257",
+        "name": "30 Hours",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "55f2c2f5-2ac7-47ce-b198-bc4518e5452c",
+        "albumID": "1442966257",
+        "name": "No More Parties in LA",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "4e8b0443-e2d6-46d3-90d9-76ce267f9064",
+        "albumID": "1442966257",
+        "name": "Facts (Charlie Heat Version)",
+        "artist": "Kanye West"
+      },
+      {
+        "id": "87f51983-e37c-4f2c-865d-33c84bb91842",
+        "albumID": "1442966257",
+        "name": "Fade",
+        "artist": "Kanye West"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/fd/e0/ecfde04e-6db2-e55e-41fe-83c87a52b16e/00602547908339.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1442966257
+  },
+  {
+    "id": "275ec95f-5ec2-459c-a318-882fccb638b4",
+    "title": "True Love",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f",
+        "57360a64-cd6a-4ae7-8166-d1712b5a8600",
+        "bf9174c8-f088-4aa8-83e7-209f5a2bc1cc",
+        "f9cf39a1-2e6b-425a-ac88-adac9e4f4af1",
+        "47cc228b-6242-42b3-934c-f244618f181e",
+        "f5cc3768-0d71-4d1d-a566-8db49db71765",
+        "5b874bc3-9936-4ad8-b52e-5596bb81370c",
+        "058990cf-6de1-4d60-b5a0-2e3aa6c2e1fc",
+        "51fca3e8-93a9-41b9-99fa-1ada4b50882c",
+        "ec673de7-5a75-40e2-9d48-8315e42c649d",
+        "60bfab41-a0e1-4e28-80a8-fcce61c2c704",
+        "275ec95f-5ec2-459c-a318-882fccb638b4"
+      ]
+    },
+    "releaseDate": "2022-05-27",
+    "songs": [],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3a/c4/be/3ac4be92-f255-b735-605f-3d531bf7a487/dj.kvenstal.jpg/600x600bb.jpg",
+    "type": "Single",
+    "appleId": 1624802944
+  },
+  {
+    "id": "d6e8192b-5f01-4a93-a71c-ce7c58d7ceb3",
+    "title": "FourFiveSeconds",
+    "artist": {
+      "id": "9432f1f9-16cd-4e61-8b84-71484709d546",
+      "name": "Kanye West",
+      "albumIDs": [
+        "f4e9cec5-ad6b-492e-9d6a-b9511bd1d4d0",
+        "b79d3d69-eda1-4cee-bf24-dd1364277cf9",
+        "2e461058-d77c-4076-9897-6f4098c24b9f",
+        "57360a64-cd6a-4ae7-8166-d1712b5a8600",
+        "bf9174c8-f088-4aa8-83e7-209f5a2bc1cc",
+        "f9cf39a1-2e6b-425a-ac88-adac9e4f4af1",
+        "47cc228b-6242-42b3-934c-f244618f181e",
+        "f5cc3768-0d71-4d1d-a566-8db49db71765",
+        "5b874bc3-9936-4ad8-b52e-5596bb81370c",
+        "058990cf-6de1-4d60-b5a0-2e3aa6c2e1fc",
+        "51fca3e8-93a9-41b9-99fa-1ada4b50882c",
+        "ec673de7-5a75-40e2-9d48-8315e42c649d",
+        "60bfab41-a0e1-4e28-80a8-fcce61c2c704",
+        "275ec95f-5ec2-459c-a318-882fccb638b4",
+        "d6e8192b-5f01-4a93-a71c-ce7c58d7ceb3"
+      ]
+    },
+    "releaseDate": "2015-01-24",
+    "songs": [],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b1/f2/24/b1f224ad-40fb-ae22-b632-de330c70b540/00602547235398.rgb.jpg/600x600bb.jpg",
+    "type": "Single",
+    "appleId": 1445170915
   }
 ]
