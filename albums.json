@@ -7488,5 +7488,487 @@
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/e5/7c/55e57cf2-8325-a088-7d54-3aeedad1143f/21UM1IM16263.rgb.jpg/600x600bb.jpg",
     "type": "Album",
     "appleId": 1588492978
+  },
+  {
+    "id": "febf4f36-2c13-4208-8116-ae4cd90ac7e9",
+    "title": "Paid In Full",
+    "artist": {
+      "id": "bf2db51d-10b5-49f9-87b8-81dd8cf07877",
+      "name": "Eric B. & Rakim",
+      "albumIDs": [
+        "febf4f36-2c13-4208-8116-ae4cd90ac7e9"
+      ]
+    },
+    "releaseDate": "1987-07-07",
+    "songs": [
+      {
+        "id": "f0aba894-cf2c-450b-a74f-495f0c181917",
+        "albumID": "1440841577",
+        "name": "I Ain't No Joke",
+        "artist": "Eric B. & Rakim"
+      },
+      {
+        "id": "605b7658-d4e9-4268-bb68-16959d27b000",
+        "albumID": "1440841577",
+        "name": "Eric B. Is On the Cut",
+        "artist": "Eric B. & Rakim"
+      },
+      {
+        "id": "dd635e65-66bd-469d-b5ad-b1e0303966f4",
+        "albumID": "1440841577",
+        "name": "My Melody",
+        "artist": "Eric B. & Rakim"
+      },
+      {
+        "id": "09baa4d7-3e88-433d-b188-e2f32b888d00",
+        "albumID": "1440841577",
+        "name": "I Know You Got Soul",
+        "artist": "Eric B. & Rakim"
+      },
+      {
+        "id": "6ff46cbe-e300-478c-9341-c109cf3a392d",
+        "albumID": "1440841577",
+        "name": "Move the Crowd",
+        "artist": "Eric B. & Rakim"
+      },
+      {
+        "id": "13782e8b-c6b3-4c65-89ea-b969040cb2c6",
+        "albumID": "1440841577",
+        "name": "Paid In Full",
+        "artist": "Eric B. & Rakim"
+      },
+      {
+        "id": "9d3f9fbb-db3d-4086-9e01-5c0936e069e3",
+        "albumID": "1440841577",
+        "name": "As the Rhyme Goes On",
+        "artist": "Eric B. & Rakim"
+      },
+      {
+        "id": "1c9decfe-3cd3-4b1e-bcbf-e856cbb5092b",
+        "albumID": "1440841577",
+        "name": "Chinese Arithmetic",
+        "artist": "Eric B. & Rakim"
+      },
+      {
+        "id": "154254f3-e668-440a-82db-0e0b08c3bb1f",
+        "albumID": "1440841577",
+        "name": "Eric B. Is President",
+        "artist": "Eric B. & Rakim"
+      },
+      {
+        "id": "9d38e776-9cca-4084-b42c-8902d80d6b82",
+        "albumID": "1440841577",
+        "name": "Extended Beat",
+        "artist": "Eric B. & Rakim"
+      },
+      {
+        "id": "3cbf8a74-1a9c-408c-b66c-25cc7ced01aa",
+        "albumID": "1440841577",
+        "name": "As the Rhyme Goes On (Radio Mix)",
+        "artist": "Eric B. & Rakim"
+      },
+      {
+        "id": "663e8410-3b58-477d-8ace-f9aa292d0fc1",
+        "albumID": "1440841577",
+        "name": "Paid In Full (Mini Madness) [The Coldcut Remix]",
+        "artist": "Eric B. & Rakim"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/13/11/10/13111001-0c28-9fd7-9d50-194e72e23f53/00602547742254.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1440841577
+  },
+  {
+    "id": "89276249-1a63-48ee-9f89-1eb60b53cf0c",
+    "title": "The Blueprint",
+    "artist": {
+      "id": "ff2baceb-00d1-4752-b4e0-2a8714d0bc2e",
+      "name": "JA\u0178-Z",
+      "albumIDs": [
+        "89276249-1a63-48ee-9f89-1eb60b53cf0c"
+      ]
+    },
+    "releaseDate": "2001-09-11",
+    "songs": [
+      {
+        "id": "9cb6bc6e-a9bd-433f-bca1-8f4d75a061b4",
+        "albumID": "1440933859",
+        "name": "The Ruler's Back",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "39da3fa4-71cc-487d-a951-c58d8827841c",
+        "albumID": "1440933859",
+        "name": "Takeover",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "9db23aff-6f2a-4de0-8712-c5cc3ff90c4c",
+        "albumID": "1440933859",
+        "name": "Izzo (H.O.V.A.)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "f35a59ae-dd03-451c-820f-2f038a401a00",
+        "albumID": "1440933859",
+        "name": "Girls, Girls, Girls",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "f56b1a41-c930-4790-ae4a-584b06ffc862",
+        "albumID": "1440933859",
+        "name": "Jigga That N***a",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "c1f45167-1a34-47dd-912a-f216bd7249ed",
+        "albumID": "1440933859",
+        "name": "U Don't Know",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "315914e3-6910-4d35-9feb-2a9887a32019",
+        "albumID": "1440933859",
+        "name": "Hola' Hovito",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "dde669a7-4dd3-4649-8154-09d0e094c719",
+        "albumID": "1440933859",
+        "name": "Heart of the City (Ain't No Love)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "47d585e2-e936-4930-a3d9-a8464b85a6bd",
+        "albumID": "1440933859",
+        "name": "Never Change",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "b8887fd3-58d2-480a-b390-2a45226ca01c",
+        "albumID": "1440933859",
+        "name": "Song Cry",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "467a997b-ab21-438a-8607-fd7c1641f847",
+        "albumID": "1440933859",
+        "name": "All I Need",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "4fc9c1d9-a472-4e8e-bfc1-80adc1c2e6c0",
+        "albumID": "1440933859",
+        "name": "Renegade (feat. Eminem)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "13e194bc-e9d6-4781-8b14-985bbce53466",
+        "albumID": "1440933859",
+        "name": "Blueprint (Momma Loves Me)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "aeb7be66-e9bd-4cc1-82b3-3e4c42d48ec3",
+        "albumID": "1440933859",
+        "name": "Lyrical Exercise",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "146d6285-de90-427f-9d18-126064e69e7a",
+        "albumID": "1440933859",
+        "name": "Girls, Girls, Girls, Pt. 2",
+        "artist": "JA\u0178-Z"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/c0/e3/19c0e3b6-4c2f-17ee-2a4a-6e2208de8aa6/00857366006951.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1440933859
+  },
+  {
+    "id": "e70d78f8-cae9-4cad-8aa4-67c2bb7c1e4d",
+    "title": "4:44",
+    "artist": {
+      "id": "ff2baceb-00d1-4752-b4e0-2a8714d0bc2e",
+      "name": "JA\u0178-Z",
+      "albumIDs": [
+        "89276249-1a63-48ee-9f89-1eb60b53cf0c",
+        "e70d78f8-cae9-4cad-8aa4-67c2bb7c1e4d"
+      ]
+    },
+    "releaseDate": "2017-07-07",
+    "songs": [
+      {
+        "id": "b335d786-1580-4cb4-8df0-7336c41bd799",
+        "albumID": "1440935729",
+        "name": "Kill JA\u0178-Z",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "546de329-0e9f-4c4f-9ff1-0e85b3059a58",
+        "albumID": "1440935729",
+        "name": "The Story of O.J.",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "049ebda8-8b14-4668-9e07-e269c366e0ab",
+        "albumID": "1440935729",
+        "name": "Smile (feat. Gloria Carter)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "6434355b-6285-4011-b781-9dc085148e26",
+        "albumID": "1440935729",
+        "name": "Caught Their Eyes (feat. Frank Ocean)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "bd86d669-8d35-4ffb-bc29-2bf806b1e656",
+        "albumID": "1440935729",
+        "name": "4:44",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "d5cbd0f6-ece7-479b-b0c0-a2ded1c730e8",
+        "albumID": "1440935729",
+        "name": "Family Feud (feat. Beyonc\u00e9)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "0736c41e-6b8d-49c2-9796-59f37b8dd3d7",
+        "albumID": "1440935729",
+        "name": "Bam (feat. Damian \"Jr. Gong\" Marley)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "d4cb6cf8-c308-4211-bfb7-4561ce8fb2b6",
+        "albumID": "1440935729",
+        "name": "Moonlight",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "30017af8-7bb9-4b6a-a1f8-de0036c40693",
+        "albumID": "1440935729",
+        "name": "Marcy Me",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "60dead7f-0666-4478-bbec-816fd407e862",
+        "albumID": "1440935729",
+        "name": "Legacy",
+        "artist": "JA\u0178-Z"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ee/d1/da/eed1da86-9e2f-a19b-498a-f03622b183b2/00854242007569.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1440935729
+  },
+  {
+    "id": "f4b2fe4f-3e6b-4e31-ad50-b9560eaa3f3c",
+    "title": "NEW YORK (CONCEPT DE PARIS) [feat. Gil Scott-Heron]",
+    "artist": {
+      "id": "ff2baceb-00d1-4752-b4e0-2a8714d0bc2e",
+      "name": "JA\u0178-Z",
+      "albumIDs": [
+        "89276249-1a63-48ee-9f89-1eb60b53cf0c",
+        "e70d78f8-cae9-4cad-8aa4-67c2bb7c1e4d",
+        "f4b2fe4f-3e6b-4e31-ad50-b9560eaa3f3c"
+      ]
+    },
+    "releaseDate": "2023-04-16",
+    "songs": [],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ac/ba/09/acba09ed-4054-fbb1-94d8-d7d8c88dbba8/23UMGIM42960.rgb.jpg/600x600bb.jpg",
+    "type": "Single",
+    "appleId": 1682808476
+  },
+  {
+    "id": "e8065a05-a003-4280-90e8-264b05995cfc",
+    "title": "Supreme Clientele",
+    "artist": {
+      "id": "87d679b8-dbbe-411a-8973-0064e19461a7",
+      "name": "Ghostface Killah",
+      "albumIDs": [
+        "e8065a05-a003-4280-90e8-264b05995cfc"
+      ]
+    },
+    "releaseDate": "2000-02-08",
+    "songs": [
+      {
+        "id": "a260b0e0-6904-4a89-8127-a9ec6a31be38",
+        "albumID": "193017131",
+        "name": "Intro",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "a61cc5b2-0bb5-44b6-9875-5fc339221416",
+        "albumID": "193017131",
+        "name": "Nutmeg (feat. The RZA)",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "7d8df28f-0c60-43ca-bbab-04743d91f92e",
+        "albumID": "193017131",
+        "name": "One",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "45fc9396-69c8-413f-b488-c551a0dcb9d4",
+        "albumID": "193017131",
+        "name": "Saturday Nite",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "b190acc6-90a6-4624-ae61-15db8ae3eed9",
+        "albumID": "193017131",
+        "name": "Ghost Deini (feat. Superb)",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "5b0e654c-d6ca-4052-967a-28b55fca364d",
+        "albumID": "193017131",
+        "name": "Apollo Kids (feat. Raekwon)",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "b03b7f77-d3fc-495b-a18f-63d03dffc0ef",
+        "albumID": "193017131",
+        "name": "The Grain (feat. the RZA)",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "8aea9b46-e430-4a88-8ce5-53b208a7e68f",
+        "albumID": "193017131",
+        "name": "Buck 50 (feat. Cappadonna, Method Man & Redman)",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "5c03dc66-6159-4a7a-b0b0-d36ef87a38eb",
+        "albumID": "193017131",
+        "name": "Mighty Healthy",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "f364aa32-77c6-4133-a6ed-28bf1bf48d51",
+        "albumID": "193017131",
+        "name": "Stay True (feat. 60 Second Assassin)",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "d7d1d541-af1a-4007-875f-3f3bac87de01",
+        "albumID": "193017131",
+        "name": "We Made It (feat. Superb)",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "fb8f3744-69be-49bb-844f-8a21ad2fa576",
+        "albumID": "193017131",
+        "name": "Stroke of Death",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "2e39c753-3f72-4587-8af2-1c868db7929c",
+        "albumID": "193017131",
+        "name": "Malcolm",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "c9934972-39f4-4977-a6e3-323559920d13",
+        "albumID": "193017131",
+        "name": "Child's Play",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "cc2b8e9e-dde8-492f-802c-7811dadf479c",
+        "albumID": "193017131",
+        "name": "Cherchez LaGhost",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "9de5f749-3040-4c3e-bca2-29638db4253d",
+        "albumID": "193017131",
+        "name": "Wu Banga 101 (feat. GZA, Cappadonna, Masta Killah & Raekwon)",
+        "artist": "Ghostface Killah"
+      },
+      {
+        "id": "5204b92d-c809-4315-bcbd-6f0e2664347a",
+        "albumID": "193017131",
+        "name": "Iron's Theme - Conclusion",
+        "artist": "Ghostface Killah"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/1b/fa/2a/mzi.kylfgjuv.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 193017131
+  },
+  {
+    "id": "764905a8-dbfc-423d-bebe-029fe07215fb",
+    "title": "Enter the Wu-Tang (36 Chambers)",
+    "artist": {
+      "id": "f7452884-3d0e-42e1-92bc-a34378aba4e9",
+      "name": "Wu-Tang Clan",
+      "albumIDs": [
+        "764905a8-dbfc-423d-bebe-029fe07215fb"
+      ]
+    },
+    "releaseDate": "1993-11-09",
+    "songs": [
+      {
+        "id": "5fd0d429-e3cd-495d-a56d-0887654dd8d0",
+        "albumID": "1746566237",
+        "name": "Shame On a Nuh (feat. Raekwon, Ol' Dirty Bastard & Method Man)",
+        "artist": "Wu-Tang Clan"
+      },
+      {
+        "id": "f08b5371-7118-4bc4-bcf6-976bce5e6abb",
+        "albumID": "1746566237",
+        "name": "Clan In Da Front (feat. RZA & GZA)",
+        "artist": "Wu-Tang Clan"
+      },
+      {
+        "id": "31b722f9-813d-43f5-9d6f-7d7d59cb52e2",
+        "albumID": "1746566237",
+        "name": "Can It Be All So Simple (Radio Edit)",
+        "artist": "Wu-Tang Clan"
+      },
+      {
+        "id": "6ead0212-6397-4a58-8180-18eba4acddc1",
+        "albumID": "1746566237",
+        "name": "Method Man (feat. Method Man, Raekwon, GZA, RZA & Ghostface Killah)",
+        "artist": "Wu-Tang Clan"
+      },
+      {
+        "id": "c3c683f7-7bfc-4bdb-a91b-3151eccc88be",
+        "albumID": "1746566237",
+        "name": "Da Mystery of Chessboxin' (feat. Method Man, U-God, Inspectah Deck, Raekwon, Ol' Dirty Bastard, Ghostface Killah & Masta Killa) [Radio Edit]",
+        "artist": "Wu-Tang Clan"
+      },
+      {
+        "id": "be881364-b692-4c54-840a-d35f5f041e54",
+        "albumID": "1746566237",
+        "name": "Wu-Tang Clan Ain't Nuthing Ta F' Wit (feat. RZA, Inspectah Deck & Method Man)",
+        "artist": "Wu-Tang Clan"
+      },
+      {
+        "id": "ac67f958-9a64-4009-b0e9-1bec2a387c16",
+        "albumID": "1746566237",
+        "name": "C.R.E.A.M. (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",
+        "artist": "Wu-Tang Clan"
+      },
+      {
+        "id": "4714c421-1677-41d3-a409-497dff7d9db8",
+        "albumID": "1746566237",
+        "name": "Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol' Dirty Bastard, Ghostface Killah & GZA)",
+        "artist": "Wu-Tang Clan"
+      },
+      {
+        "id": "2be4ab9e-7552-40c7-b193-fe88f08871a3",
+        "albumID": "1746566237",
+        "name": "Tearz (feat. RZA & Ghostface Killah)",
+        "artist": "Wu-Tang Clan"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/20/1f/8c201f03-7617-2d8b-3d8d-e0ba2d55041b/196872123784.jpg/600x600bb.jpg",
+    "type": "Album",
+    "appleId": 1746566237
   }
 ]
