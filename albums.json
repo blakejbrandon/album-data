@@ -7972,30 +7972,6 @@
     "appleId": 1746566237
   },
   {
-    "id": "dcdadc79-6dc9-43aa-b6c8-b86d633a4634",
-    "title": "channel ORANGE",
-    "artist": {
-      "id": "dc8331e3-0966-4cb8-adcb-ae4b9469ecc2",
-      "name": "Frank Ocean"
-    },
-    "releaseDate": "2012-07-10",
-    "songs": [],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg/600x600bb.jpg",
-    "type": "Album"
-  },
-  {
-    "id": "aa090f83-1198-4e5e-9fbf-5cae983c4194",
-    "title": "Blonde",
-    "artist": {
-      "id": "dc8331e3-0966-4cb8-adcb-ae4b9469ecc2",
-      "name": "Frank Ocean"
-    },
-    "releaseDate": "2016-08-20",
-    "songs": [],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg/600x600bb.jpg",
-    "type": "Album"
-  },
-  {
     "id": "de390299-348f-4ccb-8c2f-44fcbfa366ad",
     "title": "Channel Orange",
     "artist": {
