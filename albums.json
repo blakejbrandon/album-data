@@ -391,221 +391,6 @@
     "appleId": 1440788780
   },
   {
-    "id": "fcdb6830-b0fd-45d2-bb10-a5a93759e550",
-    "title": "Take Care (Deluxe Version)",
-    "artist": {
-      "id": "d02429e6-0008-4197-b95d-9e7d99846fb5",
-      "name": "Drake",
-      "albumIDs": [
-        "10ae5cdf-2e81-4c19-86fd-a7e423f067b3",
-        "97198405-55a2-44bf-ac53-cff841f316c8",
-        "8d44a973-0d2b-4840-b7e2-e1375e0c8fd8",
-        "8c88356f-8f1c-4ac5-b510-8dc6685c476a",
-        "5dc4729b-80e6-47da-83b2-75505dbd25bd",
-        "af7d4f80-92f7-42df-af09-d5a9a6f36e0b",
-        "2dce861f-8c36-4636-baba-2f6b3b4a442f",
-        "9c392382-62ac-49c2-a762-fd6c12650f30",
-        "9b9fd999-f89a-4554-ae5b-34e34b52be56",
-        "e6973f64-7318-4dae-9549-1c1f5548a7fa",
-        "839c856b-f1f6-4485-9417-315df3664854",
-        "5947e149-a184-4a48-ba7d-01203d133c15",
-        "1749d95d-dc76-48c3-80c9-abd00d9e124f",
-        "48f4c2db-dcaa-4240-b880-7a7df17fa3d1",
-        "c39ea9ac-011a-42cb-bbc8-ba2690d63aaf",
-        "23bfa737-8093-4bd8-b7ff-8f6bb146c0b8",
-        "cf3c682e-35d6-45fb-9621-ac4d3e802e49",
-        "14cbabbb-c744-4549-9d58-1fe98e088539",
-        "4b090fae-ebc1-4a31-b60c-3bbd8386ef27",
-        "2e078f59-b91a-482f-9f4c-7a57c20edf6b",
-        "8102d32a-6e72-4edf-8d6f-b685b60f7170",
-        "643c3f36-89ed-439b-8dfa-594b88feb945",
-        "137bd7f2-e58d-427c-aa50-ca5563f437c1",
-        "214c03f8-029e-4328-9f8f-2c93acb0494d",
-        "495635d0-a13a-46de-8495-839cb6023e97",
-        "8952178a-cf25-4408-88b2-3995d601673e",
-        "529b9b4e-1572-4c10-81fc-dc82c75a76ec",
-        "229523cc-3c30-40f0-b12a-06daa39541fc",
-        "e15b9eaa-603d-4b3a-8e45-443240749cac",
-        "d18fb824-d727-49d7-be26-10e5fb592c81",
-        "1fb04c95-8fb8-48a5-9280-b2c666da423f",
-        "f36cf2dc-779e-4928-aeff-9db2b986144c",
-        "52061298-3d00-427e-a1b7-f50646e4e3af",
-        "aba24be8-70ff-4767-894a-8dd0344f8416",
-        "5f2dc4c0-d526-4787-a9cf-259895597769",
-        "c658dd90-51b2-4d46-b13d-d2a48d104c81",
-        "77ea7b6e-2927-43cc-a45e-8caf8c9ccb2b",
-        "4524112e-cd6c-439a-9100-2a89c53cedb7",
-        "e1779203-5afe-47c9-b7b1-9cbcdecdb6cf",
-        "00f42c0e-f097-410a-bd88-df3233bb4673",
-        "70219506-47ba-4648-8001-7508696bab73",
-        "ce59b768-57d6-4734-9a29-978762e026f1",
-        "3f48f6c0-4473-4b33-9625-ca6f3087733f",
-        "22703277-fe04-47f1-be00-b2ef8be23da2",
-        "c5ced47f-25b1-4872-9390-c20545f0c45f",
-        "80d505b1-5373-466e-b756-3abf80667aad",
-        "b010fd62-49cf-46a3-b8a6-2299dc311d5c",
-        "f4a3dead-3fec-41c7-917a-5984bfac4aa7",
-        "59bde8f0-7c0a-4422-ba2d-2c786cb999d6",
-        "9afc8407-2be8-4c7f-8ad8-3cccd3e36547",
-        "82f1698c-3342-4e6c-b08d-7b3901a8de7b",
-        "032be7e7-c39b-49f4-b396-ed4fd6f71944",
-        "62f48785-f15b-45c9-967e-06bdedd68f47",
-        "7715f71b-c21e-40e4-9794-cc1335020b69",
-        "9f00b259-1748-4c43-bf93-e8304d8bfe52",
-        "8e5b1575-ede9-44c6-af5f-c8b751a3dd75",
-        "2a98dab7-d67a-4485-8ecb-91142cee9abb",
-        "aa7f0203-4013-4c8f-b7e3-d591d2d96638",
-        "cfbc107b-d03b-4225-b334-5a4a3aca55b6",
-        "bcc01eeb-9c52-4114-8c84-4f4100875c01",
-        "40fe9a25-9cce-4a3b-ab53-390e3343d21b",
-        "48744bfe-3817-418a-83e0-8f383b2bf1a0",
-        "5e90d506-f34b-437f-83ff-1e18b09c33ee",
-        "d746e6d8-8bcf-425a-a531-78a85c6f4676",
-        "eb934a9b-7543-46d9-b39f-dd692123298f",
-        "b0e96ce2-977e-4345-adba-9cf9f84c5a27",
-        "4ffa0891-2e2c-40f7-b78c-396b15a1f706",
-        "14138967-a7cf-468f-9250-1ae856a56603",
-        "cf7c7218-44e5-4b1a-9532-97544a829d18",
-        "e602b16e-e405-49b1-ad42-2e036a75e62d",
-        "127afd6f-fd35-4c7f-b564-62bced6d16fb",
-        "001df766-0d24-424f-9a34-4485d8e7ba4d",
-        "9979f39e-3446-4463-be54-0b4b5f94a064",
-        "63398e52-0db4-4060-bcd5-19f85b5c158e",
-        "ece4cf5e-51d0-436f-a688-4a6f6e9f7d02",
-        "ef075f44-9984-419c-87d1-91f2a22ddedb",
-        "95f753f5-25a1-4cbd-bc2d-e0c2e7f7f8b0",
-        "2f93b254-4fbd-4c6a-9e21-27238ce90799",
-        "fcdb6830-b0fd-45d2-bb10-a5a93759e550"
-      ]
-    },
-    "releaseDate": "2011-11-15",
-    "songs": [
-      {
-        "id": "0246f06b-aca6-46e0-81ac-ba92b1c133eb",
-        "albumID": "1440745498",
-        "name": "Over My Dead Body",
-        "artist": "Drake"
-      },
-      {
-        "id": "f4bfad9e-5e7f-4673-8995-69f7eb3c1c5e",
-        "albumID": "1440745498",
-        "name": "Shot for Me",
-        "artist": "Drake"
-      },
-      {
-        "id": "042a9ee3-6277-40e5-92b0-499cd81dd97f",
-        "albumID": "1440745498",
-        "name": "Headlines",
-        "artist": "Drake"
-      },
-      {
-        "id": "b632ba8c-f071-4fdb-b950-6cc5923fa1df",
-        "albumID": "1440745498",
-        "name": "Crew Love (feat. The Weeknd)",
-        "artist": "Drake"
-      },
-      {
-        "id": "022014db-b640-4376-bfbd-5bb5b245f15a",
-        "albumID": "1440745498",
-        "name": "Take Care (feat. Rihanna)",
-        "artist": "Drake"
-      },
-      {
-        "id": "467181ba-319c-4268-8ccb-2c67c67968c9",
-        "albumID": "1440745498",
-        "name": "Marvin's Room",
-        "artist": "Drake"
-      },
-      {
-        "id": "37d05cb7-4530-4271-9a9f-902e2a478f29",
-        "albumID": "1440745498",
-        "name": "Buried Alive Interlude (feat. Kendrick Lamar)",
-        "artist": "Drake"
-      },
-      {
-        "id": "cf48dbd3-681a-4765-bb0c-8d5526dc436c",
-        "albumID": "1440745498",
-        "name": "Under Ground Kings",
-        "artist": "Drake"
-      },
-      {
-        "id": "95f5164d-30d3-45f5-84c0-db7df4c9d7ba",
-        "albumID": "1440745498",
-        "name": "We'll Be Fine (feat. Birdman)",
-        "artist": "Drake"
-      },
-      {
-        "id": "9788c974-42b5-411a-a90e-626c465d154a",
-        "albumID": "1440745498",
-        "name": "Make Me Proud (feat. Nicki Minaj)",
-        "artist": "Drake"
-      },
-      {
-        "id": "d1a7ef8e-8f1c-4228-beaf-2f2e211203f7",
-        "albumID": "1440745498",
-        "name": "Lord Knows (feat. Rick Ross)",
-        "artist": "Drake"
-      },
-      {
-        "id": "52cd789d-96b5-4897-b0f2-803817db31e0",
-        "albumID": "1440745498",
-        "name": "Cameras / Good Ones Go Interlude",
-        "artist": "Drake"
-      },
-      {
-        "id": "42e295c7-c42f-488e-8740-c6c0bff0e8f8",
-        "albumID": "1440745498",
-        "name": "Doing It Wrong",
-        "artist": "Drake"
-      },
-      {
-        "id": "03a23972-f4da-4d58-81b3-385295c844d4",
-        "albumID": "1440745498",
-        "name": "The Real Her (feat. Lil Wayne & Andre 3000)",
-        "artist": "Drake"
-      },
-      {
-        "id": "c284188e-fd4d-4c6f-9fb4-436cdaee0c92",
-        "albumID": "1440745498",
-        "name": "Look What You've Done",
-        "artist": "Drake"
-      },
-      {
-        "id": "f760d5db-61a5-48bb-8b48-c3b143934ce5",
-        "albumID": "1440745498",
-        "name": "HYFR (Hell Ya F***ing Right) [feat. Lil Wayne]",
-        "artist": "Drake"
-      },
-      {
-        "id": "61177a38-0248-4732-848b-1734c8fe1af5",
-        "albumID": "1440745498",
-        "name": "Practice",
-        "artist": "Drake"
-      },
-      {
-        "id": "a6436f35-6702-4ca1-994e-f7fdbfffab06",
-        "albumID": "1440745498",
-        "name": "The Ride",
-        "artist": "Drake"
-      },
-      {
-        "id": "1d1d3411-7f03-40a0-afe9-b17b518c976d",
-        "albumID": "1440745498",
-        "name": "The Motto (Bonus Track) [feat. Lil Wayne]",
-        "artist": "Drake"
-      },
-      {
-        "id": "f42c522b-41ad-4166-b277-b6908b8dd485",
-        "albumID": "1440745498",
-        "name": "Hate Sleeping Alone (Bonus Track)",
-        "artist": "Drake"
-      }
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/53/62/d2536245-b94c-b3fd-7168-9512f655f6d4/00602527899091.rgb.jpg/600x600bb.jpg",
-    "type": "Album",
-    "appleId": 1440745498
-  },
-  {
     "id": "a7dfb84d-0d65-4de1-b643-d9e263c38996",
     "title": "ICEMAN",
     "artist": {
@@ -2999,202 +2784,6 @@
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7f/3b/507f3b71-c606-5a59-06ee-22be3e1e6ca5/00602577542602.rgb.jpg/600x600bb.jpg",
     "type": "Album",
     "appleId": 1453336206
-  },
-  {
-    "id": "998a0f06-dd81-4a6b-bdc4-86215976abf2",
-    "title": "Nothing Was the Same (Deluxe)",
-    "artist": {
-      "id": "d02429e6-0008-4197-b95d-9e7d99846fb5",
-      "name": "Drake",
-      "albumIDs": [
-        "10ae5cdf-2e81-4c19-86fd-a7e423f067b3",
-        "97198405-55a2-44bf-ac53-cff841f316c8",
-        "8d44a973-0d2b-4840-b7e2-e1375e0c8fd8",
-        "8c88356f-8f1c-4ac5-b510-8dc6685c476a",
-        "5dc4729b-80e6-47da-83b2-75505dbd25bd",
-        "af7d4f80-92f7-42df-af09-d5a9a6f36e0b",
-        "2dce861f-8c36-4636-baba-2f6b3b4a442f",
-        "9c392382-62ac-49c2-a762-fd6c12650f30",
-        "9b9fd999-f89a-4554-ae5b-34e34b52be56",
-        "e6973f64-7318-4dae-9549-1c1f5548a7fa",
-        "839c856b-f1f6-4485-9417-315df3664854",
-        "5947e149-a184-4a48-ba7d-01203d133c15",
-        "1749d95d-dc76-48c3-80c9-abd00d9e124f",
-        "48f4c2db-dcaa-4240-b880-7a7df17fa3d1",
-        "c39ea9ac-011a-42cb-bbc8-ba2690d63aaf",
-        "23bfa737-8093-4bd8-b7ff-8f6bb146c0b8",
-        "cf3c682e-35d6-45fb-9621-ac4d3e802e49",
-        "14cbabbb-c744-4549-9d58-1fe98e088539",
-        "4b090fae-ebc1-4a31-b60c-3bbd8386ef27",
-        "2e078f59-b91a-482f-9f4c-7a57c20edf6b",
-        "8102d32a-6e72-4edf-8d6f-b685b60f7170",
-        "643c3f36-89ed-439b-8dfa-594b88feb945",
-        "137bd7f2-e58d-427c-aa50-ca5563f437c1",
-        "214c03f8-029e-4328-9f8f-2c93acb0494d",
-        "495635d0-a13a-46de-8495-839cb6023e97",
-        "8952178a-cf25-4408-88b2-3995d601673e",
-        "529b9b4e-1572-4c10-81fc-dc82c75a76ec",
-        "229523cc-3c30-40f0-b12a-06daa39541fc",
-        "e15b9eaa-603d-4b3a-8e45-443240749cac",
-        "d18fb824-d727-49d7-be26-10e5fb592c81",
-        "1fb04c95-8fb8-48a5-9280-b2c666da423f",
-        "f36cf2dc-779e-4928-aeff-9db2b986144c",
-        "52061298-3d00-427e-a1b7-f50646e4e3af",
-        "aba24be8-70ff-4767-894a-8dd0344f8416",
-        "5f2dc4c0-d526-4787-a9cf-259895597769",
-        "c658dd90-51b2-4d46-b13d-d2a48d104c81",
-        "77ea7b6e-2927-43cc-a45e-8caf8c9ccb2b",
-        "4524112e-cd6c-439a-9100-2a89c53cedb7",
-        "e1779203-5afe-47c9-b7b1-9cbcdecdb6cf",
-        "00f42c0e-f097-410a-bd88-df3233bb4673",
-        "70219506-47ba-4648-8001-7508696bab73",
-        "ce59b768-57d6-4734-9a29-978762e026f1",
-        "3f48f6c0-4473-4b33-9625-ca6f3087733f",
-        "22703277-fe04-47f1-be00-b2ef8be23da2",
-        "c5ced47f-25b1-4872-9390-c20545f0c45f",
-        "80d505b1-5373-466e-b756-3abf80667aad",
-        "b010fd62-49cf-46a3-b8a6-2299dc311d5c",
-        "f4a3dead-3fec-41c7-917a-5984bfac4aa7",
-        "59bde8f0-7c0a-4422-ba2d-2c786cb999d6",
-        "9afc8407-2be8-4c7f-8ad8-3cccd3e36547",
-        "82f1698c-3342-4e6c-b08d-7b3901a8de7b",
-        "032be7e7-c39b-49f4-b396-ed4fd6f71944",
-        "62f48785-f15b-45c9-967e-06bdedd68f47",
-        "7715f71b-c21e-40e4-9794-cc1335020b69",
-        "9f00b259-1748-4c43-bf93-e8304d8bfe52",
-        "8e5b1575-ede9-44c6-af5f-c8b751a3dd75",
-        "2a98dab7-d67a-4485-8ecb-91142cee9abb",
-        "aa7f0203-4013-4c8f-b7e3-d591d2d96638",
-        "cfbc107b-d03b-4225-b334-5a4a3aca55b6",
-        "bcc01eeb-9c52-4114-8c84-4f4100875c01",
-        "40fe9a25-9cce-4a3b-ab53-390e3343d21b",
-        "48744bfe-3817-418a-83e0-8f383b2bf1a0",
-        "5e90d506-f34b-437f-83ff-1e18b09c33ee",
-        "d746e6d8-8bcf-425a-a531-78a85c6f4676",
-        "eb934a9b-7543-46d9-b39f-dd692123298f",
-        "b0e96ce2-977e-4345-adba-9cf9f84c5a27",
-        "4ffa0891-2e2c-40f7-b78c-396b15a1f706",
-        "14138967-a7cf-468f-9250-1ae856a56603",
-        "cf7c7218-44e5-4b1a-9532-97544a829d18",
-        "e602b16e-e405-49b1-ad42-2e036a75e62d",
-        "127afd6f-fd35-4c7f-b564-62bced6d16fb",
-        "001df766-0d24-424f-9a34-4485d8e7ba4d",
-        "9979f39e-3446-4463-be54-0b4b5f94a064",
-        "63398e52-0db4-4060-bcd5-19f85b5c158e",
-        "ece4cf5e-51d0-436f-a688-4a6f6e9f7d02",
-        "ef075f44-9984-419c-87d1-91f2a22ddedb",
-        "95f753f5-25a1-4cbd-bc2d-e0c2e7f7f8b0",
-        "2f93b254-4fbd-4c6a-9e21-27238ce90799",
-        "fcdb6830-b0fd-45d2-bb10-a5a93759e550",
-        "a7dfb84d-0d65-4de1-b643-d9e263c38996",
-        "365bedeb-5586-4c04-aa23-391c3a1e419c",
-        "2137e5d6-a109-45c4-b5c1-7588b08043f1",
-        "a597822e-c4da-44b8-a6a8-c5a46fef4482",
-        "28950196-402e-4199-8edb-921e90430a21",
-        "9ac177bb-0714-4252-9911-0e7cdcd076fc",
-        "ee6bb36c-9c41-466a-bed6-8e28857d4768",
-        "567f30a4-5199-49e4-a074-231957e65eea",
-        "d712df7d-7da3-47e9-b1ec-ad960e48123f",
-        "f050fe4e-3868-46c3-bfcc-b0ee51e40ea0",
-        "998a0f06-dd81-4a6b-bdc4-86215976abf2"
-      ]
-    },
-    "releaseDate": "2013-01-01",
-    "songs": [
-      {
-        "id": "f1c77bbb-e989-444a-8b7f-0603d6cc468a",
-        "albumID": "1440819797",
-        "name": "Tuscan Leather",
-        "artist": "Drake"
-      },
-      {
-        "id": "ba81d1ec-c6de-46b3-94f9-04f7f2c0554a",
-        "albumID": "1440819797",
-        "name": "Furthest Thing",
-        "artist": "Drake"
-      },
-      {
-        "id": "7d18abd8-12e7-40c4-8d6e-7e0c9056ecc7",
-        "albumID": "1440819797",
-        "name": "Started From the Bottom",
-        "artist": "Drake"
-      },
-      {
-        "id": "bbd870a0-7c66-4e31-852d-d9c4025c85c3",
-        "albumID": "1440819797",
-        "name": "Wu-Tang Forever",
-        "artist": "Drake"
-      },
-      {
-        "id": "1f1ea67a-f3bc-4a79-b4bf-7014445a63db",
-        "albumID": "1440819797",
-        "name": "Own It",
-        "artist": "Drake"
-      },
-      {
-        "id": "40190d21-4a97-4522-aebb-cfe7aac1ed29",
-        "albumID": "1440819797",
-        "name": "Worst Behavior",
-        "artist": "Drake"
-      },
-      {
-        "id": "346c70b9-cb7a-4ef9-9c1b-13b6c0017297",
-        "albumID": "1440819797",
-        "name": "From Time (feat. Jhene Aiko)",
-        "artist": "Drake"
-      },
-      {
-        "id": "b0ba4c31-6853-45f5-a825-bbf9c08e59d7",
-        "albumID": "1440819797",
-        "name": "Hold On, We're Going Home (feat. Majid Jordan)",
-        "artist": "Drake"
-      },
-      {
-        "id": "3cc4ecfd-1bf4-4f1e-93e0-33b08fbedd35",
-        "albumID": "1440819797",
-        "name": "Connect",
-        "artist": "Drake"
-      },
-      {
-        "id": "fa41ef3f-e11a-4e83-a65e-d1e6dc96ef5c",
-        "albumID": "1440819797",
-        "name": "The Language",
-        "artist": "Drake"
-      },
-      {
-        "id": "8975dd5a-cbfa-40dc-945f-d71cf4506e99",
-        "albumID": "1440819797",
-        "name": "305 To My City (feat. Detail)",
-        "artist": "Drake"
-      },
-      {
-        "id": "7cc5d4ba-f97e-4663-98c2-b62d74b3ba94",
-        "albumID": "1440819797",
-        "name": "Too Much",
-        "artist": "Drake"
-      },
-      {
-        "id": "43eea14b-4e63-4512-b470-238d5fda754a",
-        "albumID": "1440819797",
-        "name": "Pound Cake / Paris Morton Music 2 (feat. JA\u0178-Z)",
-        "artist": "Drake"
-      },
-      {
-        "id": "295688c5-3e6c-44a8-8cdc-5a67d59e0cc2",
-        "albumID": "1440819797",
-        "name": "Come Thru",
-        "artist": "Drake"
-      },
-      {
-        "id": "042f40f4-7b21-422b-9d55-ddc974fc1a3d",
-        "albumID": "1440819797",
-        "name": "All Me (feat. 2 Chainz & Big Sean)",
-        "artist": "Drake"
-      }
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/e8/d1/60e8d144-2b8e-cbdc-9ff8-beaf9f4868b1/00602537542345.rgb.jpg/600x600bb.jpg",
-    "type": "Album",
-    "appleId": 1440819797
   },
   {
     "id": "74d3bf69-e9a7-4e36-988d-d8dab5507d54",
@@ -8002,7 +7591,7 @@
         "artist": "Mac Miller"
       }
     ],
-    "coverURL": "",
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/fd/22/31fd22c4-2d0d-1821-ea7d-00ed2520ceee/093624905967.jpg/600x600bb.jpg",
     "type": "Album",
     "discogsId": 15040115
   },
@@ -9233,19 +8822,6 @@
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/0c/4f/620c4f78-a6c2-ed81-d470-07d92ae24639/886445861853.jpg/600x600bb.jpg",
     "type": "Album",
     "appleId": 1102586015
-  },
-  {
-    "id": "f02baca3-3550-44a9-8cb9-efd929701360",
-    "title": "BEASTMODE 2",
-    "artist": {
-      "id": "e03b97c9-1bc1-4b4c-9edd-a6884a29d41a",
-      "name": "Future"
-    },
-    "releaseDate": "2018-07-06",
-    "songs": [],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/89/b0/94/89b094bd-34ea-84b1-5411-df6b3090a44d/886447204979.jpg/600x600bb.jpg",
-    "type": "Album",
-    "appleId": 1407068859
   },
   {
     "id": "7d153fc2-fc76-4c69-8aa1-882780084e8f",
@@ -17866,5 +17442,245 @@
     "type": "Album",
     "isDeluxe": false,
     "appleId": 1434345364
+  },
+  {
+    "id": "fcdb6830-b0fd-45d2-bb10-a5a93759e550",
+    "title": "Take Care",
+    "artist": {
+      "id": "d02429e6-0008-4197-b95d-9e7d99846fb5",
+      "name": "Drake"
+    },
+    "releaseDate": "2011-11-15",
+    "songs": [
+      {
+        "id": "7b61fdbb-1ac0-44f5-9993-ff0ff6697126",
+        "albumID": "1440745498",
+        "name": "Over My Dead Body",
+        "artist": "Drake"
+      },
+      {
+        "id": "39ea8eef-e73c-4a4e-a8e9-59735d697d9f",
+        "albumID": "1440745498",
+        "name": "Shot for Me",
+        "artist": "Drake"
+      },
+      {
+        "id": "c9241f33-5159-4e22-9e48-a489fe5f501d",
+        "albumID": "1440745498",
+        "name": "Headlines",
+        "artist": "Drake"
+      },
+      {
+        "id": "6daa6105-f57a-4483-a90e-1029b72ab26f",
+        "albumID": "1440745498",
+        "name": "Crew Love (feat. The Weeknd)",
+        "artist": "Drake"
+      },
+      {
+        "id": "c18ac9cf-2b8a-4d2c-ae02-b58df7067eb6",
+        "albumID": "1440745498",
+        "name": "Take Care (feat. Rihanna)",
+        "artist": "Drake"
+      },
+      {
+        "id": "687d4f29-2265-4b7e-ad8f-5e7543ef917f",
+        "albumID": "1440745498",
+        "name": "Marvin's Room",
+        "artist": "Drake"
+      },
+      {
+        "id": "25972cb4-8cec-475f-a05d-555ecdc0377e",
+        "albumID": "1440745498",
+        "name": "Buried Alive Interlude (feat. Kendrick Lamar)",
+        "artist": "Drake"
+      },
+      {
+        "id": "68c0ad21-a79d-4f25-95a8-df9fc70435c8",
+        "albumID": "1440745498",
+        "name": "Under Ground Kings",
+        "artist": "Drake"
+      },
+      {
+        "id": "6da31ad3-7c5b-466f-9ba4-ad5e6393bb0b",
+        "albumID": "1440745498",
+        "name": "We'll Be Fine (feat. Birdman)",
+        "artist": "Drake"
+      },
+      {
+        "id": "99d3a134-bfc6-4564-8a39-904db5f56ebf",
+        "albumID": "1440745498",
+        "name": "Make Me Proud (feat. Nicki Minaj)",
+        "artist": "Drake"
+      },
+      {
+        "id": "4f36442c-50a8-46ad-83e0-4ec1842a5b58",
+        "albumID": "1440745498",
+        "name": "Lord Knows (feat. Rick Ross)",
+        "artist": "Drake"
+      },
+      {
+        "id": "e0f35cd5-9d3a-437f-9d7b-adedd67dd2ef",
+        "albumID": "1440745498",
+        "name": "Cameras / Good Ones Go Interlude",
+        "artist": "Drake"
+      },
+      {
+        "id": "557683de-2d1a-4551-a39a-f1404b3bdb74",
+        "albumID": "1440745498",
+        "name": "Doing It Wrong",
+        "artist": "Drake"
+      },
+      {
+        "id": "ebda982a-76ef-41da-85c0-fb50ec706627",
+        "albumID": "1440745498",
+        "name": "The Real Her (feat. Lil Wayne & Andre 3000)",
+        "artist": "Drake"
+      },
+      {
+        "id": "85fd2557-9411-423b-897b-4d67e6ab65f9",
+        "albumID": "1440745498",
+        "name": "Look What You've Done",
+        "artist": "Drake"
+      },
+      {
+        "id": "b95ecb75-8324-4896-a278-ae288b1875c5",
+        "albumID": "1440745498",
+        "name": "HYFR (Hell Ya F***ing Right) [feat. Lil Wayne]",
+        "artist": "Drake"
+      },
+      {
+        "id": "97068b4d-1038-4c98-9526-2eece469a400",
+        "albumID": "1440745498",
+        "name": "Practice",
+        "artist": "Drake"
+      },
+      {
+        "id": "e9b3bcd1-f07b-4ce0-b00a-5b489e636142",
+        "albumID": "1440745498",
+        "name": "The Ride",
+        "artist": "Drake"
+      },
+      {
+        "id": "1571ff29-9c86-4e88-8dad-76d57a53d74d",
+        "albumID": "1440745498",
+        "name": "The Motto (Bonus Track) [feat. Lil Wayne]",
+        "artist": "Drake"
+      },
+      {
+        "id": "1e0e1857-f1d4-482a-be11-3ae1de65b9e6",
+        "albumID": "1440745498",
+        "name": "Hate Sleeping Alone (Bonus Track)",
+        "artist": "Drake"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/53/62/d2536245-b94c-b3fd-7168-9512f655f6d4/00602527899091.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": true,
+    "appleId": 1440745498
+  },
+  {
+    "id": "998a0f06-dd81-4a6b-bdc4-86215976abf2",
+    "title": "Nothing Was the Same",
+    "artist": {
+      "id": "d02429e6-0008-4197-b95d-9e7d99846fb5",
+      "name": "Drake"
+    },
+    "releaseDate": "2013-01-01",
+    "songs": [
+      {
+        "id": "2d188dff-d66c-4855-be18-bedea9f2364c",
+        "albumID": "1440819797",
+        "name": "Tuscan Leather",
+        "artist": "Drake"
+      },
+      {
+        "id": "2fd07442-5c85-4726-8ca1-e5a73b1414e6",
+        "albumID": "1440819797",
+        "name": "Furthest Thing",
+        "artist": "Drake"
+      },
+      {
+        "id": "477ef3c6-b46c-4c4a-9eaf-a5377b76df90",
+        "albumID": "1440819797",
+        "name": "Started From the Bottom",
+        "artist": "Drake"
+      },
+      {
+        "id": "4570eab4-168d-439c-a2d9-868b05eb788f",
+        "albumID": "1440819797",
+        "name": "Wu-Tang Forever",
+        "artist": "Drake"
+      },
+      {
+        "id": "0b658321-b411-438e-b615-84d363b79897",
+        "albumID": "1440819797",
+        "name": "Own It",
+        "artist": "Drake"
+      },
+      {
+        "id": "38f6585f-1d1b-43d4-acb4-aa725c2fea20",
+        "albumID": "1440819797",
+        "name": "Worst Behavior",
+        "artist": "Drake"
+      },
+      {
+        "id": "622888a6-7164-4469-a10b-a65d1eca5f4b",
+        "albumID": "1440819797",
+        "name": "From Time (feat. Jhene Aiko)",
+        "artist": "Drake"
+      },
+      {
+        "id": "917898ec-d464-48f6-8213-c53d114a47c6",
+        "albumID": "1440819797",
+        "name": "Hold On, We're Going Home (feat. Majid Jordan)",
+        "artist": "Drake"
+      },
+      {
+        "id": "d70a0235-ce2a-4ee3-8001-bf7a7cad6add",
+        "albumID": "1440819797",
+        "name": "Connect",
+        "artist": "Drake"
+      },
+      {
+        "id": "833aaa9b-b132-4d39-85a4-f0972f65d743",
+        "albumID": "1440819797",
+        "name": "The Language",
+        "artist": "Drake"
+      },
+      {
+        "id": "48098800-5276-490b-a849-590ea8a7067a",
+        "albumID": "1440819797",
+        "name": "305 To My City (feat. Detail)",
+        "artist": "Drake"
+      },
+      {
+        "id": "536cca36-7284-486b-bb92-d88acdf506ef",
+        "albumID": "1440819797",
+        "name": "Too Much",
+        "artist": "Drake"
+      },
+      {
+        "id": "3e77dcb4-46aa-497c-bd6f-b2723d50d59a",
+        "albumID": "1440819797",
+        "name": "Pound Cake / Paris Morton Music 2 (feat. JA\u0178-Z)",
+        "artist": "Drake"
+      },
+      {
+        "id": "77f7d623-6b5a-448b-9312-b8e30658e006",
+        "albumID": "1440819797",
+        "name": "Come Thru",
+        "artist": "Drake"
+      },
+      {
+        "id": "4bca11ab-1048-4f54-8683-6b8f57a0eca3",
+        "albumID": "1440819797",
+        "name": "All Me (feat. 2 Chainz & Big Sean)",
+        "artist": "Drake"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/60/e8/d1/60e8d144-2b8e-cbdc-9ff8-beaf9f4868b1/00602537542345.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": true,
+    "appleId": 1440819797
   }
 ]
