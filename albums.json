@@ -15480,59 +15480,59 @@
     "title": "Telefone",
     "artist": {
       "id": "3ac122a2-50ec-4a5e-85c2-4f9ae17540f7",
-      "name": "Noname (18)"
+      "name": "Noname"
     },
     "releaseDate": "2016-01-01",
     "songs": [
       {
         "id": "a09d2b8b-eb8b-48f1-8ada-f059647cedbd",
         "name": "Yesterday",
-        "artist": "Noname (18)"
+        "artist": "Noname"
       },
       {
         "id": "32605b2d-5e07-417f-9284-b0223de519c3",
         "name": "Sunny Duet",
-        "artist": "Noname (18)"
+        "artist": "Noname"
       },
       {
         "id": "c388ee78-c8e5-4add-a1c3-bd8d995240ef",
         "name": "Diddy Bop",
-        "artist": "Noname (18)"
+        "artist": "Noname"
       },
       {
         "id": "a55799e4-16df-4ba7-abdf-28194509eb9e",
         "name": "All I Need",
-        "artist": "Noname (18)"
+        "artist": "Noname"
       },
       {
         "id": "b74ffb29-3377-4b88-9031-93045e89a7bf",
         "name": "Reality Check",
-        "artist": "Noname (18)"
+        "artist": "Noname"
       },
       {
         "id": "0c0d8fa3-f5a2-4713-a38f-ba393e37859e",
         "name": "Freedom Interlude",
-        "artist": "Noname (18)"
+        "artist": "Noname"
       },
       {
         "id": "616c09e1-024e-4290-975d-bda00d68face",
         "name": "Casket Pretty",
-        "artist": "Noname (18)"
+        "artist": "Noname"
       },
       {
         "id": "1e46e5ef-c50c-4e96-85a4-29652b634bc9",
         "name": "Forever",
-        "artist": "Noname (18)"
+        "artist": "Noname"
       },
       {
         "id": "ed1e432d-833e-48c6-968b-296ba19ce789",
         "name": "Bye Bye Baby",
-        "artist": "Noname (18)"
+        "artist": "Noname"
       },
       {
         "id": "7e540e91-cc7d-4288-9958-f5d2ea5dd3a3",
         "name": "Shadow Man",
-        "artist": "Noname (18)"
+        "artist": "Noname"
       }
     ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5a/44/ae/5a44ae2c-3033-9723-82b1-3dbc1d422abd/859718078043.jpg/600x600bb.jpg",
@@ -27289,65 +27289,65 @@
     "id": "45b3bd50-8abb-4938-9502-381bb2e5f167",
     "title": "90059",
     "artist": {
-      "id": "eded7767-0288-424b-a072-816d313d3bdf",
-      "name": "Jay Rock (2)"
+        "id": "47bc62c0-f952-49fb-bc52-d90665fbce16",
+        "name": "Jay Rock"
     },
     "releaseDate": "2015-01-01",
     "songs": [
       {
         "id": "0040784e-b84a-4f70-b170-dc72cd53ebe2",
         "name": "Necessary",
-        "artist": "Jay Rock (2)"
+        "artist": "Jay Rock"
       },
       {
         "id": "40228fee-da89-4262-87a8-068c0ecd72ba",
         "name": "Easy Bake",
-        "artist": "Jay Rock (2)"
+        "artist": "Jay Rock"
       },
       {
         "id": "2496798d-db4b-48c5-affe-6f6b99abd0a1",
         "name": "Gumbo",
-        "artist": "Jay Rock (2)"
+        "artist": "Jay Rock"
       },
       {
         "id": "dc14a3d2-cdd4-42e5-b6f6-2995f041ea0e",
         "name": "Wanna Ride",
-        "artist": "Jay Rock (2)"
+        "artist": "Jay Rock"
       },
       {
         "id": "3ec02fdd-d7db-4f3f-98e1-7351a62de3b3",
         "name": "The Ways",
-        "artist": "Jay Rock (2)"
+        "artist": "Jay Rock"
       },
       {
         "id": "b648347e-a2cf-461e-bb15-33f133c86ba8",
         "name": "Telegram (Going Krazy)",
-        "artist": "Jay Rock (2)"
+        "artist": "Jay Rock"
       },
       {
         "id": "afecfbf4-1774-4ccb-9008-3d5d2dd4cd76",
         "name": "90059",
-        "artist": "Jay Rock (2)"
+        "artist": "Jay Rock"
       },
       {
         "id": "9e1c489a-5ca9-4357-bfec-0159efafe568",
         "name": "Vice City",
-        "artist": "Jay Rock (2)"
+        "artist": "Jay Rock"
       },
       {
         "id": "88b64cc0-d2db-47cd-b680-5bf069eb2034",
         "name": "Fly On The Wall",
-        "artist": "Jay Rock (2)"
+        "artist": "Jay Rock"
       },
       {
         "id": "6e751b1d-5318-42fa-a42d-7c8268f5ccdf",
         "name": "Money Trees Deuce",
-        "artist": "Jay Rock (2)"
+        "artist": "Jay Rock"
       },
       {
         "id": "f666fb26-f766-4b70-9b96-89f2a763f931",
         "name": "The Message",
-        "artist": "Jay Rock (2)"
+        "artist": "Jay Rock"
       }
     ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/d4/f8/b1d4f882-498c-dfdd-b0c9-1ae511eea612/859715405439_cover.jpg/600x600bb.jpg",
