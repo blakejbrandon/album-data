@@ -11102,218 +11102,6 @@
     "appleId": 1159124766
   },
   {
-    "id": "55c87b32-1bb4-4674-9634-170b9652ad59",
-    "title": "Tha Carter V (Deluxe)",
-    "artist": {
-      "id": "21d42fa2-1bba-4f31-ae6e-11a92c7ff3cf",
-      "name": "Lil Wayne"
-    },
-    "releaseDate": "2018-09-27",
-    "songs": [
-      {
-        "id": "d2eb88f9-a9db-4701-ae7a-81e220f7c1ba",
-        "albumID": "1532439763",
-        "name": "Life of Mr. Carter",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "dba5d47a-1911-4cf3-839a-3ccdf65be386",
-        "albumID": "1532439763",
-        "name": "Holy",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "0e5a6550-1fbd-43af-b331-c62b42fe853f",
-        "albumID": "1532439763",
-        "name": "More to the Story (feat. Raekwon)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "05c08045-efa1-43ae-a037-7f590ad0929f",
-        "albumID": "1532439763",
-        "name": "Scottie",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "868ff39c-e174-4ea2-b959-76f385928935",
-        "albumID": "1532439763",
-        "name": "F Him Good",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "e257b943-f657-476f-862a-39b53a5172e1",
-        "albumID": "1532439763",
-        "name": "Siri (feat. 2 Chainz)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "97569d95-40d5-462d-bc93-42ec337e5d77",
-        "albumID": "1532439763",
-        "name": "Lost",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "6ee7915f-4e59-4d25-b479-6b1b1366270d",
-        "albumID": "1532439763",
-        "name": "In This House (feat. Gucci Mane)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "eaca9f2a-d998-4177-b152-c6f511cd3bbc",
-        "albumID": "1532439763",
-        "name": "What About Me (feat. Post Malone)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "4726a844-658e-45e5-be03-0f9013714c4f",
-        "albumID": "1532439763",
-        "name": "Hasta La Vista",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "d8e1abeb-b2bf-4213-959e-f327cc11dff4",
-        "albumID": "1532439763",
-        "name": "I Love You Dwayne",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "bd3a283a-a76d-45cb-b586-a22e45947863",
-        "albumID": "1532439763",
-        "name": "Don't Cry (feat. XXXTENTACION)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "67dd5812-f406-4e95-8dd1-b921a49dd662",
-        "albumID": "1532439763",
-        "name": "Dedicate",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "9a747de1-675e-4e04-9833-c80d77fafc9a",
-        "albumID": "1532439763",
-        "name": "Uproar (feat. Swizz Beatz)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "46ae951a-8dbc-41f8-813e-e96e255b897a",
-        "albumID": "1532439763",
-        "name": "Let It Fly (feat. Travis Scott)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "52132c94-9b52-4e1b-a65a-ea8eba2ed4db",
-        "albumID": "1532439763",
-        "name": "Can't Be Broken",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "f8527929-ba40-48af-8288-9dfd44163d13",
-        "albumID": "1532439763",
-        "name": "Dark Side of the Moon (feat. Nicki Minaj)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "3baf0b06-4898-4fd2-bbe7-2490f31a56aa",
-        "albumID": "1532439763",
-        "name": "Mona Lisa (feat. Kendrick Lamar)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "74527ec3-b881-479f-8ea4-b7a95faff6c5",
-        "albumID": "1532439763",
-        "name": "What About Me (feat. Sosamann)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "16c877a4-ac9d-42ac-a3b8-e27e8dda63a5",
-        "albumID": "1532439763",
-        "name": "Open Letter",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "0042dd60-54c2-48dd-b2be-13a3d1af29e5",
-        "albumID": "1532439763",
-        "name": "Famous (feat. Reginae Carter)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "377c6184-1e14-4b91-9d3b-54e10b9147e3",
-        "albumID": "1532439763",
-        "name": "Problems",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "45d93287-a28a-47a9-abfa-872a6b0f8003",
-        "albumID": "1532439763",
-        "name": "Dope N****z (feat. Snoop Dogg)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "4fc70e86-971f-4b8b-a68d-39ea2108aa6d",
-        "albumID": "1532439763",
-        "name": "Hittas",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "5cd86c84-4560-4f0d-acca-34ca097e8f0f",
-        "albumID": "1532439763",
-        "name": "Took His Time",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "d9a7f512-c18f-4205-8c16-d44a6fb033b5",
-        "albumID": "1532439763",
-        "name": "Open Safe",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "ee78d9be-4baf-48fa-8661-c4988c4a1fd5",
-        "albumID": "1532439763",
-        "name": "Start This Shit Off Right (feat. Ashanti & Mack Maine)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "76b0d21b-9590-4e0b-8c54-8abd196c8114",
-        "albumID": "1532439763",
-        "name": "Demon",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "44fbc6f9-e01c-471e-aa6e-eb25a9425bf1",
-        "albumID": "1532439763",
-        "name": "Mess",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "31ad2c9a-b0f8-4108-9b28-a3d0a170a8a8",
-        "albumID": "1532439763",
-        "name": "Dope New Gospel (feat. Nivea)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "e25b75cc-68f0-476a-b4ad-46c19aacb0bf",
-        "albumID": "1532439763",
-        "name": "Perfect Strangers",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "d2991887-4a59-4854-b577-0775c8ad1bc4",
-        "albumID": "1532439763",
-        "name": "Used 2",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "032b5e8b-9a9b-4d82-bbf3-9614f3e24853",
-        "albumID": "1532439763",
-        "name": "Let It All Work Out",
-        "artist": "Lil Wayne"
-      }
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/63/9f/2b639f6c-3b9d-f5e6-1ea7-0799ad3c5ff0/20UMGIM81628.rgb.jpg/600x600bb.jpg",
-    "type": "Album",
-    "appleId": 1532439763
-  },
-  {
     "id": "b8036fb3-97ff-44d8-9794-6906161d36da",
     "title": "Tha Carter II",
     "artist": {
@@ -11878,122 +11666,6 @@
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/09/36/7b/09367b9e-203e-acc3-397a-b38cc9b6da0d/23UM1IM30776.rgb.jpg/600x600bb.jpg",
     "type": "Album",
     "appleId": 1712758578
-  },
-  {
-    "id": "b92b6a07-9631-41fe-8a4d-d8dcf9ba8db0",
-    "title": "I Am Not a Human Being II (Deluxe Version)",
-    "artist": {
-      "id": "21d42fa2-1bba-4f31-ae6e-11a92c7ff3cf",
-      "name": "Lil Wayne"
-    },
-    "releaseDate": "2013-01-01",
-    "songs": [
-      {
-        "id": "5eb1cbfe-dfd7-459d-81f6-085a5ba8eddf",
-        "albumID": "1444110607",
-        "name": "Ianahb",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "6dce635d-9022-4c8f-8426-395e31290573",
-        "albumID": "1444110607",
-        "name": "Curtains (feat. Boo)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "a5c6b21a-12b9-406e-9d76-335429c4088b",
-        "albumID": "1444110607",
-        "name": "Days and Days (feat. 2 Chainz)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "2e45b726-a1ac-4617-9cb0-2ee9f49cec19",
-        "albumID": "1444110607",
-        "name": "Gunwalk (feat. Gudda Gudda)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "849d4ec7-6b29-435a-9285-f70c873ee604",
-        "albumID": "1444110607",
-        "name": "No Worries (feat. Detail)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "a04d92ee-213b-427f-a067-572b0d7a799c",
-        "albumID": "1444110607",
-        "name": "Back to You",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "faccdc38-2bd4-4ce9-ac6d-2b59097ef220",
-        "albumID": "1444110607",
-        "name": "Trigger Finger (feat. Soulja Boy)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "dd8bfad3-b16b-482a-9cf2-233342aa9d9a",
-        "albumID": "1444110607",
-        "name": "Beat the S*** (feat. Gunplay)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "2141c9b6-5d6a-4bf9-b831-abe3a82855f6",
-        "albumID": "1444110607",
-        "name": "Rich As F*** (feat. 2 Chainz)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "f2d57f36-8766-4d08-8a34-895fbb4f3d51",
-        "albumID": "1444110607",
-        "name": "Trippy (feat. Juicy J)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "286507bd-f667-460e-a6cc-547024fce1bc",
-        "albumID": "1444110607",
-        "name": "Love Me (feat. Drake & Future)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "fcbfb579-fffd-4a42-a05d-a9e3dac9bc0a",
-        "albumID": "1444110607",
-        "name": "God Bless Amerika",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "2972303a-a0eb-45c6-ad30-62852c5f2e1d",
-        "albumID": "1444110607",
-        "name": "Wowzerz (feat. Trina)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "b0e05054-4aaf-413d-ab8d-bbca72b43493",
-        "albumID": "1444110607",
-        "name": "Hello (feat. Shane Heyl)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "06f5dc83-f3a8-4443-bbc3-230c946eec54",
-        "albumID": "1444110607",
-        "name": "Lay It Down (feat. Nicki Minaj & Corey Gunz)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "fef361c9-fb11-440e-b21f-be7fa4c86913",
-        "albumID": "1444110607",
-        "name": "Hot Revolver (feat. Dre)",
-        "artist": "Lil Wayne"
-      },
-      {
-        "id": "a517df8d-0066-443c-a6c0-df1431753e4b",
-        "albumID": "1444110607",
-        "name": "My Homies Still (feat. Big Sean)",
-        "artist": "Lil Wayne"
-      }
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ee/a9/57/eea95772-8133-9dfc-0dbb-4c0b0382520d/13UMGIM25909.rgb.jpg/600x600bb.jpg",
-    "type": "Album",
-    "appleId": 1444110607
   },
   {
     "id": "0e8babf4-8754-4fae-bd50-87626e5bd443",
@@ -17682,5 +17354,5508 @@
     "type": "Album",
     "isDeluxe": true,
     "appleId": 1440819797
+  },
+  {
+    "id": "ec253ff4-a437-4527-a3e6-afa47ca01ae7",
+    "title": "House Of Balloons",
+    "artist": {
+      "id": "6a67bcb1-eee0-4bfb-b53b-dc2433922507",
+      "name": "The Weeknd"
+    },
+    "releaseDate": "2011-01-01",
+    "songs": [
+      {
+        "id": "1bcc6578-72a3-46b3-a34b-f23ce8e50135",
+        "name": "High For This",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "60e55f47-b15f-4a27-9ef9-3bf971cfc60c",
+        "name": "What You Need",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "8d1d057e-9bc6-4f89-ac60-70cd9f2ed745",
+        "name": "House Of Balloons / Glass Table Girls",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "04fa9f3a-8a1b-4f05-b54f-a44efb771d6c",
+        "name": "The Morning",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "fba3d54f-9e89-4a08-ab19-a68db34943c8",
+        "name": "Wicked Games",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "4e4908c3-cf0b-4289-9ff5-f055f51fcfed",
+        "name": "The Party & The After Party",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "ccbc9943-6a83-4283-852d-5572e9e80bbf",
+        "name": "Coming Down",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "533dc8a7-d5cc-4ffe-a3eb-bb92e68f21e5",
+        "name": "Loft Music",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "d68211b5-a5ff-4397-a9c5-d8cbce955f2d",
+        "name": "The Knowing",
+        "artist": "The Weeknd"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/31/18/fa/3118fab0-90ea-2ae5-cf6c-bc64054ab9e3/21UMGIM21449.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 2781770
+  },
+  {
+    "id": "016c699b-08f1-4fc9-be57-53cd892e174a",
+    "title": "Echoes Of Silence",
+    "artist": {
+      "id": "6a67bcb1-eee0-4bfb-b53b-dc2433922507",
+      "name": "The Weeknd"
+    },
+    "releaseDate": "2011-01-01",
+    "songs": [
+      {
+        "id": "64972d2b-ff5e-4fd6-ad17-3d3edcb00cb6",
+        "name": "D.D.",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "bda80c19-5768-431a-b221-54ac2120bb41",
+        "name": "Montreal",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "2435b850-c486-440b-81c2-b2be0b3609f7",
+        "name": "Outside",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "de10bcda-c176-418e-ae02-a658f8c41f74",
+        "name": "XO / The Host",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "dcec5973-ce52-48f9-8413-10d40c1da702",
+        "name": "Initiation",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "e9275738-39f8-42e0-9178-063b7e36e6be",
+        "name": "Same Old Song",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "1890f2ab-f5a5-4d25-ac59-0f58c376b4b5",
+        "name": "The Fall",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "0a5c2d27-0f09-4160-a3ae-35e408354e2f",
+        "name": "Next",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "f5d13960-d412-4210-8a5f-75a8a3d81bf0",
+        "name": "Echoes Of Silence",
+        "artist": "The Weeknd"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/57/34/ec573456-7d5a-4a48-018c-2b252ec2d825/21UM1IM44288.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 3297621
+  },
+  {
+    "id": "75143a84-354c-463e-a087-d6c2091e9c4b",
+    "title": "Thursday",
+    "artist": {
+      "id": "6a67bcb1-eee0-4bfb-b53b-dc2433922507",
+      "name": "The Weeknd"
+    },
+    "releaseDate": "2011-01-01",
+    "songs": [
+      {
+        "id": "c0690c82-dd8d-440c-b383-a92c3b4013c7",
+        "name": "Lonely Star",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "ee841883-be6a-4f27-80f7-907221278d4a",
+        "name": "Life Of The Party",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "56711377-892c-4925-b0b3-a4e4f6d467b5",
+        "name": "Thursday",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "22594cfc-9306-411e-84ae-5c17431ac43e",
+        "name": "The Zone",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "197e5625-feb2-4a5e-ac8d-89a13d3c07f2",
+        "name": "The Birds Part 1",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "cbfeaf01-fcaa-4d4e-ba83-ebdfd839b6ff",
+        "name": "The Birds Part 2",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "621a3263-6ad3-4d5e-9f54-a34b037bdd9a",
+        "name": "Gone",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "b3bee4d4-b030-4eb8-a4f9-da8a3b578146",
+        "name": "Rolling Stone",
+        "artist": "The Weeknd"
+      },
+      {
+        "id": "f7e7cf96-2c30-494c-a4f3-e776fc9ead32",
+        "name": "Heaven Or Las Vegas",
+        "artist": "The Weeknd"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/42/e0/1a/42e01a95-6558-37d5-8527-bcce7072279e/21UMGIM61407.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 3060073
+  },
+  {
+    "id": "75173c35-e1f3-4ed8-80cf-48f7d029b725",
+    "title": "Set In Stone",
+    "artist": {
+      "id": "bd4dc13d-ea12-48e5-80f4-d2e0b68d0fd3",
+      "name": "Rick Ross"
+    },
+    "releaseDate": "2026-07-16",
+    "songs": [
+      {
+        "id": "a7ea8ee1-ebba-4ae7-a5c4-3c7289a0320c",
+        "albumID": "6791726183",
+        "name": "Caviar Bumps",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "66d6f590-fbd6-4066-81a5-ef8704b8636d",
+        "albumID": "6791726183",
+        "name": "Mahogany Caskets (feat. T.I.)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "eb19f00a-a9a3-416b-8b4e-1419fe33b6a2",
+        "albumID": "6791726183",
+        "name": "Minks In Miami",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "4082e2ec-2c19-4110-b04b-82601e4d43bb",
+        "albumID": "6791726183",
+        "name": "Face Down",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "63604dc0-5b5e-4bfa-b8ce-5e64177effde",
+        "albumID": "6791726183",
+        "name": "Ring Around The Rolls",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "a435884c-055b-49a7-9d55-683f0d564b79",
+        "albumID": "6791726183",
+        "name": "Camel Meat",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "e7458eb0-8364-41b3-9140-90a9a3aaa03c",
+        "albumID": "6791726183",
+        "name": "Maybach Music VII (feat. Don Toliver)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "a0e67e69-8ad1-420e-ab54-23db95e0dbcd",
+        "albumID": "6791726183",
+        "name": "Living Large (feat. BigXthaPlug)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "846d6a10-f9d9-48be-a4e9-a2ffdba21b31",
+        "albumID": "6791726183",
+        "name": "Purple Fentanyl",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "e09d86f1-4a8e-4691-a24c-75a660ff773c",
+        "albumID": "6791726183",
+        "name": "#23",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "80417518-15dc-44c7-baeb-4eacd2e661c5",
+        "albumID": "6791726183",
+        "name": "Porsche GT3 - RS",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "14108e2c-33ee-4aed-9083-e73485ee0fef",
+        "albumID": "6791726183",
+        "name": "City Lights (feat. THE-DREAM)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "08f864c0-dce8-456c-b0c6-51897e6b4b12",
+        "albumID": "6791726183",
+        "name": "Chain of Command",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "0d086117-3ba5-4d1b-ad56-68f3ac6bfafe",
+        "albumID": "6791726183",
+        "name": "Remarkable Hussle",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "514c5fc8-9c9d-499c-8bed-c3f981d0ed00",
+        "albumID": "6791726183",
+        "name": "Big Fish",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "611eb751-55cf-4829-8830-04b909491846",
+        "albumID": "6791726183",
+        "name": "Diamonds Never Die",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "490f7367-a78e-4a17-9007-2a1870ac5406",
+        "albumID": "6791726183",
+        "name": "She's My Star (feat. Yung Miami)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "e2986cde-4093-4f23-80ff-8686dd224087",
+        "albumID": "6791726183",
+        "name": "Do It One Time",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "bf8d1fee-a916-4b92-8a1b-ea570fab1c3a",
+        "albumID": "6791726183",
+        "name": "The Algorithm",
+        "artist": "Rick Ross"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/9b/d5/009bd570-edb3-9f1a-76ba-3b33858fef37/712132082228_cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 6791726183
+  },
+  {
+    "id": "5a7bfb1a-df01-4335-b2a8-eddb4a780629",
+    "title": "Rather You Than Me",
+    "artist": {
+      "id": "bd4dc13d-ea12-48e5-80f4-d2e0b68d0fd3",
+      "name": "Rick Ross"
+    },
+    "releaseDate": "2017-03-17",
+    "songs": [
+      {
+        "id": "9962d9e5-dda0-4638-927d-0d0ea52c7147",
+        "albumID": "1213155219",
+        "name": "Apple of My Eye (feat. Raphael Saadiq)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "107b32d3-8e8c-4540-8e05-d5876ad23a0f",
+        "albumID": "1213155219",
+        "name": "Santorini Greece",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "927f7b21-056f-4654-b7af-b583f298be10",
+        "albumID": "1213155219",
+        "name": "Idols Become Rivals (feat. Chris Rock)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "b130612f-0546-458c-adf9-461b61c86a50",
+        "albumID": "1213155219",
+        "name": "Trap Trap Trap (feat. Young Thug & Wale)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "95b7354f-f52f-4597-a1d0-876f2588630a",
+        "albumID": "1213155219",
+        "name": "Dead Presidents (feat. Future, Jeezy & Yo Gotti)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "e8fdd5c5-e3bd-4681-8776-913f3b3bba1c",
+        "albumID": "1213155219",
+        "name": "She on My D*ck (feat. Gucci Mane)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "bc9f38c5-e0fe-46da-8c3b-e6557c584bbf",
+        "albumID": "1213155219",
+        "name": "I Think She Like Me (feat. Ty Dolla $ign)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "9bdb3130-79b5-4fdf-b60a-cb1742a5df80",
+        "albumID": "1213155219",
+        "name": "Powers That Be (feat. Nas)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "ad313b46-f79a-4860-961a-1b253f4d5785",
+        "albumID": "1213155219",
+        "name": "Game Ain't Based on Sympathy",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "b86b34d3-8d67-4a02-ba25-447f3384c07d",
+        "albumID": "1213155219",
+        "name": "Scientology",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "b844cbb0-01ea-44e7-bed3-919a4a3fb483",
+        "albumID": "1213155219",
+        "name": "Lamborghini Doors (feat. Meek Mill & Anthony Hamilton)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "531085c7-d6a5-441c-b498-41c9fb4f9eea",
+        "albumID": "1213155219",
+        "name": "Triple Platinum (feat. Scrilla)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "83d2b463-2c15-44f4-ac4d-b55b35aacae1",
+        "albumID": "1213155219",
+        "name": "Maybach Music V (feat. DeJ Loaf)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "f789cad4-1837-4e0c-87c6-b168d0ce843e",
+        "albumID": "1213155219",
+        "name": "Summer Seventeen (feat. Yo Gotti)",
+        "artist": "Rick Ross"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/72/3d/df723dfa-5988-fcc9-da96-8098f220ab27/886446373201.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1213155219
+  },
+  {
+    "id": "c436eece-30a2-4945-bdaf-cc5ff57f47f8",
+    "title": "Port of Miami 2",
+    "artist": {
+      "id": "bd4dc13d-ea12-48e5-80f4-d2e0b68d0fd3",
+      "name": "Rick Ross"
+    },
+    "releaseDate": "2019-08-09",
+    "songs": [
+      {
+        "id": "6874f82d-c0a7-46fe-9bc5-1eda1ea87153",
+        "albumID": "1475711913",
+        "name": "Act a Fool (feat. Wale)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "3b65431e-827d-44d5-a294-204ff682b745",
+        "albumID": "1475711913",
+        "name": "Turnpike Ike",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "d02bbc4d-98aa-43e7-8273-e1a156aacb63",
+        "albumID": "1475711913",
+        "name": "Nobody's Favorite (feat. Gunplay)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "2e77d932-ad8e-446e-8917-5fc2714cbeb4",
+        "albumID": "1475711913",
+        "name": "Summer Reign (feat. Summer Walker)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "93397a99-e5c0-4338-afc6-794693879e6d",
+        "albumID": "1475711913",
+        "name": "White Lines (feat. DeJ Loaf)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "5cda7a51-ba82-49a3-a8d0-ca835f7654b0",
+        "albumID": "1475711913",
+        "name": "BIG TYME (feat. Swizz Beatz)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "6efad4af-8042-43d0-bed0-d16986490356",
+        "albumID": "1475711913",
+        "name": "Bogus Charms (feat. Meek Mill)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "adcf9fc8-e5bf-4071-b2b2-ceaa3f53ca4d",
+        "albumID": "1475711913",
+        "name": "Rich N***a Lifestyle (feat. Nipsey Hussle & Teyana Taylor)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "7f582d35-d0d6-4586-b1fc-0d8edc52b72e",
+        "albumID": "1475711913",
+        "name": "Born to Kill (feat. Jeezy)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "0614025f-2d1f-4736-923e-1cd47cbb64df",
+        "albumID": "1475711913",
+        "name": "Fascinated",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "5b96562e-c28f-4f3f-b9e6-3badf731cd3c",
+        "albumID": "1475711913",
+        "name": "I Still Pray (feat. YFN Lucci & Ball Greezy)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "2e5e3970-f78f-423e-85b1-b426a0415782",
+        "albumID": "1475711913",
+        "name": "Running the Streets (feat. A Boogie wit da Hoodie & Denzel Curry)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "1d3ebf0c-5e64-4997-a984-9074e41e9b40",
+        "albumID": "1475711913",
+        "name": "Vegas Residency",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "28e6fa6e-c358-4d29-8864-b956f7b33ea0",
+        "albumID": "1475711913",
+        "name": "Maybach Music VI (feat. John Legend & Lil Wayne)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "01d3bf3a-e3d7-465b-8035-d6924e9e73a4",
+        "albumID": "1475711913",
+        "name": "Gold Roses (feat. Drake)",
+        "artist": "Rick Ross"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0d/b2/56/0db25651-6820-fcee-5b68-cdc9da2aea79/886446874296.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1475711913
+  },
+  {
+    "id": "b3e24ebb-4b0a-4966-b4d6-8c1f143b4621",
+    "title": "God Forgives, I Don't",
+    "artist": {
+      "id": "bd4dc13d-ea12-48e5-80f4-d2e0b68d0fd3",
+      "name": "Rick Ross"
+    },
+    "releaseDate": "2012-01-01",
+    "songs": [
+      {
+        "id": "a7148204-b9e9-4ddd-89d2-0319bc72e438",
+        "albumID": "1443632342",
+        "name": "Pray for Us",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "74d6a8c7-ef29-45d0-b150-406bda0b63c1",
+        "albumID": "1443632342",
+        "name": "Pirates",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "544bac58-e38f-470b-81aa-f6c91d42b5aa",
+        "albumID": "1443632342",
+        "name": "3 Kings (feat. Dr. Dre & JA\u0178-Z)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "b6703241-3fd8-46ff-ae97-a9a104f8ff57",
+        "albumID": "1443632342",
+        "name": "Ashamed",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "781e2363-49dc-4ed5-9c31-c2c2c4007357",
+        "albumID": "1443632342",
+        "name": "Maybach Music IV (feat. Ne-Yo)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "7777ef4c-ee0f-4b17-bfde-389103402a60",
+        "albumID": "1443632342",
+        "name": "Sixteen (feat. Andr\u00e9 3000)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "91f3bd7b-de2b-40a5-84e0-3786d3418467",
+        "albumID": "1443632342",
+        "name": "Amsterdam",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "b46c4537-efc4-431c-9c59-910dc0a6580b",
+        "albumID": "1443632342",
+        "name": "Hold Me Back",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "6831eb8b-4588-4983-9568-52828e2d4186",
+        "albumID": "1443632342",
+        "name": "911",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "a6f9eb81-b70c-4b7c-9d2c-0456c3fc29aa",
+        "albumID": "1443632342",
+        "name": "So Sophisticated (feat. Meek Mill)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "7895031f-6b1c-47cd-b6d9-e23256f69822",
+        "albumID": "1443632342",
+        "name": "Presidential (feat. Elijah Blake)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "075c1586-079e-406a-b32a-131de33a9f67",
+        "albumID": "1443632342",
+        "name": "Ice Cold (feat. Omarion)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "41dc7cf7-7fa5-40f4-b2b4-c2820fefba83",
+        "albumID": "1443632342",
+        "name": "Touch'n You (feat. Usher)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "adf7b50e-35a1-429e-bcd5-9e9c0f264857",
+        "albumID": "1443632342",
+        "name": "Diced Pineapples (feat. Wale, Drake)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "e7da6033-cf2a-4c32-9e0f-40e3b5e8fd6b",
+        "albumID": "1443632342",
+        "name": "Ten Jesus Pieces (feat. Stalley)",
+        "artist": "Rick Ross"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/cd/c5/1ecdc578-3780-7da1-8f58-54d06dc9ca74/12UMGIM38068.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1443632342
+  },
+  {
+    "id": "b52847d7-c4fb-498b-9666-26e1d0780249",
+    "title": "Mastermind",
+    "artist": {
+      "id": "bd4dc13d-ea12-48e5-80f4-d2e0b68d0fd3",
+      "name": "Rick Ross"
+    },
+    "releaseDate": "2014-01-01",
+    "songs": [
+      {
+        "id": "019f375d-b287-4a7e-9c32-d5044eb6e590",
+        "albumID": "1442452082",
+        "name": "Intro",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "216096d9-1b56-41d7-92e8-5ac1c22b26c6",
+        "albumID": "1442452082",
+        "name": "Rich Is Gangsta",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "ac52a8eb-f56f-4b0d-943d-168135974258",
+        "albumID": "1442452082",
+        "name": "Drug Dealers Dream",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "298fddfc-b4d7-44a2-a24d-719c370e20e0",
+        "albumID": "1442452082",
+        "name": "Shots Fired",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "1143757a-8229-4978-b785-824f77d8bb34",
+        "albumID": "1442452082",
+        "name": "Nobody (feat. French Montana)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "d9c0ba50-5a5d-4242-b710-eac213ced281",
+        "albumID": "1442452082",
+        "name": "The Devil Is a Lie (feat. JA\u0178-Z)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "2253078e-74e8-427c-9eae-f9c3eb039001",
+        "albumID": "1442452082",
+        "name": "Mafia Music III (feat. Sizzla & Mavado)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "1e8acc02-c889-430b-bd9e-bd08f24b427e",
+        "albumID": "1442452082",
+        "name": "War Ready (feat. Jeezy)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "b401491a-7b32-40b4-8164-5fcdb04c6023",
+        "albumID": "1442452082",
+        "name": "What a Shame (feat. French Montana)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "b07b7d50-dc68-4f21-9554-810e9e9f3ab7",
+        "albumID": "1442452082",
+        "name": "Supreme",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "0145e2ef-d17e-4e47-96cd-59d0193ed400",
+        "albumID": "1442452082",
+        "name": "Blk & Wht",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "cbe01af3-d223-4d2c-ba93-27aea05cb788",
+        "albumID": "1442452082",
+        "name": "Dope B*tch Skit",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "77d78e08-a925-42bb-b2a1-4be6827a0684",
+        "albumID": "1442452082",
+        "name": "In Vein (feat. The Weeknd)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "f5436937-a093-41b3-a4e7-4399f8a8999f",
+        "albumID": "1442452082",
+        "name": "Sanctified (feat. Kanye West & Big Sean)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "2e323a6a-33a1-4647-a1c3-11485d635f6e",
+        "albumID": "1442452082",
+        "name": "Walkin' On Air (feat. Meek Mill)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "1b073caa-197f-4243-9aaf-db5b0b5e45bb",
+        "albumID": "1442452082",
+        "name": "Thug Cry (feat. Lil Wayne)",
+        "artist": "Rick Ross"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/36/6a/dd/366add9b-f8ac-eee1-e66f-f76917696410/14UMGIM04888.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1442452082
+  },
+  {
+    "id": "e2d51633-ecce-4ab3-bf2c-b39898e6bf68",
+    "title": "Deeper Than Rap (Bonus Track Version)",
+    "artist": {
+      "id": "bd4dc13d-ea12-48e5-80f4-d2e0b68d0fd3",
+      "name": "Rick Ross"
+    },
+    "releaseDate": "2009-01-01",
+    "songs": [
+      {
+        "id": "15e6cdf7-25b9-4586-8ce2-7c6e257fe1ad",
+        "albumID": "1445884205",
+        "name": "Mafia Music",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "4bd21e25-7b7e-4dec-8cc2-2c402a7b76c9",
+        "albumID": "1445884205",
+        "name": "Maybach Music 2 (feat. Kanye West, T-Pain & Lil Wayne)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "dfa136f4-9320-46b8-855f-a83c2950bad9",
+        "albumID": "1445884205",
+        "name": "Magnificent (feat. John Legend)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "23259db9-800c-4d6d-9658-a2e01d1eb17a",
+        "albumID": "1445884205",
+        "name": "Yacht Club (feat. Magazeen)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "58a3a34c-247b-4ded-a734-2f07be615da1",
+        "albumID": "1445884205",
+        "name": "Usual Suspects (feat. Nas)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "f7ad715f-2471-4b0f-9b11-c0bd00b9319a",
+        "albumID": "1445884205",
+        "name": "All I Really Want (feat. The-Dream)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "d4434ed3-12fb-4279-b04d-02fb04ef8b55",
+        "albumID": "1445884205",
+        "name": "Rich Off Cocaine",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "d86545bb-668e-4c9c-8095-4121c755e9fb",
+        "albumID": "1445884205",
+        "name": "Lay Back (feat. Robin Thicke)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "62031b8b-1039-4177-90a6-752b8ae4703b",
+        "albumID": "1445884205",
+        "name": "Murder Mami (feat. Foxy Brown)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "3bb8247b-5840-49a4-b4bf-90472e9a4645",
+        "albumID": "1445884205",
+        "name": "Gunplay (feat. Gunplay)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "f7e2bea5-8288-48a2-9645-975ac28daefa",
+        "albumID": "1445884205",
+        "name": "Bossy Lady (feat. Ne-Yo)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "da57e507-334f-43c3-98bc-eb829d450e81",
+        "albumID": "1445884205",
+        "name": "Face (feat. Trina)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "a7f70753-309f-4a1a-8d06-e0b9016b5c4e",
+        "albumID": "1445884205",
+        "name": "Valley of Death",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "4723467f-fd20-4d21-a62e-2f7788ef1adf",
+        "albumID": "1445884205",
+        "name": "In Cold Blood",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "d38c6827-7eac-4794-a8f6-8d0499ee18a3",
+        "albumID": "1445884205",
+        "name": "Cigar Music (feat. Masspike Miles) [Bonus Track]",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "8eba9660-c6a4-4aef-9007-91cb96aed77b",
+        "albumID": "1445884205",
+        "name": "Mafia Music",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "7f6db8e7-b5b1-4240-9e74-91a01c668172",
+        "albumID": "1445884205",
+        "name": "Magnificent (feat. John Legend)",
+        "artist": "Rick Ross"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/08/a9/fe/08a9fe55-88fd-081f-56a8-32cf9819bb96/09UMGIM05905.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1445884205
+  },
+  {
+    "id": "7fe8b97a-3c92-4a8d-985e-d7c2fbbc8e53",
+    "title": "Teflon Don",
+    "artist": {
+      "id": "bd4dc13d-ea12-48e5-80f4-d2e0b68d0fd3",
+      "name": "Rick Ross"
+    },
+    "releaseDate": "2010-01-01",
+    "songs": [
+      {
+        "id": "0708cc71-1ca8-42b5-bbef-4eca32a792dc",
+        "name": "I'm Not A Star",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "6d640091-1dad-438d-81ea-36ecdb640bcd",
+        "name": "Free Mason",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "749f86a5-99e5-472b-ac89-1a1cc92e176a",
+        "name": "Tears Of Joy",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "2a4d8ad2-2d4d-4866-872c-3467524cfe33",
+        "name": "Maybach Music III",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "3265c279-eaba-4cb9-a856-e7eb6e2b89e3",
+        "name": "Live Fast, Die Young",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "b84786b1-8b9f-458d-b641-2ea6da7ec87e",
+        "name": "Super High",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "7c71ec70-33aa-42da-b74c-572a1fedcd7c",
+        "name": "No. 1",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "2d975b03-ab3e-4321-81b5-a7bb47d19677",
+        "name": "MC Hammer",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "e15614b5-8fae-445d-b9cc-add79961c1ec",
+        "name": "B.M.F. (Blowin' Money Fast)",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "1bf21641-a251-4fc7-88fc-223c510e31f0",
+        "name": "Aston Martin Music",
+        "artist": "Rick Ross"
+      },
+      {
+        "id": "3b61b75c-4a4f-4c01-a61e-5516d1e1b023",
+        "name": "All The Money In The World",
+        "artist": "Rick Ross"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/9d/64/c59d64a8-33db-ff1e-0105-8a806e0256b5/10UMGIM17552.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 2387985
+  },
+  {
+    "id": "dd8d4e48-1ec5-447b-bb56-806d345eea19",
+    "title": "Droptopwop",
+    "artist": {
+      "id": "ff1dffa0-d804-4256-868c-1436f04d9268",
+      "name": "Gucci Mane"
+    },
+    "releaseDate": "2017-01-01",
+    "songs": [
+      {
+        "id": "aa6f1bc5-bf12-4ccd-876e-95b44eb67501",
+        "name": "5 Million Intro",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "db8a671c-7378-420f-8a2e-7b6230e3452f",
+        "name": "Tho Freestyle",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "1741d5a5-ae5c-44dc-a316-80958ef0cbb8",
+        "name": "Hurt A N***a Feelings",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "7385ee92-fa2f-4142-bc44-a259053e418d",
+        "name": "Helpless",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "55e2ad49-ddd0-4c38-a3a8-de6f5701ab33",
+        "name": "Met Gala",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "e557c16f-f359-4921-8445-fd5e64be313a",
+        "name": "Finesse The Plug Interlude",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "472efb5e-bd09-4317-aa29-8737d5481731",
+        "name": "Dance With The Devil",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "9a650755-54a8-46ca-b482-484f31eb37d4",
+        "name": "Both Eyes Closed",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "d1ef1b97-2cee-45cb-bc05-1b1c09f46d77",
+        "name": "Bucket List",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "6aee44e7-7dac-4419-b746-18f95e8917de",
+        "name": "Loss 4 Wrdz",
+        "artist": "Gucci Mane"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ce/4d/c4/ce4dc451-9eb2-ed8d-e8a4-4554b99013c9/075679893857.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 10388011
+  },
+  {
+    "id": "d6c29c69-8497-4ab8-a766-63cdff5169d1",
+    "title": "It's Almost Dry",
+    "artist": {
+      "id": "23431961-3d9b-4242-a8c5-e9da2caf3331",
+      "name": "Pusha T"
+    },
+    "releaseDate": "2022-04-22",
+    "songs": [
+      {
+        "id": "2beeb3d2-c2d4-4999-b5cf-a667a2a4eb6b",
+        "albumID": "1620072483",
+        "name": "Brambleton",
+        "artist": "Pusha T"
+      },
+      {
+        "id": "655740c6-a383-4ab0-b775-f0768b42e456",
+        "albumID": "1620072483",
+        "name": "Let The Smokers Shine The Coupes",
+        "artist": "Pusha T"
+      },
+      {
+        "id": "08ea7684-a489-4f53-b0b9-0ac655da49f8",
+        "albumID": "1620072483",
+        "name": "Dreamin Of The Past (feat. Kanye West)",
+        "artist": "Pusha T"
+      },
+      {
+        "id": "95271cf4-e5af-4467-825b-06fabe351925",
+        "albumID": "1620072483",
+        "name": "Neck & Wrist (feat. JA\u0178-Z & Pharrell Williams)",
+        "artist": "Pusha T"
+      },
+      {
+        "id": "4b3163ef-a3c5-4db8-bd70-51cb87239aa5",
+        "albumID": "1620072483",
+        "name": "Just So You Remember",
+        "artist": "Pusha T"
+      },
+      {
+        "id": "fb3bd538-0216-4b4e-90f8-91cbef8a6fba",
+        "albumID": "1620072483",
+        "name": "Diet Coke",
+        "artist": "Pusha T"
+      },
+      {
+        "id": "f5f906e8-878a-4971-aa6f-694326de7d63",
+        "albumID": "1620072483",
+        "name": "Rock N Roll (feat. Kanye West & Kid Cudi)",
+        "artist": "Pusha T"
+      },
+      {
+        "id": "68c8f532-f4b7-42a0-8fcc-5ebff632e362",
+        "albumID": "1620072483",
+        "name": "Call My Bluff",
+        "artist": "Pusha T"
+      },
+      {
+        "id": "ce0588ad-a326-4b7a-947b-343d3b1116f4",
+        "albumID": "1620072483",
+        "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
+        "artist": "Pusha T"
+      },
+      {
+        "id": "694fe5f7-b9d2-4690-9ea1-50ee99bc7488",
+        "albumID": "1620072483",
+        "name": "Hear Me Clearly",
+        "artist": "Pusha T"
+      },
+      {
+        "id": "98a732e8-efd5-4559-b8d9-72cb63a180e3",
+        "albumID": "1620072483",
+        "name": "Open Air",
+        "artist": "Pusha T"
+      },
+      {
+        "id": "99297e2b-eee6-4bf7-b962-3f19d4558897",
+        "albumID": "1620072483",
+        "name": "I Pray For You (feat. Labrinth, Malice & Clipse)",
+        "artist": "Pusha T"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/2b/b6/212bb692-7772-7b26-220c-144dd3cc2e97/22UMGIM43682.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1620072483
+  },
+  {
+    "id": "4e5a9379-e8d2-4931-a67c-a506c18a9c1b",
+    "title": "Trap God",
+    "artist": {
+      "id": "ff1dffa0-d804-4256-868c-1436f04d9268",
+      "name": "Gucci Mane"
+    },
+    "releaseDate": "2012-01-01",
+    "songs": [
+      {
+        "id": "b3220278-9c8b-4d8c-ad2a-cf03d755b018",
+        "name": "Intro",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "d7723683-9b74-40ad-a0b3-fe90d430dca3",
+        "name": "Head Shots",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "4b14e371-e555-4a41-be82-20f4f88608c1",
+        "name": "Money Habits",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "358fa777-784a-4c46-9c01-a0e321c32e24",
+        "name": "Crazy",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "16f376ba-0b71-4721-b5a1-15492f429375",
+        "name": "Get Money Nigga",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "b15d6c12-f488-4be5-8996-ce6ab6427675",
+        "name": "Rolly Up",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "d0ae688c-6c7f-4fe1-9533-69adc6874d5d",
+        "name": "Fuck The World",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "f2643da7-efbd-4fc7-b377-e4b410f12fb8",
+        "name": "Act Up",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "65882856-8b9c-4af1-be29-48d358f93ddb",
+        "name": "Never See",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "01cc058c-a669-4956-a2ba-5fb3763319f0",
+        "name": "That's That",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "e0c5f3e4-c0cc-431e-934e-0fc23a007c98",
+        "name": "Servin",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "cfbfbe19-6a9c-43bd-8dd8-e69b0e522d06",
+        "name": "Shooter",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "3022afbd-4b33-4e82-a08f-4a65f4f574a3",
+        "name": "Dead Man",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "b3db8394-98c3-4625-b371-9675d1eaa49f",
+        "name": "Baby Wipes",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "676f4e89-71a3-4b5a-9e02-abfbcce04f3a",
+        "name": "Don't Trust",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "cb78f243-9142-4933-8006-d17888de62b0",
+        "name": "Suckaz",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "8efe4e17-8955-456e-b501-973200739a2f",
+        "name": "Gas And Mud",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "2e70f6d8-cddf-41c7-927f-ed0a8051c465",
+        "name": "Fuck Something",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "0571a03c-8a83-4c96-bfec-c6bd318cc8e0",
+        "name": "I Fuck With That",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "493026b5-594e-46f6-9e2d-ae557fd8ee12",
+        "name": "Get Lost",
+        "artist": "Gucci Mane"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/f7/c3/e8f7c34a-bdd4-a3ef-918d-42d5c483c5ee/0856307006319.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 7047914
+  },
+  {
+    "id": "c79022f5-b140-4a9c-aef7-c57c725b8b0e",
+    "title": "Trap God 2",
+    "artist": {
+      "id": "ff1dffa0-d804-4256-868c-1436f04d9268",
+      "name": "Gucci Mane"
+    },
+    "releaseDate": "2013-01-01",
+    "songs": [
+      {
+        "id": "c7ae99da-e7a6-4e2f-a617-d9d6c80a2fe8",
+        "name": "Big Guwap",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "e33b398e-e21c-4a0b-b8cb-e7c4914bb359",
+        "name": "When I Was Water Wippin",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "074a9bd1-adf9-4432-a4e3-b4ed318645f6",
+        "name": "Nothin On Ya",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "b9548bd5-cbf4-46de-8e1d-4cee06a9eac5",
+        "name": "Servin",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "282d26c1-9fea-4564-bc18-e4e7577a8bc7",
+        "name": "Bullet Wound",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "2a8d69d3-17a3-4365-bc0e-c37005aee765",
+        "name": "Bob Marley",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "f672c61c-c118-4642-8b41-2cc997af1975",
+        "name": "Pistol In The Party",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "ccf5de8b-f021-47a5-bb21-7e3c30faa4af",
+        "name": "Miracle",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "9ab01c8e-7dd6-4a1c-aad4-831a035e5d6e",
+        "name": "Squad Car",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "6916d0cb-d99f-4d49-a86f-24d952e0a3bb",
+        "name": "Rich Muthafucka",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "9d36934b-ff10-477e-8c6e-92eb0cc242b5",
+        "name": "Breakfast",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "edcb2860-6243-4167-9190-ea016de053a6",
+        "name": "Can't Interfere With My Money",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "f0908ff1-b4dd-495c-b955-53aa7ea9abb7",
+        "name": "Greasy",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "04b88a15-14f7-42c3-81c4-58d50c744153",
+        "name": "Scholar",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "06cbe07b-d274-432b-8bda-d36cfc7bbe51",
+        "name": "Really Ready",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "e2775536-1057-45e6-b89e-705abdc7f9fc",
+        "name": "You Gona Love Me",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "8899a531-7741-4948-a61c-878320f59aff",
+        "name": "God's Witness",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "02ff2905-ce4a-42bf-a1ed-b9a1ba1289a3",
+        "name": "Runnin Circles",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "c01505ff-2211-4a8e-bfc5-9a867fe6e2b6",
+        "name": "Break Dancin",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "c7880a98-01c7-441a-acc4-540c3080dc3a",
+        "name": "Get The Doe",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "a7a95b41-a82c-4c39-ae62-3cf4936e58b6",
+        "name": "Fly Shit",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "06996219-c448-4815-a73c-39ef0d1e0844",
+        "name": "Supposed 2",
+        "artist": "Gucci Mane"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/f7/c3/e8f7c34a-bdd4-a3ef-918d-42d5c483c5ee/0856307006319.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 30588454
+  },
+  {
+    "id": "26d1fd53-242c-4877-a440-c5544957d9e3",
+    "title": "Better Dayz",
+    "artist": {
+      "id": "d72ca752-bdba-4352-80db-40545c258005",
+      "name": "2Pac"
+    },
+    "releaseDate": "2002-01-01",
+    "songs": [
+      {
+        "id": "7c98c6fa-2120-497c-abea-0b1d8642ff3d",
+        "albumID": "1443727560",
+        "name": "Intro",
+        "artist": "2Pac"
+      },
+      {
+        "id": "d5fa9727-81c4-4894-9123-cd61aac87fe0",
+        "albumID": "1443727560",
+        "name": "My Block (NItty Remix)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "1a8a9c45-e861-4e37-8f09-d75d912907d5",
+        "albumID": "1443727560",
+        "name": "Still Ballin' (feat. Trick Daddy) [Nitty Remix]",
+        "artist": "2Pac"
+      },
+      {
+        "id": "0df0dd6e-e747-4c7b-806b-3ed9574d1002",
+        "albumID": "1443727560",
+        "name": "Thugz Mansion (feat. Anthony Hamilton) [7 Remix]",
+        "artist": "2Pac"
+      },
+      {
+        "id": "6cefce7a-b446-40eb-b5c8-0a02af8aca74",
+        "albumID": "1443727560",
+        "name": "When We Ride On Our Enemies (Briss Remix)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "89a834fa-77a7-4615-9d74-a47b915bad9d",
+        "albumID": "1443727560",
+        "name": "Never Call U B**** Again (feat. Tyrese)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "6b403512-4fef-406a-ae37-ea2116404bcf",
+        "albumID": "1443727560",
+        "name": "Changed Man (feat. Jazze Pha, T.I. & Johnta Austin) [Jazze Pha Remix]",
+        "artist": "2Pac"
+      },
+      {
+        "id": "8121cf94-6aea-407d-8b39-abb42fc5b431",
+        "albumID": "1443727560",
+        "name": "Better Dayz (feat. Mr. Biggs)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "5f9b7388-dee5-4c24-9b88-f44e7fec9518",
+        "albumID": "1443727560",
+        "name": "F*** Em All (feat. Outlawz)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "14705dbc-6ab0-4c37-adcd-1505693bbc6e",
+        "albumID": "1443727560",
+        "name": "U Can Call (feat. Jazze Pha) [Jazze Pha Remix]",
+        "artist": "2Pac"
+      },
+      {
+        "id": "d61652e8-d040-490e-be3a-f2e2bfe9fa09",
+        "albumID": "1443727560",
+        "name": "Never B Peace (feat. E.D.I & Kastro) [Nitty Remix]",
+        "artist": "2Pac"
+      },
+      {
+        "id": "81a1e2cb-388f-4abe-ad95-d69fae31fe4a",
+        "albumID": "1443727560",
+        "name": "Military Minds (feat. Co Co Brothers & Buckshot)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "a1f4abcb-1ce3-48c8-bea4-dd3e1ef5340b",
+        "albumID": "1443727560",
+        "name": "Mamma's Just a Little Girl (feat. Kimmy Hill) [KP Remix]",
+        "artist": "2Pac"
+      },
+      {
+        "id": "ae5e24c4-2caa-4fc2-a26b-843ca64265bf",
+        "albumID": "1443727560",
+        "name": "Fame (feat. Kadafi, Kastro, Young Noble & Napoleon)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "387d6a3c-75eb-4528-8314-0347d5a62772",
+        "albumID": "1443727560",
+        "name": "Street Fame (Briss Remix)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "da39db88-ad7d-4bdb-9458-a9a9a854dd87",
+        "albumID": "1443727560",
+        "name": "Fair Xchange (feat. M\u00fda) [Mya Remix]",
+        "artist": "2Pac"
+      },
+      {
+        "id": "db97c978-46bf-4a3e-817c-156616c1cb78",
+        "albumID": "1443727560",
+        "name": "Whatcha Gonna Do (feat. Kastro & Young Noble)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "92edf913-55fb-4cc3-839c-4ad525317010",
+        "albumID": "1443727560",
+        "name": "Catchin Feelins (feat. Mussamill, E.D.I, Young Noble & Napoleon)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "a42dd55c-f99e-4ff6-8512-f6ea906c5134",
+        "albumID": "1443727560",
+        "name": "Fair Xchange (feat. Jazze Pha) [Jazze Pha Remix]",
+        "artist": "2Pac"
+      },
+      {
+        "id": "3824901b-27ad-4aeb-bbfe-3d7af2c0432d",
+        "albumID": "1443727560",
+        "name": "There U Go (feat. Kadafi, E.D.I, Kastro, Big Skye, Jazze Pha & Napoleon)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "3589e245-644b-4e70-8b7e-9b5483742194",
+        "albumID": "1443727560",
+        "name": "Ghetto Star (feat. Nutso)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "1dd6e44f-9570-435a-9627-9b03af5f6574",
+        "albumID": "1443727560",
+        "name": "This Life I Lead (feat. Outlawz)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "6069ae5b-ffc7-4d24-9476-40bead9a5cfa",
+        "albumID": "1443727560",
+        "name": "Thugz Mansion (feat. Nas & J. Phoenix) [Nas Acoustic]",
+        "artist": "2Pac"
+      },
+      {
+        "id": "2f36e546-9ed9-4f9d-9302-3a42780474fe",
+        "albumID": "1443727560",
+        "name": "Who Do You Believe In (feat. Kadafi)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "e403c029-8d65-470a-91e8-454c7abdcc8c",
+        "albumID": "1443727560",
+        "name": "They Don't Give a F*** About Us (feat. Outlawz)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "68979c38-bb42-404e-a91a-af775511532a",
+        "albumID": "1443727560",
+        "name": "Outro",
+        "artist": "2Pac"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/cf/6f/0f/cf6f0fb2-ad09-aaf2-fdff-96b4f751f13b/00602547286888.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1443727560
+  },
+  {
+    "id": "3d5796ef-6a42-4155-b8b1-1060211cd133",
+    "title": "Loyal to the Game",
+    "artist": {
+      "id": "d72ca752-bdba-4352-80db-40545c258005",
+      "name": "2Pac"
+    },
+    "releaseDate": "2004-01-01",
+    "songs": [
+      {
+        "id": "b6c26784-1483-4704-9eb5-486395c2e24a",
+        "albumID": "1443462950",
+        "name": "Soldier Like Me (feat. Eminem)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "0ee3cad8-c097-4ae5-9d67-f214242fbc93",
+        "albumID": "1443462950",
+        "name": "The Uppercut (feat. E.D.I & Noble)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "0bf7a807-46c8-4dc1-85e1-d1100070e8c6",
+        "albumID": "1443462950",
+        "name": "Out On Bail",
+        "artist": "2Pac"
+      },
+      {
+        "id": "91974032-c038-4300-a4b1-7dbecbeed496",
+        "albumID": "1443462950",
+        "name": "Ghetto Gospel",
+        "artist": "2Pac"
+      },
+      {
+        "id": "093eadf0-f16e-4814-a1b3-026d77190e30",
+        "albumID": "1443462950",
+        "name": "Black Cotton (feat. Kastrom, Noble & Eminem)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "7a60cad3-356b-481d-bda7-013c352b6ce4",
+        "albumID": "1443462950",
+        "name": "Loyal to the Game (feat. 50 Cent, Lloyd Banks & Young Buck)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "49d6c613-259c-435f-81d8-883660ad3e4d",
+        "albumID": "1443462950",
+        "name": "Thugs Get Lonely Too (feat. Nate Dogg)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "e901dcf9-1b87-4b3e-84f6-a600e965319a",
+        "albumID": "1443462950",
+        "name": "N.I.G.G.A. (Never Ignorant About Getting Goals Accomplished) [feat. Jadakiss]",
+        "artist": "2Pac"
+      },
+      {
+        "id": "f8f1a790-fdaf-4321-998f-8aaf36217cbb",
+        "albumID": "1443462950",
+        "name": "Who Do You Love?",
+        "artist": "2Pac"
+      },
+      {
+        "id": "6520b21e-2366-4461-8439-5a6dcd7bf690",
+        "albumID": "1443462950",
+        "name": "Crooked N***a Too",
+        "artist": "2Pac"
+      },
+      {
+        "id": "d8c2f3a0-000d-4e6e-bf8b-180126cbad94",
+        "albumID": "1443462950",
+        "name": "Don't You Trust Me",
+        "artist": "2Pac"
+      },
+      {
+        "id": "4359ced5-da76-484a-b57a-bcaead0e9990",
+        "albumID": "1443462950",
+        "name": "Hennessey (feat. Obie Trice)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "3b921a9f-f973-4418-a3c1-4d8673bad2a5",
+        "albumID": "1443462950",
+        "name": "Thug 4 Life",
+        "artist": "2Pac"
+      },
+      {
+        "id": "cf3fe018-ad7a-4473-9867-ef0212928b15",
+        "albumID": "1443462950",
+        "name": "Po N***a Blues (feat. Ronald Isley) [Scott Storch Remix]",
+        "artist": "2Pac"
+      },
+      {
+        "id": "9fb53fc1-92cd-40ea-8488-c4fa9dad5faa",
+        "albumID": "1443462950",
+        "name": "Hennessey (feat. E.D.I & Sleepy Brown) [Red Spyda Remix]",
+        "artist": "2Pac"
+      },
+      {
+        "id": "443ab623-51d9-4883-a181-2c33db5eb037",
+        "albumID": "1443462950",
+        "name": "Crooked N***a Too (Raphael Saadiq Remix)",
+        "artist": "2Pac"
+      },
+      {
+        "id": "b93ea7f1-4f2e-43ce-9596-006deab57be5",
+        "albumID": "1443462950",
+        "name": "Loyal to the Game (feat. Big Skye) [DJ Quik Remix]",
+        "artist": "2Pac"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/13/57/ce/1357ceee-70f8-8562-6000-3fb15d22086f/00602547433527.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1443462950
+  },
+  {
+    "id": "55c87b32-1bb4-4674-9634-170b9652ad59",
+    "title": "Tha Carter V",
+    "artist": {
+      "id": "21d42fa2-1bba-4f31-ae6e-11a92c7ff3cf",
+      "name": "Lil Wayne"
+    },
+    "releaseDate": "2018-09-27",
+    "songs": [
+      {
+        "id": "36d22003-df41-4a2b-bade-c24526dd50c1",
+        "albumID": "1532439763",
+        "name": "Life of Mr. Carter",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "73d9a1d9-cea2-4452-9382-1cd475721163",
+        "albumID": "1532439763",
+        "name": "Holy",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "03a141ba-80dd-4fdf-ad78-8437c6dcefc1",
+        "albumID": "1532439763",
+        "name": "More to the Story (feat. Raekwon)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "23935ebf-cc91-48d8-b3f4-a354a7fcb98a",
+        "albumID": "1532439763",
+        "name": "Scottie",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "47c1acd2-4695-49c6-8d35-caa68b86b563",
+        "albumID": "1532439763",
+        "name": "F Him Good",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "ca5ca92a-dd11-4265-8832-711c55af8d5f",
+        "albumID": "1532439763",
+        "name": "Siri (feat. 2 Chainz)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "00696bbb-51db-45ff-9b07-1703dd9957b6",
+        "albumID": "1532439763",
+        "name": "Lost",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "2ba7c857-5d4b-4b96-8d6e-edf3e5a12ecf",
+        "albumID": "1532439763",
+        "name": "In This House (feat. Gucci Mane)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "45281ef4-a5f9-4ad3-b35f-ef4c23ab3e5a",
+        "albumID": "1532439763",
+        "name": "What About Me (feat. Post Malone)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "3748461b-6123-435d-8524-208c6036d7e1",
+        "albumID": "1532439763",
+        "name": "Hasta La Vista",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "3e81810b-949f-4e52-9752-f4f17b39cb0e",
+        "albumID": "1532439763",
+        "name": "I Love You Dwayne",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "11038329-66ca-4db5-87fb-9f5131da1c42",
+        "albumID": "1532439763",
+        "name": "Don't Cry (feat. XXXTENTACION)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "9243cd1f-c2c5-4277-a918-309820853b9c",
+        "albumID": "1532439763",
+        "name": "Dedicate",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "19d48a57-d229-4f80-ad11-304af4754940",
+        "albumID": "1532439763",
+        "name": "Uproar (feat. Swizz Beatz)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "493803f0-9fbc-4210-81e6-d3fa1a04bcf7",
+        "albumID": "1532439763",
+        "name": "Let It Fly (feat. Travis Scott)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "2cf2da1c-2b75-40df-9b02-48fd210a0e85",
+        "albumID": "1532439763",
+        "name": "Can't Be Broken",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "9b3ebfd9-2804-4658-bd5c-2a32415e3aa9",
+        "albumID": "1532439763",
+        "name": "Dark Side of the Moon (feat. Nicki Minaj)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "72eb7eb9-b4d2-4fa2-a655-d7f1e920b931",
+        "albumID": "1532439763",
+        "name": "Mona Lisa (feat. Kendrick Lamar)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "b3cdf8fa-6848-4c69-9bfd-a219f222ae68",
+        "albumID": "1532439763",
+        "name": "What About Me (feat. Sosamann)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "e0b224be-f2f0-42d2-a9bb-f2488aed3676",
+        "albumID": "1532439763",
+        "name": "Open Letter",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "9b5dcfbd-1ffb-4c59-96fa-a654086a812c",
+        "albumID": "1532439763",
+        "name": "Famous (feat. Reginae Carter)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "baa70e1c-9efc-4f3e-aa67-de141944ff21",
+        "albumID": "1532439763",
+        "name": "Problems",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "6b841abb-269f-409d-9b01-54fe0925666b",
+        "albumID": "1532439763",
+        "name": "Dope N****z (feat. Snoop Dogg)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "493c12fb-cfc8-4cfc-917d-ff24d85d9d99",
+        "albumID": "1532439763",
+        "name": "Hittas",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "326c869f-c2d7-4983-be0b-fe0d28dafbd1",
+        "albumID": "1532439763",
+        "name": "Took His Time",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "bda3987c-0232-454b-ae81-21cb359da6a5",
+        "albumID": "1532439763",
+        "name": "Open Safe",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "c9b14204-62a4-479b-af89-0dd138813ed8",
+        "albumID": "1532439763",
+        "name": "Start This Shit Off Right (feat. Ashanti & Mack Maine)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "fc96b52d-915b-4140-82bb-2a3373419682",
+        "albumID": "1532439763",
+        "name": "Demon",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "cd001dc7-dd36-48c1-bcd5-d67941c97614",
+        "albumID": "1532439763",
+        "name": "Mess",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "e4959b4c-6314-4301-8ebb-6d9162382996",
+        "albumID": "1532439763",
+        "name": "Dope New Gospel (feat. Nivea)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "f99a001d-12f7-48f2-bc5c-a4846d70b649",
+        "albumID": "1532439763",
+        "name": "Perfect Strangers",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "de670d26-03f0-4707-bbac-2c8e0ccce9ea",
+        "albumID": "1532439763",
+        "name": "Used 2",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "b0909bf0-1b83-45a1-9678-be89b708e932",
+        "albumID": "1532439763",
+        "name": "Let It All Work Out",
+        "artist": "Lil Wayne"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2b/63/9f/2b639f6c-3b9d-f5e6-1ea7-0799ad3c5ff0/20UMGIM81628.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": true,
+    "appleId": 1532439763
+  },
+  {
+    "id": "b92b6a07-9631-41fe-8a4d-d8dcf9ba8db0",
+    "title": "I Am Not a Human Being II",
+    "artist": {
+      "id": "21d42fa2-1bba-4f31-ae6e-11a92c7ff3cf",
+      "name": "Lil Wayne"
+    },
+    "releaseDate": "2013-01-01",
+    "songs": [
+      {
+        "id": "2513def8-4102-48e7-8c01-1979ed8a9341",
+        "albumID": "1444110607",
+        "name": "Ianahb",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "8538192b-c616-472a-8e7a-ebb0cdb41ee9",
+        "albumID": "1444110607",
+        "name": "Curtains (feat. Boo)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "b4c6d34a-0535-45a8-8471-a120653839dc",
+        "albumID": "1444110607",
+        "name": "Days and Days (feat. 2 Chainz)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "5c8059c1-1c80-4330-8591-582b8fdf3b4c",
+        "albumID": "1444110607",
+        "name": "Gunwalk (feat. Gudda Gudda)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "cae83d47-d8fa-48a2-a355-1209e0463b56",
+        "albumID": "1444110607",
+        "name": "No Worries (feat. Detail)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "6421d102-a7b0-4bbd-ace7-7f1b053d106a",
+        "albumID": "1444110607",
+        "name": "Back to You",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "089b46ff-2f86-45a1-952b-9cc4bc1a7717",
+        "albumID": "1444110607",
+        "name": "Trigger Finger (feat. Soulja Boy)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "e0a5af54-a276-4b5c-89ff-dd71ece810d9",
+        "albumID": "1444110607",
+        "name": "Beat the S*** (feat. Gunplay)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "76f68f71-15d4-4575-9910-08fdd4a96d05",
+        "albumID": "1444110607",
+        "name": "Rich As F*** (feat. 2 Chainz)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "254419b4-f90d-4e08-80ff-9317d8054253",
+        "albumID": "1444110607",
+        "name": "Trippy (feat. Juicy J)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "c112e36c-32b4-48eb-859c-77189c767499",
+        "albumID": "1444110607",
+        "name": "Love Me (feat. Drake & Future)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "6c69eaf0-9ff4-4d54-aed7-4c4ec2ba0969",
+        "albumID": "1444110607",
+        "name": "God Bless Amerika",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "ecab8623-8159-4791-8da3-2e804f893112",
+        "albumID": "1444110607",
+        "name": "Wowzerz (feat. Trina)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "e125ec22-ff69-47ae-a13b-b296a73b4e42",
+        "albumID": "1444110607",
+        "name": "Hello (feat. Shane Heyl)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "556bc6e5-95f4-4244-af1b-7e3b808f0d82",
+        "albumID": "1444110607",
+        "name": "Lay It Down (feat. Nicki Minaj & Corey Gunz)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "a1842241-7a37-45ac-994d-717ca5478276",
+        "albumID": "1444110607",
+        "name": "Hot Revolver (feat. Dre)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "5adbe3b5-6a04-427d-a042-2787b0690c56",
+        "albumID": "1444110607",
+        "name": "My Homies Still (feat. Big Sean)",
+        "artist": "Lil Wayne"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ee/a9/57/eea95772-8133-9dfc-0dbb-4c0b0382520d/13UMGIM25909.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": true,
+    "appleId": 1444110607
+  },
+  {
+    "id": "0bb047d4-58e4-4fc7-a6f7-679e5568f7b0",
+    "title": "Tha Block Is Hot",
+    "artist": {
+      "id": "21d42fa2-1bba-4f31-ae6e-11a92c7ff3cf",
+      "name": "Lil Wayne"
+    },
+    "releaseDate": "1999-01-01",
+    "songs": [
+      {
+        "id": "c94002f3-1b9a-4498-a98d-b7a1bbdb78e3",
+        "albumID": "1443776878",
+        "name": "Intro",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "22c38f67-4cda-4e14-a3e0-c1041d19623f",
+        "albumID": "1443776878",
+        "name": "Tha Block Is Hot",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "8a48665a-2e3c-43bc-9974-020a5b1c71a9",
+        "albumID": "1443776878",
+        "name": "Loud Pipes",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "85c49b8d-ad5e-46c7-a709-2cc6e0fb69bf",
+        "albumID": "1443776878",
+        "name": "Watcha Wanna Do",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "65d667c5-b409-4f1b-9bdc-4d428d825c65",
+        "albumID": "1443776878",
+        "name": "Kisha",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "b954ce0d-1cc0-44f3-96c4-ccec7e84cb86",
+        "albumID": "1443776878",
+        "name": "High Beamin'",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "6e0559f0-ffe4-482b-a005-846658cf247f",
+        "albumID": "1443776878",
+        "name": "Lights Off",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "031d1d1e-985e-4960-a9a1-6fa08bbc115c",
+        "albumID": "1443776878",
+        "name": "F*** Tha World",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "74600d7c-e0bf-4e2f-897f-6799e62943f2",
+        "albumID": "1443776878",
+        "name": "Remember Me",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "7fe49c24-ceb2-467e-941a-06bf4f01e644",
+        "albumID": "1443776878",
+        "name": "Respect Us",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "eb6bab48-041e-414c-a66e-cc627f43d673",
+        "albumID": "1443776878",
+        "name": "Drop It Like It's Hot",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "82234946-4b07-4e1f-92f0-4963cbc4f885",
+        "albumID": "1443776878",
+        "name": "Young Playa",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "c9d6fdcd-86ad-446e-a6d0-093d1cb917de",
+        "albumID": "1443776878",
+        "name": "Enemy Turf",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "47e0297a-ed43-4ab1-891c-fea1a79bbc63",
+        "albumID": "1443776878",
+        "name": "Not Like Me",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "289eb3e7-dd62-4f58-bf2d-d5f264cd4d54",
+        "albumID": "1443776878",
+        "name": "Come On",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "488588b5-1016-46ee-b554-5d210fc6c1fe",
+        "albumID": "1443776878",
+        "name": "Up to Me",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "f23780ef-9d0c-450b-8b98-488f930a09a5",
+        "albumID": "1443776878",
+        "name": "You Want War",
+        "artist": "Lil Wayne"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a9/a7/d5/a9a7d566-1ec6-361e-eccd-ce53aed1ab90/00731454201322.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1443776878
+  },
+  {
+    "id": "6ff3cceb-3df0-4bc3-8c81-583706c80afc",
+    "title": "I Am Not a Human Being",
+    "artist": {
+      "id": "21d42fa2-1bba-4f31-ae6e-11a92c7ff3cf",
+      "name": "Lil Wayne"
+    },
+    "releaseDate": "2010-09-27",
+    "songs": [
+      {
+        "id": "2e63cefc-5618-4d80-94d4-de91f3e95d18",
+        "albumID": "1443166329",
+        "name": "Gonorrhea (feat. Drake)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "64aa12e1-7edb-4674-9d6f-cb8d3c830dc2",
+        "albumID": "1443166329",
+        "name": "Hold Up (feat. T Streets)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "747763b6-6577-4a09-b08d-fce981698363",
+        "albumID": "1443166329",
+        "name": "With You (feat. Drake)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "b8aa5492-1c7c-492d-96c9-311fea19b04c",
+        "albumID": "1443166329",
+        "name": "I Am Not a Human Being",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "17e941d7-8e43-4d3e-8ff0-c3d902bc4194",
+        "albumID": "1443166329",
+        "name": "I'm Single (feat. Drake)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "f6dec20b-31ee-486e-9847-64274b733f92",
+        "albumID": "1443166329",
+        "name": "What's Wrong With Them (feat. Nicki Minaj)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "1831decc-0e69-4b44-b143-ced108fd588c",
+        "albumID": "1443166329",
+        "name": "Right Above It (feat. Drake)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "b8d1d593-024a-4718-9c40-8285a72d9b7a",
+        "albumID": "1443166329",
+        "name": "Popular (feat. Lil' Twist)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "a0a98856-d5d8-4da4-8904-24b8c6a91148",
+        "albumID": "1443166329",
+        "name": "That Ain't Me (feat. Jay Sean)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "870e8ca1-1352-467a-9cd7-189a67e68c32",
+        "albumID": "1443166329",
+        "name": "Bill Gates",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "a5363ca4-f02a-4dd9-8da2-0245e7117d8f",
+        "albumID": "1443166329",
+        "name": "YM Banger (feat. Jae Millz, Gudda Gudda & Tyga)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "21281dd7-0368-493e-8516-5e3b3977de8c",
+        "albumID": "1443166329",
+        "name": "YM Salute (feat. Lil' Twist, Lil Chuckee, Gudda Gudda, Jae Millz & Nicki Minaj)",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "63413aa2-cda0-445c-a1f2-611553b25def",
+        "albumID": "1443166329",
+        "name": "I Don't Like the Look of It (feat. Gudda Gudda)",
+        "artist": "Lil Wayne"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d7/49/09/d7490964-6020-ce79-74b5-02ad0f1a57de/10UMGIM24994.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1443166329
+  },
+  {
+    "id": "524827f5-a493-4a35-8cda-6639670aba31",
+    "title": "Da Drought 3",
+    "artist": {
+      "id": "21d42fa2-1bba-4f31-ae6e-11a92c7ff3cf",
+      "name": "Lil Wayne"
+    },
+    "releaseDate": "2007-01-01",
+    "songs": [
+      {
+        "id": "f5f46065-2ac1-4f20-a63c-b46fb8d308d9",
+        "name": "Intro",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "104a67bb-976e-46ad-a7d8-dd4fe9158200",
+        "name": "Black Republican",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "fb41a2f6-e0cb-4cd6-9e20-291df308c98c",
+        "name": "Upgrade",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "d75988bf-2dda-41c8-b26f-6b3ba0b0ea17",
+        "name": "Put Some Keys On That",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "84546a22-e0c7-464c-a697-c9774491e039",
+        "name": "Ride 4 My Niggas",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "a1b42bd4-0283-487b-b381-b966b7252a81",
+        "name": "Don't Stop Won't Stop",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "760cd9cf-288a-4ea3-87d2-2e726aa3defd",
+        "name": "We Taking Over Remix",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "dfe25edc-8bb9-4c16-95e1-c010a952a309",
+        "name": "Get High Rule The World",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "d692e8db-48b2-4848-b230-d1d68c6b3bb6",
+        "name": "I Can't Feel My Face",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "1a96435a-f96b-466a-9caf-d5f34298a898",
+        "name": "Dough Is What I Got",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "5a3f2f05-f1fa-4b1d-9473-81e356702fcb",
+        "name": "Seat Down Low",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "e6393162-d07a-4af4-8799-0f267642acb0",
+        "name": "New Cash Money",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "99ae0afb-c7c6-40d2-8c4e-80941c48a4f6",
+        "name": "Promise",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "ce5202a5-6d60-4424-b331-1ecdfaebbf0d",
+        "name": "Outro",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "4bd871ce-c72c-4c5a-9b52-0da518708526",
+        "name": "Intro",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "f83f22b5-d0e0-4120-aa7a-5a1b4fe1f0e2",
+        "name": "Blooded",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "fa1f4593-4628-44a9-b0b8-e69e152e7337",
+        "name": "Live From 504",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "875b33cd-de85-41d0-bc13-031e4539bd00",
+        "name": "King Kong",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "cc48188d-ad21-4a4e-a86d-0417bec5b936",
+        "name": "Dipset",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "26a3dc71-759b-49e4-b88b-341cf1b2877a",
+        "name": "Forever",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "233f6909-74e8-46f2-a7c4-a2af7f7096cb",
+        "name": "Walk It Out",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "5d3fb9ed-7e79-4b8a-8bb1-e6bafaea9388",
+        "name": "Swizzy Remix",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "d332deb6-c44b-4e2f-a23b-edb7ec79fbf2",
+        "name": "Boom",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "d1ebd680-7370-46ca-b605-6de793aa6a40",
+        "name": "NO Nigga",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "182a2454-aacc-4b88-8953-610d5b8161c9",
+        "name": "Back On My Grizzy",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "5e0c0483-8fc2-4746-92f8-f9d43f339337",
+        "name": "Dipset",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "4904b31f-13f4-4ff1-afd5-0e552993934c",
+        "name": "President",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "bd11bf5b-571e-4bc6-981d-9fb39d4b1544",
+        "name": "Crazy",
+        "artist": "Lil Wayne"
+      },
+      {
+        "id": "10bae0bc-8fa8-4f8d-9f93-6b4b8265918f",
+        "name": "Outro",
+        "artist": "Lil Wayne"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/62/58/34625830-2cb0-1a48-ca6f-bc16fe52fd96/cover_4062851179539.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 19998406
+  },
+  {
+    "id": "fa2deb50-24b6-4bb1-8bc4-2811f0849cef",
+    "title": "Slant Face Killah",
+    "artist": {
+      "id": "766e0f33-ee7a-4ce8-9c73-e09a0f6caba5",
+      "name": "Conway the Machine"
+    },
+    "releaseDate": "2024-05-10",
+    "songs": [
+      {
+        "id": "e79d3240-2c4f-419b-82a2-8a2ab3540ac3",
+        "albumID": "1744068372",
+        "name": "Despertar",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "979b14cc-7fda-4569-ae8b-7c5f167f3804",
+        "albumID": "1744068372",
+        "name": "Mutty",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "9b13aae0-8a47-48e5-9962-5fd6046551db",
+        "albumID": "1744068372",
+        "name": "Give & Give",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "b26f9810-7e03-42fd-91e1-72dad151a008",
+        "albumID": "1744068372",
+        "name": "Milano Nights, Pt. 1",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "27c5700c-33fe-4bfa-b35c-50ae2091d2f8",
+        "albumID": "1744068372",
+        "name": "Kin Xpress",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "810c5794-766e-45ce-85af-d4e37aded840",
+        "albumID": "1744068372",
+        "name": "Meth Back!",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "a46219a6-1b94-4917-b41f-f3faa86bc6ce",
+        "albumID": "1744068372",
+        "name": "Ninja Man",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "0016aeaf-09a7-4280-978f-589395d4ef57",
+        "albumID": "1744068372",
+        "name": "Vertino",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "fa6fd309-2470-44f5-8ada-80b8f6217b87",
+        "albumID": "1744068372",
+        "name": "Ten/Rya Interlude (feat. Rya Maxwell)",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "d3dfc374-9a73-4b17-9581-fe6089c202cb",
+        "albumID": "1744068372",
+        "name": "Dasani",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "12e813e7-a23d-4390-aac1-90ce1398bd47",
+        "albumID": "1744068372",
+        "name": "Raw!",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "2bcf2027-8d9e-42fa-82d9-ca5b54154c98",
+        "albumID": "1744068372",
+        "name": "Surf & Turf (feat. T.F, 2 Eleven & Ab-Soul)",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "123628ae-4aa7-4748-93e4-f70df4a4f0fb",
+        "albumID": "1744068372",
+        "name": "Karimi",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "532d3f04-fda2-4a30-8f62-6e28920241e8",
+        "albumID": "1744068372",
+        "name": "The Red Moon In Osaka",
+        "artist": "Conway the Machine"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/0d/6a/f80d6ab9-0eeb-03fc-2079-468d0962b0f8/197342597579_cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1744068372
+  },
+  {
+    "id": "bd34121a-4599-46a5-9917-ba91f3b22a7a",
+    "title": "God Don't Make Mistakes",
+    "artist": {
+      "id": "766e0f33-ee7a-4ce8-9c73-e09a0f6caba5",
+      "name": "Conway the Machine"
+    },
+    "releaseDate": "2022-02-25",
+    "songs": [
+      {
+        "id": "f74d6475-5fea-4bd3-9a51-01c3cfdbbbb6",
+        "albumID": "1610819100",
+        "name": "Lock Load",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "145aab7e-f9c5-426f-a6ec-3e23de923a7c",
+        "albumID": "1610819100",
+        "name": "Tear Gas (feat. Rick Ross & Lil Wayne)",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "dc67ce86-5116-4dcc-9910-f87a0056ba9a",
+        "albumID": "1610819100",
+        "name": "Piano Love",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "ac6e9099-a3d6-475f-8e8f-2ec5ad1be672",
+        "albumID": "1610819100",
+        "name": "Drumwork (feat. 7xvethegenius & Jae Skeese)",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "d4acb2cc-dd7e-4728-9d81-6c95112fbbc5",
+        "albumID": "1610819100",
+        "name": "Wild Chapters",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "533fbbe0-bd57-4125-9870-e1ca6961f813",
+        "albumID": "1610819100",
+        "name": "Guilty",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "646d1f26-85a3-41bb-b505-7d96352a6534",
+        "albumID": "1610819100",
+        "name": "John Woo Flick",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "19f0a0e2-be65-4dff-ae90-5e1a55b26627",
+        "albumID": "1610819100",
+        "name": "Stressed",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "e35962ec-675e-4162-98e6-1f6ca136ff12",
+        "albumID": "1610819100",
+        "name": "So Much More",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "303d82b6-4397-456c-84a0-e5ea97700971",
+        "albumID": "1610819100",
+        "name": "Chanel Pearls",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "93e74786-fc73-4924-b94b-95cb761b7ee7",
+        "albumID": "1610819100",
+        "name": "Babas",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "9f1d451c-8879-48b1-84fd-163cebea308d",
+        "albumID": "1610819100",
+        "name": "God Don't Make Mistakes (feat. Annette Price)",
+        "artist": "Conway the Machine"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/03/a6/93/03a69305-c1cf-61e9-976f-f1a8a1b72719/22UMGIM13766.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1610819100
+  },
+  {
+    "id": "95caf4b3-f33e-4513-a0f9-172ea4b8541e",
+    "title": "Reject 2",
+    "artist": {
+      "id": "766e0f33-ee7a-4ce8-9c73-e09a0f6caba5",
+      "name": "Conway the Machine"
+    },
+    "releaseDate": "2015-01-01",
+    "songs": [
+      {
+        "id": "29f28822-831c-46ec-accb-9294b7e80c13",
+        "name": "1000 Corpses",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "c752c974-baf5-411d-8d3a-0e200e8f2e0b",
+        "name": "Blakk Tape",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "4a3b0d9e-aac3-4159-b6f8-5b05546be646",
+        "name": "Rex Ryan",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "ee0767b9-2ebe-4d01-afd0-7dae2abd88e3",
+        "name": "Wraith - Ful",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "1188695d-d468-4321-9877-06c84eac4d00",
+        "name": "Beloved",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "039a41cd-cf77-424e-893b-5b96ce40738b",
+        "name": "30 Shells",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "d6e24898-63d1-4415-8c80-f60591e36eda",
+        "name": "Sky Joint",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "b48660f0-c808-486c-9d97-008a48c1981f",
+        "name": "Air Holez",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "02eda4ba-6daf-4c24-ad3c-8e8a5f30f9f6",
+        "name": "Salute Me",
+        "artist": "Conway the Machine"
+      },
+      {
+        "id": "e1dbfa78-b459-49a9-a26a-2b2eee659609",
+        "name": "Outro",
+        "artist": "Conway the Machine"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/7f/82/fc7f82ba-6deb-ff05-3da7-352b32ffc89e/mzm.eyhvsukh.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 7806696
+  },
+  {
+    "id": "477e7d18-7d8a-43ec-82bb-60f633cbbb26",
+    "title": "Pink Friday ... Roman Reloaded",
+    "artist": {
+      "id": "9a4f459c-e749-4667-a50b-42ced2f22f26",
+      "name": "Nicki Minaj"
+    },
+    "releaseDate": "2012-01-01",
+    "songs": [
+      {
+        "id": "e9e3286a-be24-4fc2-9634-051baa026619",
+        "albumID": "1442868208",
+        "name": "Roman Holiday",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "569137f0-be80-4868-b487-a2421f62d05a",
+        "albumID": "1442868208",
+        "name": "Come On a Cone",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "9d595cbb-fd79-4de8-a555-469387525a1b",
+        "albumID": "1442868208",
+        "name": "I Am Your Leader (feat. Cam'ron & Rick Ross)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "4e481008-efff-4bdb-b65f-09ad755d8f15",
+        "albumID": "1442868208",
+        "name": "Beez In the Trap (feat. 2 Chainz)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "8174e25a-a720-44fd-94c2-f82c1d64bf22",
+        "albumID": "1442868208",
+        "name": "HOV Lane",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "7cd1b74d-6e0a-48a9-9447-fb22f198dbca",
+        "albumID": "1442868208",
+        "name": "Roman Reloaded (feat. Lil Wayne)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "d81d4595-2a3f-4423-9222-462d93f48b13",
+        "albumID": "1442868208",
+        "name": "Champion (feat. Nas, Drak & Young Jeezy)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "adf385eb-73f9-4cab-ad40-d4bbb25f32b0",
+        "albumID": "1442868208",
+        "name": "Right By My Side (feat. Chris Brown)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "b1344dea-9493-45a1-95ed-428e0370549a",
+        "albumID": "1442868208",
+        "name": "Sex In the Lounge (feat. Lil Wayne & Bobby V.)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "ffdc777d-b51d-495a-9858-2cda959ce36a",
+        "albumID": "1442868208",
+        "name": "Starships",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "272b0edb-fe67-4e02-9896-3bb5c1b4a949",
+        "albumID": "1442868208",
+        "name": "Pound the Alarm",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "c03733b1-f10f-4a67-92be-86148e31bb5a",
+        "albumID": "1442868208",
+        "name": "Whip It",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "2a9a4460-5692-43f9-b7c4-f130c4c64733",
+        "albumID": "1442868208",
+        "name": "Automatic",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "2f2e594a-f84c-4fae-9670-dbed43335c11",
+        "albumID": "1442868208",
+        "name": "Beautiful Sinner",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "2a761c27-f9ed-4869-84d0-645eb3caffc6",
+        "albumID": "1442868208",
+        "name": "Marilyn Monroe",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "4d07658b-936d-4e0d-950f-ab0b6acfcac4",
+        "albumID": "1442868208",
+        "name": "Young Forever",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "f134cc17-c55c-4464-a5e4-e520db3106a1",
+        "albumID": "1442868208",
+        "name": "Fire Burns",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "3780f9e8-b39d-4575-837f-71be64697579",
+        "albumID": "1442868208",
+        "name": "Gun Shot (feat. Beenie Man)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "cc9b7b2b-af18-4545-821f-407ad32469ab",
+        "albumID": "1442868208",
+        "name": "Stupid Hoe",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "41f78cdf-a0f0-46e4-9e53-0c80a351df3b",
+        "albumID": "1442868208",
+        "name": "Turn Me On (feat. Nicki Minaj)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "e53afb3a-b8c5-45fd-a86d-0534d2c1fc43",
+        "albumID": "1442868208",
+        "name": "Va Va Voom",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "f70a9448-a1e7-4e1e-bc79-e796f23048e7",
+        "albumID": "1442868208",
+        "name": "Masquerade",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "e66832e5-4871-4cda-b1d2-baeec88a78cc",
+        "albumID": "1442868208",
+        "name": "Press Conference (feat. Charlemagne & Safaree \"SB\" Samuels)",
+        "artist": "Nicki Minaj"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/c4/90/a5c490a1-d914-9943-7e02-32f8320e5840/12UMGIM12516.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": true,
+    "appleId": 1442868208
+  },
+  {
+    "id": "5474b981-a10b-4ce8-ae9e-db209cfa1009",
+    "title": "The Pinkprint",
+    "artist": {
+      "id": "9a4f459c-e749-4667-a50b-42ced2f22f26",
+      "name": "Nicki Minaj"
+    },
+    "releaseDate": "2014-12-15",
+    "songs": [
+      {
+        "id": "26e0754f-aeff-4af7-9234-130a82a9b848",
+        "albumID": "1440914080",
+        "name": "All Things Go",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "794cb611-b91d-49b8-88eb-194c245b501a",
+        "albumID": "1440914080",
+        "name": "I Lied",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "dd764d47-902b-42af-85f5-1d8e4269b541",
+        "albumID": "1440914080",
+        "name": "The Crying Game (feat. Jessie Ware)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "6473dfdf-b2de-4914-8703-4c594c7a6ecc",
+        "albumID": "1440914080",
+        "name": "Get On Your Knees (feat. Ariana Grande)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "ac9114bb-accd-46da-8546-6bf696d7377f",
+        "albumID": "1440914080",
+        "name": "Feeling Myself (feat. Beyonc\u00e9)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "d6c9dc77-a6e7-4beb-ad7a-2f04eb0c73b1",
+        "albumID": "1440914080",
+        "name": "Only (feat. Drake, Lil Wayne & Chris Brown)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "cea67658-fc58-4d8b-972b-3979315a3f8d",
+        "albumID": "1440914080",
+        "name": "Want Some More",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "e83bd4de-de3b-4229-b279-7af2ef4b2431",
+        "albumID": "1440914080",
+        "name": "Four Door Aventador",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "2a8040b8-6989-4043-9201-9c7a8f8b0873",
+        "albumID": "1440914080",
+        "name": "Favorite (feat. Jeremih)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "211f0fe5-4f2c-4618-9717-075a80aea3bf",
+        "albumID": "1440914080",
+        "name": "Buy a Heart (feat. Meek Mill)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "06fa56bd-4cfb-4a09-8b9e-57f34e1a559d",
+        "albumID": "1440914080",
+        "name": "Trini Dem Girls (feat. LunchMoney Lewis)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "fdb2d684-1c36-44e4-a612-59b3dfba76bd",
+        "albumID": "1440914080",
+        "name": "Anaconda",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "00cf697b-4fec-493c-9ebc-36ffc042f60d",
+        "albumID": "1440914080",
+        "name": "The Night Is Still Young",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "9c9159d5-c440-468c-8a6b-15322db6480e",
+        "albumID": "1440914080",
+        "name": "Pills N Potions",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "5f2b16a0-22e0-42cb-9b52-3958d7a9a0b6",
+        "albumID": "1440914080",
+        "name": "Bed of Lies (feat. Skylar Grey)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "43d5a063-0383-4514-af60-a8e020adadee",
+        "albumID": "1440914080",
+        "name": "Grand Piano",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "95b0ec99-5264-4142-9d65-7c61df7ca7ec",
+        "albumID": "1440914080",
+        "name": "Big Daddy (feat. Meek Mill)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "071c0024-1ee5-42b7-9134-21448fa91cf7",
+        "albumID": "1440914080",
+        "name": "Shanghai",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "ea6097eb-cd30-443d-9d8f-8120a7d6867b",
+        "albumID": "1440914080",
+        "name": "Win Again",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "5af5e797-e9a3-44c9-87fd-4cd9cb5a6534",
+        "albumID": "1440914080",
+        "name": "Truffle Butter (feat. Drake & Lil Wayne)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "791460b0-509d-4bea-a1e5-a273b4ee672f",
+        "albumID": "1440914080",
+        "name": "Mona Lisa",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "4138aff4-0065-4887-84f3-e0a2ac49ee24",
+        "albumID": "1440914080",
+        "name": "Put You In a Room",
+        "artist": "Nicki Minaj"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/62/f7/0a/62f70ac0-a974-ee65-63af-81618c9176c2/14UMGIM59294.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": true,
+    "appleId": 1440914080
+  },
+  {
+    "id": "6fc8632c-439c-43c7-bb1f-d4499a59a1b8",
+    "title": "Queen",
+    "artist": {
+      "id": "9a4f459c-e749-4667-a50b-42ced2f22f26",
+      "name": "Nicki Minaj"
+    },
+    "releaseDate": "2018-08-10",
+    "songs": [
+      {
+        "id": "d13e9114-8e4a-418c-b8f6-c1b326c1d3d9",
+        "albumID": "1444820462",
+        "name": "Ganja Burn",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "109019f2-7fbb-49bf-ae1d-6bd7e4eb0788",
+        "albumID": "1444820462",
+        "name": "Majesty (feat. Eminem)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "9b6cb208-cc92-4fa9-a14c-7d0b3673ebe7",
+        "albumID": "1444820462",
+        "name": "Barbie Dreams",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "485f4e2b-e1ec-43ba-aeae-d8277bc0d2db",
+        "albumID": "1444820462",
+        "name": "Rich Sex (feat. Lil Wayne)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "99e84c5b-0609-428e-b362-23e3f9d2f7f6",
+        "albumID": "1444820462",
+        "name": "Hard White",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "d20d829a-6cd7-4931-9325-802bce874f21",
+        "albumID": "1444820462",
+        "name": "Bed (feat. Ariana Grande)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "e10c5d94-ac49-4dba-b9f1-ee17814d7c21",
+        "albumID": "1444820462",
+        "name": "Thought I Knew You (feat. The Weeknd)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "4fc11898-f983-4d29-b114-f63981faeb31",
+        "albumID": "1444820462",
+        "name": "Run & Hide",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "601bf5c0-915c-40ea-b5d0-331e580c929b",
+        "albumID": "1444820462",
+        "name": "Chun Swae (feat. Swae Lee)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "22e0ba0c-ce50-454c-9cda-bec8ea7da29e",
+        "albumID": "1444820462",
+        "name": "Chun-Li",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "8ea2b6e1-9ae9-4c0b-a1d4-a7014ad3677f",
+        "albumID": "1444820462",
+        "name": "LLC",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "1102dd3b-fd38-474c-ac07-253c6c21e9e2",
+        "albumID": "1444820462",
+        "name": "Good Form",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "5b64e67f-2453-475e-bc1a-47adca58f2ef",
+        "albumID": "1444820462",
+        "name": "Nip Tuck",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "bcb75f54-fdd6-4529-b635-d47fb7fda035",
+        "albumID": "1444820462",
+        "name": "2 Lit 2 Late Interlude",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "fa3e7cdd-9a91-4c62-8e32-261b6cc82ba3",
+        "albumID": "1444820462",
+        "name": "Come See About Me",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "2c1dae79-98ed-4494-8a94-40343e70684e",
+        "albumID": "1444820462",
+        "name": "Sir (feat. Future)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "830ea231-151b-44a1-9803-ae03959fb8ca",
+        "albumID": "1444820462",
+        "name": "Miami",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "adb6979a-a51a-44a7-bae3-b9e70100e697",
+        "albumID": "1444820462",
+        "name": "Coco Chanel (feat. Foxy Brown)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "25f2317c-4117-4766-ad15-dadc8bcbc472",
+        "albumID": "1444820462",
+        "name": "Inspirations Outro",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "422c0a50-2fba-42c2-8667-21d428828c16",
+        "albumID": "1444820462",
+        "name": "Good Form (feat. Lil Wayne)",
+        "artist": "Nicki Minaj"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8c/50/56/8c505623-89b6-1799-65dc-d03242cfe441/18UMGIM36519.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": true,
+    "appleId": 1444820462
+  },
+  {
+    "id": "30ca930f-fc14-4b0a-a9e5-514e9536448e",
+    "title": "Pink Friday",
+    "artist": {
+      "id": "9a4f459c-e749-4667-a50b-42ced2f22f26",
+      "name": "Nicki Minaj"
+    },
+    "releaseDate": "2010-11-22",
+    "songs": [
+      {
+        "id": "84abdeda-2e64-413e-a9db-728c7cb68559",
+        "albumID": "1440909639",
+        "name": "I\u2019m the Best",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "78216b46-cf62-4f03-8eb2-8d0de7155030",
+        "albumID": "1440909639",
+        "name": "Roman's Revenge (feat. Eminem)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "0817d8d8-0ef5-4f74-9c20-824fd037323b",
+        "albumID": "1440909639",
+        "name": "Did It On\u2019em",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "7f8bee79-4b67-4d99-ab4b-e5c68c1ea5b3",
+        "albumID": "1440909639",
+        "name": "Right Thru Me",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "4762f3be-5d01-410b-910d-33f8d6a537a8",
+        "albumID": "1440909639",
+        "name": "Fly (feat. Rihanna)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "6cabdfec-1785-4a36-a0cc-f29d320d2b4d",
+        "albumID": "1440909639",
+        "name": "Save Me",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "bba3fd17-1c35-481d-8672-a58f03086534",
+        "albumID": "1440909639",
+        "name": "Moment 4 Life (feat. Drake)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "e49a5889-5a5e-45ee-99ea-644e7c7f90d8",
+        "albumID": "1440909639",
+        "name": "Check It Out",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "d3a01072-906a-45e5-b4e5-04b8dac39936",
+        "albumID": "1440909639",
+        "name": "Blazin (feat. Kanye West)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "1c48dc26-2f9c-4fa9-97d1-d15b3eac5c52",
+        "albumID": "1440909639",
+        "name": "Here I Am",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "c09f6a91-29d5-4037-9fe9-5fb015263e52",
+        "albumID": "1440909639",
+        "name": "Dear Old Nicki",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "158d131f-27f1-4537-bc7e-2091fad5e613",
+        "albumID": "1440909639",
+        "name": "Your Love",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "b509df48-51db-41d8-99f3-c1565355aaa6",
+        "albumID": "1440909639",
+        "name": "Last Chance (feat. Natasha Bedingfield)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "ca1ab7a6-8346-4d5a-8473-04ad818515c1",
+        "albumID": "1440909639",
+        "name": "Super Bass",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "8fa5f5b1-5b71-41b8-b776-f2ae53f08d19",
+        "albumID": "1440909639",
+        "name": "Blow Ya Mind",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "8294a709-0c91-439f-93e0-710deccc097b",
+        "albumID": "1440909639",
+        "name": "Muny",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "38c77f3c-66d6-46a0-8ec8-5ffcbd688555",
+        "albumID": "1440909639",
+        "name": "Girls Fall Like Dominoes",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "e999666f-0ebf-47e7-b2d1-75c3ba5c7cd4",
+        "albumID": "1440909639",
+        "name": "Roman's Revenge (feat. Lil Wayne)",
+        "artist": "Nicki Minaj"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3f/6a/dc/3f6adcfb-4d27-303e-b964-3710c56800e3/11UMGIM13385.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": true,
+    "appleId": 1440909639
+  },
+  {
+    "id": "be5ab5d8-40fe-4ebd-89a0-f5ab70a19e60",
+    "title": "The Pinkprint",
+    "artist": {
+      "id": "9a4f459c-e749-4667-a50b-42ced2f22f26",
+      "name": "Nicki Minaj"
+    },
+    "releaseDate": "2014-12-15",
+    "songs": [
+      {
+        "id": "188383d3-4e0e-4b91-8449-d87557cba133",
+        "albumID": "1440892855",
+        "name": "All Things Go",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "30c99c09-b6d1-4543-8aaf-3d04b421dbda",
+        "albumID": "1440892855",
+        "name": "I Lied",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "057fc8bc-630b-4641-8e68-57559d9be8fb",
+        "albumID": "1440892855",
+        "name": "The Crying Game (feat. Jessie Ware)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "e99eb51c-dec7-4331-b6d6-fe5e017872b5",
+        "albumID": "1440892855",
+        "name": "Get on Your Knees (feat. Ariana Grande)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "0fb46e18-d72b-4e97-8454-a567e33c6388",
+        "albumID": "1440892855",
+        "name": "Feeling Myself (feat. Beyonc\u00e9)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "e64b4d7b-d93b-4b76-b404-938c352d2a3c",
+        "albumID": "1440892855",
+        "name": "Only (feat. Drake, Lil Wayne & Chris Brown)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "3f4646da-483e-42f1-9976-756b8f5e6898",
+        "albumID": "1440892855",
+        "name": "Want Some More",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "53b0abc8-aae4-471d-93c0-e4f0fd895332",
+        "albumID": "1440892855",
+        "name": "Four Door Aventador",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "a46f6abe-fab1-4b28-87a2-51ea68aed726",
+        "albumID": "1440892855",
+        "name": "Favorite (feat. Jeremih)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "a854dd33-4336-430c-99e3-7da4d61dcd8b",
+        "albumID": "1440892855",
+        "name": "Buy a Heart (feat. Meek Mill)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "a6e32b95-c60f-4996-94f1-9721e3958113",
+        "albumID": "1440892855",
+        "name": "Trini Dem Girls (feat. LunchMoney Lewis)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "661cf980-321d-4e3d-aa5d-be622e18f0f3",
+        "albumID": "1440892855",
+        "name": "Anaconda",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "5d3bc151-d0bf-4f33-8174-e6e5828dc253",
+        "albumID": "1440892855",
+        "name": "The Night Is Still Young",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "9badcbfd-20ca-436e-ad2c-733d79e8ffb4",
+        "albumID": "1440892855",
+        "name": "Pills n Potions",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "b32032db-d7d6-4e7a-b1f3-83fe0d5b79d8",
+        "albumID": "1440892855",
+        "name": "Bed of Lies (feat. Skylar Grey)",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "b7e2a9ed-f2a5-4f46-ab1b-e0a99003970d",
+        "albumID": "1440892855",
+        "name": "Grand Piano",
+        "artist": "Nicki Minaj"
+      },
+      {
+        "id": "4ea1c980-6bab-4c5e-99e0-d1aae272b481",
+        "albumID": "1440892855",
+        "name": "Truffle Butter (feat. Drake & Lil Wayne)",
+        "artist": "Nicki Minaj"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/62/dc/6c62dcf4-b35c-f12e-28e6-d08b878bbeb5/14UMGIM59292.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1440892855
+  },
+  {
+    "id": "4d6b31fb-940c-4885-bb93-899e230a9044",
+    "title": "Get Rich or Die Tryin' (Bonus Track Version)",
+    "artist": {
+      "id": "6920cb02-da6a-4bf5-8d39-6e380b35f104",
+      "name": "50 Cent"
+    },
+    "releaseDate": "2003-02-06",
+    "songs": [
+      {
+        "id": "fcf1c3fb-4c9f-4ae3-9298-46e3b6673c9f",
+        "albumID": "1440907378",
+        "name": "Intro",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "0d6b8f08-20b3-4573-a47c-3b862d074342",
+        "albumID": "1440907378",
+        "name": "What Up Gangsta",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "6ed5620d-d53d-45ef-aa52-7b65239e2d1c",
+        "albumID": "1440907378",
+        "name": "Patiently Waiting (feat. Eminem)",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "5f985cd9-fb94-40da-9142-3d1e39d591ed",
+        "albumID": "1440907378",
+        "name": "Many Men (Wish Death)",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "3bf2610d-9869-4bb8-8910-676cf18229d4",
+        "albumID": "1440907378",
+        "name": "In da Club",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "c55cd3be-c0d1-4b8f-9e6e-2633422d1209",
+        "albumID": "1440907378",
+        "name": "High All the Time",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "760fd5aa-ee8e-449e-960f-06b3a4c8536c",
+        "albumID": "1440907378",
+        "name": "If I Can't",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "3cee9166-c084-4b62-bbb6-a56f0ecde8fa",
+        "albumID": "1440907378",
+        "name": "Blood Hound (feat. Young Buck)",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "3463d794-4f79-490f-b4bc-8f1cc8aafecf",
+        "albumID": "1440907378",
+        "name": "Back Down",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "5048a3d9-0537-4ba3-a67a-20ea6761a346",
+        "albumID": "1440907378",
+        "name": "P.I.M.P.",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "e894de75-46dc-4c9b-aaae-e6887c32d087",
+        "albumID": "1440907378",
+        "name": "Like My Style (feat. Tony Yayo)",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "aa10b1f4-7561-4217-871e-9872133ea68f",
+        "albumID": "1440907378",
+        "name": "Poor Lil Rich",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "a0d014bd-81fb-4e8f-8778-1b1bfc9c3155",
+        "albumID": "1440907378",
+        "name": "21 Questions (feat. Nate Dogg)",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "4e63fc0b-77af-47b4-b355-3177ee4dfc2d",
+        "albumID": "1440907378",
+        "name": "Don't Push Me (feat. Lloyd Banks & Eminem)",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "352faabf-0ccc-4e97-a8a2-576df77c7854",
+        "albumID": "1440907378",
+        "name": "Gotta Make It to Heaven",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "bbc6d4d1-cf83-4171-85fe-b527fd86a042",
+        "albumID": "1440907378",
+        "name": "Wanksta (Soundtrack Version)",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "e8ada992-80ff-4df5-b710-df91158d5576",
+        "albumID": "1440907378",
+        "name": "U Not Like Me",
+        "artist": "50 Cent"
+      },
+      {
+        "id": "926009e1-85e3-442a-864e-fa20bc79b236",
+        "albumID": "1440907378",
+        "name": "Life's On the Line",
+        "artist": "50 Cent"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1440907378
+  },
+  {
+    "id": "943d9004-9683-4ef4-8ae5-a069a84d3138",
+    "title": "Supa Dupa Fly",
+    "artist": {
+      "id": "99f8b759-00c4-4663-9649-1f62389517f8",
+      "name": "Missy Elliott"
+    },
+    "releaseDate": "1997-07-15",
+    "songs": [
+      {
+        "id": "d417a115-726d-425f-8b75-3d7edb494a82",
+        "albumID": "302943316",
+        "name": "Busta's Intro",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "b314965f-ad6a-493f-a785-7dfdb5644935",
+        "albumID": "302943316",
+        "name": "Hit Em Wit Da Hee (feat. Lil' Kim & Mocha)",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "0548c344-de2e-4b51-b10b-5839123b4ca6",
+        "albumID": "302943316",
+        "name": "Sock It 2 Me",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "62ccac39-5e63-4afb-8d49-5f93e4e25665",
+        "albumID": "302943316",
+        "name": "The Rain (Supa Dupa Fly)",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "f8d5e2ff-ac0f-4d76-803a-b315d3dbfeaa",
+        "albumID": "302943316",
+        "name": "Beep Me 911",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "373c0f31-b5b1-4706-913a-1fdf262dda08",
+        "albumID": "302943316",
+        "name": "They Don't Wanna F*** Wit Me",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "b4e41065-6ebf-4854-aa2b-6515a72263e1",
+        "albumID": "302943316",
+        "name": "Pass Da Blunt",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "58da5aa5-62eb-49c7-adfa-ac40d0e4f746",
+        "albumID": "302943316",
+        "name": "Bite Our Style",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "acf67002-1b97-49d5-9262-341d527ec811",
+        "albumID": "302943316",
+        "name": "Friendly Skies",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "859785c8-aa2f-48f1-87ff-0e25f59b16de",
+        "albumID": "302943316",
+        "name": "Best Friends",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "a0f82d29-76a6-43e5-bb19-78e17819ff02",
+        "albumID": "302943316",
+        "name": "Don't Be Coming (In My Face)",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "3f5d5250-93a6-4bd1-99a4-0743b116d294",
+        "albumID": "302943316",
+        "name": "Izzy Izzy Ahh",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "c7c5bbab-8581-4111-a98a-cdeb13f8a064",
+        "albumID": "302943316",
+        "name": "Why You Hurt Me",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "5e2d3646-a219-4bf9-9521-19b3a9c321ab",
+        "albumID": "302943316",
+        "name": "I'm Talkin'",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "f81006b9-41b8-4cc5-aad1-3d628b2f7507",
+        "albumID": "302943316",
+        "name": "Gettaway",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "2dee116e-fe8d-4005-aae0-2d75b07f59f1",
+        "albumID": "302943316",
+        "name": "Busta's Outro",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "a3c22dd2-e27d-4185-a3f4-86b925b230b1",
+        "albumID": "302943316",
+        "name": "Missy's Finale",
+        "artist": "Missy Elliott"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2e/7e/ca/2e7ecae3-80ad-8900-8cdd-deaa36b5cf36/mzi.trpdmrfr.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 302943316
+  },
+  {
+    "id": "147d8f14-e8e1-4f69-9cea-757f3463ffdb",
+    "title": "Da Real World",
+    "artist": {
+      "id": "99f8b759-00c4-4663-9649-1f62389517f8",
+      "name": "Missy Elliott"
+    },
+    "releaseDate": "1998-03-31",
+    "songs": [
+      {
+        "id": "46bbdace-fe09-452d-94e1-d7d521240ab0",
+        "albumID": "302939733",
+        "name": "Mysterious (Intro)",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "9ef12f33-a00b-4bee-9d14-5b459c9676a2",
+        "albumID": "302939733",
+        "name": "Beat Biters",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "6680b00d-5f5e-4817-9839-fb829594189e",
+        "albumID": "302939733",
+        "name": "Busa Rhyme",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "70103156-1860-4b0b-9ab1-81121766c04e",
+        "albumID": "302939733",
+        "name": "All N My Grill (feat. Big Boi)",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "9473fbe7-d060-4090-845b-1b17b2f68c3f",
+        "albumID": "302939733",
+        "name": "Dangerous Mouths",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "a54aedc9-d109-4fec-a5dd-37eee1d22dbd",
+        "albumID": "302939733",
+        "name": "Hot Boyz",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "2704ed2b-72ea-4e95-ae64-47f8e143363f",
+        "albumID": "302939733",
+        "name": "You Don't Know",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "489785c2-6129-47ab-97b2-8eed6da9094c",
+        "albumID": "302939733",
+        "name": "Mr. DJ",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "2906a544-aef2-4d3d-977c-f7cf92d2207d",
+        "albumID": "302939733",
+        "name": "Checkin' For You",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "1cfc6248-f41e-4968-aa09-bff975e8ea69",
+        "albumID": "302939733",
+        "name": "Stickin' Chickens",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "ec447b4a-2934-423c-820b-2c6baff6a1b1",
+        "albumID": "302939733",
+        "name": "Smooth Chick",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "b2cb97de-2368-4a3d-9cf2-930705db4e33",
+        "albumID": "302939733",
+        "name": "We Did It",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "fb0be798-1bb5-418c-8c92-0923a6c99866",
+        "albumID": "302939733",
+        "name": "Throw Up Your Hands (Interlude)",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "c18278a7-073d-406f-891f-1bb765af414e",
+        "albumID": "302939733",
+        "name": "She's a Bitch",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "394e78ef-2198-468d-8070-da625cc12d40",
+        "albumID": "302939733",
+        "name": "U Can't Resist",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "174b19d4-5f96-4ddd-bfef-187822374e55",
+        "albumID": "302939733",
+        "name": "Crazy Feelings",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "d81ca4be-4771-4b45-838b-4dd9b0859fe8",
+        "albumID": "302939733",
+        "name": "Religious Blessings (Outro)",
+        "artist": "Missy Elliott"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/e5/1c/59/mzi.lqrjpawp.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 302939733
+  },
+  {
+    "id": "1e9ddc2d-5fc7-4e28-809f-05bed944d05e",
+    "title": "The Cookbook",
+    "artist": {
+      "id": "99f8b759-00c4-4663-9649-1f62389517f8",
+      "name": "Missy Elliott"
+    },
+    "releaseDate": "2005-07-04",
+    "songs": [
+      {
+        "id": "ab8bc14d-d9e4-4a4c-918b-a6cf26da60ac",
+        "albumID": "73240848",
+        "name": "Joy (feat. Mike Jones)",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "75fb2cd7-b23c-4604-9386-c32d4371840f",
+        "albumID": "73240848",
+        "name": "Partytime",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "fe118463-7075-4184-94b8-8d4f3fc54a83",
+        "albumID": "73240848",
+        "name": "Irresistible Delicious (feat. Slick Rick)",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "16eb3d26-65c9-4b83-ba42-a8187ed2fd40",
+        "albumID": "73240848",
+        "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "b58bb49b-1cb2-46d3-8a28-984575caff37",
+        "albumID": "73240848",
+        "name": "My Struggles (feat. Mary J. Blige & Grand Puba)",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "7111cbd6-39de-4d31-b401-1fa7741d644b",
+        "albumID": "73240848",
+        "name": "Meltdown",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "b6b453fc-9eca-4016-862a-1c5b2c3ef0b3",
+        "albumID": "73240848",
+        "name": "On & On",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "75f64d3b-151b-4330-9f34-a5df1e287679",
+        "albumID": "73240848",
+        "name": "We Run This",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "2db2ec4c-e275-4b31-be01-2ec165bfb2c8",
+        "albumID": "73240848",
+        "name": "Remember When",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "7d71f1a9-8c85-4b80-8f24-bcc59b28fef4",
+        "albumID": "73240848",
+        "name": "4 My Man (feat. Fantasia)",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "2b9b9298-d3fe-4e01-bd86-3f81d5b6f8b2",
+        "albumID": "73240848",
+        "name": "Can't Stop",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "c885011b-1fe6-4a68-8b6e-1f4266f55dc1",
+        "albumID": "73240848",
+        "name": "Teary Eyed",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "a195fcb6-b14b-4daa-90f9-d200a7c96ea7",
+        "albumID": "73240848",
+        "name": "Mommy",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "f3e78e0e-1c4b-4a6c-a932-63d240b8da27",
+        "albumID": "73240848",
+        "name": "Click Clack",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "7db6ceff-1cd2-4b02-aebf-5c365e43ac43",
+        "albumID": "73240848",
+        "name": "Time and Time Again",
+        "artist": "Missy Elliott"
+      },
+      {
+        "id": "db2c4501-fdd4-4a84-9278-5aa0c5ceab6d",
+        "albumID": "73240848",
+        "name": "Bad Man (feat. Vybez Cartel & M.I.A.)",
+        "artist": "Missy Elliott"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/74/34/58/7434589c-4c48-5334-56b2-aa1388935851/dj.xilerauv.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 73240848
+  },
+  {
+    "id": "87a76b97-505a-4965-af91-a15de156d09f",
+    "title": "We got it from Here... Thank You 4 Your service",
+    "artist": {
+      "id": "bc0ee063-0b7e-4957-ac38-5856fb329a44",
+      "name": "A Tribe Called Quest"
+    },
+    "releaseDate": "2016-11-11",
+    "songs": [
+      {
+        "id": "d4c0eaae-4bcc-4124-8cea-0cf294ca1daf",
+        "albumID": "1174628861",
+        "name": "The Space Program",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "dc853ae1-0959-4b73-94a3-161a271ccf84",
+        "albumID": "1174628861",
+        "name": "Mobius",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "9e098d18-909f-49fb-b0ae-678b66bb08ba",
+        "albumID": "1174628861",
+        "name": "We the People....",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "9bc40302-82cf-4617-9e5e-be28a6531580",
+        "albumID": "1174628861",
+        "name": "Black Spasmodic",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "1e020cdc-f208-485f-9f69-d00ae843e975",
+        "albumID": "1174628861",
+        "name": "Whateva Will Be",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "40df0bb6-9e3a-4778-993f-0b24b399a810",
+        "albumID": "1174628861",
+        "name": "The Killing Season",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "a91746d0-104c-4bc6-8eec-03dc61cc2d36",
+        "albumID": "1174628861",
+        "name": "Solid Wall of Sound",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "c9ae684f-24b9-4649-a60a-3cb17f53b98e",
+        "albumID": "1174628861",
+        "name": "Lost Somebody",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "7323d73c-5966-485c-9dbc-01d15dac1c50",
+        "albumID": "1174628861",
+        "name": "Dis Generation",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "812d0102-c98c-4dd3-bdee-1bd9e5a2a54a",
+        "albumID": "1174628861",
+        "name": "Movin Backwards",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "32a46f86-5eb1-43ed-80e2-ec0ce376dfcc",
+        "albumID": "1174628861",
+        "name": "Kids...",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "689be4e6-84a1-4399-87f9-b6da21f86fd3",
+        "albumID": "1174628861",
+        "name": "Conrad Tokyo",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "ce53e51e-180d-4bef-ad12-967c98e97f1c",
+        "albumID": "1174628861",
+        "name": "Melatonin",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "3e900f53-adfb-4119-8de8-2cf81b5ac05a",
+        "albumID": "1174628861",
+        "name": "Ego",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "583fc6b2-93fe-4673-b36d-d513f3601e88",
+        "albumID": "1174628861",
+        "name": "Enough!!",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "842db8af-d2c3-4a1a-a7f2-2395435a13b0",
+        "albumID": "1174628861",
+        "name": "The Donald",
+        "artist": "A Tribe Called Quest"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/12/b4/0c/12b40cae-c845-1729-a374-cb5f3619d061/886446229980.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1174628861
+  },
+  {
+    "id": "e1d35e02-aefa-4ec4-a5c7-ca1a3f05be22",
+    "title": "The Low End Theory",
+    "artist": {
+      "id": "bc0ee063-0b7e-4957-ac38-5856fb329a44",
+      "name": "A Tribe Called Quest"
+    },
+    "releaseDate": "1996-01-01",
+    "songs": [
+      {
+        "id": "b0ec4b79-6d8c-4150-a427-79ddd9919da9",
+        "name": "Excursions",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "943aa588-70b8-45e7-8c17-1440baefdabb",
+        "name": "Buggin' Out",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "65bac5f3-2e65-4490-bd4e-e4a4fd4f2a5d",
+        "name": "Rap Promoter",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "d09b24e0-c05b-4e4e-8806-779a609fbac3",
+        "name": "Butter",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "55e4c2b1-8260-4640-8181-2e843ddd7820",
+        "name": "Verses From The Abstract",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "060ffcf9-fa9b-4973-a45a-1a651592a71e",
+        "name": "Show Business",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "cf4213e4-9d2e-41a9-aa61-015b3935a8fd",
+        "name": "Vibes And Stuff",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "81dfe902-31c7-49b2-b415-c2a6ba1cf5c0",
+        "name": "The Infamous Date Rape",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "fe71886b-af3b-4ee3-ae92-e79b9385b22c",
+        "name": "Check The Rhime",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "db126297-1d08-4b6b-9fae-3f7d97556ae2",
+        "name": "Everything Is Fair",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "0a9fc447-83f5-4f05-a6e4-c01871d8aa08",
+        "name": "Jazz (We've Got)",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "eccd0e59-f892-4998-8c4f-191f78670e9b",
+        "name": "Skypager",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "afd7365b-5466-4640-b95f-1f91f61829b8",
+        "name": "What?",
+        "artist": "A Tribe Called Quest"
+      },
+      {
+        "id": "e03d4bc8-1530-4115-84e1-509d93c9fd38",
+        "name": "Scenario",
+        "artist": "A Tribe Called Quest"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/14/c8/e014c80a-425b-e01a-1124-cee985bcb5e6/dj.qafpkddz.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 390411
+  },
+  {
+    "id": "8040cb78-2afc-43b3-88bd-f9ace6119e84",
+    "title": "Hard Core",
+    "artist": {
+      "id": "7a5e8d47-37f2-4ed4-9188-6081cf3b120f",
+      "name": "Lil' Kim"
+    },
+    "releaseDate": "1996-01-01",
+    "songs": [
+      {
+        "id": "2d111d73-24b8-4194-984c-4068c4861404",
+        "name": "Intro In A-Minor",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "78e6afd6-718c-4cf2-bed6-3c5a1174dbec",
+        "name": "Big Momma Thang",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "e158ae8b-dd4e-47a7-8423-54e4a677588d",
+        "name": "No Time",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "b57092ce-b95a-487b-bcb4-e33d1fb5a460",
+        "name": "Spend A Little Doe",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "0b2fb5d3-debc-45e8-a7f4-d85920d672c5",
+        "name": "Take It!",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "69e7d0c5-08b6-422b-ad77-df706d1774e9",
+        "name": "Crush On You",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "8e1fdda7-5a4a-4ab7-aced-f81c9ff77843",
+        "name": "Drugs",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "535decc6-372b-4041-8801-a8236cfc3a6b",
+        "name": "Scheamin'",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "5a8ff75a-11cb-419b-84f9-b3c09e640d27",
+        "name": "Queen B@#$H",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "b4da6c36-77cc-47fb-8fdf-64acabc184d9",
+        "name": "Dreams",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "0e34f3be-066a-44a3-8fd3-d7b767844772",
+        "name": "M.A.F.I.A. Land",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "e5931d63-f8ef-4a79-901a-873f054aab4b",
+        "name": "We Don't Need It",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "1d784c89-2917-4a5b-b8f0-d146dab08b7b",
+        "name": "Not Tonight",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "cffa01ac-7f86-4244-878b-bd99bcc6f7bd",
+        "name": "Player Haters",
+        "artist": "Lil' Kim"
+      },
+      {
+        "id": "efecde3b-01e7-432a-a6a8-e158f5c49661",
+        "name": "Fuck You",
+        "artist": "Lil' Kim"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d4/d2/a0/d4d2a039-7040-7735-89fd-3cab7baa7453/mzi.noewtlfv.jpg/600x592bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 226477
+  },
+  {
+    "id": "67dac0ea-c0ff-4da0-950a-a7a7a5af9d12",
+    "title": "Eve",
+    "artist": {
+      "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+      "name": "Rapsody"
+    },
+    "releaseDate": "2019-08-23",
+    "songs": [
+      {
+        "id": "37fc517b-37a8-4747-ae3a-5a5b91d12284",
+        "albumID": "1476016760",
+        "name": "Nina",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "b9868224-e990-4116-b1a4-5774abbc4ee9",
+        "albumID": "1476016760",
+        "name": "Cleo",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "13ccb213-7656-4b87-b134-95ad1181526e",
+        "albumID": "1476016760",
+        "name": "Aaliyah",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "b1754be0-79fd-4b70-ac09-381164d876d1",
+        "albumID": "1476016760",
+        "name": "Oprah (feat. Leikeli47)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "ace60dc8-0490-4167-ad72-daf96b37385d",
+        "albumID": "1476016760",
+        "name": "Whoopi",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "ec774008-fa16-4673-acb1-66541118178b",
+        "albumID": "1476016760",
+        "name": "Serena",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "45d1d17c-a3e7-4503-8329-209025d322e9",
+        "albumID": "1476016760",
+        "name": "Tyra",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "fe2b2a0b-d00b-4d6b-97fc-611282614f5e",
+        "albumID": "1476016760",
+        "name": "Maya (feat. K.Roosevelt)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "22141650-9a6f-4436-b976-79386a3f1254",
+        "albumID": "1476016760",
+        "name": "Ibtihaj (feat. D'Angelo & GZA)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "8ba7bbd2-faa0-4834-9dde-1c33203f00ae",
+        "albumID": "1476016760",
+        "name": "Myrlie (feat. Mereba)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "59c4c8d6-b60c-4d57-ac02-622f864a3d39",
+        "albumID": "1476016760",
+        "name": "Reyna's Interlude",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "8f1b7704-86d7-46c4-83d9-86260e6b0422",
+        "albumID": "1476016760",
+        "name": "Michelle (feat. Elle Varner)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "00d6e39a-9fa1-4230-af98-453e34d4b5cf",
+        "albumID": "1476016760",
+        "name": "Iman (feat. SiR & JID)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "b45528a1-68f1-4611-a2c4-b7b071029f7c",
+        "albumID": "1476016760",
+        "name": "Hatshepsut (feat. Queen Latifah)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "60da3d90-8e17-488d-8028-0028230034a3",
+        "albumID": "1476016760",
+        "name": "Sojourner (feat. J. Cole)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "0e927937-e89f-456d-b60e-1cd330342873",
+        "albumID": "1476016760",
+        "name": "Afeni (feat. PJ Morton)",
+        "artist": "Rapsody"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/44/29/95/442995c9-7cf7-8bbd-eac3-9ebcd507cb78/19UMGIM73088.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1476016760
+  },
+  {
+    "id": "36ea502e-ff02-4580-810f-1d9dbc398fa3",
+    "title": "Beauty and the Beast",
+    "artist": {
+      "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+      "name": "Rapsody"
+    },
+    "releaseDate": "2015-04-07",
+    "songs": [
+      {
+        "id": "9799f51c-aefb-4558-b5d7-1b3032b395ef",
+        "albumID": "983028424",
+        "name": "Feel It",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "3978326c-b634-4023-9ba2-8407556b1bf4",
+        "albumID": "983028424",
+        "name": "Who I Am",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "16d93557-ad72-4fad-95dd-edac54c6abd9",
+        "albumID": "983028424",
+        "name": "Hard To Choose",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "0673e2d9-cbf4-474d-980a-679eb16fa957",
+        "albumID": "983028424",
+        "name": "Drama",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "4344b25d-efdc-480c-8352-3fdde7457d01",
+        "albumID": "983028424",
+        "name": "Waiting On It (Baby Girl)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "3e9ea1c4-578c-44ac-ba28-c0cae64435cd",
+        "albumID": "983028424",
+        "name": "The World",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "7d5cef0c-fb75-4cb9-ae15-cd568ffb036c",
+        "albumID": "983028424",
+        "name": "Godzilla",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "316634ca-c82e-4d42-bfdc-dcf1245f8476",
+        "albumID": "983028424",
+        "name": "The Man",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "240cc0aa-0913-497a-8cf7-ea3e996b0794",
+        "albumID": "983028424",
+        "name": "Coming For You",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "d7c128e4-bccf-4b3d-bcf7-5e3602b30ee2",
+        "albumID": "983028424",
+        "name": "Forgive Me (I'm Sorry)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "eaf19181-f7d0-44cc-a039-a0d1131b296c",
+        "albumID": "983028424",
+        "name": "Don't Need It (feat. Merna)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "09f983e1-569b-4541-836b-9adde016a61a",
+        "albumID": "983028424",
+        "name": "My Little Lover",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "1c8e4dc0-af4c-482f-909f-1066fe031e04",
+        "albumID": "983028424",
+        "name": "Believe Her (feat. Merna)",
+        "artist": "Rapsody"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/df/8b/52/df8b525e-52ac-21c0-9f27-8365d06f02cd/dj.qpmcvwux.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": true,
+    "appleId": 983028424
+  },
+  {
+    "id": "66957747-0245-4dd2-9f74-444fa14843b4",
+    "title": "Laila's Wisdom",
+    "artist": {
+      "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+      "name": "Rapsody"
+    },
+    "releaseDate": "2017-09-22",
+    "songs": [
+      {
+        "id": "31d1f1e0-56c1-4371-96d4-9570a164c588",
+        "albumID": "1442288486",
+        "name": "Laila\u2019s Wisdom",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "85a76726-e5f3-4862-bf78-7c5169efd41f",
+        "albumID": "1442288486",
+        "name": "Power (feat. Kendrick Lamar & Lance Skiiiwalker)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "47139107-94c3-49f2-8a25-83834df7148e",
+        "albumID": "1442288486",
+        "name": "Chrome (Like Ooh)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "4a5d1ef4-03d4-454f-b2a9-36e3c0a266c7",
+        "albumID": "1442288486",
+        "name": "Pay Up",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "2011fab1-9490-4cfd-8832-73601d210c1e",
+        "albumID": "1442288486",
+        "name": "Ridin\u2019 (feat. GQ)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "bfaacd56-134b-40f6-b15e-8af45e0f679e",
+        "albumID": "1442288486",
+        "name": "Sassy",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "5570223b-898a-42a9-820d-da90a108844d",
+        "albumID": "1442288486",
+        "name": "Nobody (feat. Anderson .Paak, Black Thought & Moonchild)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "16691a6f-e881-4d17-9c87-8c9f5a33153d",
+        "albumID": "1442288486",
+        "name": "Black & Ugly (feat. BJ the Chicago Kid)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "8987b6a1-96b0-45c1-9a6e-8c00d658e329",
+        "albumID": "1442288486",
+        "name": "You Should Know (feat. Busta Rhymes)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "0e0b7aa7-0d12-4f68-bc50-56a764762e36",
+        "albumID": "1442288486",
+        "name": "A Rollercoaster Jam Called Love (feat. Musiq Soulchild & Gwen Bunn)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "44cb24d4-e488-4423-b177-7e2a5af71870",
+        "albumID": "1442288486",
+        "name": "U Used 2 Love Me (feat. Terrace Martin)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "6a535936-46cf-4d08-8a6f-8181c1b20191",
+        "albumID": "1442288486",
+        "name": "Knock On My Door (feat. BJ the Chicago Kid)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "65cebdea-3f8f-47ce-9a4a-abf9c54d27f5",
+        "albumID": "1442288486",
+        "name": "OooWee (feat. Anderson .Paak)",
+        "artist": "Rapsody"
+      },
+      {
+        "id": "86e924dd-4c06-41ae-9080-846f6b055555",
+        "albumID": "1442288486",
+        "name": "Jesus Coming (feat. Amber Navran)",
+        "artist": "Rapsody"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ed/6d/43/ed6d4396-8b5a-c46c-bbda-f9174e1aa547/00859026007476.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1442288486
+  },
+  {
+    "id": "df30d491-6b08-4a71-a5fd-c9b872e58890",
+    "title": "The Patience",
+    "artist": {
+      "id": "f2efe123-2a19-4c71-87a4-6840f4f34d0b",
+      "name": "Mick Jenkins"
+    },
+    "releaseDate": "2023-08-16",
+    "songs": [
+      {
+        "id": "45e71b42-2d9b-401c-9a2a-be049f1f3de0",
+        "albumID": "1702655654",
+        "name": "Michelin Star",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "733859ac-00ec-4889-aca9-6c33f6b9316d",
+        "albumID": "1702655654",
+        "name": "Show & Tell (feat. Freddie Gibbs)",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "b3ccffb1-1260-4bef-90bd-fa93d5f843cf",
+        "albumID": "1702655654",
+        "name": "Sitting Ducks (feat. Benny The Butcher)",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "8420ef39-8ca1-477a-9de9-efb653a3dd4a",
+        "albumID": "1702655654",
+        "name": "Smoke Break-Dance (feat. JID)",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "07c1b2d0-5c5b-4dde-afa3-fdec2aa9a89c",
+        "albumID": "1702655654",
+        "name": "007",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "cb47c293-7245-4243-9178-3c851fcdbc4e",
+        "albumID": "1702655654",
+        "name": "2004",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "f2084109-dc34-46f3-8c46-c3e9cb044f12",
+        "albumID": "1702655654",
+        "name": "ROY G. BIV",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "d89ec2fc-832f-46b7-8b1e-1a39d569d422",
+        "albumID": "1702655654",
+        "name": "Pasta",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "b4217752-fa08-4182-b7a0-aa5aa2c52909",
+        "albumID": "1702655654",
+        "name": "Farm to Table (feat. Vic Mensa)",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "8c13e9bc-1eeb-4e73-9bd0-71a1fab08498",
+        "albumID": "1702655654",
+        "name": "Guapanese",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "f483a382-897d-48b5-81bd-8b68355a6d37",
+        "albumID": "1702655654",
+        "name": "Mop",
+        "artist": "Mick Jenkins"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6d/9f/f4/6d9ff499-3bee-fe20-4452-9e3df881eff4/4050538952810.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1702655654
+  },
+  {
+    "id": "7d4990bc-d4b4-4c06-9e4a-7de8ad0675b9",
+    "title": "Wave[S]",
+    "artist": {
+      "id": "f2efe123-2a19-4c71-87a4-6840f4f34d0b",
+      "name": "Mick Jenkins"
+    },
+    "releaseDate": "2015-08-21",
+    "songs": [
+      {
+        "id": "270e7e07-dc18-47ce-8716-f4cfaea0166b",
+        "albumID": "1504164595",
+        "name": "Alchemy",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "12726045-a15e-426e-b19f-a6ccaf0218c5",
+        "albumID": "1504164595",
+        "name": "Slumber (feat. Saba, Sean Deaux & Donnie Trumpet)",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "4e66d6fd-c07b-4217-b1b1-61efb587eea4",
+        "albumID": "1504164595",
+        "name": "Get up Get Down",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "f1ab70f1-8ea0-4be1-a097-94b57a6c9583",
+        "albumID": "1504164595",
+        "name": "Your Love",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "6fa1cdf0-891e-4c51-8923-2d4b4a6aedb7",
+        "albumID": "1504164595",
+        "name": "Piano",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "3d7f2093-8ec8-4be2-892b-1564373b250e",
+        "albumID": "1504164595",
+        "name": "The Giver",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "62940d21-a4f0-4d77-9564-f3e3ccb3706c",
+        "albumID": "1504164595",
+        "name": "40 Below",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "7f2ff243-8f15-4691-825d-2bcd73ed3a2d",
+        "albumID": "1504164595",
+        "name": "P's & Q's",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "e1c201fa-ce62-400a-ba89-0a7258a1a6aa",
+        "albumID": "1504164595",
+        "name": "Perception (feat. The Mind)",
+        "artist": "Mick Jenkins"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/42/06/5c/42065c6e-1d95-36a0-4510-577751f51460/00886445411126_Cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1504164595
+  },
+  {
+    "id": "84d5321a-7e17-4b55-ac4e-ddc43778c79c",
+    "title": "The Circus",
+    "artist": {
+      "id": "f2efe123-2a19-4c71-87a4-6840f4f34d0b",
+      "name": "Mick Jenkins"
+    },
+    "releaseDate": "2020-01-10",
+    "songs": [
+      {
+        "id": "3b2ed3e2-e35f-46c9-a4d6-3aedd4319c0b",
+        "albumID": "1497820580",
+        "name": "Same Ol",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "3245ae04-ed8e-41fc-a615-d4e11d64c060",
+        "albumID": "1497820580",
+        "name": "Carefree",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "f429d98c-d9dd-481e-972e-43854b8bd3e0",
+        "albumID": "1497820580",
+        "name": "The Light (feat. EARTHGANG)",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "ed0f3a17-a84f-4e27-806d-49f98ac2acf1",
+        "albumID": "1497820580",
+        "name": "Flaunt",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "ec3c63ac-b164-4878-a678-213bc7b782a2",
+        "albumID": "1497820580",
+        "name": "The Fit",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "898b6157-a7b3-4842-bd75-f00c81bd48e5",
+        "albumID": "1497820580",
+        "name": "I'm Convinced",
+        "artist": "Mick Jenkins"
+      },
+      {
+        "id": "30a91570-d338-417f-8c52-6d1f99bf16b7",
+        "albumID": "1497820580",
+        "name": "Different Scales",
+        "artist": "Mick Jenkins"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/47/a3/c9/47a3c9c4-eb08-ec7d-181c-cd3e5b2bcd94/192641437328_Cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1497820580
+  },
+  {
+    "id": "f8f297df-b944-45da-ae71-e6a6233c7c1d",
+    "title": "B4.DA.$$",
+    "artist": {
+      "id": "d80ec965-58e6-4a38-a7a4-ce46568d5b5c",
+      "name": "Joey Bada$$"
+    },
+    "releaseDate": "2015-01-20",
+    "songs": [
+      {
+        "id": "9b08fc3a-8a6e-4f53-8989-a42f8acc411f",
+        "albumID": "1503618871",
+        "name": "Save the Children",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "1931bb7c-4ad3-4798-8713-9832b5138cd2",
+        "albumID": "1503618871",
+        "name": "Greenbax (Introlude) [feat. Kirk Knight]",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "ea943924-093e-4bfc-bbd2-76b59c0d2ec0",
+        "albumID": "1503618871",
+        "name": "Paper Trail$",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "33330368-43cc-4900-8012-1ac7c423a386",
+        "albumID": "1503618871",
+        "name": "Piece of Mind",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "6fa23f0b-fc29-4739-a70a-c6ec03919f5d",
+        "albumID": "1503618871",
+        "name": "Big Dusty",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "38f279de-7667-48f0-9b6b-cbbf2e18c403",
+        "albumID": "1503618871",
+        "name": "Hazeus View",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "3563bbf4-bf8d-425f-a753-be97c710fed4",
+        "albumID": "1503618871",
+        "name": "Like Me (feat. BJ the Chicago Kid)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "4b4f600a-5917-4698-a7e4-074ebc8e2d06",
+        "albumID": "1503618871",
+        "name": "Belly of the Beast (feat. Chronixx)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "cec15217-7125-4b57-a436-c54c108668bc",
+        "albumID": "1503618871",
+        "name": "No. 99",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "65391f0a-e069-4a8d-bd64-b1ed1275e015",
+        "albumID": "1503618871",
+        "name": "Christ Conscious",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "bda1dd1e-4a97-4afb-8182-dc96cf264c9f",
+        "albumID": "1503618871",
+        "name": "On & On (feat. Maverick Sabre & Dyemond Lewis)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "2246519d-981f-44b3-8d89-846c3da23b64",
+        "albumID": "1503618871",
+        "name": "Escape 120 (feat. Raury)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "d436494d-fd4d-4c35-9eb4-9bf0e7cd6ddf",
+        "albumID": "1503618871",
+        "name": "Black Beetles",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "96cb0690-7844-44a1-97a0-39614477649b",
+        "albumID": "1503618871",
+        "name": "O.C.B.",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "2c2e5373-5333-40f1-aaea-535da6d17600",
+        "albumID": "1503618871",
+        "name": "Curry Chicken",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "8a412b78-6d3c-4305-8bec-2572db988b31",
+        "albumID": "1503618871",
+        "name": "Run Up on Ya (feat. Action Bronson & Elle Varner) [Bonus]",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "f4779714-9da8-418b-bb9e-37087ce4dbee",
+        "albumID": "1503618871",
+        "name": "Teach Me (feat. Kiesza) [Bonus]",
+        "artist": "Joey Bada$$"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/29/d6/75/29d675a9-3170-7741-3900-24e515e9ff0d/00886445002089_Cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1503618871
+  },
+  {
+    "id": "84ff74cc-6aed-4b9c-b6eb-86e978d133e8",
+    "title": "2000",
+    "artist": {
+      "id": "d80ec965-58e6-4a38-a7a4-ce46568d5b5c",
+      "name": "Joey Bada$$"
+    },
+    "releaseDate": "2022-07-22",
+    "songs": [
+      {
+        "id": "39681a3d-808c-49f4-aacd-61fdc3bc4081",
+        "albumID": "1635623627",
+        "name": "The Baddest (feat. Diddy)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "b605dae6-c490-4c7f-95d8-7abd399aa858",
+        "albumID": "1635623627",
+        "name": "Make Me Feel",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "843f95bb-07a7-46ee-8ae6-9519734ae804",
+        "albumID": "1635623627",
+        "name": "Where I Belong",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "2e620781-aac8-451a-93c0-5732a8567b72",
+        "albumID": "1635623627",
+        "name": "Brand New 911 (feat. Westside Gunn)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "577bb611-6032-4936-9bc9-6dbc87cbafae",
+        "albumID": "1635623627",
+        "name": "Cruise Control",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "c9fd1495-f31c-4c1c-97dc-fc7ba03b280c",
+        "albumID": "1635623627",
+        "name": "Eulogy",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "f13f890e-cf32-4513-ae3a-1777dfd19962",
+        "albumID": "1635623627",
+        "name": "Zipcodes",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "0319e9fa-4ccb-4b92-bcc8-df87ad7ffffe",
+        "albumID": "1635623627",
+        "name": "One of Us (feat. Larry June)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "c99caf63-6881-4fa7-95b3-ad63ad163deb",
+        "albumID": "1635623627",
+        "name": "Welcome Back (feat. Chris Brown & Capella Grey)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "b66de4cd-79b3-44d1-8005-3c52e79944d2",
+        "albumID": "1635623627",
+        "name": "Show Me",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "a75e3b44-edcd-4d02-a472-adc8fdf763d6",
+        "albumID": "1635623627",
+        "name": "Wanna Be Loved (feat. JID)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "15842eee-c1e6-447c-b4d5-faadf8d4f7af",
+        "albumID": "1635623627",
+        "name": "Head High",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "7d048006-cef0-462b-b946-63e9e8e344f9",
+        "albumID": "1635623627",
+        "name": "Survivors Guilt",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "17737951-6292-42b4-aa45-065ec487747f",
+        "albumID": "1635623627",
+        "name": "Written in the Stars",
+        "artist": "Joey Bada$$"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/42/16/a0/4216a04a-9bdb-cd3d-9530-83aead5ea2b2/196589333827.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1635623627
+  },
+  {
+    "id": "6c3109ff-af20-46e3-ba37-bb84bb32d16f",
+    "title": "ALL-AMERIKKKAN BADA$$",
+    "artist": {
+      "id": "d80ec965-58e6-4a38-a7a4-ce46568d5b5c",
+      "name": "Joey Bada$$"
+    },
+    "releaseDate": "2017-04-07",
+    "songs": [
+      {
+        "id": "a7f7a79a-1203-4b1a-be4a-bdab792dd686",
+        "albumID": "1504166825",
+        "name": "GOOD MORNING AMERIKKKA",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "734d2ace-3f18-4219-8590-83c8d70391c5",
+        "albumID": "1504166825",
+        "name": "FOR MY PEOPLE",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "b4131755-be7f-43b6-86e0-24da80991da7",
+        "albumID": "1504166825",
+        "name": "TEMPTATION",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "402e5d81-7a34-41cd-87e6-a882a40b67cf",
+        "albumID": "1504166825",
+        "name": "LAND OF THE FREE",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "ccbaeeb2-74d6-4f17-b72a-e3af0e170943",
+        "albumID": "1504166825",
+        "name": "DEVASTATED",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "f668d3ac-1251-4f9b-9e28-6c5fb4c3b674",
+        "albumID": "1504166825",
+        "name": "Y U DON'T LOVE ME? (MISS AMERIKKKA)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "3b9d55c6-a03f-4878-96a7-93fb31e7ef0b",
+        "albumID": "1504166825",
+        "name": "ROCKABYE BABY (feat. ScHoolboy Q)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "f09fd996-81ca-4dbb-a899-c431e44f3d6a",
+        "albumID": "1504166825",
+        "name": "RING THE ALARM (feat. Nyck Caution, Kirk Knight & Meechy Darko)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "81aa1359-976b-4d52-94a1-bdfda814af17",
+        "albumID": "1504166825",
+        "name": "SUPER PREDATOR (feat. Styles P)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "87588938-ff9e-4057-919d-bdfbd85589d0",
+        "albumID": "1504166825",
+        "name": "BABYLON (feat. Chronixx)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "de77ec1d-baa5-4ade-8675-d7f463311e50",
+        "albumID": "1504166825",
+        "name": "LEGENDARY (feat. J. Cole)",
+        "artist": "Joey Bada$$"
+      },
+      {
+        "id": "1dc19a7e-bffd-4597-88f8-909edb9ba057",
+        "albumID": "1504166825",
+        "name": "AMERIKKKAN IDOL",
+        "artist": "Joey Bada$$"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6f/29/32/6f2932af-5a49-8678-0490-ef72b7f56dc9/00886446403953_Cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1504166825
+  },
+  {
+    "id": "03709b11-94ce-433e-8ece-1b90df4a7bff",
+    "title": "The Great Escape",
+    "artist": {
+      "id": "6d72e523-e4c8-49e4-9dc7-fc2d90dff3b2",
+      "name": "Larry June & The Alchemist"
+    },
+    "releaseDate": "2023-03-31",
+    "songs": [
+      {
+        "id": "f8e39487-d65f-4760-a355-b9c285c8b114",
+        "albumID": "1680095159",
+        "name": "Turkish Cotton",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "82a0d52d-9be9-47c8-9bb2-4cd16b5f9820",
+        "albumID": "1680095159",
+        "name": "89 Earthquake",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "34204aee-8209-4ecb-8830-09edd404e724",
+        "albumID": "1680095159",
+        "name": "Solid Plan",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "c12930b0-a541-4ca3-be51-e0fb0123ecbc",
+        "albumID": "1680095159",
+        "name": "Palisades, CA",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "d1000f9b-9089-4625-96cc-0cee8463058a",
+        "albumID": "1680095159",
+        "name": "Summer Reign (feat. Ty Dolla $ign)",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "2492eec9-aef0-42d0-b7ce-7d23cbfdc031",
+        "albumID": "1680095159",
+        "name": "Orange Village",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "6785be47-c9a1-40f6-b24f-93bf41c0ee2e",
+        "albumID": "1680095159",
+        "name": "Porsches in Spanish",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "da74454c-f6a6-4d68-a614-3be7d9c76816",
+        "albumID": "1680095159",
+        "name": "Art Talk",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "1a131eca-8128-4861-813c-a512d75ec7e5",
+        "albumID": "1680095159",
+        "name": "Ocean Sounds",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "1b37263f-cd2f-4478-8380-1bf5c7cc12d1",
+        "albumID": "1680095159",
+        "name": "Left No Evidence",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "71f0d56d-07ab-44d5-a9e3-32e6373f59b3",
+        "albumID": "1680095159",
+        "name": "What Happened To The World?",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "72e4fa30-0abd-4bd2-a5e0-b62a97706cd1",
+        "albumID": "1680095159",
+        "name": "\u00c9xito",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "2e5f0cd8-db7c-4c3c-b024-c479008b0708",
+        "albumID": "1680095159",
+        "name": "60 Days",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "12b8814c-ef99-4c6e-9a0a-8c64da3fcbb1",
+        "albumID": "1680095159",
+        "name": "Barrag\u00e1n Lighting",
+        "artist": "Larry June & The Alchemist"
+      },
+      {
+        "id": "7d370060-adef-47f8-b11c-59ddf2f16229",
+        "albumID": "1680095159",
+        "name": "Margie's Candy House",
+        "artist": "Larry June & The Alchemist"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/5f/45/b95f45b1-3670-1af5-c4ca-e600ffac3154/197342116008_cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1680095159
+  },
+  {
+    "id": "51001b8e-a786-4773-b664-421565160017",
+    "title": "ASTROWORLD",
+    "artist": {
+      "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+      "name": "Travis Scott"
+    },
+    "releaseDate": "2018-08-03",
+    "songs": [
+      {
+        "id": "4f81275f-1139-4810-a623-42fc17ba2ff0",
+        "albumID": "1421658111",
+        "name": "STARGAZING",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "2d6b757b-6603-42dc-9f17-b2ae39f120af",
+        "albumID": "1421658111",
+        "name": "CAROUSEL",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "2c7c67d9-45b9-48fc-a390-7e05481bc2fb",
+        "albumID": "1421658111",
+        "name": "SICKO MODE",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "aeca7cb4-5190-4b64-ac4c-e4d080da711c",
+        "albumID": "1421658111",
+        "name": "R.I.P. SCREW",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "4da7cded-eefc-4512-bc8f-812fc855d79f",
+        "albumID": "1421658111",
+        "name": "STOP TRYING TO BE GOD",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "d1525801-2aa8-48c9-a7a7-e4bcf6e4dadd",
+        "albumID": "1421658111",
+        "name": "NO BYSTANDERS",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "566c4a6e-afb7-4536-8c9e-64802a2669c8",
+        "albumID": "1421658111",
+        "name": "SKELETONS",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "0fe94521-447b-4f5b-8ae7-6a16fadf421c",
+        "albumID": "1421658111",
+        "name": "WAKE UP",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "3d7bbf97-c97d-48f5-9949-5cad8f81aff4",
+        "albumID": "1421658111",
+        "name": "5% TINT",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "01bdfaaf-eb16-4bd6-86d6-694b2735e8d5",
+        "albumID": "1421658111",
+        "name": "NC-17",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "fb98b2e6-4a4e-47e2-8c4b-296fb88c5438",
+        "albumID": "1421658111",
+        "name": "ASTROTHUNDER",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "8462c125-3da0-4e3e-a53d-ed2425e24127",
+        "albumID": "1421658111",
+        "name": "YOSEMITE",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "27455d06-bb83-47e0-8e5f-eafce6d8bb60",
+        "albumID": "1421658111",
+        "name": "CAN'T SAY",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "9c552999-8187-4ce6-b27c-fa26c80b4d35",
+        "albumID": "1421658111",
+        "name": "WHO? WHAT!",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "7b42ce60-12ae-4f7b-b0bc-b6e8933bc76a",
+        "albumID": "1421658111",
+        "name": "BUTTERFLY EFFECT",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "0c71dea9-961a-41f5-bd1d-9b6f830a6e1f",
+        "albumID": "1421658111",
+        "name": "HOUSTONFORNICATION",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "ee22b3e0-4527-4768-ad4e-864966b10ad1",
+        "albumID": "1421658111",
+        "name": "COFFEE BEAN",
+        "artist": "Travis Scott"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e7/49/8f/e7498f65-df8f-bead-d6e3-2a8d4d642a79/886447235317.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1421658111
+  },
+  {
+    "id": "0f4ef5a0-2a2d-4f4f-a8ec-e05bf939fb5e",
+    "title": "Rodeo",
+    "artist": {
+      "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+      "name": "Travis Scott"
+    },
+    "releaseDate": "2015-09-04",
+    "songs": [
+      {
+        "id": "4b01d3d0-c329-4a2e-acec-711f1ef262b4",
+        "albumID": "1456179762",
+        "name": "Pornography",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "5e4a8feb-06a6-4da2-a9a0-ce44918943cc",
+        "albumID": "1456179762",
+        "name": "Oh My Dis Side (feat. Quavo)",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "9d935acb-20f9-4bfb-a587-1a198f6a90d4",
+        "albumID": "1456179762",
+        "name": "3500 (feat. Future & 2 Chainz)",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "ff96f77a-b470-4d2e-898a-8eba6eb666d1",
+        "albumID": "1456179762",
+        "name": "Wasted (feat. Juicy J)",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "79db1fad-2f0e-45a7-ab1e-8c0098dcac3f",
+        "albumID": "1456179762",
+        "name": "90210 (feat. Kacy Hill)",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "2f441ba4-086f-4cdc-9978-59187f2152fe",
+        "albumID": "1456179762",
+        "name": "Pray 4 Love (feat. The Weeknd)",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "d0c3b7bf-974d-4ac6-bb12-2d766e69127b",
+        "albumID": "1456179762",
+        "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "ba2047cc-b017-4f20-a0e2-d2fb8854d4f8",
+        "albumID": "1456179762",
+        "name": "Piss On Your Grave (feat. Kanye West)",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "8f605213-4edb-4384-a75b-e9955693bb1d",
+        "albumID": "1456179762",
+        "name": "Antidote",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "9b162ed9-8180-4fb3-bc94-24fc20d27342",
+        "albumID": "1456179762",
+        "name": "Impossible",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "4bcbedc1-df1e-4934-89d5-2967121e68f7",
+        "albumID": "1456179762",
+        "name": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "c38563f6-4e90-4e2c-9761-0ecec52126af",
+        "albumID": "1456179762",
+        "name": "Flying High (feat. Toro y Moi)",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "2333996d-95e6-432e-83ce-6d1e6f07ce7b",
+        "albumID": "1456179762",
+        "name": "I Can Tell",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "c7471881-2a95-420c-8b05-5fd5bce6be6d",
+        "albumID": "1456179762",
+        "name": "Apple Pie",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "6efebe17-d0b3-43b4-8dbb-b2ca628703c8",
+        "albumID": "1456179762",
+        "name": "Ok Alright (feat. ScHoolboy Q)",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "4dd40240-eac3-4caf-9d7c-a5ffe05eb1c3",
+        "albumID": "1456179762",
+        "name": "Never Catch Me",
+        "artist": "Travis Scott"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/fb/f1/6dfbf17d-4032-f585-35ad-f3f9b6859cd9/886445460421.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1456179762
+  },
+  {
+    "id": "67e64d1d-6a87-4161-b60e-b485416ad640",
+    "title": "Birds In The Trap Sing McKnight",
+    "artist": {
+      "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+      "name": "Travis Scott"
+    },
+    "releaseDate": "2016-09-02",
+    "songs": [
+      {
+        "id": "de1e07ea-69bd-4c8b-a286-9fb0cf82b624",
+        "albumID": "1151481435",
+        "name": "the ends",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "d7177868-f81e-433c-880b-e2abc32b8111",
+        "albumID": "1151481435",
+        "name": "way back",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "f406f18a-83cf-4f40-b25a-0dbe146ee1be",
+        "albumID": "1151481435",
+        "name": "coordinate",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "e01b4d12-763c-454d-bfe3-fd00e12001d1",
+        "albumID": "1151481435",
+        "name": "through the late night",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "6d064fe1-a4ca-45ab-9f17-ab12646dce5e",
+        "albumID": "1151481435",
+        "name": "beibs in the trap",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "5b4445d2-2cb6-4257-8586-735add906985",
+        "albumID": "1151481435",
+        "name": "sdp interlude",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "75656f0d-0623-4535-a3b3-d2fbb9bbe8a3",
+        "albumID": "1151481435",
+        "name": "sweet sweet",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "bec5f9e7-749b-422f-9d60-2bfe895434e5",
+        "albumID": "1151481435",
+        "name": "outside",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "4518723e-fadf-4720-a349-c7dfb442057a",
+        "albumID": "1151481435",
+        "name": "goosebumps",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "e64153d0-70f6-4dc0-9200-13872c96f8f7",
+        "albumID": "1151481435",
+        "name": "first take",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "bd7a1158-549b-48c1-990a-fcbd41976a04",
+        "albumID": "1151481435",
+        "name": "pick up the phone",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "6cea30af-a582-4808-a83c-bf0540600ffb",
+        "albumID": "1151481435",
+        "name": "lose",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "2e6c35bd-637c-459c-afdf-f5bc4fd4d909",
+        "albumID": "1151481435",
+        "name": "guidance",
+        "artist": "Travis Scott"
+      },
+      {
+        "id": "bc09d886-666e-42e6-924f-60d7a375cc84",
+        "albumID": "1151481435",
+        "name": "wonderful",
+        "artist": "Travis Scott"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b8/e5/27/b8e527c8-aaf4-c7b7-5562-c479458ed7d9/886446092645.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1151481435
+  },
+  {
+    "id": "506be7f8-7107-448a-ae3d-6a2d77d96f9c",
+    "title": "WUNNA",
+    "artist": {
+      "id": "7e662a62-a554-4320-a902-c2b14d55e984",
+      "name": "Gunna"
+    },
+    "releaseDate": "2020-07-24",
+    "songs": [
+      {
+        "id": "2872447b-9f77-4ba5-b08c-3d81e496d496",
+        "albumID": "1525028341",
+        "name": "200 FOR LUNCH",
+        "artist": "Gunna"
+      },
+      {
+        "id": "c1318d36-6309-43a4-9db9-0b6baa923899",
+        "albumID": "1525028341",
+        "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "3682150c-5c83-4568-b53f-65d0f84dcca8",
+        "albumID": "1525028341",
+        "name": "WUNNA FLO (feat. Yak Gotti)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "bf198c37-ac21-4a38-9231-7ec675dbcd26",
+        "albumID": "1525028341",
+        "name": "GIMMICK",
+        "artist": "Gunna"
+      },
+      {
+        "id": "1ccc371b-e840-4152-bc43-ce8f97459d4c",
+        "albumID": "1525028341",
+        "name": "FEIGNING",
+        "artist": "Gunna"
+      },
+      {
+        "id": "d9868108-11e2-4d08-b94e-413125d71081",
+        "albumID": "1525028341",
+        "name": "STREET SWEEPER (feat. Future)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "08eac6ab-b349-4252-b95e-307ed0174ea5",
+        "albumID": "1525028341",
+        "name": "MOTW",
+        "artist": "Gunna"
+      },
+      {
+        "id": "996ba7e8-976f-4021-b2a6-e2de0e434b89",
+        "albumID": "1525028341",
+        "name": "ONE WATCH (feat. Young Thug)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "2ff8b3f0-1e98-4462-899d-1ee3252d6026",
+        "albumID": "1525028341",
+        "name": "ARGENTINA",
+        "artist": "Gunna"
+      },
+      {
+        "id": "e7db2c1a-5435-42aa-8e97-8fefec57692a",
+        "albumID": "1525028341",
+        "name": "SUN CAME OUT",
+        "artist": "Gunna"
+      },
+      {
+        "id": "90df67c7-8999-48a8-a149-d9fdf74296d0",
+        "albumID": "1525028341",
+        "name": "COOLER THAN A BITCH (feat. Roddy Ricch)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "095e5221-afd7-40ad-9c82-e080a28bceb0",
+        "albumID": "1525028341",
+        "name": "ADDYS (feat. Nechie)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "e2741e5c-051f-4d7c-8359-630fdc188181",
+        "albumID": "1525028341",
+        "name": "DIRTY DIANA",
+        "artist": "Gunna"
+      },
+      {
+        "id": "c9ffe8f3-f1cf-4339-8e75-54f330d3aaae",
+        "albumID": "1525028341",
+        "name": "NOTHING 4 FREE (feat. NAV)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "00968ece-2f6e-4350-876b-1ebbadad7987",
+        "albumID": "1525028341",
+        "name": "TOP FLOOR (feat. Travis Scott)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "1d216d76-ff8f-4f46-8993-34d0fadf7343",
+        "albumID": "1525028341",
+        "name": "SKYBOX",
+        "artist": "Gunna"
+      },
+      {
+        "id": "6f5637f0-43db-493c-94fd-2b711e449d6a",
+        "albumID": "1525028341",
+        "name": "WUNNA",
+        "artist": "Gunna"
+      },
+      {
+        "id": "fff52549-c3c9-4308-b88e-54b000bf031e",
+        "albumID": "1525028341",
+        "name": "BLINDFOLD (feat. Lil Baby)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "a53e8edb-bdf3-459b-be89-a2753a577528",
+        "albumID": "1525028341",
+        "name": "ROCKSTAR BIKERS & CHAINS",
+        "artist": "Gunna"
+      },
+      {
+        "id": "2d70668d-fd9b-44fe-9f63-83ba8c04ac58",
+        "albumID": "1525028341",
+        "name": "MET GALA",
+        "artist": "Gunna"
+      },
+      {
+        "id": "2589b17b-0bd4-4b2d-bae4-96c33b8e84fb",
+        "albumID": "1525028341",
+        "name": "NASTY GIRL / ON CAMERA",
+        "artist": "Gunna"
+      },
+      {
+        "id": "47ff1b68-5e7e-45cc-a39a-2be69f717081",
+        "albumID": "1525028341",
+        "name": "I'M ON SOME",
+        "artist": "Gunna"
+      },
+      {
+        "id": "4a0cc5f8-a0ef-4965-87fd-914a700980d0",
+        "albumID": "1525028341",
+        "name": "RELENTLESS (feat. Lil Uzi Vert)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "50f0e865-3c1c-4c1a-b4a8-271c089757ba",
+        "albumID": "1525028341",
+        "name": "DON'T PLAY AROUND",
+        "artist": "Gunna"
+      },
+      {
+        "id": "df252caa-f429-420e-a96b-4c4d095e8627",
+        "albumID": "1525028341",
+        "name": "DO BETTER",
+        "artist": "Gunna"
+      },
+      {
+        "id": "9ed607c4-dd95-4ec8-911c-4c243ab710d9",
+        "albumID": "1525028341",
+        "name": "FAR (feat. Young Thug)",
+        "artist": "Gunna"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/7f/a6/787fa6d6-6e3d-8b11-ede3-61c262979b3f/810043682046.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": true,
+    "appleId": 1525028341
+  },
+  {
+    "id": "a808ea95-0bd8-4894-a863-b8742c9bf769",
+    "title": "Drip or Drown 2",
+    "artist": {
+      "id": "7e662a62-a554-4320-a902-c2b14d55e984",
+      "name": "Gunna"
+    },
+    "releaseDate": "2019-02-22",
+    "songs": [
+      {
+        "id": "3dd1f323-e938-4663-8033-6f8167110272",
+        "albumID": "1453759561",
+        "name": "Wit It",
+        "artist": "Gunna"
+      },
+      {
+        "id": "5ea4213e-781c-41f2-8e26-d99e3a4530fd",
+        "albumID": "1453759561",
+        "name": "Outstanding",
+        "artist": "Gunna"
+      },
+      {
+        "id": "25f43523-1b3d-430d-8eca-620b73a45902",
+        "albumID": "1453759561",
+        "name": "One Call",
+        "artist": "Gunna"
+      },
+      {
+        "id": "20c300dd-becc-4234-8613-55c21b0c4ac5",
+        "albumID": "1453759561",
+        "name": "Cash War",
+        "artist": "Gunna"
+      },
+      {
+        "id": "04d52704-6538-4fc8-bbc1-314d57ae71bb",
+        "albumID": "1453759561",
+        "name": "Richard Millie Plain",
+        "artist": "Gunna"
+      },
+      {
+        "id": "24ce9221-2868-490e-8a50-121c105f6844",
+        "albumID": "1453759561",
+        "name": "Yao Ming",
+        "artist": "Gunna"
+      },
+      {
+        "id": "a4576859-94c5-4778-931c-83fa3276c116",
+        "albumID": "1453759561",
+        "name": "Idk Why",
+        "artist": "Gunna"
+      },
+      {
+        "id": "c3ea5b3c-b4f8-4b00-8be0-a9e2410e4aca",
+        "albumID": "1453759561",
+        "name": "Derek Fisher (feat. Lil Baby)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "034af565-bb55-4f4c-bc83-17d3d22a0221",
+        "albumID": "1453759561",
+        "name": "Baby Birkin",
+        "artist": "Gunna"
+      },
+      {
+        "id": "70029133-c466-4eee-87a4-9e61488cc418",
+        "albumID": "1453759561",
+        "name": "Speed It Up",
+        "artist": "Gunna"
+      },
+      {
+        "id": "5fab104c-cd4a-46ac-b65e-1b5b5ada36b1",
+        "albumID": "1453759561",
+        "name": "3 Headed Snake (feat. Young Thug)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "b6678185-92cc-4679-ad2a-a2850f1502b8",
+        "albumID": "1453759561",
+        "name": "Big Shot",
+        "artist": "Gunna"
+      },
+      {
+        "id": "c4ec50a2-2096-4b0c-a8da-f85d229a52c2",
+        "albumID": "1453759561",
+        "name": "On a Mountain",
+        "artist": "Gunna"
+      },
+      {
+        "id": "113e40d7-1d8c-47d8-b860-1d52a6646be0",
+        "albumID": "1453759561",
+        "name": "Out the Hood",
+        "artist": "Gunna"
+      },
+      {
+        "id": "6a5c094d-8a29-4e80-a54b-fddbb98ae75b",
+        "albumID": "1453759561",
+        "name": "Same Yung N***a (feat. Playboi Carti)",
+        "artist": "Gunna"
+      },
+      {
+        "id": "c4330a42-64e2-4552-8c98-c0649b2cd552",
+        "albumID": "1453759561",
+        "name": "Who You Foolin",
+        "artist": "Gunna"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/56/f7/54/56f75470-bda9-c793-543f-849e16c115be/814908027591.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1453759561
   }
 ]
