@@ -38918,5 +38918,2245 @@
     "type": "Album",
     "isDeluxe": false,
     "discogsId": 11272619
+  },
+  {
+    "id": "9a549f18-a118-44a2-bf1c-ce7177a8dfb0",
+    "title": "$oul $old $eparately",
+    "artist": {
+      "id": "db31066d-659f-4cbf-9e4c-847e13d5ac48",
+      "name": "Freddie Gibbs"
+    },
+    "releaseDate": "2022-09-30",
+    "songs": [
+      {
+        "id": "28915019-0a41-48ce-98f1-db9a85bfa2ff",
+        "albumID": "1643030467",
+        "name": "Couldn\u2019t Be Done (feat. Kelly Price)",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "2b26b305-406a-4afd-8eb9-b08823bd99c2",
+        "albumID": "1643030467",
+        "name": "Blackest in the Room",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "453cfb86-f876-4581-b615-637db72db55a",
+        "albumID": "1643030467",
+        "name": "Pain & Strife (feat. Offset)",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "46d2ba8f-6206-4bcc-a489-b3fe5bf81b5b",
+        "albumID": "1643030467",
+        "name": "Zipper Bagz",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "88edcb39-8b15-4fed-b7fe-3dc566db565a",
+        "albumID": "1643030467",
+        "name": "Too Much (feat. Moneybagg Yo)",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "0d393004-7cc8-4a0c-8b66-14c9d5229c8a",
+        "albumID": "1643030467",
+        "name": "Lobster Omelette (feat. Rick Ross)",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "3bfe2339-c18d-4e3e-938b-b511660b6304",
+        "albumID": "1643030467",
+        "name": "Space Rabbit",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "fab6f84c-1fbf-40cc-9da0-d52d9abe7965",
+        "albumID": "1643030467",
+        "name": "Feel No Pain (feat. Anderson .Paak & Raekwon)",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "ed4d4907-9a0b-47a1-837d-9a2fd70bb8f8",
+        "albumID": "1643030467",
+        "name": "Rabbit Vision",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "5ec5375a-c65b-4f23-befb-9895d42349d1",
+        "albumID": "1643030467",
+        "name": "PYS (feat. DJ Paul)",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "baa41eee-4ac7-42b5-a737-20c2b097c8c9",
+        "albumID": "1643030467",
+        "name": "Dark Hearted",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "327324b4-8fa8-4a2b-962b-2cd3d493c984",
+        "albumID": "1643030467",
+        "name": "Gold Rings (feat. Pusha T)",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "3262078a-f88f-4872-b69f-746e94e2e654",
+        "albumID": "1643030467",
+        "name": "Grandma\u2019s Stove (feat. Musiq Soulchild)",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "82b9b484-8f44-42eb-91f5-bef554409b50",
+        "albumID": "1643030467",
+        "name": "CIA",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "3e978aaf-574a-454a-8b05-a85b7a2b37fc",
+        "albumID": "1643030467",
+        "name": "Decoded (feat. Scarface) [BONUS TRACK]",
+        "artist": "Freddie Gibbs"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7f/17/c4/7f17c417-afed-467c-c19c-b1a82ad672f2/093624876618.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1643030467
+  },
+  {
+    "id": "63181fa7-e672-47ee-82a8-dd4563e89202",
+    "title": "You Only Live 2wice",
+    "artist": {
+      "id": "db31066d-659f-4cbf-9e4c-847e13d5ac48",
+      "name": "Freddie Gibbs"
+    },
+    "releaseDate": "2017-03-30",
+    "songs": [
+      {
+        "id": "a51c0ebd-c67b-4a85-a4f0-f12b40d3aa64",
+        "albumID": "1762378625",
+        "name": "20 Karat Jesus",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "742b1e3a-b2d0-4709-8a94-d4df307feaef",
+        "albumID": "1762378625",
+        "name": "Alexys",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "e9235136-0746-421f-9210-25fda162cedd",
+        "albumID": "1762378625",
+        "name": "Crushed Glass",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "114150bf-ffb6-4794-9c7c-c67bb7ce5951",
+        "albumID": "1762378625",
+        "name": "Dear Maria",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "5fa3f320-a530-4acf-89cd-56bda6669ada",
+        "albumID": "1762378625",
+        "name": "Amnesia",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "2b4e5dcb-d905-43e1-bd39-ffbaa7a82d30",
+        "albumID": "1762378625",
+        "name": "Andrea",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "2b2b7c43-3be3-4ecc-819f-dcbdd661a5aa",
+        "albumID": "1762378625",
+        "name": "Phone Lit",
+        "artist": "Freddie Gibbs"
+      },
+      {
+        "id": "44113398-f3d4-46cb-8ce5-d798a5b857bf",
+        "albumID": "1762378625",
+        "name": "Homesick",
+        "artist": "Freddie Gibbs"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/c0/12/8ec012bb-6ce6-535b-243a-8e43d8e9eef7/359493.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1762378625
+  },
+  {
+    "id": "0c5217e0-d3dd-4695-a919-85c32d7236ad",
+    "title": "Alfredo",
+    "artist": {
+      "id": "db65e796-6bda-4b20-a6d1-4a91103340af",
+      "name": "Freddie Gibbs & Alchemist"
+    },
+    "releaseDate": "2020-01-01",
+    "songs": [
+      {
+        "id": "cbfc0d13-b72b-4892-9a4f-7e61380f32af",
+        "name": "1985",
+        "artist": "Freddie Gibbs & Alchemist"
+      },
+      {
+        "id": "66c77a0a-5328-41ce-948d-0ab032cb6aab",
+        "name": "God Is Perfect",
+        "artist": "Freddie Gibbs & Alchemist"
+      },
+      {
+        "id": "953c99b4-0185-49bf-b479-ea48fb443cfc",
+        "name": "Scottie Beam",
+        "artist": "Freddie Gibbs & Alchemist"
+      },
+      {
+        "id": "467a5a53-5231-48e8-b30f-52466c5b0845",
+        "name": "Look At Me",
+        "artist": "Freddie Gibbs & Alchemist"
+      },
+      {
+        "id": "07852a09-0fd0-40dc-9ff0-8e6553f32b85",
+        "name": "Frank Lucas",
+        "artist": "Freddie Gibbs & Alchemist"
+      },
+      {
+        "id": "263826eb-2816-49ba-8bf5-4fcea9977535",
+        "name": "Something To Rap About",
+        "artist": "Freddie Gibbs & Alchemist"
+      },
+      {
+        "id": "1b152e31-d27c-46d4-9309-00840ffde701",
+        "name": "Baby $hit",
+        "artist": "Freddie Gibbs & Alchemist"
+      },
+      {
+        "id": "0b009a1c-3d54-47fb-b7db-d3dd463034d2",
+        "name": "Babies & Fools",
+        "artist": "Freddie Gibbs & Alchemist"
+      },
+      {
+        "id": "e34dcc9f-2d8d-42df-a359-d932d61fa757",
+        "name": "Skinny Suge",
+        "artist": "Freddie Gibbs & Alchemist"
+      },
+      {
+        "id": "835c4a6a-86d6-4632-8e32-b6828c35f133",
+        "name": "All Glass",
+        "artist": "Freddie Gibbs & Alchemist"
+      }
+    ],
+    "coverURL": "",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 15999923
+  },
+  {
+    "id": "4e55245c-8072-4997-8020-37e18974d29c",
+    "title": "Alfredo 2",
+    "artist": {
+      "id": "301a77fa-7508-44d9-a483-c1b57e4aa7e6",
+      "name": "Freddie Gibbs & The Alchemist*"
+    },
+    "releaseDate": "2025-01-01",
+    "songs": [
+      {
+        "id": "64a15167-399c-430f-aa2c-34d69da8f753",
+        "name": "1995",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "3ed6f208-524e-46d4-a1a2-deef99d7476c",
+        "name": "Mar-A-Lago",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "6035c622-21da-46bd-adfc-62745f8743b8",
+        "name": "Lemon Pepper Steppers",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "21e3894b-03ba-43b7-8c54-363d15a22906",
+        "name": "Ensalada",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "2491b36f-3553-4bbf-a13a-bf48601b0899",
+        "name": "Empanadas",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "09a0c223-0b8a-4451-bb3b-ba974373b1e0",
+        "name": "Skiny Suge II",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "25010bd9-f1d9-4831-8929-4b686ccded97",
+        "name": "Feeling",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "22423157-c8c8-4a5e-b79a-4fbc06a3b389",
+        "name": "I Still Love H.E.R.",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "8035f801-42ba-4896-b095-7c0fb490ec26",
+        "name": "Shangri La",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "fb03f30b-814b-4501-8c66-97290d954e69",
+        "name": "Gas Station Sushi",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "b147a21a-371a-41ab-b8d3-8fe510bb3976",
+        "name": "Lavish Habits",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "8894ac6d-11ea-4a96-a9c8-704364046309",
+        "name": "Gold Feet",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "4a309a0c-1584-471d-ae28-25f45cdff59b",
+        "name": "Jean Claude",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      },
+      {
+        "id": "f23dfac4-2fe2-4525-8a20-3554dce06df8",
+        "name": "A Thousand Mountains",
+        "artist": "Freddie Gibbs & The Alchemist*"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/4e/b9/c34eb9fb-4752-63af-c789-8fc2e7a37522/198704365317_Cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 34645951
+  },
+  {
+    "id": "7c313f41-edf4-4c4f-bd06-6bdabb4b805f",
+    "title": "Pi\u00f1ata",
+    "artist": {
+      "id": "66d2c06f-71e4-41fb-a606-fe4a331f7b46",
+      "name": "Freddie Gibbs & Madlib"
+    },
+    "releaseDate": "2014-01-01",
+    "songs": [
+      {
+        "id": "977d7b79-d159-467e-89f1-2e0ebcd600ac",
+        "name": "Supplier",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "40480086-c9b6-4d0d-b163-debef4f06a4e",
+        "name": "Scarface",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "23d2e166-7cb7-4573-b0bc-28b643a6086b",
+        "name": "Deeper",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "ea9254a9-9e83-4335-b988-c3db468253e5",
+        "name": "High",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "82ab347e-ecb1-40fc-8793-86d2b7a8672b",
+        "name": "Harold's",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "bf2d3baf-d3ff-42e1-9581-2549d1b55e3e",
+        "name": "Bomb",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "f8876a90-4a2a-4a43-84bb-9a7351a4f386",
+        "name": "Shitsville",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "1377e110-07fe-4482-886d-d8bf93c848ad",
+        "name": "Thuggin'",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "f0a4944b-e0f6-4c03-887d-a6858f11fdfe",
+        "name": "Real",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "78b10480-642b-4f0e-b630-0627fd406017",
+        "name": "Uno",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "4e205528-03a2-416b-a82d-ad4f98fbaa79",
+        "name": "Robes",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "f9989b5e-177d-494a-a74d-4aa53188af89",
+        "name": "Broken",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "48d1d58f-7a32-451e-9bee-07877cfdecfa",
+        "name": "Lakers",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "0d7930bd-18d9-4478-a082-eb40fac39da5",
+        "name": "Knicks",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "f9243380-a208-4cd1-8992-50cc7d3dcc09",
+        "name": "Shame",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "c25c99c0-9518-401d-9432-aec9d6979e8f",
+        "name": "Watts",
+        "artist": "Freddie Gibbs & Madlib"
+      },
+      {
+        "id": "f7955081-fadd-4ec5-9261-9af3c8ae4655",
+        "name": "Pi\u00f1ata",
+        "artist": "Freddie Gibbs & Madlib"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/73/17/d3/7317d340-1795-6d35-de56-c1d56f80585a/192641683916_Cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 5528785
+  },
+  {
+    "id": "7aaf5da2-9db2-4d2a-b9e0-bbd92e94467a",
+    "title": "L.O.D.",
+    "artist": {
+      "id": "efdec420-9929-4ddc-ad59-3d55839abf9f",
+      "name": "Desiigner"
+    },
+    "releaseDate": "2018-05-04",
+    "songs": [
+      {
+        "id": "f0150f19-0caf-4ed7-a761-5ea35949df8e",
+        "albumID": "1376829619",
+        "name": "Priice Tag",
+        "artist": "Desiigner"
+      },
+      {
+        "id": "167306c1-2f85-49da-867e-ea83affd759e",
+        "albumID": "1376829619",
+        "name": "Tonka",
+        "artist": "Desiigner"
+      },
+      {
+        "id": "f8136cf7-1757-4e10-a82f-31ea987666d6",
+        "albumID": "1376829619",
+        "name": "After Party",
+        "artist": "Desiigner"
+      },
+      {
+        "id": "e2f8b47f-33fa-4169-b1b5-f111db483f9f",
+        "albumID": "1376829619",
+        "name": "Pop iiT",
+        "artist": "Desiigner"
+      },
+      {
+        "id": "f7811485-3895-4355-8a76-bc13505f8fb2",
+        "albumID": "1376829619",
+        "name": "Destiination",
+        "artist": "Desiigner"
+      },
+      {
+        "id": "13d38420-b37d-4cd5-a92b-99789855b049",
+        "albumID": "1376829619",
+        "name": "LA to NY",
+        "artist": "Desiigner"
+      },
+      {
+        "id": "77c2daf2-d38e-45a1-9e64-ce688d1ad9e6",
+        "albumID": "1376829619",
+        "name": "Hood",
+        "artist": "Desiigner"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fb/5d/36/fb5d3694-3b61-77a0-169b-58d8837f70c9/00602567594628.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1376829619
+  },
+  {
+    "id": "2d20430f-fcfe-4d43-9a3d-17d445e9f7e6",
+    "title": "The Diary",
+    "artist": {
+      "id": "698a3a84-ce0c-4ca0-bc39-322860968830",
+      "name": "Scarface (3)"
+    },
+    "releaseDate": "1994-01-01",
+    "songs": [
+      {
+        "id": "c8f8f2c0-aab0-4eb6-81f1-c78b51290358",
+        "name": "Intro",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "1d14421c-318c-45b2-8dd1-2c37d3497f0b",
+        "name": "The White Sheet",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "5370adc9-0581-4c2b-bf77-e1565858fdf1",
+        "name": "No Tears",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "cb5bd8e4-36ad-463b-a7c3-35b432c825b1",
+        "name": "Jesse James",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "7655f56d-bbed-42ab-a791-7f45ff74b56a",
+        "name": "G's",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "0defeeae-efca-4379-97ce-b0dd029f637e",
+        "name": "I Seen A Man Die",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "62d08fb9-aa1e-4d13-9243-bd5d1e7dd939",
+        "name": "One",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "93dd3853-ef41-47a7-aecf-745e6f0b71a1",
+        "name": "Goin' Down",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "2c7dd5e9-021f-478a-babd-ec792854e213",
+        "name": "One Time",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "8d5f2e77-167f-4be9-b2bc-3c774e4a48e1",
+        "name": "Hand Of The Dead Body",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "08e16c02-6b6d-4ad3-88ea-c7e753abb2bb",
+        "name": "Mind Playin' Tricks '94",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "71d77bb1-540e-4f1c-b2a1-3d3831c5cf6e",
+        "name": "The Diary",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "2a01808e-9d15-431f-8f09-a75492546a06",
+        "name": "Outro",
+        "artist": "Scarface (3)"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/03/fa/fb03fac5-fca3-4765-0c50-6c3babd453f9/886444199988_Cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 226251
+  },
+  {
+    "id": "efeffd30-1155-481b-8989-97832d02cf8c",
+    "title": "The Untouchable",
+    "artist": {
+      "id": "698a3a84-ce0c-4ca0-bc39-322860968830",
+      "name": "Scarface (3)"
+    },
+    "releaseDate": "1997-01-01",
+    "songs": [
+      {
+        "id": "d94b98b7-39e2-4ed3-9468-33bed02768dd",
+        "name": "Intro",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "023089f0-2dea-45ca-8fa7-d8f54143a35a",
+        "name": "Untouchable",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "4bc201c0-4756-4348-bff9-5b286b51b5b0",
+        "name": "No Warning",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "088c408b-1512-4e01-a7a0-de634f3c9b70",
+        "name": "Southside",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "c1a8c94b-62e0-4ee1-a51a-6bd45be52d04",
+        "name": "Sunshine",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "b324a2f5-20cc-4f40-8093-207b08f1cc00",
+        "name": "Money Makes The World Go Round",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "284adf8a-9035-4968-95b9-27901c982ed7",
+        "name": "For Real",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "6d5fbed5-cdd0-4d6e-ab53-723b3c606587",
+        "name": "Mary Jane",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "a3debf1a-edcd-4602-8fbd-5e008deccaec",
+        "name": "Smile",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "8c61e1f4-2304-4571-94a3-ce9f5b457ea6",
+        "name": "Smartz",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "e5d63672-fdf3-4ef1-8cd8-7fe4dd381842",
+        "name": "Game Over",
+        "artist": "Scarface (3)"
+      },
+      {
+        "id": "5f3481ab-02a7-45ce-b6e5-1e37612b803a",
+        "name": "Outro",
+        "artist": "Scarface (3)"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/62/39/b562390c-40fe-a288-c85a-d2ebb28b44d6/740120826608_Cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 396017
+  },
+  {
+    "id": "c4579a0e-2e14-4f06-8a5a-08777a98d010",
+    "title": "Gemini Rights",
+    "artist": {
+      "id": "4c11912b-4c8a-4c9c-8a16-deffc4717faa",
+      "name": "Steve Lacy"
+    },
+    "releaseDate": "2022-07-14",
+    "songs": [
+      {
+        "id": "6158ed3f-a0ae-4056-8f18-c3c54c32fa93",
+        "albumID": "6788150539",
+        "name": "Static",
+        "artist": "Steve Lacy"
+      },
+      {
+        "id": "c1d7cfa2-38be-4ba5-862f-b6878423730b",
+        "albumID": "6788150539",
+        "name": "Helmet",
+        "artist": "Steve Lacy"
+      },
+      {
+        "id": "52280f6b-f1bc-44da-9760-503f1d49da8f",
+        "albumID": "6788150539",
+        "name": "Mercury",
+        "artist": "Steve Lacy"
+      },
+      {
+        "id": "08626d44-962c-4e81-9874-d771bf5bbfaa",
+        "albumID": "6788150539",
+        "name": "Buttons",
+        "artist": "Steve Lacy"
+      },
+      {
+        "id": "b8593e70-d6b1-409e-9ce4-a58db31d3cc6",
+        "albumID": "6788150539",
+        "name": "Bad Habit",
+        "artist": "Steve Lacy"
+      },
+      {
+        "id": "7c986135-1516-471d-a17e-3e1c6c72c70a",
+        "albumID": "6788150539",
+        "name": "2Gether (Enterlude)",
+        "artist": "Steve Lacy"
+      },
+      {
+        "id": "350c327a-f6c2-4577-b374-baf73365c92d",
+        "albumID": "6788150539",
+        "name": "Cody Freestyle",
+        "artist": "Steve Lacy"
+      },
+      {
+        "id": "b8a4fb37-2c48-4e9f-91e8-01868e285f69",
+        "albumID": "6788150539",
+        "name": "Amber",
+        "artist": "Steve Lacy"
+      },
+      {
+        "id": "05cd76eb-7809-4e69-92b8-1e767c3ad273",
+        "albumID": "6788150539",
+        "name": "Sunshine (feat. Foushe\u00e9)",
+        "artist": "Steve Lacy"
+      },
+      {
+        "id": "0122b616-8b2c-41e7-9dd8-b44f77bab74e",
+        "albumID": "6788150539",
+        "name": "Give You the World",
+        "artist": "Steve Lacy"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/cf/77/41cf7744-535f-3679-0ca6-c1b8d3f98c8f/196874557266.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 6788150539
+  },
+  {
+    "id": "93403826-d833-4566-b223-e17f1d26774b",
+    "title": "Who Coppin",
+    "artist": {
+      "id": "4cfdb5d7-1c91-4297-b89b-64c89d612474",
+      "name": "Larry June"
+    },
+    "releaseDate": "2026-07-16",
+    "songs": [
+      {
+        "id": "93201ef4-dadd-4a61-b020-43d3ae338cee",
+        "albumID": "6791849225",
+        "name": "Go Outside Intro",
+        "artist": "Larry June"
+      },
+      {
+        "id": "3e3f20a7-8d4f-4d52-ba44-5041fd26ae9a",
+        "albumID": "6791849225",
+        "name": "The Machinist",
+        "artist": "Larry June"
+      },
+      {
+        "id": "7bc51633-cd8b-45c3-8afa-79f878903cd9",
+        "albumID": "6791849225",
+        "name": "Casual Monday",
+        "artist": "Larry June"
+      },
+      {
+        "id": "c853bef6-b072-453a-ba5d-8c2a41669fa2",
+        "albumID": "6791849225",
+        "name": "Better Decisions",
+        "artist": "Larry June"
+      },
+      {
+        "id": "50ff7265-062f-4ef2-9820-80f0ce64d02b",
+        "albumID": "6791849225",
+        "name": "Everything Liquid",
+        "artist": "Larry June"
+      },
+      {
+        "id": "04b90b2c-5973-46aa-b6fb-e06d8d385e67",
+        "albumID": "6791849225",
+        "name": "Organic Motion",
+        "artist": "Larry June"
+      },
+      {
+        "id": "6f5bc1b6-b1cd-4faf-8b79-be1c1b3f0c9a",
+        "albumID": "6791849225",
+        "name": "The Smooth Kind",
+        "artist": "Larry June"
+      },
+      {
+        "id": "754f979f-27df-448c-8f48-0bd04281c548",
+        "albumID": "6791849225",
+        "name": "California Dream",
+        "artist": "Larry June"
+      },
+      {
+        "id": "38fca77f-79e3-469f-9f4b-39475bd717aa",
+        "albumID": "6791849225",
+        "name": "Pretty Green Eyes",
+        "artist": "Larry June"
+      },
+      {
+        "id": "0af7128b-987c-446c-bc0d-4858c84a230e",
+        "albumID": "6791849225",
+        "name": "Win or Lose",
+        "artist": "Larry June"
+      },
+      {
+        "id": "d3518149-0e1c-4adb-be25-36966f27e8b7",
+        "albumID": "6791849225",
+        "name": "3 Calculators",
+        "artist": "Larry June"
+      },
+      {
+        "id": "a817f42a-b65e-4bb7-81e0-7ddeba270521",
+        "albumID": "6791849225",
+        "name": "Flex",
+        "artist": "Larry June"
+      },
+      {
+        "id": "e45be237-2fd9-4168-90cf-05dafa58b83b",
+        "albumID": "6791849225",
+        "name": "Who Coppin",
+        "artist": "Larry June"
+      },
+      {
+        "id": "f96450d1-7071-4f15-90eb-29ff7376144e",
+        "albumID": "6791849225",
+        "name": "Organically Slidin'",
+        "artist": "Larry June"
+      },
+      {
+        "id": "500918f9-c4db-45e1-ae74-029d5a39c340",
+        "albumID": "6791849225",
+        "name": "Larry's Diner pt. 2",
+        "artist": "Larry June"
+      },
+      {
+        "id": "f50158d9-02aa-4ab6-9224-d6baab7ed8b6",
+        "albumID": "6791849225",
+        "name": "God Got Us (Ain't Too Many)",
+        "artist": "Larry June"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/e8/0d/68e80d6e-f646-867b-dfcb-6c422340067f/199316697735_cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 6791849225
+  },
+  {
+    "id": "dff71bbd-8060-4b87-bc13-364a44de0987",
+    "title": "Only Built 4 Cuban Linx...",
+    "artist": {
+      "id": "86b8388b-1fea-4e0b-b6d5-23575b1c2ed8",
+      "name": "Raekwon"
+    },
+    "releaseDate": "1995-01-01",
+    "songs": [
+      {
+        "id": "bf3c4de3-4d94-4178-80c6-2d75b43ffb5b",
+        "name": "Striving For Perfection",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "00d2bd68-92b1-4aec-aa2d-b926db4df74d",
+        "name": "Knuckleheadz",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "38a6e56a-1851-4101-ac06-3e5b3b60b422",
+        "name": "Knowledge God",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "a1d2fbc8-498b-4580-82d4-bf54bdf7a7bc",
+        "name": "Criminology",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "c18a0e79-3a6e-4b96-98d4-94840d635ba5",
+        "name": "Incarcerated Scarfaces",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "d5ccdbae-f8e2-4031-81c6-b2609a64380e",
+        "name": "Rainy Dayz",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "04bf86a8-3cdc-4e62-b0de-525bcb88bf07",
+        "name": "Guillotine (Swordz)",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "3fcafb95-c461-47c5-bf85-66d19c94f85e",
+        "name": "Can It All Be So Simple (Remix)",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "c9151cdf-7a0f-4818-a9be-1e3155cdd589",
+        "name": "Shark Niggas (Biters)",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "fc87c02b-643b-40cd-82f5-f62605dbad1c",
+        "name": "Ice Water",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "758bdf1c-7972-4cf4-9875-c0028b3fc209",
+        "name": "Glaciers Of Ice",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "3ac2c935-9621-43b2-8de3-b148c28d62e0",
+        "name": "Verbal Intercourse",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "829d1029-15fd-4174-b194-41401397d779",
+        "name": "Wisdom Body",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "0f55de40-f2ee-4670-aaa3-5d78042f93e1",
+        "name": "Spot Rusherz",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "b2d9a7a3-1949-4a1f-91e0-5bce27aaac2c",
+        "name": "Ice Cream",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "d994377a-5768-4c24-870a-d66194d2a7ba",
+        "name": "Wu-Gambinos",
+        "artist": "Raekwon"
+      },
+      {
+        "id": "9ac88b18-e9ea-48d3-8346-d8fe644cb324",
+        "name": "Heaven & Hell",
+        "artist": "Raekwon"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e1/b1/de/e1b1de50-cca7-28d1-9e40-00c2251ead3d/078636666327.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 1557638
+  },
+  {
+    "id": "6b142267-02a2-460b-8ff7-eceeedf77c70",
+    "title": "Liquid Swords",
+    "artist": {
+      "id": "307144c8-3f73-4594-8cc4-fc75255c4492",
+      "name": "Genius* / GZA"
+    },
+    "releaseDate": "1995-01-01",
+    "songs": [
+      {
+        "id": "ff0b29fc-94ef-441d-9086-6accbe560354",
+        "name": "Liquid Swords",
+        "artist": "Genius* / GZA"
+      },
+      {
+        "id": "6f2da837-e5ff-47f5-ab80-5adae8a1e85e",
+        "name": "Duel Of The Iron Mic",
+        "artist": "Genius* / GZA"
+      },
+      {
+        "id": "987c5aa4-e226-4ce6-b4e5-87e8af5a51e6",
+        "name": "Living In The World Today",
+        "artist": "Genius* / GZA"
+      },
+      {
+        "id": "e62d8fce-19ad-4285-a67f-376e60155983",
+        "name": "Gold",
+        "artist": "Genius* / GZA"
+      },
+      {
+        "id": "1c8568b4-85d8-41c7-84a3-5a30d74e4b60",
+        "name": "Cold World",
+        "artist": "Genius* / GZA"
+      },
+      {
+        "id": "55817e90-f2b0-47ef-a812-6238ade90960",
+        "name": "Labels",
+        "artist": "Genius* / GZA"
+      },
+      {
+        "id": "6f17832a-7606-45bc-96e4-46159fce8e7a",
+        "name": "4th Chamber",
+        "artist": "Genius* / GZA"
+      },
+      {
+        "id": "45810094-246d-40e3-ab19-8881a640e86f",
+        "name": "Shadowboxin'",
+        "artist": "Genius* / GZA"
+      },
+      {
+        "id": "b7039262-0155-4cd0-9979-ecc2dd2e7949",
+        "name": "Hell's Wind Staff",
+        "artist": "Genius* / GZA"
+      },
+      {
+        "id": "fd83b63f-d50a-451e-921e-6fb9a16396fd",
+        "name": "Killah Hills 10304",
+        "artist": "Genius* / GZA"
+      },
+      {
+        "id": "32960029-afea-40d7-89c2-0cd6a055b083",
+        "name": "Investigative Reports",
+        "artist": "Genius* / GZA"
+      },
+      {
+        "id": "f6cad2cd-2b66-4411-8e0a-5a7b98eeec0a",
+        "name": "Swordsman",
+        "artist": "Genius* / GZA"
+      },
+      {
+        "id": "eaa369e8-3b8a-4469-a8cb-2b47481fa262",
+        "name": "I Gotcha Back",
+        "artist": "Genius* / GZA"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/dc/fd/7edcfd48-26be-76a1-152f-d88b79977ccb/20UMGIM75114.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 208109
+  },
+  {
+    "id": "95d0c46e-6b79-4a17-8995-8be1e232703e",
+    "title": "Tana Talk 3",
+    "artist": {
+      "id": "7a1cb1b7-9d2a-4da8-9853-aa1e3cb6211f",
+      "name": "Benny The Butcher"
+    },
+    "releaseDate": "2018-01-01",
+    "songs": [
+      {
+        "id": "424b1b07-c587-46f4-8d25-9057cb7b690a",
+        "name": "Intro: Babs",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "5b1a5672-809d-42d1-8359-704daf6b1b34",
+        "name": "Goodnight",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "39e63b61-b022-4a81-a900-b488908348ee",
+        "name": "Scarface Vs Sosa Pt. 2",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "97d2f302-62c4-4c15-b1f2-648210d4eb96",
+        "name": "Rubber Bands & Weight",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "c10d3a6d-90a4-425c-8bcf-665289fa7e98",
+        "name": "Fast Eddie ",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "8e51adc0-493f-4fa1-acc6-3568f6b8285a",
+        "name": "Broken Bottles",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "3a179010-28de-4f90-a620-cd30ee3b780c",
+        "name": "Echo Long",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "c64d121e-5afc-4d11-b31e-cfcc4a2dfad0",
+        "name": "97' Hov",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "415a76d8-b3bf-453b-ad79-9cdc71a92b15",
+        "name": "Joe Pesci 38",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "5f2fe4ee-ceaa-4077-9e97-120515df4f8b",
+        "name": "Who Are You",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "80915df0-ca0b-4cca-871f-8508d8737959",
+        "name": "Fifty One",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "ea251dc7-c62c-40ce-80e6-33d5fc4aa0fa",
+        "name": "Rick",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "06c663e6-e894-4a69-a262-c47f24b07e46",
+        "name": "Langfield",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "8af50c20-e9e0-4001-9864-95b6cfb32662",
+        "name": "All 70",
+        "artist": "Benny The Butcher"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/89/1a/c0/891ac072-80ad-cbc0-d5e4-43e65024d8ee/888915770443_cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 12943240
+  },
+  {
+    "id": "9fec6ee8-1c60-4718-87cf-c91316063f89",
+    "title": "The Plugs I Met",
+    "artist": {
+      "id": "7a1cb1b7-9d2a-4da8-9853-aa1e3cb6211f",
+      "name": "Benny The Butcher"
+    },
+    "releaseDate": "2019-01-01",
+    "songs": [
+      {
+        "id": "a407b0df-319a-4257-8e38-ae9bfc14873a",
+        "name": "Intro (Skit)",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "1805541a-09a4-440c-b9e2-5bbfddab8493",
+        "name": "Crowns For Kings",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "906bbe36-b2d8-4492-a722-c85ae220d60d",
+        "name": "Sunday School",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "ffe3e912-e2dd-4e51-8fb3-1bb8e222fa73",
+        "name": "Dirty Harry",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "d97cac44-8c9c-4577-8d4b-46ad92b1c999",
+        "name": "Took The Money To The Plug's House",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "cb125ea2-0554-48f0-a0a5-c52719f70240",
+        "name": "18 Wheeler",
+        "artist": "Benny The Butcher"
+      },
+      {
+        "id": "7cbdd7da-c4e6-4769-9d54-08952977c5c4",
+        "name": "5 To 50 ",
+        "artist": "Benny The Butcher"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/c8/3b/5cc83b7f-2d17-0b99-e4c1-f1808b160448/193483966380.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 14206657
+  },
+  {
+    "id": "b4ec4c79-7db4-46c8-97ef-72c1e9a6b9f0",
+    "title": "Still Praying",
+    "artist": {
+      "id": "39b1be44-3375-4a4c-a0d8-67ec0b310ea5",
+      "name": "Westside Gunn & DJ Drama"
+    },
+    "releaseDate": "2024-11-01",
+    "songs": [
+      {
+        "id": "add62687-a18a-49ba-84f2-1905361d8c4e",
+        "albumID": "1834299316",
+        "name": "Waly Fay",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "1700c47e-aac3-46ca-ac23-d9598c058ce6",
+        "albumID": "1834299316",
+        "name": "Justin Roberts",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "3f9f8e17-4daf-463e-8284-63db5429ab6e",
+        "albumID": "1834299316",
+        "name": "Beef Bar",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "28c0a288-0d0b-4abc-a143-17eb824c1ca2",
+        "albumID": "1834299316",
+        "name": "Max Caster",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "cfc4387d-c66d-489b-96be-ef60a0c66a2f",
+        "albumID": "1834299316",
+        "name": "Dr. Britt Baker (feat. Brother Tom Sos)",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "3b6cc289-30e6-47ad-b9aa-8a2eb4e00664",
+        "albumID": "1834299316",
+        "name": "I Know Verdy",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "1d43d155-e595-40fc-801e-f3c8cb86490a",
+        "albumID": "1834299316",
+        "name": "Speedy 40",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "da5ef6af-391c-40b8-a436-443e100c2d52",
+        "albumID": "1834299316",
+        "name": "Duran Duran",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "2bcdb44d-c3fc-442f-b059-0cfb1c63d71a",
+        "albumID": "1834299316",
+        "name": "Runway Pieces at the Last Supper",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "37e7ae1f-1d55-4942-b524-63bdd9c72214",
+        "albumID": "1834299316",
+        "name": "Bike Air Interlude",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "1c7dea51-c339-4a4e-910f-a47be9f449a7",
+        "albumID": "1834299316",
+        "name": "Free Shots (feat. Conway the Machine)",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "e322c96d-4c76-4da3-b0be-fc6272ae2917",
+        "albumID": "1834299316",
+        "name": "Still Praying (feat. Stove God Cooks, Benny the Butcher, Conway the Machine & Boldy James)",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "4ee51024-1abe-4e9e-8fdb-5bb8593bded6",
+        "albumID": "1834299316",
+        "name": "Underground King (feat. Westside Pootie & Rome Streetz)",
+        "artist": "Westside Gunn & DJ Drama"
+      },
+      {
+        "id": "2df92403-6740-4c6c-922f-0cdb80295d8d",
+        "albumID": "1834299316",
+        "name": "Lesalleon",
+        "artist": "Westside Gunn & DJ Drama"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/07/7c/2c077c86-43fc-8515-c27b-23f0d55ab3a7/797885499134.png/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1834299316
+  },
+  {
+    "id": "d87aa272-ba03-4f07-97ea-777f5cafc8bd",
+    "title": "WHO MADE THE SUNSHINE",
+    "artist": {
+      "id": "484e02a7-78b4-47da-8167-22f724521b41",
+      "name": "Westside Gunn"
+    },
+    "releaseDate": "2020-10-02",
+    "songs": [
+      {
+        "id": "376cd24c-ba76-47f7-916e-ccdb1aed6c1e",
+        "albumID": "1534081236",
+        "name": "Sunshine Intro (feat. AA Rashid)",
+        "artist": "Westside Gunn"
+      },
+      {
+        "id": "2cdbaea0-f5b2-430f-bbdb-67113ed4b347",
+        "albumID": "1534081236",
+        "name": "The Butcher and The Blade (feat. Benny the Butcher & Conway the Machine)",
+        "artist": "Westside Gunn"
+      },
+      {
+        "id": "f2dea945-a3ba-48a8-b1c8-c247041cb3f9",
+        "albumID": "1534081236",
+        "name": "Ishkabibble's (feat. Black Thought)",
+        "artist": "Westside Gunn"
+      },
+      {
+        "id": "fd1faa9c-54a2-4c20-9663-b960dfadebcb",
+        "albumID": "1534081236",
+        "name": "All Praises (feat. Boldy James & Jadakiss)",
+        "artist": "Westside Gunn"
+      },
+      {
+        "id": "f99995e7-9f79-4a02-afd5-0279052efd0d",
+        "albumID": "1534081236",
+        "name": "Big Basha's",
+        "artist": "Westside Gunn"
+      },
+      {
+        "id": "a6a304af-9c5d-43a6-9754-33323c90e92e",
+        "albumID": "1534081236",
+        "name": "Liz Loves Luger (feat. Armani Caesar)",
+        "artist": "Westside Gunn"
+      },
+      {
+        "id": "95c0b939-5fef-4337-a07c-3c58dcd6d344",
+        "albumID": "1534081236",
+        "name": "Ocean Prime (feat. Slick Rick & Busta Rhymes)",
+        "artist": "Westside Gunn"
+      },
+      {
+        "id": "39f6cd10-9401-4f9f-aa9f-2e02a0fd4fe5",
+        "albumID": "1534081236",
+        "name": "Lessie (feat. Keisha Plum)",
+        "artist": "Westside Gunn"
+      },
+      {
+        "id": "f73dc5dd-45c6-488f-970c-2b70ac649c18",
+        "albumID": "1534081236",
+        "name": "Frank Murphy (feat. Stove God Cooks, Flee Lord, Estee Nack, Elcamino & Smoke DZA)",
+        "artist": "Westside Gunn"
+      },
+      {
+        "id": "5fead715-5bb0-404e-9e84-60c71db13b25",
+        "albumID": "1534081236",
+        "name": "Good Night (feat. Slick Rick)",
+        "artist": "Westside Gunn"
+      },
+      {
+        "id": "791c4d70-5a36-4ac4-b2f4-c72856610328",
+        "albumID": "1534081236",
+        "name": "98 Sabres (feat. Armani Caesar, Conway the Machine & Benny the Butcher)",
+        "artist": "Westside Gunn"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/32/14/8732142c-f431-24a2-2e90-05d20a80c081/20UMGIM73369.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1534081236
+  },
+  {
+    "id": "110ec522-def4-4399-a8df-782878625e73",
+    "title": "Pray For Paris",
+    "artist": {
+      "id": "5d37364e-8eb4-4c80-9e0b-ccf35bff8ccf",
+      "name": "WestsideGunn*"
+    },
+    "releaseDate": "2020-01-01",
+    "songs": [
+      {
+        "id": "ebf86b3c-466f-4066-bac7-461b9cbf23d8",
+        "name": "400 Million Plus Tax",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "fac06cb4-e125-4925-9450-630bf089f148",
+        "name": "No Vacancy",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "c2d8957d-8910-4daa-841c-a2a11de7b7a9",
+        "name": "George Bondo",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "a0c0244c-4299-483b-a561-f72c0fb6dedc",
+        "name": "327",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "1ab23bf2-aef8-42c2-a6d2-f81eb7224648",
+        "name": "French Toast",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "ed0e2f2b-1b2c-4a6a-814f-11c42daf7a28",
+        "name": "Euro Step",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "abc5263e-cffb-4ad8-8c07-c581806c46aa",
+        "name": "Allah Sent Me",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "164be35e-140b-4d90-b380-15f9d7dc165f",
+        "name": "500 Dollar Ounces",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "f45eefa3-447f-4cde-b3f4-768ee2860930",
+        "name": "Versace",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "8d482f0f-af31-4dd4-aafa-e6ddc296a5fb",
+        "name": "Claiborne Kick",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "78560c8f-7ba9-4db4-aa05-f757300675ca",
+        "name": "Shawn Vs. Flair",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "22de0f91-1c68-47e9-a732-b7554cc98638",
+        "name": "Party Wit Pop Smoke",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "d1f58245-3f6a-4800-922e-12d0c93b6a52",
+        "name": "Le Djoliba",
+        "artist": "WestsideGunn*"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8f/bf/b2/8fbfb2d9-6ef2-951a-c6cd-26495e9c23e1/dj.vbothjgo.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 15533687
+  },
+  {
+    "id": "92e45fc6-9974-42c6-a815-ecef5bf38f8b",
+    "title": "Supreme Blientele",
+    "artist": {
+      "id": "5d37364e-8eb4-4c80-9e0b-ccf35bff8ccf",
+      "name": "WestsideGunn*"
+    },
+    "releaseDate": "2018-01-01",
+    "songs": [
+      {
+        "id": "120638e2-804a-4f77-aac5-b68ca7df6009",
+        "name": "Big Homie Arn",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "e1ceba89-c0fa-40e3-8595-92fe312362cb",
+        "name": "GODS Don't Bleed",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "c5e2d875-6cbd-4a4b-8e6f-4f00817abe80",
+        "name": "Dean Malenko",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "931446d0-3204-4d33-9cc4-6a49d3a0a16d",
+        "name": "Brutus",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "32d67d98-fdbd-42f3-8957-33dece3bfaa5",
+        "name": "Amherst Station",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "7a3331e5-2385-49f1-8cea-4c55e40e94ce",
+        "name": "RVD",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "955d8b09-03ad-40c1-94ce-d8c7f6361a71",
+        "name": "Elizabeth",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "2c57d069-ae7b-4cc5-8fa3-900808f1caa0",
+        "name": "MEAN Gene",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "27c0e37d-b769-43e2-9e55-81612abe420f",
+        "name": "Stefflon Don",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "c76c6659-682b-42f7-a026-ab89c6798987",
+        "name": "SaBu",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "5028887a-ac55-48a6-aaeb-462d61002d9e",
+        "name": "Brossface Brippler",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "62739013-5b58-4e5e-993b-1fe4d4816020",
+        "name": "Spanish Jesus",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "5313fe91-9ee7-45f7-a6e5-b24cae38c54f",
+        "name": "The Steiners",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "a57b637a-1245-474e-b923-b09c43c7bf47",
+        "name": "Ric Martel",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "5ef5d081-234e-48a2-8951-da01cdd6020e",
+        "name": "WESTSIDE",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "741dc612-1102-49c6-ab95-8da2a4249e47",
+        "name": "Wrestlemania 20",
+        "artist": "WestsideGunn*"
+      },
+      {
+        "id": "5dd49d0b-f086-4220-afab-2d594aec33d5",
+        "name": "AA Outro",
+        "artist": "WestsideGunn*"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/1f/8e/051f8e78-7350-337f-9c62-849d0b8bb4e4/888915649794_cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 12443731
+  },
+  {
+    "id": "48efb3bd-3ce2-401c-a800-d6b4cab004bc",
+    "title": "Wasn't Built In A Day",
+    "artist": {
+      "id": "b03d9222-88d9-41b4-bc96-c36f2981faf8",
+      "name": "Rome Streetz"
+    },
+    "releaseDate": "2023-01-01",
+    "songs": [
+      {
+        "id": "cfffeff0-cf9e-41db-914e-447962e25484",
+        "name": "Godspeed",
+        "artist": "Rome Streetz"
+      },
+      {
+        "id": "354549dc-1d6d-4be6-904c-7453cbaad98e",
+        "name": "Suicide",
+        "artist": "Rome Streetz"
+      },
+      {
+        "id": "af85dcd5-16fd-45a5-9620-ec65b0e628c8",
+        "name": "8Balls",
+        "artist": "Rome Streetz"
+      },
+      {
+        "id": "37bdf042-7001-474f-8b2a-9ec201b9f9cf",
+        "name": "Gem Drop",
+        "artist": "Rome Streetz"
+      },
+      {
+        "id": "5b712ce4-f903-4531-aa6c-c7d0c05b05f1",
+        "name": "Pz n Qz",
+        "artist": "Rome Streetz"
+      },
+      {
+        "id": "df4fc1a2-7f70-477c-a5df-9b44f3ab2ba4",
+        "name": "Royal Flush",
+        "artist": "Rome Streetz"
+      },
+      {
+        "id": "85dab3aa-52c5-447b-bd21-c34edc5219df",
+        "name": "Lobsters In Shoreditch",
+        "artist": "Rome Streetz"
+      },
+      {
+        "id": "0770771a-e423-4981-8d0a-2684ef6d9b21",
+        "name": "Dope Stampz",
+        "artist": "Rome Streetz"
+      },
+      {
+        "id": "fbbc7105-1488-45a4-be4b-d984f9402446",
+        "name": "Majisty",
+        "artist": "Rome Streetz"
+      },
+      {
+        "id": "327d5648-5929-426d-a244-7326318005f8",
+        "name": "Antidote",
+        "artist": "Rome Streetz"
+      },
+      {
+        "id": "5c55c2c1-5f26-4f09-82e7-af0e3eab765e",
+        "name": "U Mad Huh?",
+        "artist": "Rome Streetz"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/1c/1f/c91c1fca-1583-5be8-e01b-461c5b6e60a4/35c22ab7-2eea-4866-b37f-cc3ef4ffcacf.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 27234162
+  },
+  {
+    "id": "3d36437c-6770-48b9-994b-30e8ee2446ac",
+    "title": "Reasonable Drought",
+    "artist": {
+      "id": "69d33ba3-916e-4b41-91f1-f00f76cdc519",
+      "name": "Stove God Cooks & Roc Marciano"
+    },
+    "releaseDate": "2020-03-27",
+    "songs": [
+      {
+        "id": "003df54c-47d5-48de-8664-7d0199036f01",
+        "albumID": "1502515702",
+        "name": "Rolls Royce Break Lights",
+        "artist": "Stove God Cooks & Roc Marciano"
+      },
+      {
+        "id": "b5d53326-10bf-4ae1-9fce-15e24bcab21d",
+        "albumID": "1502515702",
+        "name": "Bread of Life",
+        "artist": "Stove God Cooks & Roc Marciano"
+      },
+      {
+        "id": "8c03addf-2afa-48bd-9a19-d88915925934",
+        "albumID": "1502515702",
+        "name": "Crosses",
+        "artist": "Stove God Cooks & Roc Marciano"
+      },
+      {
+        "id": "f52e1718-714c-4780-aa60-1b595c6e0b4c",
+        "albumID": "1502515702",
+        "name": "Break the Pyrex",
+        "artist": "Stove God Cooks & Roc Marciano"
+      },
+      {
+        "id": "6a0fadac-7cc1-428f-a2b3-f21eb48935fe",
+        "albumID": "1502515702",
+        "name": "Jim Boeheim",
+        "artist": "Stove God Cooks & Roc Marciano"
+      },
+      {
+        "id": "0a05cdee-8787-4864-ba05-6606ca4a2bc2",
+        "albumID": "1502515702",
+        "name": "Money Puddles",
+        "artist": "Stove God Cooks & Roc Marciano"
+      },
+      {
+        "id": "1f3da3d4-aea3-4337-8c8a-8716aa5331da",
+        "albumID": "1502515702",
+        "name": "Burt & State",
+        "artist": "Stove God Cooks & Roc Marciano"
+      },
+      {
+        "id": "48b2a0db-caaf-4398-8728-38525d7daa69",
+        "albumID": "1502515702",
+        "name": "Gloria Blemente",
+        "artist": "Stove God Cooks & Roc Marciano"
+      },
+      {
+        "id": "fb14de8a-fd4e-4876-b591-7cc0c9c6a272",
+        "albumID": "1502515702",
+        "name": "Lava Lamp",
+        "artist": "Stove God Cooks & Roc Marciano"
+      },
+      {
+        "id": "7a8ac5d1-5929-4b1a-87a0-a6c14fc9e9ce",
+        "albumID": "1502515702",
+        "name": "John $Tarks",
+        "artist": "Stove God Cooks & Roc Marciano"
+      },
+      {
+        "id": "b7ffa2d8-ef7d-4b01-8123-8ada0f02eddd",
+        "albumID": "1502515702",
+        "name": "Cocaine Cologne",
+        "artist": "Stove God Cooks & Roc Marciano"
+      },
+      {
+        "id": "82f1754d-7ff8-45e4-81e9-0dc70702be98",
+        "albumID": "1502515702",
+        "name": "Balenciaga $Tamp",
+        "artist": "Stove God Cooks & Roc Marciano"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2e/91/e1/2e91e125-f987-d33f-2f99-79ff2c660d55/194690156526_cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1502515702
+  },
+  {
+    "id": "8f9e5a8d-9614-4fbb-90c5-c4425b75e4b1",
+    "title": "The Elephant Man's Bones",
+    "artist": {
+      "id": "7ac6335a-a2d0-4f88-ac70-267d13568253",
+      "name": "Roc Marciano & The Alchemist*"
+    },
+    "releaseDate": "2022-01-01",
+    "songs": [
+      {
+        "id": "9221df71-d692-4b85-bc08-5cc541ab1893",
+        "name": "Rubber Hand Grip",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "bd565a58-a91c-4d60-b2de-2a45dd6588fe",
+        "name": "Daddy Kane",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "e81cc088-e105-47e6-8739-7c0a9b38a1ba",
+        "name": "Deja Vu",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "6ecdb8f9-b0c2-4a2b-9a7c-53485206305c",
+        "name": "Quantum Leap",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "8ae6d61f-bd6c-4b23-aeb8-86723dc42857",
+        "name": "The Elephant Man's Bones",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "f63a8c71-7b60-4fb7-aa7b-7007461cfa66",
+        "name": "Bubble Bath",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "1f000221-47d2-43bb-ba2a-f1defecdf81f",
+        "name": "Liquid Coke",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "de5801d1-aacd-4bdb-a08e-b0cc8a17037c",
+        "name": "Trillion Cut",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "a8eb6bef-8ef7-429d-8729-c7284fda847c",
+        "name": "The Horns Of Abraxas",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "32137485-5bba-4a25-adfa-b9fa719df5aa",
+        "name": "JJ Flash",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "9556eb7b-8133-4b9b-8b87-eccc09fdfa68",
+        "name": "Zig Zag Zig",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "b36f6780-6a22-4c21-81f4-6e8a81cc07b4",
+        "name": "Stigmata",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "c3c8c42f-d6b1-4fff-8306-6d1fb71c8268",
+        "name": "Zip Guns",
+        "artist": "Roc Marciano & The Alchemist*"
+      },
+      {
+        "id": "0935c726-e90b-4212-a9ea-ef4dda9b055b",
+        "name": "Think Big",
+        "artist": "Roc Marciano & The Alchemist*"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1e/a5/9c/1ea59c2d-a77f-3fd1-f58d-39183183c746/194690921346_cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 25618666
+  },
+  {
+    "id": "78e1bca4-274d-4058-a148-039ebb9c4fa3",
+    "title": "656",
+    "artist": {
+      "id": "736ed326-5a5c-426f-a859-f7e809abfd5a",
+      "name": "Roc Marciano"
+    },
+    "releaseDate": "2026-01-01",
+    "songs": [
+      {
+        "id": "7ff9376b-e585-468e-a9fa-4132224a6060",
+        "name": "Trick Bag",
+        "artist": "Roc Marciano"
+      },
+      {
+        "id": "ee94ede8-65db-4913-82cb-1ac0e7bbee35",
+        "name": "Childish Things",
+        "artist": "Roc Marciano"
+      },
+      {
+        "id": "255f4cc4-83e4-4edf-8882-df4a0fca5064",
+        "name": "Hate Is Love",
+        "artist": "Roc Marciano"
+      },
+      {
+        "id": "f103d9aa-a372-441d-b123-694c4531f060",
+        "name": "Yves St. Moron",
+        "artist": "Roc Marciano"
+      },
+      {
+        "id": "9b9e3519-4b08-4a3d-8f13-5fe42f8987a0",
+        "name": "Prince & Apollonia",
+        "artist": "Roc Marciano"
+      },
+      {
+        "id": "83f5252c-afa2-4c1b-aec9-4829881b71ab",
+        "name": "Vanity",
+        "artist": "Roc Marciano"
+      },
+      {
+        "id": "e77c9b9e-2182-4cf3-a59c-c2a2ac2d85c7",
+        "name": "Rain Dance",
+        "artist": "Roc Marciano"
+      },
+      {
+        "id": "3fa2723b-dd60-4b6e-b75b-d0bd3f96154e",
+        "name": "Tracey Morgan Vomit",
+        "artist": "Roc Marciano"
+      },
+      {
+        "id": "f674cd54-2240-4d87-a6b0-8e28c4421eba",
+        "name": "Trapeze",
+        "artist": "Roc Marciano"
+      },
+      {
+        "id": "9828f376-a4ed-4b6b-bd97-606f221bc6f6",
+        "name": "Good For You",
+        "artist": "Roc Marciano"
+      },
+      {
+        "id": "1ceffacd-d5b8-4fe4-afd7-c64590bbb61e",
+        "name": "Easy Bake Oven",
+        "artist": "Roc Marciano"
+      },
+      {
+        "id": "41546abf-a60d-4d03-a4a4-3eaab139efd5",
+        "name": "Melo",
+        "artist": "Roc Marciano"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/1e/9b/631e9bb5-b1ac-8fa8-9c4d-23f70560ef0e/8721465577143.png/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 36736276
+  },
+  {
+    "id": "69a88d5f-0e9a-49f7-905f-36e9cc89be57",
+    "title": "PLAY ME",
+    "artist": {
+      "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
+      "name": "Kim Gordon"
+    },
+    "releaseDate": "2026-03-13",
+    "songs": [
+      {
+        "id": "d16bbd1e-d5e0-4243-963b-07d6aa895f4f",
+        "albumID": "1859967390",
+        "name": "PLAY ME",
+        "artist": "Kim Gordon"
+      },
+      {
+        "id": "75944399-3906-4cca-b000-407f7528b323",
+        "albumID": "1859967390",
+        "name": "GIRL WITH A LOOK",
+        "artist": "Kim Gordon"
+      },
+      {
+        "id": "6001f1e3-7c83-448b-b73e-5413075c800f",
+        "albumID": "1859967390",
+        "name": "NO HANDS",
+        "artist": "Kim Gordon"
+      },
+      {
+        "id": "44647814-df57-4d7b-a65d-39db91716edf",
+        "albumID": "1859967390",
+        "name": "BLACK OUT",
+        "artist": "Kim Gordon"
+      },
+      {
+        "id": "c92ed006-d25d-48b7-b04d-02630612b2f2",
+        "albumID": "1859967390",
+        "name": "DIRTY TECH",
+        "artist": "Kim Gordon"
+      },
+      {
+        "id": "d3730e5f-ff6a-4834-ad33-13225da86a88",
+        "albumID": "1859967390",
+        "name": "NOT TODAY",
+        "artist": "Kim Gordon"
+      },
+      {
+        "id": "6bef5288-2b4d-45b3-ba3e-27413c547670",
+        "albumID": "1859967390",
+        "name": "BUSY BEE",
+        "artist": "Kim Gordon"
+      },
+      {
+        "id": "89372e35-c6e9-4144-b20b-e2d24354277b",
+        "albumID": "1859967390",
+        "name": "SQUARE JAW",
+        "artist": "Kim Gordon"
+      },
+      {
+        "id": "3f731d5c-5ae9-4efc-8aca-5f0249e36dc9",
+        "albumID": "1859967390",
+        "name": "SUBCON",
+        "artist": "Kim Gordon"
+      },
+      {
+        "id": "4c7eed5b-eb4f-436a-981f-3c045446f4ca",
+        "albumID": "1859967390",
+        "name": "POST EMPIRE",
+        "artist": "Kim Gordon"
+      },
+      {
+        "id": "6b671f54-b4e8-4362-a4e0-4884bc733c30",
+        "albumID": "1859967390",
+        "name": "NAIL BITER",
+        "artist": "Kim Gordon"
+      },
+      {
+        "id": "32d7b1b8-d45e-4c50-bf35-df84f9ee55ca",
+        "albumID": "1859967390",
+        "name": "BYEBYE25!",
+        "artist": "Kim Gordon"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/3d/56/0a3d5627-c6e4-cc2a-e64f-0058a0791454/191401219877.png/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1859967390
+  },
+  {
+    "id": "a94cafba-6382-487d-839d-8dcd668df59d",
+    "title": "Bulldawg",
+    "artist": {
+      "id": "92191e26-1f66-46dc-ba7d-fc409d96433f",
+      "name": "Kenny Mason (3)"
+    },
+    "releaseDate": "2026-01-01",
+    "songs": [
+      {
+        "id": "cc8340fa-e46a-41d7-9012-34a37068df5a",
+        "name": "Bullkiller",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "fa9e521d-247d-416c-b564-3fc108ac52f8",
+        "name": "Bounce Wit Me",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "a2e474bb-a891-4abe-aea3-a52e81e0d144",
+        "name": "Door Swangin",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "056a140b-c3da-4d76-b981-30f0bce26cc6",
+        "name": "Whatuwannasay?!",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "e6e9ff59-60d6-475a-a6ab-1298deaa4e84",
+        "name": "Citgo",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "c24cc3d3-4a6d-4e64-bd7d-1472abd159ae",
+        "name": "Junkyard Freestyle",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "b88b4542-f334-4974-b1be-224de0993457",
+        "name": "Break Time",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "4b8f329b-d4a4-413b-8f24-d1d8875eb093",
+        "name": "Here II Stay (Interlude)",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "b60dccf1-d088-4562-85b0-695da8138764",
+        "name": "Test Me",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "4af71e67-4ba0-458e-9e3e-3f2dabb23831",
+        "name": "Be What I Want",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "6d2ce11a-3f29-40ad-9cb2-52c917ad49c8",
+        "name": "Street Car",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "4eb9dc49-6d33-4a5a-b8ec-97f3206a33a5",
+        "name": "Black Fit",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "f293cee9-fbd4-4fd8-8a6c-729ecad97f18",
+        "name": "Come True",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "c691b22a-eed0-4220-aa04-c03efde2917b",
+        "name": "Find God",
+        "artist": "Kenny Mason (3)"
+      },
+      {
+        "id": "e88f8c87-c467-477e-b40f-b5c20de7e983",
+        "name": "7Eleven",
+        "artist": "Kenny Mason (3)"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/04/dd/6204dd33-4696-79a8-b514-cc05f2f19823/075679581679.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 37400760
+  },
+  {
+    "id": "b533f73b-7528-4c84-922e-5445dc0828a3",
+    "title": "Pompeii // Utility",
+    "artist": {
+      "id": "4a66d668-28d8-4aad-9753-f28b5c19c2fc",
+      "name": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+    },
+    "releaseDate": "2026-01-01",
+    "songs": [
+      {
+        "id": "eeb039a5-7727-4c62-9400-d10b764e54e2",
+        "name": "The Fall",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "d3371df9-e6c5-4cf3-bbcc-536533abb042",
+        "name": "My Worst (rebuke)",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "3c4ee094-492d-48f1-8749-dc9dba5bb045",
+        "name": "Da Bid",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "7959d150-190e-4b43-8a02-f423f7cc8c66",
+        "name": "Not 4tw",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "d2e39657-d13a-4b33-87c3-043e9c52d6b8",
+        "name": "The Pope",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "6fff389a-ce76-4a4c-9a61-a46af7ead76a",
+        "name": "Afro",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "32e384a8-c196-4803-b42b-171ea3389b8a",
+        "name": "Minty",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "2f9fb83a-7c6e-417d-861b-631c73db3784",
+        "name": "F.E.A.R.",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "2f0fff5f-5a7c-4582-8339-2ed05b3da0e4",
+        "name": "Tampering",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "57e3646e-82a2-4950-af96-25a30f4dc1b3",
+        "name": "Shutter Island",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "ee9f1c86-e3a6-4cb0-b689-ed72bfee06bf",
+        "name": "Back La",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "11896786-999f-49b1-bb2e-13e8d1870156",
+        "name": "Back Home",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "f184a447-a3dc-4c4a-bcc8-12e4c40448e5",
+        "name": "Kirkland",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "bfc8c99f-17d0-4d43-aed8-e57fb35691e3",
+        "name": "#Free #Mike",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "326af8dc-aae1-4bf9-98c4-ed9be978d2b4",
+        "name": "Man of the Month",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "d559e617-928b-47b5-9c9a-3ee99f08e4fa",
+        "name": "this2shallpass",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "72c333ba-eb7f-4026-ba4b-3c2e432ec10e",
+        "name": ":(again:)",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "e5586839-0741-40e5-a96f-723984403326",
+        "name": "Home on the Range",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "8eedbebc-ca20-4958-bebb-1db056ef44c5",
+        "name": "React",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "582e08ce-19cd-4692-834f-aaaf89cb923c",
+        "name": "Hot Water (Cahuilla)",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "4a627d73-83a1-47bb-8599-a573ce28dc25",
+        "name": "rectangle lens",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "808b5f68-aa66-4aaa-be08-2e4783f03596",
+        "name": "Leadbelly",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "331ca644-b176-461d-8163-4f5d84637c9d",
+        "name": "quikk",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "2845eb2c-4756-4978-a891-6fb78da67b6c",
+        "name": "Ew!",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "6e35fbac-14fc-41b6-b6ae-3698fd0b96ff",
+        "name": "Earth",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "b02fd6a8-8303-440a-80a9-1d41c101bc7e",
+        "name": "Chali 2na",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "a4ca2c90-3d2e-48dc-b9fd-d0ff50a5df3c",
+        "name": "Sisyphus",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "80addae4-71ec-457e-ae4c-45f49baa1d3b",
+        "name": "Locusts",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "5751d480-e237-473c-baed-6b45c7180f3c",
+        "name": "Tour de France",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "22bb41c2-20cd-438c-ad5c-bf5f39e8d584",
+        "name": "Chicago",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "2dad7ef9-d494-4c0e-861d-85aa5caaba99",
+        "name": "Book of Eli",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "0bd8bba1-cbde-46fa-8b49-cea2dd41fa3e",
+        "name": "Aok",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      },
+      {
+        "id": "f00c6188-dbc4-4f2f-912a-d6a0c4443099",
+        "name": "Don't Worry!",
+        "artist": "Earl Sweatshirt, Mike (408), Surf Gang (2)"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/5b/dc/935bdc06-632e-81a1-6e8f-3a9b602c6039/5056818807527.png/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 37108335
+  },
+  {
+    "id": "80cb4d5d-6461-4df8-8a71-26ef0ffa952b",
+    "title": "Doris",
+    "artist": {
+      "id": "d6af75fd-ad55-4cdf-9390-3e011382fe87",
+      "name": "Earl Sweatshirt"
+    },
+    "releaseDate": "2013-01-01",
+    "songs": [
+      {
+        "id": "c9c20bf1-b705-4805-86a0-5bde1e613ec9",
+        "name": "Pre",
+        "artist": "Earl Sweatshirt"
+      },
+      {
+        "id": "ec49a856-c25b-4007-be8a-ceab12e21734",
+        "name": "Burgundy",
+        "artist": "Earl Sweatshirt"
+      },
+      {
+        "id": "968306a8-18c0-40ea-ac3a-9397e5481afc",
+        "name": "20 Wave Caps",
+        "artist": "Earl Sweatshirt"
+      },
+      {
+        "id": "3ea53c38-ef9e-45a9-9e4f-040fae4c9a90",
+        "name": "Sunday",
+        "artist": "Earl Sweatshirt"
+      },
+      {
+        "id": "315cb5a6-6e9b-4067-8fe6-498888a4f5d7",
+        "name": "Hive",
+        "artist": "Earl Sweatshirt"
+      },
+      {
+        "id": "8322dda2-78f6-437e-9479-28444fb98423",
+        "name": "Chum",
+        "artist": "Earl Sweatshirt"
+      },
+      {
+        "id": "53e85497-2e58-40aa-917d-1e78b0a928a5",
+        "name": "Sasquatch",
+        "artist": "Earl Sweatshirt"
+      },
+      {
+        "id": "feeaf8bc-4bff-48da-99a5-0c17646ea584",
+        "name": "Guild",
+        "artist": "Earl Sweatshirt"
+      },
+      {
+        "id": "dcf61b99-a8c9-4b15-92fe-02babb764869",
+        "name": "Molasses",
+        "artist": "Earl Sweatshirt"
+      },
+      {
+        "id": "3e51c6e3-e858-4b53-ae87-e8db831b4b77",
+        "name": "Whoa",
+        "artist": "Earl Sweatshirt"
+      },
+      {
+        "id": "63d0088d-eae3-4b86-9d92-47007824ae66",
+        "name": "Hoarse",
+        "artist": "Earl Sweatshirt"
+      },
+      {
+        "id": "514ab66f-905e-4c86-a7df-004c53c20b1b",
+        "name": "Knight",
+        "artist": "Earl Sweatshirt"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f0/87/2c/f0872c1b-aad1-aa42-f301-f54e114c448a/886444045094.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 7403409
   }
 ]
