@@ -5986,119 +5986,6 @@
     "appleId": 1397651890
   },
   {
-    "id": "db47cf76-4d54-4add-af04-46c447e10e5a",
-    "title": "Watch the Throne (Deluxe Version)",
-    "artist": {
-      "id": "d2e895dc-4c3e-46a7-b7dd-b05a74d7eeb7",
-      "name": "JA\u0178-Z & Kanye West",
-      "albumIDs": [
-        "db47cf76-4d54-4add-af04-46c447e10e5a"
-      ]
-    },
-    "releaseDate": "2011-08-08",
-    "songs": [
-      {
-        "id": "07a18ddf-96df-4c5e-b87c-ef56c15f9391",
-        "albumID": "1440766278",
-        "name": "No Church in the Wild (feat. Frank Ocean)",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "44a1e4ea-82ff-4b11-8e94-d1c94e4d3788",
-        "albumID": "1440766278",
-        "name": "Lift Off (feat. Beyonc\u00e9)",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "968dcd44-c5f8-47f5-a399-5910c1eb3747",
-        "albumID": "1440766278",
-        "name": "Ni**as in Paris",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "1ef9f06a-cfa3-4c34-9b01-c7d9174fef13",
-        "albumID": "1440766278",
-        "name": "Otis (feat. Otis Redding)",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "8a160247-84f1-4b26-81e3-00b9e71c1464",
-        "albumID": "1440766278",
-        "name": "Gotta Have It",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "194edcff-0b93-4ee5-a96c-1b330f2371a0",
-        "albumID": "1440766278",
-        "name": "New Day",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "6a80005e-6b45-48e2-a282-da7f81c1260d",
-        "albumID": "1440766278",
-        "name": "That's My Bitch",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "22a3ca57-1b5b-435f-9073-ed6077b79e1f",
-        "albumID": "1440766278",
-        "name": "Welcome to the Jungle",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "64200500-277a-40f3-95ea-b86c20f5026e",
-        "albumID": "1440766278",
-        "name": "Who Gon Stop Me",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "f1506033-5246-4af2-872e-45e7eece593f",
-        "albumID": "1440766278",
-        "name": "Murder to Excellence",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "34e81cc5-018c-4bde-9b41-3ea5cc540963",
-        "albumID": "1440766278",
-        "name": "Made in America (feat. Frank Ocean)",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "04411681-daf1-4a3a-9be5-b1d047c3bbab",
-        "albumID": "1440766278",
-        "name": "Why I Love You (feat. Mr Hudson)",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "ef96f2f6-96d2-41bb-ac64-d656c39956b2",
-        "albumID": "1440766278",
-        "name": "Illest Motherf**ker Alive",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "36a74c3a-0727-41eb-abb4-e8231c187562",
-        "albumID": "1440766278",
-        "name": "H\u2022a\u2022m",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "602993c2-9e6d-4db7-94f0-faf956d9d777",
-        "albumID": "1440766278",
-        "name": "Primetime",
-        "artist": "JA\u0178-Z & Kanye West"
-      },
-      {
-        "id": "9fc285c5-0ced-4241-a59f-fc162c9f7930",
-        "albumID": "1440766278",
-        "name": "The Joy (feat. Curtis Mayfield)",
-        "artist": "JA\u0178-Z & Kanye West"
-      }
-    ],
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/f5/07/18f5070d-b5dc-796c-bce4-42badb41a762/00602527812526.rgb.jpg/600x600bb.jpg",
-    "type": "Album",
-    "appleId": 1440766278
-  },
-  {
     "id": "4b226bfb-ef0e-42cc-a067-a1393f15ff10",
     "title": "808s & Heartbreak",
     "artist": {
@@ -27648,12 +27535,32 @@
         "id": "4da04853-bebd-4ea7-ad08-7ef357d236d2",
         "name": "Phone Bill",
         "artist": "Boldy James & The Alchemist"
+      },
+      {
+        "id": "2f2c5787-6390-472f-841d-7990d76050ce",
+        "name": "Pots And Pans",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "9feeb4a2-5e7a-4d8d-ab7d-782d321b5fcc",
+        "name": "Belvedere",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "31c7cd66-a58d-45f6-ae60-12cd4efd073b",
+        "name": "Bernadines",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "959ddf7b-c336-4fc2-9ae2-5ecb087ec037",
+        "name": "Don Flamingo",
+        "artist": "Boldy James, Alchemist"
       }
     ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/eb/9b/58/eb9b587a-1549-2c0f-1cd8-ef7c2405698e/194690253973_cover.jpg/600x600bb.jpg",
     "type": "Album",
-    "isDeluxe": false,
-    "discogsId": 15590200
+    "isDeluxe": true,
+    "discogsId": 15780634
   },
   {
     "id": "aca1c95d-c964-4529-aa25-cb1c6a6c1760",
@@ -41158,5 +41065,2074 @@
     "type": "Album",
     "isDeluxe": false,
     "discogsId": 7403409
+  },
+  {
+    "id": "c6ebab56-f366-4aa4-9900-cbddbafc0b3b",
+    "title": "The State vs. Radric Davis",
+    "artist": {
+      "id": "ff1dffa0-d804-4256-868c-1436f04d9268",
+      "name": "Gucci Mane"
+    },
+    "releaseDate": "2009-12-08",
+    "songs": [
+      {
+        "id": "7327cfd0-97d2-46b4-b25e-eea878978fbb",
+        "albumID": "342392469",
+        "name": "Classical (Intro)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "81b846b2-0b71-45af-b868-be0ca5ff4a94",
+        "albumID": "342392469",
+        "name": "Interlude: Toilet Bowl Shawty (feat. Mike Epps)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "42a5234a-7c90-4f30-945f-1b1c8e0ac45b",
+        "albumID": "342392469",
+        "name": "Heavy",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "f78cce72-1bbe-46bc-9b4d-897e8b3331bc",
+        "albumID": "342392469",
+        "name": "Stupid Wild (feat. Lil Wayne, Cam'Ron)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "78a8924f-e2fe-4dfa-9c97-60f4ec80ea40",
+        "albumID": "342392469",
+        "name": "All About the Money (feat. Rick Ross)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "e5ffd509-d701-4cde-a849-9223d831c83d",
+        "albumID": "342392469",
+        "name": "Lemonade",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "3df886ca-37ab-4eae-9793-7995d07ac554",
+        "albumID": "342392469",
+        "name": "Bingo (feat. Soulja Boy Tell'Em, Waka Flocka Flame)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "2696e1cc-a32e-4220-8d6a-99a43794e8b6",
+        "albumID": "342392469",
+        "name": "Spotlight (feat. Usher)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "8340c04b-f1ac-4170-8bf4-a451cafcc5dc",
+        "albumID": "342392469",
+        "name": "I Think I'm In Love (feat. Jason Caesar)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "604e21ab-7dd5-4a26-9c17-091054cbdc39",
+        "albumID": "342392469",
+        "name": "Bad Bad Bad (feat. Keyshia Cole)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "62e47b8f-4769-46ea-b02e-ba834fdd3473",
+        "albumID": "342392469",
+        "name": "Interlude: Toilet Bowl Shawty (feat. Mike Epps)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "0b9c3e28-3829-4679-8034-6a0aa0082c06",
+        "albumID": "342392469",
+        "name": "Sex In Crazy Places (feat. Bobby V, Nicki Minaj, Trina)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "2877a7ea-ebf2-4115-a77b-ba464fd6eac1",
+        "albumID": "342392469",
+        "name": "The Movie",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "016f05c6-75b1-431e-b8b6-6a9214ca1d08",
+        "albumID": "342392469",
+        "name": "Volume (feat. Wooh Da Kid)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "f484ccf3-9968-43f9-bbe9-dc241edd63be",
+        "albumID": "342392469",
+        "name": "Gingerbread Man (feat. OJ Da Juiceman)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "6927bee4-4212-459e-abfe-f5aa28bdcc7c",
+        "albumID": "342392469",
+        "name": "Wasted (feat. Plies)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "6b169b72-f2c9-4b0e-a762-d9cea90d6929",
+        "albumID": "342392469",
+        "name": "Ku** Is My Cologne (feat. Bun B, Devin the Dude, E-40)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "aa9f3aea-52b2-4b42-866a-c69502eab68f",
+        "albumID": "342392469",
+        "name": "Worst Enemy",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "4bdc8d45-812d-4c5d-8b56-d877fcae5680",
+        "albumID": "342392469",
+        "name": "Interlude: Toilet Bowl Shawty (feat. Mike Epps)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "cc907294-8cb7-4e30-8880-d476a5d105b1",
+        "albumID": "342392469",
+        "name": "Wasted (Remix)",
+        "artist": "Gucci Mane"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/11/9d/07119da9-29b2-d223-91e3-e2d67c3f05eb/093624974130.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 342392469
+  },
+  {
+    "id": "8f75077b-914b-491d-b5f4-2fc94e2ec4fe",
+    "title": "The Return of East Atlanta Santa",
+    "artist": {
+      "id": "ff1dffa0-d804-4256-868c-1436f04d9268",
+      "name": "Gucci Mane"
+    },
+    "releaseDate": "2016-12-16",
+    "songs": [
+      {
+        "id": "646fed93-ac72-41da-b900-205a2c60ec10",
+        "albumID": "1187370964",
+        "name": "St. Brick Intro",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "cd9f814a-eaf7-407f-a5d1-18a624825417",
+        "albumID": "1187370964",
+        "name": "I Can't",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "42f3f8be-2470-407e-b124-c8de5246af63",
+        "albumID": "1187370964",
+        "name": "Walk on Water",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "52dbd98c-185b-4fbb-8e07-d0ae0961aae5",
+        "albumID": "1187370964",
+        "name": "Both (feat. Drake)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "a27f4171-24f6-4b69-82fa-aa3fc8c207b5",
+        "albumID": "1187370964",
+        "name": "Stutter",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "c3f16038-c8da-43b9-99c4-0a1f9cb0c15c",
+        "albumID": "1187370964",
+        "name": "Drove U Crazy (feat. Bryson Tiller)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "4b876884-614e-451d-9ca7-7cb54a05ec9b",
+        "albumID": "1187370964",
+        "name": "Crash",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "29fa7390-a80c-4753-b939-f8adeac105e2",
+        "albumID": "1187370964",
+        "name": "Yet",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "f5e12bae-a6e6-4580-beb4-6f3cdc1ea2c2",
+        "albumID": "1187370964",
+        "name": "Nonchalant",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "68367a43-ac74-4510-b1fd-69db98b60166",
+        "albumID": "1187370964",
+        "name": "Last Time (feat. Travis Scott)",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "5f0ac2d0-7466-419f-902b-3f8b7650c2bc",
+        "albumID": "1187370964",
+        "name": "Bales",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "887719d9-39d0-4323-a276-07f798813881",
+        "albumID": "1187370964",
+        "name": "No Smoke",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "7ad4f60b-fcda-41b2-8cab-a4a160f0b498",
+        "albumID": "1187370964",
+        "name": "Greatest Show on Earth",
+        "artist": "Gucci Mane"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/41/cc/fc/41ccfc6c-7bbd-301a-2945-c47d0402932b/075679903051.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1187370964
+  },
+  {
+    "id": "dc2d0012-aff9-4ac1-8a18-c26d6d6e70b8",
+    "title": "Trap House",
+    "artist": {
+      "id": "ff1dffa0-d804-4256-868c-1436f04d9268",
+      "name": "Gucci Mane"
+    },
+    "releaseDate": "2005-01-01",
+    "songs": [
+      {
+        "id": "73e2721f-48d9-494e-bf9a-6bf2cca8e368",
+        "name": "Intro",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "a73d3d72-7d91-4609-b721-1ba9f203dcd1",
+        "name": "Trap House",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "f627da2d-29ef-4cc1-8fb5-cfb8dd2b95e5",
+        "name": "That's All",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "c5f04c83-476c-445b-b8b7-aa440a7be707",
+        "name": "Booty Shorts",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "86e195be-4596-42ec-ad49-1f92a11eebc9",
+        "name": "Icy",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "5f8f35b7-e653-4da5-8caf-0808363ee3ad",
+        "name": "Two Thangs",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "fcb3aca5-0c27-4e8a-9b18-a6452383d892",
+        "name": "Money Don't Matter",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "91e0f1b0-e8fc-4aba-9042-b880e6cbb15f",
+        "name": "That's My Hood",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "654e421b-68b2-437e-bccc-c3325a49e2ab",
+        "name": "Lawnmower Man",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "12994078-ccce-4111-9b75-245c75edd79c",
+        "name": "Pyrex Pot",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "3b84e102-053d-4794-a840-d1a150b745ad",
+        "name": "Independent Balling Like A Mayor #1",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "637e32fa-9181-48bc-a02e-5f67aad90422",
+        "name": "Black Tee",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "9764f535-6968-42d0-9290-ff98371685ad",
+        "name": "Corner Cuttin",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "2d0adfe9-8f51-4f0e-b343-214bd4948d4e",
+        "name": "Independent Balling Like A Mayor #2",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "1112a224-b51f-4265-af09-8b52396bb1a4",
+        "name": "Hustle",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "43cf3a09-3ea8-45fe-97fa-6d8fe5b73f11",
+        "name": "Damn Shawty",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "7e77b2d0-6f3d-4fb1-9f4b-7df1b7ad1384",
+        "name": "Go Head",
+        "artist": "Gucci Mane"
+      },
+      {
+        "id": "f47b9067-a79f-446d-be7e-2974262f44d2",
+        "name": "Outro",
+        "artist": "Gucci Mane"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/c3/89/65c389d1-a710-f86d-210c-aa11b1f2f113/198704617966_Cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 2206148
+  },
+  {
+    "id": "29a3d238-3d63-44b8-b66d-420033f97832",
+    "title": "NOT ALL HEROES WEAR CAPES",
+    "artist": {
+      "id": "f1062fbb-edc1-4dd6-9828-7971304690aa",
+      "name": "Metro Boomin"
+    },
+    "releaseDate": "2018-11-02",
+    "songs": [
+      {
+        "id": "dc132106-0e04-490d-a937-e0bad8523ad3",
+        "albumID": "1441385303",
+        "name": "10AM / Save the World (feat. Gucci Mane)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "58bb2ff3-0329-44be-a4a0-f1a687c1fe99",
+        "albumID": "1441385303",
+        "name": "10AM / Save the World (Instrumental)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "9016769a-8e8d-4ea8-8b1c-97dabf33a051",
+        "albumID": "1441385303",
+        "name": "Overdue (feat. Travis Scott)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "c6d678c2-63f6-4b76-9b1b-f29635b2e15a",
+        "albumID": "1441385303",
+        "name": "Overdue (Instrumental)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "0498589b-7dd3-4b8e-8a92-7e7de6854404",
+        "albumID": "1441385303",
+        "name": "Don't Come Out the House (feat. 21 Savage)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "1d7e8b71-6129-40fa-842e-66d0d0a68d35",
+        "albumID": "1441385303",
+        "name": "Don't Come Out the House (Instrumental)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "31929039-8dd8-40a6-acb2-c3e7bb8a961d",
+        "albumID": "1441385303",
+        "name": "Dreamcatcher (feat. Swae Lee & Travis Scott)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "f31b764c-43c1-4a27-9bc6-e6dd66195403",
+        "albumID": "1441385303",
+        "name": "Dreamcatcher (Instrumental)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "d6c5467f-d785-4230-9d25-9cbd4e2675b9",
+        "albumID": "1441385303",
+        "name": "Space Cadet (feat. Gunna)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "7b027e30-9d7f-4e3f-8485-1b82d4d8ae2b",
+        "albumID": "1441385303",
+        "name": "Space Cadet (Instrumental)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "83adae45-f905-478b-844a-c9ef6e23c8dc",
+        "albumID": "1441385303",
+        "name": "10 Freaky Girls (feat. 21 Savage)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "9cb1c23a-a570-4723-aafb-055750b74cb0",
+        "albumID": "1441385303",
+        "name": "10 Freaky Girls (Instrumental)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "9df97fb7-c057-4b16-b28c-57c28941f9c1",
+        "albumID": "1441385303",
+        "name": "Up to Something (feat. Travis Scott & Young Thug)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "777aacb0-cc5a-4170-9d19-d360ae6ea31b",
+        "albumID": "1441385303",
+        "name": "Up to Something (Instrumental)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "613d3384-48bd-417a-814f-242f1e32eff6",
+        "albumID": "1441385303",
+        "name": "Only 1 (Interlude) [feat. Travis Scott]",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "5fa10d95-dfba-44e6-8627-58127036972e",
+        "albumID": "1441385303",
+        "name": "Only 1 (Interlude) [Instrumental]",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "5cd2c317-417e-4210-ba99-39bc1f3cb6da",
+        "albumID": "1441385303",
+        "name": "Lesbian (feat. Gunna & Young Thug)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "1d5b8655-1cc0-43eb-8f73-ed4e58d60d1a",
+        "albumID": "1441385303",
+        "name": "Lesbian (Instrumental)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "3d566365-0261-44be-9aa8-c4d726d213e0",
+        "albumID": "1441385303",
+        "name": "Borrowed Love (feat. Swae Lee & Wizkid)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "4b621fc9-7172-4165-8901-cbc2cbf26391",
+        "albumID": "1441385303",
+        "name": "Borrowed Love (Instrumental)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "0a3ae816-1df7-4d43-9d37-0160cef101b9",
+        "albumID": "1441385303",
+        "name": "Only You (feat. J Balvin, Wizkid & Offset)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "d25f4573-b18c-4a1a-a0bc-e80e1389dd7f",
+        "albumID": "1441385303",
+        "name": "Only You (Instrumental)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "51c569a0-683d-43a0-9d84-6cd765d98af0",
+        "albumID": "1441385303",
+        "name": "No More (feat. Travis Scott, Kodak Black & 21 Savage)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "42611a76-1965-4488-aa69-bf220c758502",
+        "albumID": "1441385303",
+        "name": "No More (Instrumental)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "d5a8e0df-f87a-49cf-93e4-dac666563c66",
+        "albumID": "1441385303",
+        "name": "No Complaints (feat. Offset & Drake) [Bonus]",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "04e1ce97-7161-4e4b-86d8-711e1324591d",
+        "albumID": "1441385303",
+        "name": "No Complaints (Bonus) [Instrumental]",
+        "artist": "Metro Boomin"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b1/e3/27/b1e3271b-b8cb-7d80-99e5-0ddd9d6e632e/00602577303210.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": true,
+    "appleId": 1441385303
+  },
+  {
+    "id": "4db08afe-5e98-4f6d-81d3-860c4e35354f",
+    "title": "HEROES & VILLAINS",
+    "artist": {
+      "id": "f1062fbb-edc1-4dd6-9828-7971304690aa",
+      "name": "Metro Boomin"
+    },
+    "releaseDate": "2022-12-02",
+    "songs": [
+      {
+        "id": "e463f7b6-e129-4b15-8caa-924d822e8402",
+        "albumID": "1657583857",
+        "name": "On Time",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "f5d9ffce-671e-4164-a446-d8afe88decea",
+        "albumID": "1657583857",
+        "name": "Superhero (Heroes & Villains)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "857f85b6-8f3f-465f-9c5e-454271e14cbd",
+        "albumID": "1657583857",
+        "name": "Too Many Nights (feat. Don Toliver)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "9289001e-04d9-4dcc-9cf8-b4d63dd4aefa",
+        "albumID": "1657583857",
+        "name": "Raindrops (Insane)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "a9166c8a-cbba-4639-ab2b-06f05f0c226a",
+        "albumID": "1657583857",
+        "name": "Umbrella",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "4bcdac9a-f937-4740-b1f5-09958f02f715",
+        "albumID": "1657583857",
+        "name": "Trance",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "f95e2ed6-a620-48e1-b640-8904f6d64510",
+        "albumID": "1657583857",
+        "name": "Around Me (feat. Don Toliver)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "418d563f-398b-4ddb-80ed-7d36cc0e8594",
+        "albumID": "1657583857",
+        "name": "Metro Spider",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "1018c4cc-5117-49b8-a548-3eac2f36f5f2",
+        "albumID": "1657583857",
+        "name": "I Can't Save You (Interlude) [feat. Don Toliver]",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "569c877a-911f-4c56-b4a4-55bf8e640b86",
+        "albumID": "1657583857",
+        "name": "Creepin'",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "886b6205-9bca-423f-8c90-46c06603245f",
+        "albumID": "1657583857",
+        "name": "Niagara Falls (Foot or 2)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "b2c255fe-0579-46bf-bc08-a9beabe544d8",
+        "albumID": "1657583857",
+        "name": "Walk Em Down (Don't Kill Civilians) [feat. Mustafa]",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "dd692a2d-07b8-420e-8051-9aa617a828be",
+        "albumID": "1657583857",
+        "name": "Lock On Me",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "f164bf15-9e4f-48a8-9e02-beb19e027785",
+        "albumID": "1657583857",
+        "name": "Feel The Fiyaaaah (feat. Takeoff)",
+        "artist": "Metro Boomin"
+      },
+      {
+        "id": "2f037e52-8e6a-45d1-a613-599fc4dfaf07",
+        "albumID": "1657583857",
+        "name": "All The Money (Bonus)",
+        "artist": "Metro Boomin"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/82/f7/2b/82f72ba4-524c-fc9d-cb8c-5a96d2ddf536/22UM1IM35267.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1657583857
+  },
+  {
+    "id": "75579841-1a76-4fe3-a6b2-f22ae73fb7c2",
+    "title": "Perfect Timing",
+    "artist": {
+      "id": "06f0d6a2-b789-4aad-9e6b-b7660204980e",
+      "name": "NAV & Metro Boomin"
+    },
+    "releaseDate": "2017-08-04",
+    "songs": [
+      {
+        "id": "c4ca5e41-a496-4714-a927-7157871caa41",
+        "albumID": "1443084704",
+        "name": "Perfect Timing (Intro)",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "e2908a70-b73d-4913-baf5-a3b02c7d3f5c",
+        "albumID": "1443084704",
+        "name": "I Don't Care",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "818df845-81a6-495e-82a8-1527725476f9",
+        "albumID": "1443084704",
+        "name": "Hit",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "10e0e520-36c8-4e1d-85b8-ad9a10b95295",
+        "albumID": "1443084704",
+        "name": "A$AP Ferg (feat. Lil Uzi Vert)",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "a8b8c8d2-df9d-465d-882a-a7ad259f59ae",
+        "albumID": "1443084704",
+        "name": "Held Me Down",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "d0cd391e-732f-4f1a-a088-bc3cf4a1c85c",
+        "albumID": "1443084704",
+        "name": "Minute",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "8039a146-63de-4837-a91e-d4f6ce3efe4d",
+        "albumID": "1443084704",
+        "name": "Did You See NAV?",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "e2fbaf11-e662-4802-a494-78563e60a7a0",
+        "albumID": "1443084704",
+        "name": "Bring It Back",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "1a9e0a17-dd97-4094-9eec-16ce07442e37",
+        "albumID": "1443084704",
+        "name": "Both Sides (feat. 21 Savage)",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "94a6abff-d79a-4b65-a345-c862e8f593e1",
+        "albumID": "1443084704",
+        "name": "Call Me",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "1a75f281-3aa4-4f5e-aecc-feba6980e00f",
+        "albumID": "1443084704",
+        "name": "You Know (feat. Belly)",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "feab8a87-9b10-43ca-a922-cd14da8a853f",
+        "albumID": "1443084704",
+        "name": "Rich",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "2bf7b1e1-fece-40c3-a4dc-9732defa4715",
+        "albumID": "1443084704",
+        "name": "Need Some (feat. Gucci Mane)",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "af3cb6f5-918c-4325-a034-9bb793e882df",
+        "albumID": "1443084704",
+        "name": "I Am",
+        "artist": "NAV & Metro Boomin"
+      },
+      {
+        "id": "656cc301-f2c7-4e59-8e2d-0a55e36998d5",
+        "albumID": "1443084704",
+        "name": "NAVUZIMETRO#PT2 (feat. Lil Uzi Vert)",
+        "artist": "NAV & Metro Boomin"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4e/e3/77/4ee377e6-c6cc-a2e7-d4c5-d7c605b87a10/17UM1IM16315.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1443084704
+  },
+  {
+    "id": "036b72ab-dd0b-4110-bf8b-868bf0386dcb",
+    "title": "I Might Forgive... But I Don't Forget",
+    "artist": {
+      "id": "b7077e33-4c18-426e-85c9-e231d40d8571",
+      "name": "Jeezy"
+    },
+    "releaseDate": "2023-11-03",
+    "songs": [
+      {
+        "id": "46a30892-673b-4af3-8755-1e351466db36",
+        "albumID": "1714490688",
+        "name": "I Might Forgive",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "c5b1a331-03b4-4c0a-bc5f-4e0ac81538f5",
+        "albumID": "1714490688",
+        "name": "My Name",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "4b693e9f-8d7b-48f6-806c-c80d5e11f88a",
+        "albumID": "1714490688",
+        "name": "No Complaining",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "59d1e7da-86b0-4192-98cb-64c5ea51eff6",
+        "albumID": "1714490688",
+        "name": "They Don't Love Me",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "72a3cab2-92cc-49a6-86d0-3745a47b4c09",
+        "albumID": "1714490688",
+        "name": "Trust No One",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "897c0027-f70c-47fa-964b-c6810cbecf0e",
+        "albumID": "1714490688",
+        "name": "Sad",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "66df31b4-e40c-4826-a52a-73135cfb1927",
+        "albumID": "1714490688",
+        "name": "Couldn't Lose If I Tried",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "270386f8-2037-43d9-a636-0a2d4349fc22",
+        "albumID": "1714490688",
+        "name": "Rewrite History",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "1859f362-c6d2-4758-af99-54bfc2032c05",
+        "albumID": "1714490688",
+        "name": "Never Had a Bad Day In My Life",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "a245beec-a4af-4596-88a6-203f9e815580",
+        "albumID": "1714490688",
+        "name": "This Too Shall Pass",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "ff12ff1c-f13e-4b56-8908-14c0674810c5",
+        "albumID": "1714490688",
+        "name": "Don't Deserve Me",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "29620876-ab29-4545-b616-579ba9012679",
+        "albumID": "1714490688",
+        "name": "If I'm Being Honest",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "ec2e01f2-5afb-4196-9e7c-9be4ea7dd0c3",
+        "albumID": "1714490688",
+        "name": "Don't Cheat",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "2a26238f-0cf8-403d-800c-a371eae69ab1",
+        "albumID": "1714490688",
+        "name": "Shine On Me",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "e0022a52-912d-4c3a-8776-0a21546de6de",
+        "albumID": "1714490688",
+        "name": "Keep the Change",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "756d2585-5e9d-43de-b867-b3043ebf5143",
+        "albumID": "1714490688",
+        "name": "Delusional",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "e7eba11d-6bb7-491b-b634-c1c07acf0a67",
+        "albumID": "1714490688",
+        "name": "Nothin to Prove",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "bc657f88-ed02-4c9d-a37b-d2f32cd39711",
+        "albumID": "1714490688",
+        "name": "Titanic",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "b606f50c-08a5-4e8d-93a0-47d489e54856",
+        "albumID": "1714490688",
+        "name": "Everything About Me Is True",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "23d175f5-dbef-4ea2-a656-0f8769947602",
+        "albumID": "1714490688",
+        "name": "Expectations",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "9c0e1c0c-f112-46bc-af5a-48e868f2b8b3",
+        "albumID": "1714490688",
+        "name": "Claim to Fame",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "9677774d-5901-42a4-95c8-0096bc728be1",
+        "albumID": "1714490688",
+        "name": "What I Gotta Do",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "1b82667a-8d8b-49a4-8e1e-5cc1ee3f147e",
+        "albumID": "1714490688",
+        "name": "My Intentions",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "3f27e01a-801f-4604-8446-e95020dab59c",
+        "albumID": "1714490688",
+        "name": "Never Be a Fan",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "e9bf7a29-4c4d-482a-ac89-85e4739122e6",
+        "albumID": "1714490688",
+        "name": "Sade",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "9090c117-fa52-4926-991b-41486954a0be",
+        "albumID": "1714490688",
+        "name": "Don't Let Up",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "45886343-c7ef-4df6-895c-566d0c232b31",
+        "albumID": "1714490688",
+        "name": "Since Pac Died",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "404c7772-ec70-432b-ab7b-8d86b4028559",
+        "albumID": "1714490688",
+        "name": "Free Champagne",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "d8bdc85f-26ef-4529-93bd-4614bd0189a8",
+        "albumID": "1714490688",
+        "name": "No Choice",
+        "artist": "Jeezy"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/a7/f4/95a7f4c3-06ef-91af-9c7e-f16a39cbc1d7/193436362238_IMIGHTFORGIVEBUTIWONTFORGETPALOGO.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1714490688
+  },
+  {
+    "id": "03e9942e-34f4-4f6e-8c17-82bb1a590e16",
+    "title": "Pressure",
+    "artist": {
+      "id": "b7077e33-4c18-426e-85c9-e231d40d8571",
+      "name": "Jeezy"
+    },
+    "releaseDate": "2017-12-15",
+    "songs": [
+      {
+        "id": "5f98d85e-2b46-49ef-8968-41228afa4305",
+        "albumID": "1443230385",
+        "name": "Spyder",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "77cf31f1-09ff-46e2-a02c-193b76c8f535",
+        "albumID": "1443230385",
+        "name": "Cold Summer (feat. Tee Grizzley)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "2c9e1ada-018d-4c5e-956a-f75a355e84eb",
+        "albumID": "1443230385",
+        "name": "In a Major Way (feat. Payroll Giovanni)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "74849958-3bee-4211-b6d0-f48557b8ff85",
+        "albumID": "1443230385",
+        "name": "Floor Seats (feat. 2 Chainz)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "43469f07-402e-477e-8646-1b1e0cabe64e",
+        "albumID": "1443230385",
+        "name": "This Is It",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "3d6719ae-dc81-46dc-b6a4-d3b6730cc276",
+        "albumID": "1443230385",
+        "name": "Bottles Up (feat. Puff Daddy)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "1aea18ca-96ba-4b04-b817-bb4e9de88a58",
+        "albumID": "1443230385",
+        "name": "Valet Interlude",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "0768695c-df1d-4e26-a0b3-feea84b725e5",
+        "albumID": "1443230385",
+        "name": "Respect",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "27b6f2fd-7fa4-4e40-aefb-d2a8fe8c4345",
+        "albumID": "1443230385",
+        "name": "Pressure (feat. Kodak Black & YG)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "3f0819c6-e6ca-4cf8-bf35-e32eac61f36a",
+        "albumID": "1443230385",
+        "name": "Like Them (feat. Tory Lanez & Rick Ross)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "75c4eb9c-83ec-42ab-bacd-c97a163561d9",
+        "albumID": "1443230385",
+        "name": "The Life (feat. Wizkid & Trey Songz)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "72053998-20f5-4f68-8af5-cef771ec8295",
+        "albumID": "1443230385",
+        "name": "American Dream (feat. J. Cole & Kendrick Lamar)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "0582ef59-7d8d-4080-93a1-e84724c32eb9",
+        "albumID": "1443230385",
+        "name": "Snow Season",
+        "artist": "Jeezy"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6d/d3/a0/6dd3a0d8-8766-1b6d-3bc7-fc64ae19fdee/00602567143857.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1443230385
+  },
+  {
+    "id": "e58d918c-89d0-4af7-b72b-b416616bb12f",
+    "title": "I Might Forgive",
+    "artist": {
+      "id": "b7077e33-4c18-426e-85c9-e231d40d8571",
+      "name": "Jeezy"
+    },
+    "releaseDate": "2023-11-02",
+    "songs": [
+      {
+        "id": "29f8560d-afad-41f1-9b83-6f0f77a56f88",
+        "albumID": "1714497908",
+        "name": "I Might Forgive",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "ad55ed51-9474-4f88-bdac-d8cd791371a2",
+        "albumID": "1714497908",
+        "name": "My Name",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "94f75dbf-d292-460d-a7a4-acd70e520ddb",
+        "albumID": "1714497908",
+        "name": "No Complaining",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "3619140a-c802-450a-a421-e406d076d4fd",
+        "albumID": "1714497908",
+        "name": "They Don't Love Me",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "19cb29e7-a9e2-4dda-a977-80c92779451e",
+        "albumID": "1714497908",
+        "name": "Trust No One",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "edfbf8fc-21fa-460d-8fc4-3ae20effe957",
+        "albumID": "1714497908",
+        "name": "Sad",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "9470c5b4-2579-4bd0-8557-5bf333499c0f",
+        "albumID": "1714497908",
+        "name": "Couldn't Lose If I Tried",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "8b31f212-1154-4dcf-b0de-5b1d2158ef8e",
+        "albumID": "1714497908",
+        "name": "Rewrite History",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "30bf1c21-6dff-4bf5-ba97-445acca796ed",
+        "albumID": "1714497908",
+        "name": "Never Had a Bad Day In My Life",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "f8d02e7f-105b-4037-a3df-78c9ab4a162b",
+        "albumID": "1714497908",
+        "name": "This Too Shall Pass",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "8da76074-c427-472e-857c-07377f58d90f",
+        "albumID": "1714497908",
+        "name": "Don't Deserve Me",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "63281072-8ed5-4428-bba9-5ccb9e55838d",
+        "albumID": "1714497908",
+        "name": "If I'm Being Honest",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "df078574-f968-4e08-94cc-480f347aae2a",
+        "albumID": "1714497908",
+        "name": "Don't Cheat",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "31febe2f-7453-4372-826f-7738b4759516",
+        "albumID": "1714497908",
+        "name": "Shine On Me",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "1a9be047-0fb2-4fa0-b075-3c82ee37b0e0",
+        "albumID": "1714497908",
+        "name": "Keep the Change",
+        "artist": "Jeezy"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/ba/d5/03bad556-db41-7997-8bbd-9b21ec74c0a9/193436362245_IMIGHTFORGIVE.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1714497908
+  },
+  {
+    "id": "f84d8391-f659-494d-93ed-2ce36912aaed",
+    "title": "The Recession 2",
+    "artist": {
+      "id": "b7077e33-4c18-426e-85c9-e231d40d8571",
+      "name": "Jeezy"
+    },
+    "releaseDate": "2020-11-20",
+    "songs": [
+      {
+        "id": "63b194d3-3515-4b59-9027-fcf2d38ef629",
+        "albumID": "1540375281",
+        "name": "Oh Lord (feat. Tamika Mallory)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "d54f683a-0f60-43bb-988f-b04cc8d47fab",
+        "albumID": "1540375281",
+        "name": "Here We Go",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "a3fd0e16-8230-4127-afd8-c1571c247809",
+        "albumID": "1540375281",
+        "name": "Modern Day",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "1c8e959b-c699-4aab-bbfe-e5d5b8afa980",
+        "albumID": "1540375281",
+        "name": "Back (feat. Yo Gotti)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "70736b49-96bc-465f-be97-e60685d43f55",
+        "albumID": "1540375281",
+        "name": "Da Ghetto (feat. E-40)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "2d8072e4-f9d9-474b-ae67-360ffd6ca574",
+        "albumID": "1540375281",
+        "name": "N****z",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "6449e62f-00b2-460d-9871-c39e8fa4824e",
+        "albumID": "1540375281",
+        "name": "Death of Me",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "fc8115b1-f034-44fa-a451-c37f9ca69a31",
+        "albumID": "1540375281",
+        "name": "Stimulus Check",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "7680e77f-9bcc-4fb2-a16a-f10e4daa3e0d",
+        "albumID": "1540375281",
+        "name": "My Reputation (feat. Demi Lovato & Lil Duval)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "0efa7e8f-69af-4152-bf38-989dad2445d0",
+        "albumID": "1540375281",
+        "name": "The Glory (feat. Ne-Yo)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "6cb7ddad-4c32-4dc9-a099-7d3d19611f16",
+        "albumID": "1540375281",
+        "name": "Live and Die",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "ff081546-f1b0-4e5f-ac5f-908ae11e11c3",
+        "albumID": "1540375281",
+        "name": "Praying Right",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "d2b72eea-ed82-4689-8e76-c5da1dd264cf",
+        "albumID": "1540375281",
+        "name": "Therapy for My Soul",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "5d3c4a22-b97e-4d10-9be4-97a10d726dfa",
+        "albumID": "1540375281",
+        "name": "Almighty Black Dollar (feat. Rick Ross)",
+        "artist": "Jeezy"
+      },
+      {
+        "id": "c40d50a1-69d9-41c1-8e27-bee61bfa2f9a",
+        "albumID": "1540375281",
+        "name": "The Kingdom",
+        "artist": "Jeezy"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/81/15/c9/8115c993-a514-f377-ba7a-eda611740e78/20UMGIM97489.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1540375281
+  },
+  {
+    "id": "191197db-e30a-4ee6-89f9-e808b8ba5222",
+    "title": "In My Lifetime, Vol. 1",
+    "artist": {
+      "id": "ff2baceb-00d1-4752-b4e0-2a8714d0bc2e",
+      "name": "JA\u0178-Z"
+    },
+    "releaseDate": "1997-01-01",
+    "songs": [
+      {
+        "id": "f9839f29-6313-400d-a17d-20d2e02c5e7f",
+        "albumID": "1442903698",
+        "name": "Intro / A Million and One Questions / Rhyme No More",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "dcaae47a-b56b-4bbd-b43f-3875da6061ce",
+        "albumID": "1442903698",
+        "name": "The City Is Mine (feat. Blackstreet)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "2d7052b5-edc4-42eb-af6d-b4ea54a959a7",
+        "albumID": "1442903698",
+        "name": "I Know What Girls Like (feat. P. Diddy & Lil' Kim)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "fa258be4-ee22-49d9-bb3d-991598347b40",
+        "albumID": "1442903698",
+        "name": "Imaginary Player",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "62f0ba7a-4889-4878-9b27-36e1247b7d27",
+        "albumID": "1442903698",
+        "name": "Streets Is Watching",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "4a79607e-fbc7-4d9b-981c-71abf2df87a5",
+        "albumID": "1442903698",
+        "name": "Friend or Foe '98",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "013416c5-d6b8-446b-b755-e743c40d0dc3",
+        "albumID": "1442903698",
+        "name": "Lucky Me",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "7aef532b-c50c-456a-87a0-56f40774b013",
+        "albumID": "1442903698",
+        "name": "(Always Be My) Sunshine [feat. Babyface & Foxy Brown]",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "a1b293fd-afa3-4bab-888c-00a83f0f9875",
+        "albumID": "1442903698",
+        "name": "Who You Wit II",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "9d71b532-5c6c-4057-8e8f-2910f9d45df2",
+        "albumID": "1442903698",
+        "name": "Face Off (feat. Sauce Money)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "a0520387-748f-493e-b4c6-d7f9b72c137a",
+        "albumID": "1442903698",
+        "name": "Real N****z (feat. Too $hort)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "585b33c6-0954-4414-a1e9-5a8011b087f9",
+        "albumID": "1442903698",
+        "name": "Rap Game/Crack Game",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "71b4a746-6327-4a01-8131-b131bf55a6c9",
+        "albumID": "1442903698",
+        "name": "Where I'm From",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "29c26c9f-1791-44ac-bdc0-89694af5084d",
+        "albumID": "1442903698",
+        "name": "You Must Love Me",
+        "artist": "JA\u0178-Z"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f7/73/75/f7737576-d82b-0d2f-034b-fc35e700817a/00731453642621.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1442903698
+  },
+  {
+    "id": "97c121ce-9fdd-49e7-b738-314e8bdf4718",
+    "title": "Vol.2... Hard Knock Life",
+    "artist": {
+      "id": "ff2baceb-00d1-4752-b4e0-2a8714d0bc2e",
+      "name": "JA\u0178-Z"
+    },
+    "releaseDate": "1998-09-29",
+    "songs": [
+      {
+        "id": "a08c2735-501d-46bb-8824-36610b751287",
+        "albumID": "1440913253",
+        "name": "Intro-Hand It Down (feat. Memphis Bleek)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "2d757aae-a04e-42ac-92c3-1a4816578de2",
+        "albumID": "1440913253",
+        "name": "Hard Knock Life (Ghetto Anthem)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "7c5ce939-c41c-42ea-8277-ebd9b8b5c1ef",
+        "albumID": "1440913253",
+        "name": "If I Should Die (feat. Da Ranjahz)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "101948be-481c-4f6d-99b8-16d531286710",
+        "albumID": "1440913253",
+        "name": "Ride or Die",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "e0c78071-abef-4dbd-b169-e3fb6d5a6d45",
+        "albumID": "1440913253",
+        "name": "N***a What, N***a Who (Originator 99) [feat. Big Jaz]",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "a0a4a2fb-9e8a-4e76-a987-9411fcbbf314",
+        "albumID": "1440913253",
+        "name": "Money, Cash, H**s (feat. DMX)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "ecd054db-252f-434a-b922-351d59b1f364",
+        "albumID": "1440913253",
+        "name": "A Week Ago (feat. Too $hort)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "1c2f2b21-c737-4bbb-b732-a10b20d8a668",
+        "albumID": "1440913253",
+        "name": "Coming of Age (Da Sequel) [feat. Memphis Bleek]",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "ad7341a2-c264-420d-9063-1d71635277e8",
+        "albumID": "1440913253",
+        "name": "Can I Get A... (feat. Amil & Ja Rule) [Soundtrack Version]",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "dfdb0be4-d346-4749-b917-1aa56550a8ef",
+        "albumID": "1440913253",
+        "name": "Paper Chase (feat. Foxy Brown)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "706148da-8aa6-4858-9227-91751da82f6a",
+        "albumID": "1440913253",
+        "name": "Reservoir Dogs (feat. THE LOX, Sauce Money & Beanie Sigel)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "59ab6be8-ccdd-4126-be1b-49b0c8c79298",
+        "albumID": "1440913253",
+        "name": "It's Like That (feat. Kid Capri)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "35ecbb0f-3728-4f16-8776-4c3884cf435c",
+        "albumID": "1440913253",
+        "name": "It's Alright",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "9a53f84a-1880-4dc2-95c9-674bc357fa4a",
+        "albumID": "1440913253",
+        "name": "Money Ain't a Thang (feat. Jermaine Dupri)",
+        "artist": "JA\u0178-Z"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/b9/77/4eb9779b-073e-5e77-29de-ef98514bec6b/00731455890525.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1440913253
+  },
+  {
+    "id": "419faf1f-5758-42e3-bddd-329e46be8cb7",
+    "title": "The Black Album",
+    "artist": {
+      "id": "ff2baceb-00d1-4752-b4e0-2a8714d0bc2e",
+      "name": "JA\u0178-Z"
+    },
+    "releaseDate": "2003-11-14",
+    "songs": [
+      {
+        "id": "6655643f-9a84-4276-9073-4a23090e1cc0",
+        "albumID": "1440632265",
+        "name": "Interlude",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "7dde73fb-6ce3-4d4a-9a5b-a0a812e71eda",
+        "albumID": "1440632265",
+        "name": "December 4th",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "5e68e7cf-928e-4b3c-ac00-3bef0e9ebed0",
+        "albumID": "1440632265",
+        "name": "What More Can I Say",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "7ba27c97-d82b-46ea-a773-420dfffb2c5b",
+        "albumID": "1440632265",
+        "name": "Encore",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "ddb8a1fa-f951-481f-b0e1-405de7251827",
+        "albumID": "1440632265",
+        "name": "Change Clothes",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "e2160f26-3940-425f-96df-2d3758b59a9d",
+        "albumID": "1440632265",
+        "name": "Dirt Off Your Shoulder",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "d907f4ad-054a-4871-892b-a0614d52fd35",
+        "albumID": "1440632265",
+        "name": "Threat",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "36789966-b3aa-4fed-8f75-1766bff535a4",
+        "albumID": "1440632265",
+        "name": "Moment of Clarity",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "e9c21adb-62ee-479a-96ec-6dfa5e2be88f",
+        "albumID": "1440632265",
+        "name": "99 Problems",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "fbb876d1-cdf5-40ef-9d0a-cb2e192b550b",
+        "albumID": "1440632265",
+        "name": "Public Service Announcement (Interlude)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "d5ae1ea2-f0a2-4205-b69e-b1b2831e5ec1",
+        "albumID": "1440632265",
+        "name": "Justify My Thug",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "b7ac4005-1f1d-40a2-883c-efa8dcc9d4fa",
+        "albumID": "1440632265",
+        "name": "Lucifer",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "39ebf941-edb2-4140-9664-b36d33aa959f",
+        "albumID": "1440632265",
+        "name": "Allure",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "65cdc718-359b-461a-a140-7a6c1e3e4753",
+        "albumID": "1440632265",
+        "name": "My 1st Song",
+        "artist": "JA\u0178-Z"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/37/52/4a/37524afd-9ebf-2ff7-086c-845bd199aaa6/00602498611197.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1440632265
+  },
+  {
+    "id": "5dedad6e-759b-401c-9c02-4dd8ab8b1ce2",
+    "title": "The Blueprint 2: The Gift & the Curse",
+    "artist": {
+      "id": "ff2baceb-00d1-4752-b4e0-2a8714d0bc2e",
+      "name": "JA\u0178-Z"
+    },
+    "releaseDate": "2002-11-12",
+    "songs": [
+      {
+        "id": "918be349-db42-490b-aee2-3cda68dd3e54",
+        "albumID": "1440934685",
+        "name": "A Dream (feat. Faith Evans & the Notorious B.I.G.)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "13e059a3-593b-419d-b7e5-be1db0a5da31",
+        "albumID": "1440934685",
+        "name": "Diamonds Is Forever",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "c7f5b520-5b0d-4442-834d-8cd0ee0dfe8c",
+        "albumID": "1440934685",
+        "name": "Hovi Baby",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "9e8ad33d-6924-4ba1-8c24-4e2a9b5c93b9",
+        "albumID": "1440934685",
+        "name": "Guns & Roses (feat. Lenny Kravitz)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "229a74f1-d08b-4dc7-988e-242dc400e2a6",
+        "albumID": "1440934685",
+        "name": "The Watcher 2 (feat. Dr. Dre, Rakim & Truth Hurts)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "3827385d-7fad-47c1-854c-26e44586b0f9",
+        "albumID": "1440934685",
+        "name": "U Don't Know (feat. M.O.P.) [Remix]",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "2931e739-872c-44c9-a08f-e8034e757802",
+        "albumID": "1440934685",
+        "name": "03' Bonnie & Clyde (feat. Beyonc\u00e9 Knowles)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "13dd90db-3172-4cba-bee2-7fb246fe8c36",
+        "albumID": "1440934685",
+        "name": "Meet the Parents",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "de661d80-ff3c-4994-b315-3b465900cf46",
+        "albumID": "1440934685",
+        "name": "Excuse Me Miss",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "2c5d7ec7-0291-49f8-ad4a-e63866b951e1",
+        "albumID": "1440934685",
+        "name": "Some How Some Way (feat. Beanie Sigel & Scarface)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "7493f863-2045-4e3e-b6d4-7d5ff48ca3a8",
+        "albumID": "1440934685",
+        "name": "What They Gonna Do (feat. Sean Paul)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "96fc3140-017d-44de-b19b-d0c98a3544f6",
+        "albumID": "1440934685",
+        "name": "Some People Hate",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "8fc22c73-9816-457a-af32-caf53c9b5bcd",
+        "albumID": "1440934685",
+        "name": "All Around the World (feat. Latoiya Williams)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "a7a57188-2c97-4831-a361-3a1b7a1877c8",
+        "albumID": "1440934685",
+        "name": "Blueprint 2",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "3b1335d3-a62f-41ca-ae58-b7583d8a7be5",
+        "albumID": "1440934685",
+        "name": "Poppin' Tags (feat. Big Boi, Killer Mike & Twista)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "08cf8227-04c4-478e-8ecc-fa8c2a0f8cf5",
+        "albumID": "1440934685",
+        "name": "N***a Please (feat. Young Chris)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "43caa4ec-b012-4eeb-93f9-c87c1889435e",
+        "albumID": "1440934685",
+        "name": "F**k All Nite",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "9fe4c430-0d08-43e2-bcc4-e625b7553091",
+        "albumID": "1440934685",
+        "name": "2 Many Hoes",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "547e1568-71a5-4dd9-a8fd-a4a49fed37e4",
+        "albumID": "1440934685",
+        "name": "The Bounce (feat. Kanye West)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "c547cbe4-5fb7-4598-b934-0f21be863108",
+        "albumID": "1440934685",
+        "name": "As One (feat. Memphis Bleek, Freeway, Young Gunz, Peedi Crakk, Sparks & Rell)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "2b36d931-7cc8-4664-a340-73a0f72ff4b3",
+        "albumID": "1440934685",
+        "name": "I Did It My Way",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "6639a80b-96a9-4617-ada1-072cc978df2f",
+        "albumID": "1440934685",
+        "name": "A Ballad For the Fallen Soldier (feat. DJ Clue) [Skit]",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "c624e423-5f14-49ab-85a8-b124f264e7d0",
+        "albumID": "1440934685",
+        "name": "Show You How",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "b7078d19-5e04-4a16-8a46-7ba37b858d40",
+        "albumID": "1440934685",
+        "name": "B*****s & Sisters",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "947986e0-5185-4cac-a664-faf43276d9ea",
+        "albumID": "1440934685",
+        "name": "What They Gonna Do, Pt. 2",
+        "artist": "JA\u0178-Z"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ba/5f/da/ba5fdadd-dd69-31fd-08b8-13245373fa78/00857366006982.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1440934685
+  },
+  {
+    "id": "db47cf76-4d54-4add-af04-46c447e10e5a",
+    "title": "Watch the Throne",
+    "artist": {
+      "id": "d2e895dc-4c3e-46a7-b7dd-b05a74d7eeb7",
+      "name": "JA\u0178-Z & Kanye West"
+    },
+    "releaseDate": "2011-08-08",
+    "songs": [
+      {
+        "id": "af8601ff-b69b-4c7b-97a1-37f267ce6a3f",
+        "albumID": "1440766278",
+        "name": "No Church in the Wild (feat. Frank Ocean)",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "fc51d445-fd81-4a53-9ee4-f1f0d9857fcf",
+        "albumID": "1440766278",
+        "name": "Lift Off (feat. Beyonc\u00e9)",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "3ee3c0ee-1fb1-49c0-961b-fa0deeff9ceb",
+        "albumID": "1440766278",
+        "name": "Ni**as in Paris",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "39633109-fafd-40d1-b35e-a97a1158de39",
+        "albumID": "1440766278",
+        "name": "Otis (feat. Otis Redding)",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "ffadb426-8a6b-42c4-854a-a68da91bfd88",
+        "albumID": "1440766278",
+        "name": "Gotta Have It",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "0a8f9708-de87-4ea6-88fa-85d982ad2af9",
+        "albumID": "1440766278",
+        "name": "New Day",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "d9cfa42d-6d28-4cc8-a979-56eed629f2d3",
+        "albumID": "1440766278",
+        "name": "That's My Bitch",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "ed6351df-6f82-45c2-a0fc-f83aeff9a5b3",
+        "albumID": "1440766278",
+        "name": "Welcome to the Jungle",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "1fced4fd-d0eb-448d-9378-5e1a7929e627",
+        "albumID": "1440766278",
+        "name": "Who Gon Stop Me",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "673330de-e479-4912-9cb2-6795d737ee3a",
+        "albumID": "1440766278",
+        "name": "Murder to Excellence",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "692f00d4-8353-4ed9-9011-33dbf1aeec88",
+        "albumID": "1440766278",
+        "name": "Made in America (feat. Frank Ocean)",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "d1152465-c909-4e9b-a500-c8875406b506",
+        "albumID": "1440766278",
+        "name": "Why I Love You (feat. Mr Hudson)",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "15083cbd-a78c-45a9-9fba-a8c44011d632",
+        "albumID": "1440766278",
+        "name": "Illest Motherf**ker Alive",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "4e2ac469-5205-465e-b370-af3dccdc653c",
+        "albumID": "1440766278",
+        "name": "H\u2022a\u2022m",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "ea4f2722-7b41-4069-912e-109a8a38f0d0",
+        "albumID": "1440766278",
+        "name": "Primetime",
+        "artist": "JA\u0178-Z & Kanye West"
+      },
+      {
+        "id": "4f2c6db4-aaa5-44c7-95ea-577d0c68fffa",
+        "albumID": "1440766278",
+        "name": "The Joy (feat. Curtis Mayfield)",
+        "artist": "JA\u0178-Z & Kanye West"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/f5/07/18f5070d-b5dc-796c-bce4-42badb41a762/00602527812526.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": true,
+    "appleId": 1440766278
+  },
+  {
+    "id": "2df7b8ff-36e3-459b-904a-21f3dcc59189",
+    "title": "American Gangster",
+    "artist": {
+      "id": "ff2baceb-00d1-4752-b4e0-2a8714d0bc2e",
+      "name": "JA\u0178-Z"
+    },
+    "releaseDate": "2007-11-06",
+    "songs": [
+      {
+        "id": "1ae15c90-6c9e-4784-a137-7ebcd68b7ab6",
+        "albumID": "1444024033",
+        "name": "Intro",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "d45123c3-ad0d-4489-9312-9d218d15f59c",
+        "albumID": "1444024033",
+        "name": "Pray",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "3b82fa90-5f32-415d-b155-3c92827c806b",
+        "albumID": "1444024033",
+        "name": "American Dreamin'",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "247b374b-7f37-401b-8eba-625a1ed852fd",
+        "albumID": "1444024033",
+        "name": "Hello Brooklyn 2.0 (feat. Lil Wayne)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "78143c4f-b105-40b6-a4b3-129d58ff5853",
+        "albumID": "1444024033",
+        "name": "No Hook",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "26cb1721-7378-41ba-a757-3bac2569b338",
+        "albumID": "1444024033",
+        "name": "Roc Boys (And the Winner Is...)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "2a172a60-4c1b-42e9-80da-918c12ae8d16",
+        "albumID": "1444024033",
+        "name": "Sweet",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "13427a86-e18a-4401-acc1-96a8f7b391af",
+        "albumID": "1444024033",
+        "name": "I Know",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "54d291ff-294b-4f43-9b43-426fb2e40073",
+        "albumID": "1444024033",
+        "name": "Party Life",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "53cd6559-fa4f-4a00-b6a6-1fe1f6944a45",
+        "albumID": "1444024033",
+        "name": "Ignorant Sh*t (feat. Beanie Sigel)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "77554acc-afc7-440e-be0f-0b11ea0f59f4",
+        "albumID": "1444024033",
+        "name": "Say Hello",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "38fda4a2-5514-4593-a51e-4bc4f401c7ae",
+        "albumID": "1444024033",
+        "name": "Success (feat. Nas)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "0ae1fe92-6bd8-430b-8256-37f656fd3ef9",
+        "albumID": "1444024033",
+        "name": "Fallin'",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "d17891c2-02f6-4153-b48a-2d4f741b75d2",
+        "albumID": "1444024033",
+        "name": "Blue Magic",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "2d2d88ca-0175-422a-bcee-dc3d88e3b462",
+        "albumID": "1444024033",
+        "name": "American Gangster",
+        "artist": "JA\u0178-Z"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/54/4e/60/544e605d-62d8-34ce-1080-f675960e3e48/00602517501225.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1444024033
+  },
+  {
+    "id": "e5e78d1c-9027-4180-a39e-1089ab09f889",
+    "title": "The Blueprint 3",
+    "artist": {
+      "id": "ff2baceb-00d1-4752-b4e0-2a8714d0bc2e",
+      "name": "JA\u0178-Z"
+    },
+    "releaseDate": "2009-01-01",
+    "songs": [
+      {
+        "id": "cb47c978-261f-4eb9-8880-7533e8169dd4",
+        "albumID": "1440932009",
+        "name": "What We Talkin' About (feat. Luke Steele)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "93a53fbf-b778-4310-a88a-bfc31d4c9eca",
+        "albumID": "1440932009",
+        "name": "Thank You",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "1d5ec415-b3af-4ba7-9607-e9398784453d",
+        "albumID": "1440932009",
+        "name": "D.O.A. (Death Of Auto-Tune)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "edc7525a-e0c1-4316-8149-ab52e3a62f07",
+        "albumID": "1440932009",
+        "name": "Run This Town (feat. Rihanna & Kanye West)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "9c2d876c-7ff8-47b1-88e9-4597aa7b53a0",
+        "albumID": "1440932009",
+        "name": "Empire State Of Mind (feat. Alicia Keys)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "3a031a9f-21c2-49dd-ad9e-cce7c9435678",
+        "albumID": "1440932009",
+        "name": "Real As It Gets (feat. Young Jeezy)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "ae732420-c18b-404e-8134-67af57a8995e",
+        "albumID": "1440932009",
+        "name": "On To The Next One (feat. Swizz Beatz)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "8329df6c-8dc6-41fe-8785-92e1b64cb99d",
+        "albumID": "1440932009",
+        "name": "Off That (feat. Drake)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "6305c1a3-d3f3-408f-9526-c35f69d51d99",
+        "albumID": "1440932009",
+        "name": "A Star Is Born (feat. J. Cole)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "ea9e9ced-24cc-43c9-9e01-62d79b90e111",
+        "albumID": "1440932009",
+        "name": "Venus Vs. Mars",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "8bfae5ab-f220-47cb-8334-eca482a09d32",
+        "albumID": "1440932009",
+        "name": "Already Home (feat. Kid Cudi)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "df0f7ab9-35c7-4baf-b4b4-8c57fd2761e8",
+        "albumID": "1440932009",
+        "name": "Hate (feat. Kanye West)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "6fa5bc05-34dd-41e3-9f9c-6805adc722f3",
+        "albumID": "1440932009",
+        "name": "Reminder",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "56e71401-4df7-450b-8cbb-815e169e9646",
+        "albumID": "1440932009",
+        "name": "So Ambitious (feat. Pharrell Williams)",
+        "artist": "JA\u0178-Z"
+      },
+      {
+        "id": "d1075fe6-6a4a-413d-9ba9-9bd146e4d018",
+        "albumID": "1440932009",
+        "name": "Young Forever",
+        "artist": "JA\u0178-Z"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e6/20/cf/e620cfeb-eb74-4ef1-00c1-fd38aac6c3d7/00858786005470.rgb.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "appleId": 1440932009
+  },
+  {
+    "id": "b2164cab-bf98-4207-a4ec-181ac0f31970",
+    "title": "Bo Jackson",
+    "artist": {
+      "id": "58920f1b-77cb-4cd1-a80e-54b50ee0c906",
+      "name": "Boldy James, Alchemist"
+    },
+    "releaseDate": "2021-01-01",
+    "songs": [
+      {
+        "id": "066a324d-558a-420d-97bf-8eae1a8dd17b",
+        "name": "Double Hockey Sticks",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "febb25ca-564e-4f1c-9024-091ce0169621",
+        "name": "Turpentine",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "3bbc87e3-3e10-4814-90d7-f264da9c2f3f",
+        "name": "Brickmile to Montana",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "efd8b85a-0ec9-4cb9-87f6-9d0034a65a2b",
+        "name": "E.P.M.D.",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "305fb792-e854-44dd-a59f-84184ef1f2f3",
+        "name": "Steel Wool",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "fa17b833-1907-4a85-b9c1-b18b97fe8fe6",
+        "name": "Photographic Memories",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "8d65d0cb-49a2-41eb-a21a-f7c4f4f2e02d",
+        "name": "Speed Trap",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "19e05097-8dc7-4030-b7f0-eb0e814cbf14",
+        "name": "Diamond Dallas",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "f0fa8b7b-7ebc-44ad-b756-ada1794f8c81",
+        "name": "Flight Risk",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "47ffe56d-70c1-4dda-8c56-7dba3b7d8e06",
+        "name": "Illegal Search & Seizure",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "4ac3b670-2080-4298-a97f-e827899ca8d4",
+        "name": "Fake Flowers",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "dbcbadd5-fefa-40a4-b6a4-d1777ac83e95",
+        "name": "3rd Person",
+        "artist": "Boldy James, Alchemist"
+      },
+      {
+        "id": "09569db2-6365-436c-8585-cf8eb1281780",
+        "name": "First 48 Freestyle",
+        "artist": "Boldy James, Alchemist"
+      }
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/db/d6/5adbd6c4-0f85-1c2e-5e31-dd11cc462610/194690582486_cover.jpg/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false,
+    "discogsId": 21643786
   }
 ]
