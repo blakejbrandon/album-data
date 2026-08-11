@@ -200,6 +200,10 @@
     "name": "Dreamville"
   },
   {
+    "id": "53b48321-5f58-4ed7-80da-64c926652d28",
+    "name": "Dua Lipa"
+  },
+  {
     "id": "d6af75fd-ad55-4cdf-9390-3e011382fe87",
     "name": "Earl Sweatshirt"
   },
@@ -432,10 +436,6 @@
     "name": "Little Simz"
   },
   {
-    "id": "07eb4bea-3ffd-44d2-8566-9d5247a4a85d",
-    "name": "LoFi Hip Hop"
-  },
-  {
     "id": "e7d828d8-d1b7-4a57-b55d-2b9e80c75fb0",
     "name": "Lupe Fiasco"
   },
@@ -486,10 +486,6 @@
   {
     "id": "bd6eb940-ce58-460c-8adf-aa48dda46531",
     "name": "MF Doom"
-  },
-  {
-    "id": "5713d619-78b0-4350-82a7-9feadba87703",
-    "name": "MIAP"
   },
   {
     "id": "d51817de-5603-4a61-afdc-b6e4f143125a",
@@ -601,11 +597,7 @@
   },
   {
     "id": "48a6065e-f10c-4c57-8670-d52d0ad01854",
-    "name": "RUN D.M.C."
-  },
-  {
-    "id": "48a6065e-f10c-4c57-8670-d52d0ad01854",
-    "name": "Run-DMC"
+    "name": "Run-D.M.C"
   },
   {
     "id": "b431f2c5-0150-408a-becf-0399c378b000",
@@ -778,10 +770,6 @@
   {
     "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
     "name": "Yeat"
-  },
-  {
-    "id": "d012f1e2-8991-458f-8874-79916472533a",
-    "name": "YG"
   },
   {
     "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
