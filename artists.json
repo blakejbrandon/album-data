@@ -16,6 +16,10 @@
     "name": "38 Spesh"
   },
   {
+    "id": "1df930af-ee43-46bb-898d-ea645ddcd22e",
+    "name": "42 Dugg"
+  },
+  {
     "id": "6920cb02-da6a-4bf5-8d39-6e380b35f104",
     "name": "50 Cent"
   },
@@ -114,6 +118,10 @@
   {
     "id": "3b42d6b4-1e92-4f9c-bfac-dae5b38324ec",
     "name": "Chance the Rapper"
+  },
+  {
+    "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+    "name": "Chief Keef"
   },
   {
     "id": "9e4f3eaf-d87f-49ea-b279-628c0fdfdba9",
@@ -344,6 +352,10 @@
     "name": "Juice WRLD"
   },
   {
+    "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+    "name": "Juvenile"
+  },
+  {
     "id": "f16f140e-417b-4e5b-9701-9d5e92efde91",
     "name": "Kanye West"
   },
@@ -508,6 +520,10 @@
     "name": "Missy Elliott"
   },
   {
+    "id": "fadf4c7f-ed65-45e7-b075-4dfc7e5fb6e1",
+    "name": "Moneybagg Yo"
+  },
+  {
     "id": "bdf2a789-1d7f-4def-8fcd-9b7f0dbe139c",
     "name": "N.W.A"
   },
@@ -546,6 +562,10 @@
   {
     "id": "7b68f0d3-4a73-479f-9dd1-a63496d4f265",
     "name": "PARTYNEXTDOOR"
+  },
+  {
+    "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+    "name": "Playboi Carti"
   },
   {
     "id": "6943c8ec-0309-4cca-a838-0f21e156f9cd",
@@ -598,6 +618,10 @@
   {
     "id": "48a6065e-f10c-4c57-8670-d52d0ad01854",
     "name": "Run-D.M.C"
+  },
+  {
+    "id": "f4461a30-fc48-4c43-8b4c-dbb173b2a20b",
+    "name": "Rylo Rodriguez"
   },
   {
     "id": "b431f2c5-0150-408a-becf-0399c378b000",
@@ -670,6 +694,10 @@
   {
     "id": "6511dc66-77c7-4f76-ad70-bd53942ade95",
     "name": "SZA"
+  },
+  {
+    "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+    "name": "T.I."
   },
   {
     "id": "dd2d1b22-eb18-474b-8166-58c7f899a0b8",
@@ -770,6 +798,14 @@
   {
     "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
     "name": "Yeat"
+  },
+  {
+    "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+    "name": "Young Dolph"
+  },
+  {
+    "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+    "name": "Young Jeezy"
   },
   {
     "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",

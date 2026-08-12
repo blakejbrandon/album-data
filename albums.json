@@ -3460,6 +3460,341 @@
     "edition": null
   },
   {
+    "id": "d823eb0d-c553-4882-b851-708ca7a25f73",
+    "title": "Southernplayalisticadillacmuzik",
+    "artists": [
+      {
+        "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "name": "Outkast"
+      }
+    ],
+    "releaseDate": "1994-01-01",
+    "type": "Album",
+    "trackCount": 12,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/3a/06/3a3a066d-6e67-76e5-755c-b6488bf82912/730082601023.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "d5b8c0c4-68d4-4970-8c7c-de5e238d2c17",
+        "albumID": "854469",
+        "name": "Peaches (Intro)",
+        "artists": [
+          {
+            "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+            "name": "Outkast"
+          }
+        ],
+        "artistID": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "edition": null
+      },
+      {
+        "id": "c17240d5-eaad-4245-acb5-15bb1bfd01cb",
+        "albumID": "854469",
+        "name": "Ain't No Thang",
+        "artists": [
+          {
+            "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+            "name": "Outkast"
+          }
+        ],
+        "artistID": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "edition": null
+      },
+      {
+        "id": "fd8de2bd-1588-410a-8559-14d98689eaae",
+        "albumID": "854469",
+        "name": "Welcome To Atlanta (Interlude)",
+        "artists": [
+          {
+            "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+            "name": "Outkast"
+          }
+        ],
+        "artistID": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "edition": null
+      },
+      {
+        "id": "40455b62-4f98-4689-935d-8b36c1edabc8",
+        "albumID": "854469",
+        "name": "Southernplayalisticadillacmuzik",
+        "artists": [
+          {
+            "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+            "name": "Outkast"
+          }
+        ],
+        "artistID": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "edition": null
+      },
+      {
+        "id": "3b949827-100f-4a0b-a3a4-6093744da172",
+        "albumID": "854469",
+        "name": "Call Of Da Wild",
+        "artists": [
+          {
+            "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+            "name": "Outkast"
+          }
+        ],
+        "artistID": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "edition": null
+      },
+      {
+        "id": "49cf8090-eb14-4765-9b85-7002ae56dc73",
+        "albumID": "854469",
+        "name": "Player's Ball (Original)",
+        "artists": [
+          {
+            "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+            "name": "Outkast"
+          }
+        ],
+        "artistID": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "edition": null
+      },
+      {
+        "id": "2644d352-c756-48f8-9499-866307c35651",
+        "albumID": "854469",
+        "name": "Claimin' True",
+        "artists": [
+          {
+            "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+            "name": "Outkast"
+          }
+        ],
+        "artistID": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "edition": null
+      },
+      {
+        "id": "3822ec77-9127-4fa5-8b35-3b8ecd341095",
+        "albumID": "854469",
+        "name": "True Dat (Interlude)",
+        "artists": [
+          {
+            "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+            "name": "Outkast"
+          }
+        ],
+        "artistID": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "edition": null
+      },
+      {
+        "id": "70bdb6e6-d486-459d-9fc5-a5c18a1cfc4d",
+        "albumID": "854469",
+        "name": "Crumblin' Erb",
+        "artists": [
+          {
+            "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+            "name": "Outkast"
+          }
+        ],
+        "artistID": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "edition": null
+      },
+      {
+        "id": "60c4f571-52a9-4586-8b16-4a658aa483eb",
+        "albumID": "854469",
+        "name": "Funky Ride",
+        "artists": [
+          {
+            "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+            "name": "Outkast"
+          }
+        ],
+        "artistID": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "edition": null
+      },
+      {
+        "id": "035bdfe4-3d66-4a81-b0c6-da271cd8d629",
+        "albumID": "854469",
+        "name": "Git Up, Git Out",
+        "artists": [
+          {
+            "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+            "name": "Outkast"
+          }
+        ],
+        "artistID": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "edition": null
+      },
+      {
+        "id": "e00ce7fc-9c7a-46b6-8d0e-ce13abe4ea4a",
+        "albumID": "854469",
+        "name": "Hootie Hoo",
+        "artists": [
+          {
+            "id": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+            "name": "Outkast"
+          }
+        ],
+        "artistID": "383fab00-203d-4706-ba4f-a1a1e7ac68f8",
+        "edition": null
+      }
+    ],
+    "discogsId": 854469,
+    "edition": null
+  },
+  {
+    "id": "13b3629c-6404-4bc5-be6c-1549c899e053",
+    "title": "Super Tight...",
+    "artists": [
+      {
+        "id": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+        "name": "UGK"
+      }
+    ],
+    "releaseDate": "1994-01-01",
+    "type": "Album",
+    "trackCount": 11,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fc/0f/76/fc0f7686-2e58-a1d4-724e-3bdf08877b25/mzi.cpfncaqo.jpg/600x606bb.jpg",
+    "songs": [
+      {
+        "id": "c966a8fd-f650-4c8b-99cb-dfef9dbd1334",
+        "albumID": "6322721",
+        "name": "Return",
+        "artists": [
+          {
+            "id": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+            "name": "UGK"
+          }
+        ],
+        "artistID": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+        "edition": null
+      },
+      {
+        "id": "e2f78ed3-963b-41ba-a793-892605ce6fd0",
+        "albumID": "6322721",
+        "name": "Underground",
+        "artists": [
+          {
+            "id": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+            "name": "UGK"
+          }
+        ],
+        "artistID": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+        "edition": null
+      },
+      {
+        "id": "935335f4-2d31-4e3f-92f8-47f3bbec93af",
+        "albumID": "6322721",
+        "name": "It's Supposed To Bubble",
+        "artists": [
+          {
+            "id": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+            "name": "UGK"
+          }
+        ],
+        "artistID": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+        "edition": null
+      },
+      {
+        "id": "b04bd991-f94d-4600-9df0-3e02b6de1453",
+        "albumID": "6322721",
+        "name": "I Left It Wet For You",
+        "artists": [
+          {
+            "id": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+            "name": "UGK"
+          }
+        ],
+        "artistID": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+        "edition": null
+      },
+      {
+        "id": "5d4aad47-ad86-4aab-aa15-f6336579370d",
+        "albumID": "6322721",
+        "name": "Feds In Town",
+        "artists": [
+          {
+            "id": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+            "name": "UGK"
+          }
+        ],
+        "artistID": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+        "edition": null
+      },
+      {
+        "id": "e927d660-0462-4ba7-8dff-c994cf8af278",
+        "albumID": "6322721",
+        "name": "Pocket Full Of Stones, Pt. 2",
+        "artists": [
+          {
+            "id": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+            "name": "UGK"
+          }
+        ],
+        "artistID": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+        "edition": null
+      },
+      {
+        "id": "a02e2506-dd16-4881-8476-f637580f743d",
+        "albumID": "6322721",
+        "name": "Front, Back & Side To Side",
+        "artists": [
+          {
+            "id": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+            "name": "UGK"
+          }
+        ],
+        "artistID": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+        "edition": null
+      },
+      {
+        "id": "ac2e0f5d-c4e5-45b3-b11f-c48127cbccc7",
+        "albumID": "6322721",
+        "name": "Protect & Serve",
+        "artists": [
+          {
+            "id": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+            "name": "UGK"
+          }
+        ],
+        "artistID": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+        "edition": null
+      },
+      {
+        "id": "4410d5e5-43b3-4d23-8b68-b4b68a7ec460",
+        "albumID": "6322721",
+        "name": "Stoned Junkee",
+        "artists": [
+          {
+            "id": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+            "name": "UGK"
+          }
+        ],
+        "artistID": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+        "edition": null
+      },
+      {
+        "id": "c446a2a7-910c-46a0-9463-6c39ee89f51c",
+        "albumID": "6322721",
+        "name": "Pussy Got Me Dizzy",
+        "artists": [
+          {
+            "id": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+            "name": "UGK"
+          }
+        ],
+        "artistID": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+        "edition": null
+      },
+      {
+        "id": "1083422b-b350-41ae-a444-ec13ceb54a1f",
+        "albumID": "6322721",
+        "name": "Three Sixteens",
+        "artists": [
+          {
+            "id": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+            "name": "UGK"
+          }
+        ],
+        "artistID": "479f017b-0282-4100-8fd6-fd180c59b7f3",
+        "edition": null
+      }
+    ],
+    "discogsId": 6322721,
+    "edition": null
+  },
+  {
     "id": "5a10cc0b-4a34-4caf-9ebc-9138ad8c029a",
     "title": "Illmatic",
     "artists": [
@@ -8726,6 +9061,258 @@
     "edition": null
   },
   {
+    "id": "caff4067-4d67-44c4-84b0-f59c99588cdc",
+    "title": "400 Degreez",
+    "artists": [
+      {
+        "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "name": "Juvenile"
+      }
+    ],
+    "releaseDate": "1998-11-03",
+    "type": "Album",
+    "trackCount": 18,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/44/60/90/446090ab-15e3-80d8-c2b1-2628b8230845/18UMGIM23690.rgb.jpg/600x600bb.jpg",
+    "appleId": 1379047877,
+    "songs": [
+      {
+        "id": "177f8a54-4a2b-4f6c-ab68-5994a7e693ea",
+        "albumID": "1379047877",
+        "name": "Intro (Big Tymers / 400 Degreez)",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "96bce244-02ba-439b-9742-bc21c0278d3a",
+        "albumID": "1379047877",
+        "name": "Ha",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "d8ac9e50-fd76-49c0-8114-00e1a0761814",
+        "albumID": "1379047877",
+        "name": "Gone Ride with Me",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "32768317-79db-41f5-b315-69f0735537e9",
+        "albumID": "1379047877",
+        "name": "Flossin' Season (feat. Big Tymers & B.G.)",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "2a54cea9-6390-4ef0-a15b-e2ed26de7d23",
+        "albumID": "1379047877",
+        "name": "Ghetto Children",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "f3ff75e0-f312-44dc-bc83-43773a48a721",
+        "albumID": "1379047877",
+        "name": "Follow Me Now",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "813998b9-cd68-41b8-b076-d279c9b165a1",
+        "albumID": "1379047877",
+        "name": "Cash Money Concert",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "2de4c58c-104b-4d97-a73c-73329b8b7ad4",
+        "albumID": "1379047877",
+        "name": "Welcome 2 tha Nolia (feat. Turk)",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "deac119f-3065-4b57-aaae-2c218e6317bc",
+        "albumID": "1379047877",
+        "name": "U.P.T. (feat. Big Tymers & Hot Boys)",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "98bec936-7c98-4992-ad12-0a41cef5f4a8",
+        "albumID": "1379047877",
+        "name": "Run For It (feat. Lil Wayne)",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "888250d3-2b6e-42aa-bdad-5c3f811d75c2",
+        "albumID": "1379047877",
+        "name": "Ha (feat. Hot Boys) [Remix Version]",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "d8cf4c95-c4d8-48ea-b1ba-9615d7a5466c",
+        "albumID": "1379047877",
+        "name": "Rich N****z (feat. Paparue, Turk & Lil Wayne)",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "25a97d6e-c269-4b75-92cd-22b3f4204f20",
+        "albumID": "1379047877",
+        "name": "Back That Azz Up (feat. Mannie Fresh & Lil Wayne)",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "ff330b8c-ded5-4d12-8ec7-d91716c90f6d",
+        "albumID": "1379047877",
+        "name": "Off Top (feat. Big Tymers)",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "5f317264-5ce8-4b7b-95c8-6f9835428500",
+        "albumID": "1379047877",
+        "name": "After Cash Money Concert",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "d5cb804b-95ef-4b18-80f9-ebbb35226932",
+        "albumID": "1379047877",
+        "name": "400 Degreez",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "87b01e73-9691-479a-8e54-e02e695f161c",
+        "albumID": "1379047877",
+        "name": "Juvenile on Fire",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      },
+      {
+        "id": "f0397bb9-2f49-4fce-bf83-34565bfdae4a",
+        "albumID": "1379047877",
+        "name": "Ha (feat. JAŸ-Z) [Remix Version]",
+        "artists": [
+          {
+            "id": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+            "name": "Juvenile"
+          }
+        ],
+        "artistID": "2bcf935e-5705-4e24-aac7-90080a1e75db",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
     "id": "0bb047d4-58e4-4fc7-a6f7-679e5568f7b0",
     "title": "Tha Block Is Hot",
     "artists": [
@@ -13702,6 +14289,297 @@
     "edition": null
   },
   {
+    "id": "a9ac550a-c930-4738-bdfb-59de82810689",
+    "title": "Trap Muzik",
+    "artists": [
+      {
+        "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "name": "T.I."
+      }
+    ],
+    "releaseDate": "2003-08-19",
+    "type": "Album",
+    "trackCount": 21,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/35/c2/4e/35c24ec6-9b14-1435-98ac-9dd059e9a2d0/050742335489_art.jpg/600x600bb.jpg",
+    "appleId": 1260772249,
+    "songs": [
+      {
+        "id": "71bcb772-7516-475e-8205-35747932185b",
+        "albumID": "1260772249",
+        "name": "Trap Muzik (feat. Mac Boney)",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "4fd6fdc7-91f5-48c4-bff5-41e32270235b",
+        "albumID": "1260772249",
+        "name": "I Can't Quit",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "8b825891-eaab-4670-90f9-c40aaa856f56",
+        "albumID": "1260772249",
+        "name": "Be Easy",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "ef49a361-05fc-491d-959d-fecce402d7d2",
+        "albumID": "1260772249",
+        "name": "No More Talk",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "8eadcead-0a0d-4ed6-8b17-5c2a852ad96d",
+        "albumID": "1260772249",
+        "name": "Doin' My Job",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "5f99bd3a-bab9-4f6a-bd5b-06ec40e41fae",
+        "albumID": "1260772249",
+        "name": "Let's Get Away",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "2032a6e2-d800-4a05-b789-fd48ace68ff2",
+        "albumID": "1260772249",
+        "name": "24'S",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "4e727cec-d78c-4176-bb1c-5b455d6d5585",
+        "albumID": "1260772249",
+        "name": "Rubber Band Man",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "69d53c81-4444-4561-9c28-e4afa60fd4e3",
+        "albumID": "1260772249",
+        "name": "Look What I Got",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "9ebee184-6057-4264-9c8a-bc43d7432331",
+        "albumID": "1260772249",
+        "name": "I Still Luv You",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "48e48cb3-3e79-49f0-9e0c-801de85900b4",
+        "albumID": "1260772249",
+        "name": "Let Me Tell You Something",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "40709afa-ef84-492d-ab6e-fd50f8c8e9a2",
+        "albumID": "1260772249",
+        "name": "T.I. vs. T.I.P.",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "0c89ce26-7681-4768-9d40-2f430ed4abb9",
+        "albumID": "1260772249",
+        "name": "Bezzle (feat. Eightball & MJG, Bun B)",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "f07a0133-ea06-45a0-9e03-48da86ed777a",
+        "albumID": "1260772249",
+        "name": "King of da South",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "88e945f4-6208-40e0-b645-85033d5f97e3",
+        "albumID": "1260772249",
+        "name": "Be Better Than Me",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "2a40c4bf-6567-4a01-9a95-ed9cad3bc841",
+        "albumID": "1260772249",
+        "name": "Long Live Da Game",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "130addac-7def-425a-9412-cbd6c6cb9c5e",
+        "albumID": "1260772249",
+        "name": "Rubber Band Man (Remix)",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "259ba2f7-b887-4040-b6f7-582c9196c24a",
+        "albumID": "1260772249",
+        "name": "Rubber Band Man",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "23d8db46-b55e-48ed-a9e1-c1510e5b80be",
+        "albumID": "1260772249",
+        "name": "24'S",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "10d3f9c5-f3c9-483b-9d9a-fe81e20a73f5",
+        "albumID": "1260772249",
+        "name": "Be Easy",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      },
+      {
+        "id": "658387a4-6f5d-4f38-8b30-7b631b6d956d",
+        "albumID": "1260772249",
+        "name": "Let's Get Away",
+        "artists": [
+          {
+            "id": "a8a83754-7ea1-4796-ad33-0519029bf067",
+            "name": "T.I."
+          }
+        ],
+        "artistID": "a8a83754-7ea1-4796-ad33-0519029bf067",
+        "edition": null
+      }
+    ],
+    "edition": "Deluxe"
+  },
+  {
     "id": "b84abd13-7cab-47c2-aea0-2891f04948f4",
     "title": "Speakerboxxx/The Love Below",
     "artists": [
@@ -16205,6 +17083,258 @@
       }
     ],
     "discogsId": 2206148,
+    "edition": null
+  },
+  {
+    "id": "8b762722-5ebd-4922-bd9b-88d4abde82f3",
+    "title": "Let's Get It: Thug Motivation 101",
+    "artists": [
+      {
+        "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "name": "Young Jeezy"
+      }
+    ],
+    "releaseDate": "2005-01-01",
+    "type": "Album",
+    "trackCount": 18,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/af/35/11af35e0-92ed-f9e4-0095-22cf624ca608/15UMGIM31805.rgb.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "0762970b-5f04-4bb9-81d6-5d075ac1725b",
+        "albumID": "809693",
+        "name": "Thug Motivation 101",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "7e1f7b50-1388-4563-8810-c8eeea9137fd",
+        "albumID": "809693",
+        "name": "Standing Ovation",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "fcc15d3d-b875-47c6-906c-761039e99b2b",
+        "albumID": "809693",
+        "name": "Gangsta Music",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "f38cf732-ecea-4376-866b-e5949fcd8908",
+        "albumID": "809693",
+        "name": "Let's Get It / Sky's The Limit",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "0e08a3cb-4523-4948-aa87-287a7a70ad0b",
+        "albumID": "809693",
+        "name": "And Then What",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "6ba7867c-c1d5-49dd-b021-a95bb4620bb0",
+        "albumID": "809693",
+        "name": "Go Crazy",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "07d6ee2c-0d4c-47f1-94e9-294e45c4dd46",
+        "albumID": "809693",
+        "name": "Last Of A Dying Breed",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "8a8cedcb-0d52-4588-ae2e-d7ca281cc75a",
+        "albumID": "809693",
+        "name": "My Hood",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "809d4497-4f32-473d-a28a-6ddd0d09e050",
+        "albumID": "809693",
+        "name": "Bottom Of The Map",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "aa54f5aa-7687-4550-9d83-2fbd0f30b8f8",
+        "albumID": "809693",
+        "name": "Get Ya Mind Right",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "3d5e77e0-e5e6-49bb-b77c-2be8db2f3c1c",
+        "albumID": "809693",
+        "name": "Trapstar",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "3b348730-fd98-43a5-91f2-a604e1938423",
+        "albumID": "809693",
+        "name": "Bang",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "7ee5ce5c-0b00-4472-8bdb-37469fd3ff8e",
+        "albumID": "809693",
+        "name": "Don't Get Caught",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "f72f53e3-437d-4ecc-a7b6-7021a5af985b",
+        "albumID": "809693",
+        "name": "Soul Survivor",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "248ec703-3183-44d2-adcd-fd723c8c6886",
+        "albumID": "809693",
+        "name": "Trap Or Die",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "261b947f-ee29-4e41-b6e0-969c1df94541",
+        "albumID": "809693",
+        "name": "Tear It Up",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "f63e3ddc-7f52-42a6-98b7-cc0ea8aa9c3b",
+        "albumID": "809693",
+        "name": "That's How Ya Feel",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      },
+      {
+        "id": "c6e9395c-2971-4c76-a307-315be8ae40be",
+        "albumID": "809693",
+        "name": "Talk To 'Em",
+        "artists": [
+          {
+            "id": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+            "name": "Young Jeezy"
+          }
+        ],
+        "artistID": "6e3fcaa5-8776-4a33-80d9-62f58a458337",
+        "edition": null
+      }
+    ],
+    "discogsId": 809693,
     "edition": null
   },
   {
@@ -28081,6 +29211,180 @@
     "edition": null
   },
   {
+    "id": "aa11f06e-811c-4266-a9a2-668c918c4651",
+    "title": "Finally Rich",
+    "artists": [
+      {
+        "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "name": "Chief Keef"
+      }
+    ],
+    "releaseDate": "2012-01-01",
+    "type": "Album",
+    "trackCount": 12,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0a/4c/c2/0a4cc286-d3fa-9782-ec88-6f36be8e6750/12UMGIM59937.rgb.jpg/600x600bb.jpg",
+    "appleId": 1444005836,
+    "songs": [
+      {
+        "id": "5c77c115-973a-442f-a1dc-75c1b7ec6ddc",
+        "albumID": "1444005836",
+        "name": "Love Sosa",
+        "artists": [
+          {
+            "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+            "name": "Chief Keef"
+          }
+        ],
+        "artistID": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "edition": null
+      },
+      {
+        "id": "8d80362d-2cf4-4bb4-badf-d23aefcf0edd",
+        "albumID": "1444005836",
+        "name": "Hallelujah",
+        "artists": [
+          {
+            "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+            "name": "Chief Keef"
+          }
+        ],
+        "artistID": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "edition": null
+      },
+      {
+        "id": "2b963bae-c89a-4fbe-8999-452e06ed037e",
+        "albumID": "1444005836",
+        "name": "I Don't Like (feat. Lil Reese) [Edited Version]",
+        "artists": [
+          {
+            "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+            "name": "Chief Keef"
+          }
+        ],
+        "artistID": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "edition": null
+      },
+      {
+        "id": "77b6ae44-cd4b-4305-878f-def7cab37fcc",
+        "albumID": "1444005836",
+        "name": "No Tomorrow",
+        "artists": [
+          {
+            "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+            "name": "Chief Keef"
+          }
+        ],
+        "artistID": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "edition": null
+      },
+      {
+        "id": "2bce95f0-ae8f-4761-930d-062024a883d1",
+        "albumID": "1444005836",
+        "name": "Hate Bein' Sober (feat. 50 Cent & Wiz Khalifa)",
+        "artists": [
+          {
+            "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+            "name": "Chief Keef"
+          }
+        ],
+        "artistID": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "edition": null
+      },
+      {
+        "id": "ba162f43-ad48-47b4-8974-536951d8888d",
+        "albumID": "1444005836",
+        "name": "Kay Kay",
+        "artists": [
+          {
+            "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+            "name": "Chief Keef"
+          }
+        ],
+        "artistID": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "edition": null
+      },
+      {
+        "id": "ba26506c-a03a-40e8-875d-0696173b7a49",
+        "albumID": "1444005836",
+        "name": "Laughin' To the Bank",
+        "artists": [
+          {
+            "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+            "name": "Chief Keef"
+          }
+        ],
+        "artistID": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "edition": null
+      },
+      {
+        "id": "583064ea-ca5b-40c7-83ce-09290ec5e3f1",
+        "albumID": "1444005836",
+        "name": "Diamonds (feat. French Montana)",
+        "artists": [
+          {
+            "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+            "name": "Chief Keef"
+          }
+        ],
+        "artistID": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "edition": null
+      },
+      {
+        "id": "97afa84d-fcdf-4b01-8c34-3104802e406b",
+        "albumID": "1444005836",
+        "name": "Ballin'",
+        "artists": [
+          {
+            "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+            "name": "Chief Keef"
+          }
+        ],
+        "artistID": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "edition": null
+      },
+      {
+        "id": "ce3b139b-0c68-400a-af48-0ae2abc3deaf",
+        "albumID": "1444005836",
+        "name": "Understand Me (feat. Young Jeezy)",
+        "artists": [
+          {
+            "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+            "name": "Chief Keef"
+          }
+        ],
+        "artistID": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "edition": null
+      },
+      {
+        "id": "d1fd60a0-5127-4834-8e58-d3279a1babe1",
+        "albumID": "1444005836",
+        "name": "3Hunna (feat. Rick Ross)",
+        "artists": [
+          {
+            "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+            "name": "Chief Keef"
+          }
+        ],
+        "artistID": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "edition": null
+      },
+      {
+        "id": "003df547-a2cb-4bb8-9e46-42625ff52b0c",
+        "albumID": "1444005836",
+        "name": "Finally Rich",
+        "artists": [
+          {
+            "id": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+            "name": "Chief Keef"
+          }
+        ],
+        "artistID": "8c566edb-dcf5-43be-8803-9f9695135ab2",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
     "id": "ba87bf59-001c-4526-ad54-a7545ba54279",
     "title": "No Love Lost",
     "artists": [
@@ -35242,6 +36546,193 @@
     "edition": null
   },
   {
+    "id": "c4d76744-6fdf-47b1-a189-ff02078b4654",
+    "title": "Barter 6",
+    "artists": [
+      {
+        "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "name": "Young Thug"
+      }
+    ],
+    "releaseDate": "2015-01-01",
+    "type": "Album",
+    "trackCount": 13,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7f/ab/ba/7fabbae7-d92a-f59e-352b-7b9d1e960feb/075679924872.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "4fe47867-ff71-4d32-a04b-0ad9007886c2",
+        "albumID": "6909411",
+        "name": "Constantly Hating",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "39ca0f79-5c32-4015-b32b-48f12f0515ad",
+        "albumID": "6909411",
+        "name": "With That",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "0a2b7630-1180-4525-9b3d-03d83ab6be16",
+        "albumID": "6909411",
+        "name": "Can't Tell",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "30899554-a4f5-4ba4-9268-39f3cbc60b70",
+        "albumID": "6909411",
+        "name": "Check",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "22fcc4d2-2717-46d5-b9a8-7bd1d36334ed",
+        "albumID": "6909411",
+        "name": "Never Had It",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "5b1cfe51-be35-4e76-8496-5566bfd13342",
+        "albumID": "6909411",
+        "name": "Dream",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "84b3cf61-eaae-4387-9ed2-84b01721e52b",
+        "albumID": "6909411",
+        "name": "Dome",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "61c04c2b-5d2d-46a1-a3bc-9ce37629bc3a",
+        "albumID": "6909411",
+        "name": "Halftime",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "049d6d20-c58e-4988-9732-f5ae79b6b92b",
+        "albumID": "6909411",
+        "name": "Amazing",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "4a4c1347-b17c-4119-b2bb-55929f3afc0e",
+        "albumID": "6909411",
+        "name": "Knocked Off",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "ca4e96bf-3a56-4aa8-b3fd-a07ae948c238",
+        "albumID": "6909411",
+        "name": "OD",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "af94ec80-358e-457c-865c-682d1e2abf00",
+        "albumID": "6909411",
+        "name": "Numbers",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "f3c779f7-c138-42d3-a5ea-bdfc0512d582",
+        "albumID": "6909411",
+        "name": "Just Might Be",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      }
+    ],
+    "discogsId": 6909411,
+    "edition": null
+  },
+  {
     "id": "d11083e6-41b9-4ebc-aad7-7f45077886b4",
     "title": "SremmLife",
     "artists": [
@@ -41043,6 +42534,333 @@
       }
     ],
     "discogsId": 8752494,
+    "edition": null
+  },
+  {
+    "id": "ae385d48-7292-4012-b6b8-88d39cd6d845",
+    "title": "Jeffery",
+    "artists": [
+      {
+        "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "name": "Young Thug"
+      }
+    ],
+    "releaseDate": "2016-01-01",
+    "type": "Album",
+    "trackCount": 10,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/df/50/0bdf50bb-b6bb-2ea5-6943-b092fa81f1e7/075679905413.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "a008fe28-dd29-4d57-8d22-b43d618093ed",
+        "albumID": "9480756",
+        "name": "Wyclef Jean",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "2e14bdcd-f163-483f-b1e0-e4858828a437",
+        "albumID": "9480756",
+        "name": "Floyd Mayweather",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "07e4e411-ea5f-4aa7-b854-e441520d5361",
+        "albumID": "9480756",
+        "name": "Swizz Beatz",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "5e2a23e1-0b19-49da-9164-e182467497af",
+        "albumID": "9480756",
+        "name": "Future Swag",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "ac827740-01d2-4ef0-af54-c20704cac185",
+        "albumID": "9480756",
+        "name": "RiRi",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "90cfd7d7-595c-461d-ae39-389d2eb949f8",
+        "albumID": "9480756",
+        "name": "Guwop",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "e8f167df-5f18-4b42-adc7-5254cd9eb6e0",
+        "albumID": "9480756",
+        "name": "Harambe",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "20bc1551-1f49-4d0b-9cf1-725b7443eddd",
+        "albumID": "9480756",
+        "name": "Webbie",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "ca2d60ef-bf8f-445b-a398-a451f9c14b63",
+        "albumID": "9480756",
+        "name": "Kanye West",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "edition": null
+      },
+      {
+        "id": "077574d6-ba7f-4659-815c-4fb8a281dcfe",
+        "albumID": "9480756",
+        "name": "Pick Up the Phone",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          },
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": null
+      }
+    ],
+    "discogsId": 9480756,
+    "edition": null
+  },
+  {
+    "id": "4ebff674-ba3b-4a6a-b31d-e4517e37d607",
+    "title": "Savage Mode",
+    "artists": [
+      {
+        "id": "ef017df3-2289-4c85-9291-14f96b2dad93",
+        "name": "21 Savage"
+      },
+      {
+        "id": "11403132-c5f0-4652-9e5e-22b79e824359",
+        "name": "Metro Boomin"
+      }
+    ],
+    "releaseDate": "2016-01-01",
+    "type": "Album",
+    "trackCount": 9,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dd/5c/5c/dd5c5c4b-16d0-e74d-0075-5df0b6daf33c/886446010236.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "73664f83-38f4-415a-a8a7-4f30829d9131",
+        "albumID": "8817641",
+        "name": "No Advance",
+        "artists": [
+          {
+            "id": "ef017df3-2289-4c85-9291-14f96b2dad93",
+            "name": "21 Savage"
+          },
+          {
+            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
+            "name": "Metro Boomin"
+          }
+        ],
+        "artistID": "ef017df3-2289-4c85-9291-14f96b2dad93",
+        "edition": null
+      },
+      {
+        "id": "88be84fc-a892-46ce-83e1-d0cf5f910747",
+        "albumID": "8817641",
+        "name": "No Heart",
+        "artists": [
+          {
+            "id": "ef017df3-2289-4c85-9291-14f96b2dad93",
+            "name": "21 Savage"
+          },
+          {
+            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
+            "name": "Metro Boomin"
+          }
+        ],
+        "artistID": "ef017df3-2289-4c85-9291-14f96b2dad93",
+        "edition": null
+      },
+      {
+        "id": "aa060a6b-f941-4d14-b48c-4c7af2037fb7",
+        "albumID": "8817641",
+        "name": "X",
+        "artists": [
+          {
+            "id": "ef017df3-2289-4c85-9291-14f96b2dad93",
+            "name": "21 Savage"
+          },
+          {
+            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
+            "name": "Metro Boomin"
+          }
+        ],
+        "artistID": "ef017df3-2289-4c85-9291-14f96b2dad93",
+        "edition": null
+      },
+      {
+        "id": "5aec0dff-04d7-43ed-b4de-6d6bf10a2382",
+        "albumID": "8817641",
+        "name": "Savage Mode",
+        "artists": [
+          {
+            "id": "ef017df3-2289-4c85-9291-14f96b2dad93",
+            "name": "21 Savage"
+          },
+          {
+            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
+            "name": "Metro Boomin"
+          }
+        ],
+        "artistID": "ef017df3-2289-4c85-9291-14f96b2dad93",
+        "edition": null
+      },
+      {
+        "id": "4813fa5a-e885-49d2-9756-2c9f1f98eedf",
+        "albumID": "8817641",
+        "name": "Bad Guy",
+        "artists": [
+          {
+            "id": "ef017df3-2289-4c85-9291-14f96b2dad93",
+            "name": "21 Savage"
+          },
+          {
+            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
+            "name": "Metro Boomin"
+          }
+        ],
+        "artistID": "ef017df3-2289-4c85-9291-14f96b2dad93",
+        "edition": null
+      },
+      {
+        "id": "40b4266b-8407-4742-bc64-59972c4c17bb",
+        "albumID": "8817641",
+        "name": "Real Nigga",
+        "artists": [
+          {
+            "id": "ef017df3-2289-4c85-9291-14f96b2dad93",
+            "name": "21 Savage"
+          },
+          {
+            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
+            "name": "Metro Boomin"
+          }
+        ],
+        "artistID": "ef017df3-2289-4c85-9291-14f96b2dad93",
+        "edition": null
+      },
+      {
+        "id": "934bc292-b0d3-43b3-9d0e-302faa198678",
+        "albumID": "8817641",
+        "name": "Mad High",
+        "artists": [
+          {
+            "id": "ef017df3-2289-4c85-9291-14f96b2dad93",
+            "name": "21 Savage"
+          },
+          {
+            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
+            "name": "Metro Boomin"
+          }
+        ],
+        "artistID": "ef017df3-2289-4c85-9291-14f96b2dad93",
+        "edition": null
+      },
+      {
+        "id": "ca2857e3-645f-4e15-b7cf-cce010bd8acc",
+        "albumID": "8817641",
+        "name": "Feel It",
+        "artists": [
+          {
+            "id": "ef017df3-2289-4c85-9291-14f96b2dad93",
+            "name": "21 Savage"
+          },
+          {
+            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
+            "name": "Metro Boomin"
+          }
+        ],
+        "artistID": "ef017df3-2289-4c85-9291-14f96b2dad93",
+        "edition": null
+      },
+      {
+        "id": "972788a6-732d-4cfe-90a3-5c3acc4ffeb7",
+        "albumID": "8817641",
+        "name": "Ocean Drive",
+        "artists": [
+          {
+            "id": "ef017df3-2289-4c85-9291-14f96b2dad93",
+            "name": "21 Savage"
+          },
+          {
+            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
+            "name": "Metro Boomin"
+          }
+        ],
+        "artistID": "ef017df3-2289-4c85-9291-14f96b2dad93",
+        "edition": null
+      }
+    ],
+    "discogsId": 8817641,
     "edition": null
   },
   {
@@ -47330,6 +49148,167 @@
     "edition": null
   },
   {
+    "id": "e4197bd4-6e37-4ad8-b037-75deb10c91e2",
+    "title": "Gelato",
+    "artists": [
+      {
+        "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "name": "Young Dolph"
+      }
+    ],
+    "releaseDate": "2017-02-02",
+    "type": "Album",
+    "trackCount": 11,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/aa/70/08aa70d7-706f-d6e5-666d-b90409bbef1f/888915338568_cover.jpg/600x600bb.jpg",
+    "appleId": 1201923812,
+    "songs": [
+      {
+        "id": "5242cd2f-46b3-478a-a7f8-07f988571d8c",
+        "albumID": "1201923812",
+        "name": "Gelato",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "cde5822b-2c89-4084-84d1-78d8a7250193",
+        "albumID": "1201923812",
+        "name": "Baller Alert",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "1081058a-0719-4f22-a17b-16e2f027d538",
+        "albumID": "1201923812",
+        "name": "On the River (feat. Wiz Khalifa)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "fab8c6ef-d1be-4f82-a6cb-21db16e9b476",
+        "albumID": "1201923812",
+        "name": "Whole Lot",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "776852a1-5a04-4ca4-b13b-b9c417f1a7df",
+        "albumID": "1201923812",
+        "name": "Drop It Off (feat. Migos)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "d3836cf9-bebd-48a1-9f96-ae1f0db008b5",
+        "albumID": "1201923812",
+        "name": "Run It Up",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "1aaa77ba-c023-4d8c-afad-3cd10693c81d",
+        "albumID": "1201923812",
+        "name": "Yeezy",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "2be673c8-3f51-4a0b-a3c9-79e0d4a4a88e",
+        "albumID": "1201923812",
+        "name": "Bagg (feat. Lil Yachty)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "dd67fece-b7b4-414e-8b89-aad620a5a51a",
+        "albumID": "1201923812",
+        "name": "Special",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "0db5d901-5565-4b10-9efb-e8989731a34c",
+        "albumID": "1201923812",
+        "name": "Meech",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "70119e5c-1542-495c-8d44-7518489fe6ea",
+        "albumID": "1201923812",
+        "name": "Play Wit Yo' B",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
     "id": "2354574e-e72c-4828-b2aa-60ee993a564d",
     "title": "I Decided.",
     "artists": [
@@ -48968,6 +50947,154 @@
           }
         ],
         "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
+    "id": "ba407620-e6eb-4148-943f-0ac0f508048c",
+    "title": "Bulletproof",
+    "artists": [
+      {
+        "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "name": "Young Dolph"
+      }
+    ],
+    "releaseDate": "2017-04-01",
+    "type": "Album",
+    "trackCount": 10,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/ff/9f/96ff9f61-4363-293b-4299-db019dc24e81/888915364246_cover.jpg/600x600bb.jpg",
+    "appleId": 1222260287,
+    "songs": [
+      {
+        "id": "5ff9c228-f221-4117-a658-b22bfdb2bfb5",
+        "albumID": "1222260287",
+        "name": "100 Shots",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "e087a611-8951-467d-a835-0f1b7208e6c8",
+        "albumID": "1222260287",
+        "name": "In Charlotte",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "50bab938-6075-46f7-83ff-95c42e1a471b",
+        "albumID": "1222260287",
+        "name": "But I'm Bulletproof",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "2668d5b6-bafb-4d0f-bdf9-f4b198f2b946",
+        "albumID": "1222260287",
+        "name": "So Fuk'em",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "153f139a-dbe2-4e3a-b83d-52951c0eae9e",
+        "albumID": "1222260287",
+        "name": "That's How I Feel (feat. Gucci Mane)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "66985cd6-25e5-4176-9b28-4d750da1aa6d",
+        "albumID": "1222260287",
+        "name": "All of Them",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "a3f230e7-1fda-4721-9658-699ab0762792",
+        "albumID": "1222260287",
+        "name": "I'm So Real",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "30bb80fa-a64e-4209-8fec-e2189e3cb732",
+        "albumID": "1222260287",
+        "name": "I Pray For My Enemies",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "3a04c00b-dcfe-46de-94bd-c1a0a52b6e29",
+        "albumID": "1222260287",
+        "name": "I'm Everything You Wanna Be",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "40a58356-82b1-4ffe-a851-f68ab2dc4b75",
+        "albumID": "1222260287",
+        "name": "SMH",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
         "edition": null
       }
     ],
@@ -53650,6 +55777,154 @@
     "edition": null
   },
   {
+    "id": "fecfc8c2-8dfb-4dbb-b750-07f464839bc8",
+    "title": "Thinking Out Loud",
+    "artists": [
+      {
+        "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "name": "Young Dolph"
+      }
+    ],
+    "releaseDate": "2017-10-20",
+    "type": "Album",
+    "trackCount": 10,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/98/97/56/9897567d-d588-1563-34b4-0504291b2870/888915471555_cover.jpg/600x600bb.jpg",
+    "appleId": 1295911231,
+    "songs": [
+      {
+        "id": "7b0d7c98-a3f5-42fb-9860-b957afc078ab",
+        "albumID": "1295911231",
+        "name": "What's the Deal",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "c07907ff-86d7-47fc-bc83-a127dc943ba0",
+        "albumID": "1295911231",
+        "name": "Pacific Ocean",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "746cff86-299d-492f-898d-e4aa9cd4ddce",
+        "albumID": "1295911231",
+        "name": "Point Across",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "1e323ded-8ffa-4e95-bf86-58d430b8c6f3",
+        "albumID": "1295911231",
+        "name": "Drippy",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "767b09f3-e497-4f28-b222-230c19cd9cf7",
+        "albumID": "1295911231",
+        "name": "Believe Me",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "0a08958f-0926-44b2-b74a-1d5e2e576825",
+        "albumID": "1295911231",
+        "name": "All of Mine (feat. DRAM)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "2b5dad99-f8ec-49c4-8675-90e512b3fd31",
+        "albumID": "1295911231",
+        "name": "Go Get Sum Mo (feat. Gucci Mane, 2 Chainz & Ty Dolla $ign)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "27122eef-c1bc-4be1-af0f-b217248acef9",
+        "albumID": "1295911231",
+        "name": "Thinking Out Loud",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "62279dc5-0c8a-4676-a280-1ef4fb0a24df",
+        "albumID": "1295911231",
+        "name": "Eddie Cane",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "9ca0f5f1-5163-4f08-b0ba-535664fa3feb",
+        "albumID": "1295911231",
+        "name": "While U Here",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
     "id": "52bfdeca-b75b-4970-859b-31b602cc9f8c",
     "title": "Beach House 3",
     "artists": [
@@ -56367,6 +58642,275 @@
       }
     ],
     "discogsId": 12443731,
+    "edition": null
+  },
+  {
+    "id": "25fc6261-014c-4165-bacb-539be62a7e65",
+    "title": "Die Lit",
+    "artists": [
+      {
+        "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "name": "Playboi Carti"
+      }
+    ],
+    "releaseDate": "2018-01-01",
+    "type": "Album",
+    "trackCount": 19,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a2/38/52/a23852d9-21e4-5ac5-6d75-2682fecdda46/18UMGIM26096.rgb.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "a3830f6f-36c5-46a6-be34-3e6b2a930365",
+        "albumID": "12102645",
+        "name": "Long Time (Intro)",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "47c557db-966c-4953-99ed-ce7f05352c08",
+        "albumID": "12102645",
+        "name": "R.I.P.",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "91f6fa8e-6733-4daa-a4e0-fa3e913a1ea1",
+        "albumID": "12102645",
+        "name": "Lean 4 Real",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "4f6b784b-909f-4c53-8b8b-af6303f72800",
+        "albumID": "12102645",
+        "name": "Old Money",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "a2125bfd-85ce-49f7-b106-192006c952db",
+        "albumID": "12102645",
+        "name": "Love Hurts",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "4a4b9fe8-8ee4-42ac-8b9b-7e6e8284d22e",
+        "albumID": "12102645",
+        "name": "Shoota",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "e50d379c-9e99-4b1e-9ca0-14e0368189ed",
+        "albumID": "12102645",
+        "name": "Right Now",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "b7648fcd-025a-4d11-9361-c9371b9d914c",
+        "albumID": "12102645",
+        "name": "Poke It Out",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          },
+          {
+            "id": "412f1a3b-14b5-4bc4-8215-537d1a290f83",
+            "name": "Nicki Minaj"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "a60d9dcf-986c-4a51-ab36-bcc75ac77d2c",
+        "albumID": "12102645",
+        "name": "Home (KOD)",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "d91148c3-f8a6-43d9-83cb-7e9040fbf452",
+        "albumID": "12102645",
+        "name": "Fell In Luv",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "a5496d4a-7280-453e-a252-ddff97b4a85f",
+        "albumID": "12102645",
+        "name": "Foreign",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "a79b94f4-b194-4619-b2b0-db060c56aeab",
+        "albumID": "12102645",
+        "name": "Pull Up",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "ce9fdf0d-ce76-49bb-a55c-af04f92806c3",
+        "albumID": "12102645",
+        "name": "Mileage",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "6030781f-37f5-43ec-8a8b-cd22ab441104",
+        "albumID": "12102645",
+        "name": "FlatBed Freestyle",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "3d6ddc5c-ded9-4b85-9cfe-143f7e8a8928",
+        "albumID": "12102645",
+        "name": "No Time",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "7ecc841b-14f1-4cd5-8b49-3fdb72c7f43c",
+        "albumID": "12102645",
+        "name": "Middle Of The Summer",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "7f94f919-e6c4-4c0e-8696-2d7e8a1dedd6",
+        "albumID": "12102645",
+        "name": "Choppa Won't Miss",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "e7281b24-184d-44a7-82c3-a842fd921cbb",
+        "albumID": "12102645",
+        "name": "R.I.P. Fredo (Notice Me)",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "f6690c48-7537-4c9a-aea5-a80d6039c018",
+        "albumID": "12102645",
+        "name": "Top",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      }
+    ],
+    "discogsId": 12102645,
     "edition": null
   },
   {
@@ -60476,6 +63020,206 @@
           }
         ],
         "artistID": "06888a6d-5dc1-4d2e-b87a-2b36aeb3d01b",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
+    "id": "bcfa8030-48f1-4308-82b3-746caeec5520",
+    "title": "Role Model",
+    "artists": [
+      {
+        "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "name": "Young Dolph"
+      }
+    ],
+    "releaseDate": "2018-09-21",
+    "type": "Album",
+    "trackCount": 14,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/e7/8e/d6e78e31-6b7e-9027-3a4f-bbd2f455743a/888915731062_cover.jpg/600x600bb.jpg",
+    "appleId": 1436362583,
+    "songs": [
+      {
+        "id": "90eb3c4e-f79f-4ded-9c68-8c029d886f93",
+        "albumID": "1436362583",
+        "name": "Black Queen (feat. Moma Gabbana)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "5691f806-0c5d-4da2-bf78-771607a605fe",
+        "albumID": "1436362583",
+        "name": "By Mistake",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "b2409110-5a94-479c-b859-3a0f3df3f353",
+        "albumID": "1436362583",
+        "name": "Major (feat. Key Glock)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "ff89daca-7a7d-47ce-86fd-74659101dfe0",
+        "albumID": "1436362583",
+        "name": "Lipstick",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "884f8b43-cffa-408c-a662-16aaed14182d",
+        "albumID": "1436362583",
+        "name": "How U Luv Dat",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "ec0905ff-6071-48ce-a024-190d58cf2b58",
+        "albumID": "1436362583",
+        "name": "I Think I Can Fly (feat. Snoop Dogg)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "854395da-6991-427f-9a52-ece31a402ff5",
+        "albumID": "1436362583",
+        "name": "Break the Bank (feat. Offset)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "42adef1f-76d4-4e02-acab-beb060644837",
+        "albumID": "1436362583",
+        "name": "On God",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "7ff968cc-dcf2-41ec-a6bc-b7f6b20284ac",
+        "albumID": "1436362583",
+        "name": "Still Smell Like It",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "f0ff3075-0bd3-4b23-9836-ff60ed01c734",
+        "albumID": "1436362583",
+        "name": "Whole World (feat. Kash Doll)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "d70cda10-5971-4b91-ba68-2d7fa65ac19b",
+        "albumID": "1436362583",
+        "name": "Playin Wit a Chek",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "92fade2a-e8ad-4c34-b1c6-2fed04c5fe6c",
+        "albumID": "1436362583",
+        "name": "Muhammad",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "5ff89e56-1279-4d1b-ac7e-4d1c238c9980",
+        "albumID": "1436362583",
+        "name": "Space Jam",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "250176e0-eca0-457f-ba08-f432742b1187",
+        "albumID": "1436362583",
+        "name": "Trap Baby",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
         "edition": null
       }
     ],
@@ -69667,6 +72411,336 @@
     "edition": null
   },
   {
+    "id": "067ccdeb-9b2f-4753-9ef1-5a54cd41c341",
+    "title": "Whole Lotta Red",
+    "artists": [
+      {
+        "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "name": "Playboi Carti"
+      }
+    ],
+    "releaseDate": "2020-01-01",
+    "type": "Album",
+    "trackCount": 24,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/1e/05/ba1e058e-5637-e53c-563c-f5b9a1a6c344/20UM1IM18331.rgb.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "f16e1b05-8abb-4465-9996-33781e5dc53d",
+        "albumID": "16618317",
+        "name": "Rockstar Made",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "e95bd2bf-4fb9-4859-b09f-58c7bf1ef6c1",
+        "albumID": "16618317",
+        "name": "Go2DaMoon",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "efa09907-7b7b-44ea-9e25-3a335512ff47",
+        "albumID": "16618317",
+        "name": "Stop Breathing",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "757b994b-53f1-4cbc-99be-ca4d0f85df92",
+        "albumID": "16618317",
+        "name": "Beno!",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "a1f177a5-cfdd-4c48-9e58-d96c49613208",
+        "albumID": "16618317",
+        "name": "JumpOutTheHouse",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "685180c5-2a99-441d-80e9-688be831265f",
+        "albumID": "16618317",
+        "name": "M3tamorphosis",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "7e81f42d-7633-4a36-be71-17d7cf3722ab",
+        "albumID": "16618317",
+        "name": "Slay3r",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "73a65786-ff06-414c-983e-3d12e3768862",
+        "albumID": "16618317",
+        "name": "No Sl33p",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "8a7099bd-d864-4f22-8b5b-a372fae66bd7",
+        "albumID": "16618317",
+        "name": "New Tank",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "8d09ed3a-1876-4338-acfa-b627b257d102",
+        "albumID": "16618317",
+        "name": "Teen X",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "5a8880a1-86fa-4f89-b650-1813ce3df49a",
+        "albumID": "16618317",
+        "name": "Meh",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "201fd3c2-21ad-41b2-b9a8-537b9de56410",
+        "albumID": "16618317",
+        "name": "Vamp Anthem",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "146288c2-39dc-41b1-86c0-0ef48eacc235",
+        "albumID": "16618317",
+        "name": "New N3on",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "93705ac4-b798-42db-870d-ea967871c340",
+        "albumID": "16618317",
+        "name": "Control",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "b799c1e9-2ead-42e1-9994-73b68f690a5d",
+        "albumID": "16618317",
+        "name": "Punk Monk",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "f1e44dbc-e869-48b9-afe7-dee7981d124d",
+        "albumID": "16618317",
+        "name": "On That Time",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "55ee2464-c433-432b-9768-74325a8606be",
+        "albumID": "16618317",
+        "name": "King Vamp",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "eb7c9058-6d1c-441c-9f60-817bc862b707",
+        "albumID": "16618317",
+        "name": "Place",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "ccc6416e-7833-460c-b293-44f39f103ff8",
+        "albumID": "16618317",
+        "name": "Sky",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "5af57c96-fdbd-4034-8a4d-c3615a3bcc99",
+        "albumID": "16618317",
+        "name": "Over",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "7e9274bd-cc4c-4185-8d52-f0c1b86f2414",
+        "albumID": "16618317",
+        "name": "ILoveUIHateU",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "9174ff12-c8da-4842-80c2-8d6da6e157d6",
+        "albumID": "16618317",
+        "name": "Die4Guy",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "82611330-5ec8-4f98-9104-7fc07a213dc0",
+        "albumID": "16618317",
+        "name": "Not Playing",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      },
+      {
+        "id": "121857c2-b970-46d0-8f9b-92564e5f4fb5",
+        "albumID": "16618317",
+        "name": "F33l Lik3 Dyin",
+        "artists": [
+          {
+            "id": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+            "name": "Playboi Carti"
+          }
+        ],
+        "artistID": "01d797c0-0e32-4454-8df4-0dff083b47a0",
+        "edition": null
+      }
+    ],
+    "discogsId": 16618317,
+    "edition": null
+  },
+  {
     "id": "84d5321a-7e17-4b55-ac4e-ddc43778c79c",
     "title": "The Circus",
     "artists": [
@@ -69781,6 +72855,399 @@
       }
     ],
     "edition": null
+  },
+  {
+    "id": "00e16e9a-a778-4f7c-a7a4-0d316cf1032c",
+    "title": "My Turn",
+    "artists": [
+      {
+        "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "name": "Lil Baby"
+      }
+    ],
+    "releaseDate": "2020-02-28",
+    "type": "Album",
+    "trackCount": 27,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/03/73/c3/0373c310-69ad-747f-ae78-14cf03b0464b/20UMGIM30254.rgb.jpg/600x600bb.jpg",
+    "appleId": 1534811491,
+    "songs": [
+      {
+        "id": "df80832e-b68c-4339-9a92-a3aaf0a66497",
+        "albumID": "1534811491",
+        "name": "Get Ugly",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "3315f6c2-fb3a-4ab2-a542-219469d6fe50",
+        "albumID": "1534811491",
+        "name": "Heatin Up",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          },
+          {
+            "id": "5e5288c3-eddc-4294-9fe3-47a7e28d6238",
+            "name": "Gunna"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "49b9708f-4bd1-4909-a469-a7067b584856",
+        "albumID": "1534811491",
+        "name": "How",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "2c0c7161-1b0a-41eb-9e47-3d3a045b1fc1",
+        "albumID": "1534811491",
+        "name": "Grace",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          },
+          {
+            "id": "1df930af-ee43-46bb-898d-ea645ddcd22e",
+            "name": "42 Dugg"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "333ae77d-70ca-42fd-adcc-b39d256ea38d",
+        "albumID": "1534811491",
+        "name": "Woah",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "ce9cb5f2-e724-4c56-9c5b-c870fcbe5c69",
+        "albumID": "1534811491",
+        "name": "Live Off My Closet (feat. Future)",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "590fe4b5-575c-4e18-871f-974bc7e47bc4",
+        "albumID": "1534811491",
+        "name": "Same Thing",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "a7fcc886-2647-4f4e-baf6-44333d6249f7",
+        "albumID": "1534811491",
+        "name": "Emotionally Scarred",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "332e2703-d535-48af-9b90-b214c6e4b079",
+        "albumID": "1534811491",
+        "name": "Commercial (feat. Lil Uzi Vert)",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "0ec85979-255d-45fd-9177-cabf36d55448",
+        "albumID": "1534811491",
+        "name": "Forever (feat. Lil Wayne)",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "4ec8ed1b-1fc9-4104-a89a-54d3c17f0604",
+        "albumID": "1534811491",
+        "name": "Can't Explain",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "9f6bf569-97da-48da-8b27-ccb12e86eb8b",
+        "albumID": "1534811491",
+        "name": "No Sucker",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          },
+          {
+            "id": "fadf4c7f-ed65-45e7-b075-4dfc7e5fb6e1",
+            "name": "Moneybagg Yo"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "c52ca186-52cc-47ec-b3ba-ecf954dfce2e",
+        "albumID": "1534811491",
+        "name": "Sum 2 Prove",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "67e6e0e7-c75f-49b3-a1b3-f2b0636aee40",
+        "albumID": "1534811491",
+        "name": "We Should",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          },
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "2f670591-04c8-42bb-a786-4fc368b9ca1b",
+        "albumID": "1534811491",
+        "name": "Catch The Sun (From \"Queen & Slim: The Soundtrack\")",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "14a3e0fa-0537-41fb-bf9c-8601d14a3aa0",
+        "albumID": "1534811491",
+        "name": "Consistent",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "71f40138-a67f-4f2c-abf1-ea003b3f0351",
+        "albumID": "1534811491",
+        "name": "Gang Signs",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "93d38e27-3290-4647-807c-772db687f3d1",
+        "albumID": "1534811491",
+        "name": "Hurtin",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "ee9ab3d4-af89-4b1b-985e-f5f1677f86de",
+        "albumID": "1534811491",
+        "name": "Forget That",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          },
+          {
+            "id": "f4461a30-fc48-4c43-8b4c-dbb173b2a20b",
+            "name": "Rylo Rodriguez"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "2176bf15-eaa1-4338-8661-a4a4c5fd1464",
+        "albumID": "1534811491",
+        "name": "Solid",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "7c0fba01-93b0-48cb-9bfb-9f5ab8fa9a9b",
+        "albumID": "1534811491",
+        "name": "Social Distancing",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "75d83aab-49d0-42b2-9ef0-fb96b3f3ed59",
+        "albumID": "1534811491",
+        "name": "All In",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "5c0ff362-fdbf-4db9-88f3-3d661c1d9354",
+        "albumID": "1534811491",
+        "name": "Low Down",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "86932a0a-2a89-4b6d-b41f-8d5f5eb8562c",
+        "albumID": "1534811491",
+        "name": "Humble",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "f73d6819-bff3-4b60-a6f9-a996a5d91393",
+        "albumID": "1534811491",
+        "name": "Get Money",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "f3b5c53a-4d55-411d-9e08-61644fd87561",
+        "albumID": "1534811491",
+        "name": "We Paid",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          },
+          {
+            "id": "1df930af-ee43-46bb-898d-ea645ddcd22e",
+            "name": "42 Dugg"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      },
+      {
+        "id": "6459588d-873a-49b4-b1c9-abfdd84accd7",
+        "albumID": "1534811491",
+        "name": "The Bigger Picture",
+        "artists": [
+          {
+            "id": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+            "name": "Lil Baby"
+          }
+        ],
+        "artistID": "41e41ca2-e02b-4b5e-8943-d3cd4f0eeb02",
+        "edition": null
+      }
+    ],
+    "edition": "Deluxe"
   },
   {
     "id": "baf1bbc7-d1db-4985-85f3-f74a064728c0",
@@ -75914,6 +79381,12 @@
           }
         ],
         "artistID": "bd6eb940-ce58-460c-8adf-aa48dda46531",
+        "genres": [
+          "hip-hop"
+        ],
+        "subgenres": [
+          "jazz rap"
+        ],
         "edition": null
       },
       {
@@ -76959,6 +80432,640 @@
     ],
     "discogsId": 20095591,
     "edition": null
+  },
+  {
+    "id": "6d6aae37-0fcd-4b87-8dcb-0e053014138d",
+    "title": "Up 2 Më",
+    "artists": [
+      {
+        "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "name": "Yeat"
+      }
+    ],
+    "releaseDate": "2021-01-01",
+    "type": "Album",
+    "trackCount": 22,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4b/9d/95/4b9d95bc-1ecd-2c15-7486-4de27f47acfc/808391127425_Cover.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "8224f687-4cf7-48c9-8a98-3c84b2fe073c",
+        "albumID": "21254446",
+        "name": "Cmon",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "0936c85c-ca13-4136-aaa0-6a4cab729961",
+        "albumID": "21254446",
+        "name": "Morning Mudd",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "8f9cdee5-9f53-4577-9432-784827109080",
+        "albumID": "21254446",
+        "name": "Got Rich",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "87c058ce-7f79-437f-a873-9a950bfb8c6c",
+        "albumID": "21254446",
+        "name": "Lët Ya Know",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "c0b6cc65-a047-46e9-9bf1-ed00275bed23",
+        "albumID": "21254446",
+        "name": "Stayëd Tha Same",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "051bfc04-4648-48d8-ad69-0a09de3cd6f3",
+        "albumID": "21254446",
+        "name": "Gët Busy",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "173e78f1-cda6-4868-850a-b9f2babd51e2",
+        "albumID": "21254446",
+        "name": "Rokstar",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "b0e7608f-5df1-4be6-9fc1-3d21560302ff",
+        "albumID": "21254446",
+        "name": "Trëndy Way",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "fa15294d-c9fb-4127-b87e-9f8604ccc9ff",
+        "albumID": "21254446",
+        "name": "Swërved It",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "5574d002-a5e7-47a3-afe4-29a6f71a06fe",
+        "albumID": "21254446",
+        "name": "Ya Ya",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "994f9904-520a-426e-9626-d2c6cc7cb582",
+        "albumID": "21254446",
+        "name": "U Could Tëll",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "b80e7014-bfb0-4255-baa7-f8329161876e",
+        "albumID": "21254446",
+        "name": "Factz",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "09f6f52c-64ad-4ee6-a231-464023d5b46f",
+        "albumID": "21254446",
+        "name": "Bak On ëm",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "89334fe8-beb6-4b97-831f-abd947461efd",
+        "albumID": "21254446",
+        "name": "Hëy",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "f13ef197-372a-401c-9fa2-c39c3dc31a17",
+        "albumID": "21254446",
+        "name": "Turban",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "95e6e664-b604-4142-a681-c509ffe0aaae",
+        "albumID": "21254446",
+        "name": "Twizzy Rich",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "80ff4b0d-4973-4c6e-90df-c6f07c8e78e9",
+        "albumID": "21254446",
+        "name": "Told Ya",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "fa16cc55-5fd1-4e69-80f9-de28f6307bcc",
+        "albumID": "21254446",
+        "name": "Monëy So Big",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "d0375b6d-9630-4d1f-8e17-5b801cc80833",
+        "albumID": "21254446",
+        "name": "Deservë It",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "c29e8b00-3f72-451c-8b01-0749ecbf3544",
+        "albumID": "21254446",
+        "name": "Kant Changë",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "59ae6aa2-4e37-4b48-ad93-e7e0185cdd40",
+        "albumID": "21254446",
+        "name": "Callin Më",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      },
+      {
+        "id": "f3d484f9-6b76-48a3-a24d-7c337b173570",
+        "albumID": "21254446",
+        "name": "Lying 4 Fun",
+        "artists": [
+          {
+            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+            "name": "Yeat"
+          }
+        ],
+        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
+        "edition": null
+      }
+    ],
+    "discogsId": 21254446,
+    "edition": null
+  },
+  {
+    "id": "ff9dab80-14df-4a60-b7a7-0ee3d3fb89c8",
+    "title": "Rich Slave",
+    "artists": [
+      {
+        "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "name": "Young Dolph"
+      }
+    ],
+    "releaseDate": "2021-01-22",
+    "type": "Album",
+    "trackCount": 24,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/73/24/1d732434-11ae-b9cf-02d9-f9a289026320/194690425455_cover.jpg/600x600bb.jpg",
+    "appleId": 1549493179,
+    "songs": [
+      {
+        "id": "225dc65f-ba1a-48e1-8c94-4874875c10de",
+        "albumID": "1549493179",
+        "name": "Hold Up Hold Up Hold Up",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "5887e8ff-d0d9-4c4f-8620-1f392ea9e45c",
+        "albumID": "1549493179",
+        "name": "Black Friday",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "b28ff09a-67d9-4d9d-85d7-6476a74ea6fb",
+        "albumID": "1549493179",
+        "name": "To Be Honest",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "34e3b428-948e-47bc-8551-2df76297dfb5",
+        "albumID": "1549493179",
+        "name": "I See $'s",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "f332f8ce-beb8-4d88-8c52-6e34f8cb68ed",
+        "albumID": "1549493179",
+        "name": "Corduroy Houseshoes Skit",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "e0200457-002f-493f-9729-085aa85ca9f9",
+        "albumID": "1549493179",
+        "name": "What's da Bizness",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "34b8e451-8a86-45b3-9052-1c794caf249c",
+        "albumID": "1549493179",
+        "name": "The Land",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "39d54414-9800-4075-a829-d9fb779b6ee3",
+        "albumID": "1549493179",
+        "name": "Death Row",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "2696a054-58dd-463e-b6da-b4aac3f1e315",
+        "albumID": "1549493179",
+        "name": "Cray Cray",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "b34c0024-d4cb-4f7b-a1f7-38a064248b49",
+        "albumID": "1549493179",
+        "name": "RNB (feat. Megan Thee Stallion)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "cb9c6c7e-2e67-4fb8-949f-69e06bf9d717",
+        "albumID": "1549493179",
+        "name": "Rich Slave",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "f93ec9ff-47bd-455f-a685-d49c10886f99",
+        "albumID": "1549493179",
+        "name": "Until It Rot",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "e93f7fc0-0ce0-450c-98f1-55fa7640a277",
+        "albumID": "1549493179",
+        "name": "Blue Diamonds",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "1db518a8-26da-4490-94a3-02e661a2b484",
+        "albumID": "1549493179",
+        "name": "No Sense (feat. Key Glock)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "1fcbc664-6d81-4845-9cf6-8cc9b3ea7f97",
+        "albumID": "1549493179",
+        "name": "Benz",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "725c8d1b-ace0-4baa-bc9d-40819b29dba0",
+        "albumID": "1549493179",
+        "name": "1 Scale (feat. G Herbo)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "e3737068-7d4c-47ff-91bf-164c58fe796a",
+        "albumID": "1549493179",
+        "name": "Large Amounts",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "1c06dbc1-c321-4cf3-86f4-f7c0555d5a4b",
+        "albumID": "1549493179",
+        "name": "Fast",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "efed021b-3495-458f-a682-b4e7d04f771d",
+        "albumID": "1549493179",
+        "name": "Gimme My Bag",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "b5f802ae-fe70-481d-97a8-f382cbf882d2",
+        "albumID": "1549493179",
+        "name": "Green Light (feat. Key Glock)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "83164f21-aab3-4704-a086-e85ade095699",
+        "albumID": "1549493179",
+        "name": "Scotch",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "755978a5-26f2-4774-81df-e71889c961f4",
+        "albumID": "1549493179",
+        "name": "Obey Your Thirst",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "f3a64577-6d9d-447c-a7ed-d32188394dd4",
+        "albumID": "1549493179",
+        "name": "No Regrets (feat. Kenny Muney)",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      },
+      {
+        "id": "daa74f68-80a1-4712-8f62-1abe2b939f3d",
+        "albumID": "1549493179",
+        "name": "Buy My Way in Heaven",
+        "artists": [
+          {
+            "id": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+            "name": "Young Dolph"
+          }
+        ],
+        "artistID": "f780213f-8f03-4256-9d78-c1f87aea7d7a",
+        "edition": null
+      }
+    ],
+    "edition": "Deluxe"
   },
   {
     "id": "111f0477-53c4-4da0-a820-cf2c2a68b1b4",
@@ -80021,6 +84128,232 @@
     "edition": null
   },
   {
+    "id": "a2307d2b-96e9-4ee2-8346-b15cbe2dbee4",
+    "title": "Life of a DON",
+    "artists": [
+      {
+        "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "name": "Don Toliver"
+      }
+    ],
+    "releaseDate": "2021-10-08",
+    "type": "Album",
+    "trackCount": 16,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/05/3d/b1053d96-a026-324e-9322-decf3836ac1f/075679766335.jpg/600x600bb.jpg",
+    "appleId": 1589899599,
+    "songs": [
+      {
+        "id": "00b23771-4220-436c-a07c-2b361a703878",
+        "albumID": "1589899599",
+        "name": "XSCAPE",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "c8882110-6213-4a3e-9ce4-b7cae1f1eb89",
+        "albumID": "1589899599",
+        "name": "5X",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "b82ddc15-c324-4dc5-bb0f-24a5a48b37aa",
+        "albumID": "1589899599",
+        "name": "Way Bigger",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "b968d2d3-27b5-40e0-bf40-ea6d73427be3",
+        "albumID": "1589899599",
+        "name": "Flocky Flocky (feat. Travis Scott)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "deb1d173-470d-4850-8115-078920043113",
+        "albumID": "1589899599",
+        "name": "What You Need",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "4ac6c9ab-9611-42e4-860e-6d259c4eed0f",
+        "albumID": "1589899599",
+        "name": "Double Standards",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "12ecf373-0db7-406f-9a7e-c47b1ef02454",
+        "albumID": "1589899599",
+        "name": "Swangin' On Westheimer",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "88984422-bc57-4ed2-a160-d4932e532c37",
+        "albumID": "1589899599",
+        "name": "Drugs N Hella Melodies (feat. Kali Uchis)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "af002924-afc2-4205-a045-94e3d3c3a0e1",
+        "albumID": "1589899599",
+        "name": "2AM",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "ef40f715-e3f5-4a1b-a9a9-73609f3ff225",
+        "albumID": "1589899599",
+        "name": "Get Throwed",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "292930d4-f1aa-467f-a296-2c3ec1826361",
+        "albumID": "1589899599",
+        "name": "Company, Pt. 2",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "0caa2f5a-2561-4394-b063-29660fc5462c",
+        "albumID": "1589899599",
+        "name": "OUTERSPACE (feat. Baby Keem)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "cf7069d9-3f9c-4726-9666-dcaa5c650bfb",
+        "albumID": "1589899599",
+        "name": "Smoke (feat. HVN & SoFaygo)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "8eaf18f1-6f4a-44f1-b16b-8ff5c38a8348",
+        "albumID": "1589899599",
+        "name": "You (feat. Travis Scott)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "10c50021-4a4b-4a5d-bcbe-33c8e8ed6538",
+        "albumID": "1589899599",
+        "name": "Crossfaded",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "64f338e1-a851-4b89-a364-bf17bacb40af",
+        "albumID": "1589899599",
+        "name": "BOGUS",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
     "id": "1e2f805a-cf24-49c6-9696-03f222a4017a",
     "title": "KEYS II",
     "artists": [
@@ -81611,6 +85944,12 @@
       }
     ],
     "discogsId": 22465603,
+    "genres": [
+      "hip-hop"
+    ],
+    "subgenres": [
+      "G-funk"
+    ],
     "edition": null
   },
   {
@@ -87861,6 +92200,232 @@
     "edition": null
   },
   {
+    "id": "fc3a1bb6-4fe5-4824-a83c-f2665478a5db",
+    "title": "Love Sick",
+    "artists": [
+      {
+        "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "name": "Don Toliver"
+      }
+    ],
+    "releaseDate": "2023-02-24",
+    "type": "Album",
+    "trackCount": 16,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/82/ad/2e82adaa-162d-80cd-59c0-a415b3ccf268/075679699916.jpg/600x600bb.jpg",
+    "appleId": 1674022160,
+    "songs": [
+      {
+        "id": "d53cd6f2-3db2-4db2-bbd4-c1c217df1bb9",
+        "albumID": "1674022160",
+        "name": "LoveSickness",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "bf1de8d0-c540-4cd5-995e-caf8b34e9e68",
+        "albumID": "1674022160",
+        "name": "Let Her Go (feat. James Blake)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "ad8d8521-ea1e-4dce-bc9e-944dafe736c2",
+        "albumID": "1674022160",
+        "name": "Leave The Club (feat. Lil Durk & GloRilla)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "bda5e8bc-d4e2-47aa-8605-8630651d4ed2",
+        "albumID": "1674022160",
+        "name": "4 Me (feat. Kali Uchis)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "ee39bff8-c50c-480f-b067-49d21c1d4b5f",
+        "albumID": "1674022160",
+        "name": "Go Down (feat. TisaKorean)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "b485d292-9b89-414c-9678-3b6ff1477b5c",
+        "albumID": "1674022160",
+        "name": "Time Heals All",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "9e4fbfc0-1016-42ee-96af-45640dd6203b",
+        "albumID": "1674022160",
+        "name": "Leather Coat",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "48cec355-e4c1-4c0c-812b-130e200842a7",
+        "albumID": "1674022160",
+        "name": "Honeymoon",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "57a333be-1d47-41e3-990c-15eab3ef7aa1",
+        "albumID": "1674022160",
+        "name": "Private Landing (feat. Justin Bieber & Future)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "d17e5897-1d1a-48cc-82ab-42c7fb59049b",
+        "albumID": "1674022160",
+        "name": "Slow Motion (feat. Wizkid)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "74a62528-71a1-4560-9823-85a8c4a9eec0",
+        "albumID": "1674022160",
+        "name": "Do It Right",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "4574b931-47f3-466e-8c03-a336685b8789",
+        "albumID": "1674022160",
+        "name": "If I Had (feat. Charlie Wilson)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "4b60b57a-ad83-4bbf-bc48-99a9e87dc45d",
+        "albumID": "1674022160",
+        "name": "Company Pt. 3",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "07e8267d-c544-4732-9460-3160d3a4a1a0",
+        "albumID": "1674022160",
+        "name": "Bus Stop (feat. Brent Faiyaz)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "6c38ccf8-6280-45f9-8728-55195ce11eff",
+        "albumID": "1674022160",
+        "name": "Cinderella (feat. Toro y Moi)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "56ec3ea8-1795-4ac2-af23-e87fc1070229",
+        "albumID": "1674022160",
+        "name": "Encouragement",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
     "id": "62b21b0b-0f37-49d4-87ec-ca2933f5f63d",
     "title": "Anyways, Life's Great...Bonus Edition (Apple Music Up Next Film Edition)",
     "artists": [
@@ -90713,6 +95278,258 @@
           }
         ],
         "artistID": "d02429e6-0008-4197-b95d-9e7d99846fb5",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
+    "id": "f82aae25-e690-47f3-9cdb-243a0f8f620f",
+    "title": "A Great Chaos",
+    "artists": [
+      {
+        "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "name": "Ken Carson"
+      }
+    ],
+    "releaseDate": "2023-10-13",
+    "type": "Album",
+    "trackCount": 18,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/bd/34/d3bd34aa-fc46-6496-9707-88ca3b60389a/23UM1IM16969.rgb.jpg/600x600bb.jpg",
+    "appleId": 1711245729,
+    "songs": [
+      {
+        "id": "d5ab94a3-ab3f-4932-a682-b810ae9f4e6e",
+        "albumID": "1711245729",
+        "name": "Green Room",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "1085ddc8-268e-47ff-8f71-f6e55a8f1c88",
+        "albumID": "1711245729",
+        "name": "Jennifer's Body",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "6f3a16be-ceac-4a79-9507-7bd53ccef611",
+        "albumID": "1711245729",
+        "name": "Fighting My Demons",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "23398131-5be5-4b75-a985-55c635cc22a9",
+        "albumID": "1711245729",
+        "name": "Singapore (feat. Destroy Lonely)",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "2b1de85d-afbd-45e1-9458-3b22bc081f1b",
+        "albumID": "1711245729",
+        "name": "Lose It",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "26af482d-2084-442f-976e-79b06d68d4de",
+        "albumID": "1711245729",
+        "name": "Hardcore",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "e0d25851-d016-47dd-8b9b-d540c7930145",
+        "albumID": "1711245729",
+        "name": "Me N My Kup",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "f700d764-b73a-4506-9601-9a96896d62fb",
+        "albumID": "1711245729",
+        "name": "It’s Over",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "e452937b-f96c-4718-b30d-d50377b1e0de",
+        "albumID": "1711245729",
+        "name": "Succubus",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "803393a2-2955-4a44-8ea9-cdbb6c69329c",
+        "albumID": "1711245729",
+        "name": "Paranoid (feat. Destroy Lonely)",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "1ebfd3a9-3196-4feb-9418-7f204fd10051",
+        "albumID": "1711245729",
+        "name": "Pots",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "7c51436b-fe32-4dd0-b44c-ef8dda7c24c3",
+        "albumID": "1711245729",
+        "name": "Like This (feat. Lil Uzi Vert & Destroy Lonely)",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "ccd68e91-d551-4687-8054-0fe35ba7625b",
+        "albumID": "1711245729",
+        "name": "Overtime",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "29e7014f-9582-4782-a441-eb4e9c9f932a",
+        "albumID": "1711245729",
+        "name": "Vampire Hour",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "d2b6381b-8579-47a5-96b7-1e20797d5fff",
+        "albumID": "1711245729",
+        "name": "Nightcore",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "d151712d-b493-4702-ba19-aa2a36dc5f3e",
+        "albumID": "1711245729",
+        "name": "Nightcore 2",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "81a05853-cc89-4753-a356-bb434ed456a6",
+        "albumID": "1711245729",
+        "name": "Rockstar Lifestyle",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "38f578f3-22d3-4804-b3a0-937861468f52",
+        "albumID": "1711245729",
+        "name": "i need u",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
         "edition": null
       }
     ],
@@ -95423,6 +100240,284 @@
     "edition": null
   },
   {
+    "id": "50699238-0637-44e0-9d16-9fa4ad396c78",
+    "title": "HARDSTONE PSYCHO",
+    "artists": [
+      {
+        "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "name": "Don Toliver"
+      }
+    ],
+    "releaseDate": "2024-06-14",
+    "type": "Album",
+    "trackCount": 20,
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/50/0d/42500d90-adc2-f617-bd7f-ea67195fe76c/075679638144.jpg/600x600bb.jpg",
+    "appleId": 1754428698,
+    "songs": [
+      {
+        "id": "a3c26754-1b99-4fc2-b25c-ce531d1dc5bd",
+        "albumID": "1754428698",
+        "name": "KRYPTONITE",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "0818eae2-9e32-4f08-b4d4-b53a4c168339",
+        "albumID": "1754428698",
+        "name": "BANDIT",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "2d6a54e2-9ed6-485b-9175-fad48d37ca8a",
+        "albumID": "1754428698",
+        "name": "PURPLE RAIN (FEAT. FUTURE & METRO BOOMIN)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "7eb1be92-a4d8-48f7-bcec-07e414de26be",
+        "albumID": "1754428698",
+        "name": "INSIDE (FEAT. TRAVIS SCOTT)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "8ca6cb23-bc81-40ac-b4c8-80c9d1485a98",
+        "albumID": "1754428698",
+        "name": "ROCKSTAR GIRL",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "9208f747-95a0-4395-945e-e5371577e93c",
+        "albumID": "1754428698",
+        "name": "TORE UP",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "0f9f27e5-ced6-4794-9b4d-abba80788189",
+        "albumID": "1754428698",
+        "name": "GLOCK",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "05c719aa-b242-4425-b725-f9f846511932",
+        "albumID": "1754428698",
+        "name": "NEW DROP",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "6d72ab7a-b1d5-4181-8dd3-7e0ccd4a6bc9",
+        "albumID": "1754428698",
+        "name": "5 TO 10",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "e95598a7-53bc-4d03-901f-8e51595b76dc",
+        "albumID": "1754428698",
+        "name": "LOVE IS A DRUG",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "bd9a4ea5-90ba-4eae-bbb4-6733daefac8e",
+        "albumID": "1754428698",
+        "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "0d19f4c6-e4c3-40fa-98ee-b271fd4fb176",
+        "albumID": "1754428698",
+        "name": "ICE AGE (FEAT. TRAVIS SCOTT)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "88a2d73f-f335-492a-be5d-fd75da75ffd4",
+        "albumID": "1754428698",
+        "name": "BACKSTREETS (FEAT. TEEZO TOUCHDOWN)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "c2982da0-8d9e-4a10-aaf2-95e50aa62287",
+        "albumID": "1754428698",
+        "name": "LAST LAUGH",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "889d51a5-7f68-4e8b-beb8-4a047190c4cb",
+        "albumID": "1754428698",
+        "name": "DONNY DARKO (FEAT. LIL UZI VERT)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "d3169ce5-702e-405b-83fa-58f5a1d360a9",
+        "albumID": "1754428698",
+        "name": "ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "018b05f7-0d53-4541-8577-e1c814cd9671",
+        "albumID": "1754428698",
+        "name": "4X4",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "b2c1be68-013f-47ab-a526-93d53acc90f7",
+        "albumID": "1754428698",
+        "name": "DEEP IN THE WATER",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "863b55f2-b89f-47be-ab3b-04c5afdeef4f",
+        "albumID": "1754428698",
+        "name": "HARDSTONE NATIONAL ANTHEM",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      },
+      {
+        "id": "a3c0003d-59de-4016-994b-eaf78c3e178d",
+        "albumID": "1754428698",
+        "name": "GEEKED UP (FEAT. YEAT)",
+        "artists": [
+          {
+            "id": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+            "name": "Don Toliver"
+          }
+        ],
+        "artistID": "5ca83f5f-5a1d-4a65-b184-926861131e92",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
     "id": "27d8fe37-bd84-440e-addb-c468cea0a9db",
     "title": "MEGAN",
     "artists": [
@@ -97742,332 +102837,6 @@
         ],
         "artistID": "dcc1b261-865b-424d-8633-138ccb48a622",
         "edition": null
-      }
-    ],
-    "edition": null
-  },
-  {
-    "id": "ace96e38-c448-4c0d-87c9-b60abd7f5132",
-    "title": "LYFESTYLE",
-    "artists": [
-      {
-        "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "name": "Yeat"
-      }
-    ],
-    "releaseDate": "2024-10-17",
-    "type": "Album",
-    "trackCount": 22,
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/fd/e3/bafde3ca-baf0-8f9f-9c74-6b63f16db7a5/24UM1IM01097.rgb.jpg/600x600bb.jpg",
-    "appleId": 1775512093,
-    "songs": [
-      {
-        "id": "7a1d1226-899a-4bcb-938d-d1d4e445ffcc",
-        "albumID": "1775512093",
-        "name": "GEEK TIMË",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "8e0a35e7-8768-4835-b198-b0e0fda86a91",
-        "albumID": "1775512093",
-        "name": "STFU",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "70bcf9d2-6370-45b2-9333-0cc66d0d7532",
-        "albumID": "1775512093",
-        "name": "THEY TELL MË",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "68595182-04e9-41cd-bf26-a67ad5936179",
-        "albumID": "1775512093",
-        "name": "HEARD OF MË",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "d71feb06-59ca-4e8f-9a05-fc58ceca2c5e",
-        "albumID": "1775512093",
-        "name": "SPEEDBALL",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "42666a90-b545-4efd-b888-b392aea4873a",
-        "albumID": "1775512093",
-        "name": "U DONT KNOW LYFE",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "4f4b1035-badf-41db-8849-5a4efb7469e5",
-        "albumID": "1775512093",
-        "name": "ORCHESTRATË",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "5035dc78-6010-4210-bb7d-10818b6af5e9",
-        "albumID": "1775512093",
-        "name": "BË QUIET",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "6f21427a-55b9-45c7-9ca1-9aacda067ef7",
-        "albumID": "1775512093",
-        "name": "THE COSTËS",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "2dae21bc-71c5-49e0-aee7-7cbd772c45de",
-        "albumID": "1775512093",
-        "name": "GO2WORK",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "e86d14b7-ab9a-44c8-bcf8-f62f3995cad1",
-        "albumID": "1775512093",
-        "name": "GONE 4 A MIN",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "ed1f11da-7c12-4fb1-be36-f92ef66e8ee0",
-        "albumID": "1775512093",
-        "name": "FOREVER AGAIN",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "99888ec6-6ff0-4245-afc4-4c71525c11b8",
-        "albumID": "1775512093",
-        "name": "ON 1",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "86e0f825-66a5-471a-971b-ee6808e1929c",
-        "albumID": "1775512093",
-        "name": "FLYTROOP",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "201455c4-1f8a-469d-8f7d-1ea7e12dcf11",
-        "albumID": "1775512093",
-        "name": "ELIMINATË",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "feb5e381-08aa-4fb9-aeb6-6d916be9fff5",
-        "albumID": "1775512093",
-        "name": "LYING 5 FUN",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "43aa6939-e23f-4186-9999-4b6f31e30c2a",
-        "albumID": "1775512093",
-        "name": "NEW HIGH",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "6d877ec8-1cbe-4e10-a1fe-1e8b10241a2b",
-        "albumID": "1775512093",
-        "name": "SO WHAT",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "7d0edb7c-0825-4237-8dbb-3857b99fc698",
-        "albumID": "1775512093",
-        "name": "LYFESTYLE",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "8cfbfcc8-1e35-4652-ac42-6f72c0e8d58a",
-        "albumID": "1775512093",
-        "name": "GOD TALKIN SHHH",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "49b84499-5ca7-4a15-b4ae-043b568196b1",
-        "albumID": "1775512093",
-        "name": "LYFE PARTY",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "4f48cd0f-4b10-41ac-ad5c-e7d2a83d66c7",
-        "albumID": "1775512093",
-        "name": "FATË",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": "Bonus"
       }
     ],
     "edition": null
@@ -104466,232 +109235,6 @@
       }
     ],
     "discogsId": 37108335,
-    "edition": null
-  },
-  {
-    "id": "8183f0cd-9bdd-4eb5-893b-5b1131220756",
-    "title": "ADL",
-    "artists": [
-      {
-        "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "name": "Yeat"
-      }
-    ],
-    "releaseDate": "2026-01-01",
-    "type": "Album",
-    "trackCount": 16,
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/e5/f2/15e5f21f-80e5-716f-88a9-9623e22c376f/26UMGIM24390.rgb.jpg/600x600bb.jpg",
-    "songs": [
-      {
-        "id": "57707fc6-ed90-4cec-880a-1755ff7edf92",
-        "name": "Purpose General",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "76a8f156-b343-4c73-92eb-4d7507148030",
-        "name": "Let King Tonka Talk",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "fa4eee8a-8a01-42c6-8415-c692907fa00a",
-        "name": "My Way",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "bb26a4f1-6bfd-48f6-a2c8-39c71bba2542",
-        "name": "Liv Likë Dis",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "bd6f9c16-f6af-48a5-a911-1bdaf71b726a",
-        "name": "Made It On Our Own",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "eebc8d53-b1ec-4b49-8d87-93da18b927c6",
-        "name": "Lose Control",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "ae2364b8-9103-43f7-908c-780674fa3d2d",
-        "name": "Face The Flamë",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "0cf36d14-3f65-46ee-af1a-976f6dcdeb91",
-        "name": "Dangerous House",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "730e6577-85ec-457c-8f2e-5bb287300946",
-        "name": "No More Ghosts",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "8469ba8e-89e9-4283-8b02-31a988841804",
-        "name": "Naked",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "aeba8eab-b5c7-4df2-9355-cc9c59a03d72",
-        "name": "2Nite",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "9e4b0033-e372-4fd6-ace2-1d901d250dee",
-        "name": "Geek Luv",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "b465c6a1-cd92-4863-a392-f5db592619c4",
-        "name": "Silk Face",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "8be833b7-c19b-4996-9112-8cd64878477d",
-        "name": "My Time",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "6669d9db-0486-41ae-8221-b6fe6f0b63d3",
-        "name": "Back Home",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      },
-      {
-        "id": "3327a011-c600-4014-adba-12d009262c08",
-        "name": "Up From Here",
-        "artist": "Yeat",
-        "artists": [
-          {
-            "id": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-            "name": "Yeat"
-          }
-        ],
-        "artistID": "27fcd253-5316-4f82-ac04-8c9285f85ec5",
-        "edition": null
-      }
-    ],
-    "discogsId": 36724888,
     "edition": null
   },
   {
