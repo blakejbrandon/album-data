@@ -1,0 +1,80 @@
+[
+  {
+    "id": "002",
+    "userId": "007",
+    "name": "Trap",
+    "description": "Evolution of Trap Music",
+    "isTiered": true,
+    "isRanked": false,
+    "isFeatured": true,
+    "sections": [
+      {
+        "id": "01",
+        "name": "Origins: Pre Trap Southern Hip Hop",
+        "description": "A regional sound built around dark atmospheres, hustler stories, 808s, and the raw identity of Southern street rap.",
+        "order": 1,
+        "albumIds": [
+          "13b3629c-6404-4bc5-be6c-1549c899e053",
+          "d823eb0d-c553-4882-b851-708ca7a25f73",
+          "2d20430f-fcfe-4d43-9a3d-17d445e9f7e6",
+          "1a3594ce-00bb-4f9a-a525-a01a2aa87184",
+          "caff4067-4d67-44c4-84b0-f59c99588cdc"
+        ]
+      },
+      {
+        "id": "02",
+        "name": "Definition",
+        "description": "Trap becomes a named identity, a sound, and a lifestyle.",
+        "order": 2,
+        "albumIds": [
+          "a9ac550a-c930-4738-bdfb-59de82810689",
+          "8b762722-5ebd-4922-bd9b-88d4abde82f3",
+          "dc2d0012-aff9-4ac1-8a18-c26d6d6e70b8"
+        ]
+      },
+      {
+        "id": "03",
+        "name": "Sound",
+        "description": "Trap’s sound centers on heavy 808s, rapid hi-hats, dark synths, stripped-back production, aggression, and producer-driven creativity.",
+        "order": 3,
+        "albumIds": [
+          "c0a3bbd8-485c-430a-a56b-9cbe3959e85c",
+          "aa11f06e-811c-4266-a9a2-668c918c4651",
+          "97171a2a-1e81-4e2b-82ac-07edb912dc88",
+          "c4d76744-6fdf-47b1-a189-ff02078b4654",
+          "cef3bf60-7b04-44b0-9faf-e071cf3c2c02"
+        ]
+      },
+      {
+        "id": "04",
+        "name": "Global Expansion",
+        "order": 4,
+        "albumIds": [
+            "0f4ef5a0-2a2d-4f4f-a8ec-e05bf939fb5e",
+            "ae385d48-7292-4012-b6b8-88d39cd6d845",
+            "656abda4-789d-4d64-b5d9-95a08dfb899e",
+            "4dc70a52-3a85-4c8b-bbeb-c2404b55eb53",
+            "25fc6261-014c-4165-bacb-539be62a7e65",
+            "51001b8e-a786-4773-b664-421565160017",
+            "d7f20bd5-ae1b-4a84-8879-d1500e4dc990"
+        ]
+      },
+      {
+        "id": "05",
+        "name": "Modern",
+        "order": 5,
+        "albumIds": [
+          "506be7f8-7107-448a-ae3d-6a2d77d96f9c",
+          "e535e75e-a7ec-40d8-81e0-3466bb05da00",
+          "00e16e9a-a778-4f7c-a7a4-0d316cf1032c",
+          "ff9dab80-14df-4a60-b7a7-0ee3d3fb89c8",
+          "067ccdeb-9b2f-4753-9ef1-5a54cd41c341",
+          "6d6aae37-0fcd-4b87-8dcb-0e053014138d",
+          "4db08afe-5e98-4f6d-81d3-860c4e35354f",
+          "f82aae25-e690-47f3-9cdb-243a0f8f620f",
+          "50699238-0637-44e0-9d16-9fa4ad396c78"
+        ]
+      }
+    ]
+  }
+]
