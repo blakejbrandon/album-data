@@ -30816,276 +30816,6 @@
     "edition": null
   },
   {
-    "id": "9e61cab2-96d3-4384-ae76-b0a509b6f031",
-    "title": "Hall of Fame",
-    "artists": [
-      {
-        "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "name": "Big Sean"
-      }
-    ],
-    "releaseDate": "2013-01-01",
-    "type": "Album",
-    "trackCount": 18,
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8c/5d/d1/8c5dd1cc-987b-101e-9040-0dbc45c7b369/13UAAIM68292.rgb.jpg/600x600bb.jpg",
-    "appleId": 1442393017,
-    "songs": [
-      {
-        "id": "9e82a98c-0a39-4335-a5f3-635e644e34de",
-        "albumID": "1442393017",
-        "name": "Nothing Is Stopping You",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "7354dfb5-14ef-479c-924d-f59acb887987",
-        "albumID": "1442393017",
-        "name": "Fire",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "d15528c7-d0c4-468e-b8af-0b14db21bd11",
-        "albumID": "1442393017",
-        "name": "10 2 10",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "27b166f9-4be4-49b8-be1d-37da7775631c",
-        "albumID": "1442393017",
-        "name": "Toyota Music",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "8850712a-65cf-4c45-baeb-564122add253",
-        "albumID": "1442393017",
-        "name": "You Don't Know",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "60652882-93ba-4601-b376-536e356b6fe5",
-        "albumID": "1442393017",
-        "name": "Beware (feat. Lil Wayne & Jhene Aiko)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "899698dd-b5a4-4c24-b31d-e4b6852b621b",
-        "albumID": "1442393017",
-        "name": "First Chain (feat. Nas & Kid Cudi)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "661a8147-467f-49f0-8b19-30e6e6e2387c",
-        "albumID": "1442393017",
-        "name": "Mona Lisa",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "afca483e-e5c7-4c20-a862-dba7bbf7120b",
-        "albumID": "1442393017",
-        "name": "Freaky",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "06242ff5-aa66-4d19-8367-c5a52553bd7b",
-        "albumID": "1442393017",
-        "name": "MILF (feat. Nicki Minaj & Juicy J)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "55ef378d-9306-4682-9e8e-3a49e70ceaa5",
-        "albumID": "1442393017",
-        "name": "Sierra Leone",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "9aa3bfff-a761-4630-a79b-57f079ae5a17",
-        "albumID": "1442393017",
-        "name": "It's Time (feat. Jeezy & Payroll)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "da5c591e-2987-48d2-badc-56457683c63b",
-        "albumID": "1442393017",
-        "name": "World Ablaze (feat. James Fauntleroy)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "7dbc19e5-a577-4b6c-8d4e-b05c551ea0a5",
-        "albumID": "1442393017",
-        "name": "Ashley (feat. Miguel)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "c313f483-f621-44bf-ad6f-dbb4aa3b3021",
-        "albumID": "1442393017",
-        "name": "All Figured Out",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "c5520c96-fbbc-4a76-bfb0-a92b1f7166e7",
-        "albumID": "1442393017",
-        "name": "Mula Remix (feat. 2 Chainz, Meek Mill & Earlly Mac)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "baa734fc-8176-4a80-9175-d6792423a495",
-        "albumID": "1442393017",
-        "name": "Switch Up (feat. Common)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "e51bd296-f158-40a8-9d70-b50c500cadce",
-        "albumID": "1442393017",
-        "name": "Guap",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      }
-    ],
-    "edition": null
-  },
-  {
     "id": "80cb4d5d-6461-4df8-8a71-26ef0ffa952b",
     "title": "Doris",
     "artists": [
@@ -37175,192 +36905,6 @@
     "edition": null
   },
   {
-    "id": "a303552f-bedd-4422-a48f-782524c33e26",
-    "title": "Dark Sky Paradise",
-    "artists": [
-      {
-        "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "name": "Big Sean"
-      }
-    ],
-    "releaseDate": "2015-02-23",
-    "type": "Album",
-    "trackCount": 12,
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ec/7b/53/ec7b536d-a59d-9c05-924a-f74baa530e69/15UMGIM05598.rgb.jpg/600x600bb.jpg",
-    "appleId": 1442857082,
-    "songs": [
-      {
-        "id": "f1031713-a031-4898-a862-48ef0e639dfa",
-        "albumID": "1442857082",
-        "name": "Dark Sky (Skyscrapers)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "79c2db9f-bc35-4613-904b-0c3449ba61d8",
-        "albumID": "1442857082",
-        "name": "Blessings (feat. Drake)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "fd43f06c-87c7-45bd-95f1-a52d1fd9c565",
-        "albumID": "1442857082",
-        "name": "All Your Fault (feat. Kanye West)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "02679ae7-6bd5-495e-b819-460a7dd2a227",
-        "albumID": "1442857082",
-        "name": "I Don't F**k With You (feat. E-40)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "e85a3438-eea9-44c3-bc04-da34d79d8d09",
-        "albumID": "1442857082",
-        "name": "Play No Games (feat. Chris Brown & Ty Dolla $ign)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "1e238ef6-20cd-4c12-8385-ca34832feef4",
-        "albumID": "1442857082",
-        "name": "Paradise",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": "Extended"
-      },
-      {
-        "id": "a38e281f-a1d5-4b38-a872-55c93cd32ede",
-        "albumID": "1442857082",
-        "name": "Win Some, Lose Some",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "b17a1c05-bbc6-4d77-bc6a-c0acac16e884",
-        "albumID": "1442857082",
-        "name": "Stay Down",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "979d97fb-0803-4fae-821b-7cc6b5384093",
-        "albumID": "1442857082",
-        "name": "I Know (feat. Jhen\u00e9 Aiko)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "a1533849-2817-41d9-a76c-c06f41108bce",
-        "albumID": "1442857082",
-        "name": "Deep (feat. Lil Wayne)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "a9672d5f-5895-4839-a1ef-502ccbce37f8",
-        "albumID": "1442857082",
-        "name": "One Man Can Change the World (feat. Kanye West & John Legend)",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "f84373d1-242c-498b-8834-6ae39b773c24",
-        "albumID": "1442857082",
-        "name": "Outro",
-        "artist": "Big Sean",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      }
-    ],
-    "edition": null
-  },
-  {
     "id": "a4490e31-0be1-4c09-a2d5-7dba5cc3fe7b",
     "title": "To Pimp a Butterfly",
     "artists": [
@@ -38225,220 +37769,6 @@
           }
         ],
         "artistID": "23d52b7e-d1e5-4258-ba2f-03bb733e7397",
-        "edition": null
-      }
-    ],
-    "edition": null
-  },
-  {
-    "id": "fe73cfd0-d91d-46a7-a625-985d773eec44",
-    "title": "Dreams Worth More Than Money",
-    "artists": [
-      {
-        "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "name": "Meek Mill"
-      }
-    ],
-    "releaseDate": "2015-06-29",
-    "type": "Album",
-    "trackCount": 14,
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/55/97/145597b7-a250-9d99-65ee-d8bfadcdfb72/075679923554.jpg/600x600bb.jpg",
-    "appleId": 1011554657,
-    "songs": [
-      {
-        "id": "642446c3-58de-44d8-a4bf-51fa7ce973a3",
-        "albumID": "1011554657",
-        "name": "Lord Knows (feat. Tory Lanez)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "082ef1b7-2749-4ed7-8ef5-5bd7970e6f43",
-        "albumID": "1011554657",
-        "name": "Classic (feat. Swizz Beatz)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "8f73a061-538d-4110-97c9-948a31db954b",
-        "albumID": "1011554657",
-        "name": "Jump Out the Face (feat. Future)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "21396186-9f45-42b8-a757-b2764170a30a",
-        "albumID": "1011554657",
-        "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "76310e79-5525-41fc-82f7-45a2d0b09f1f",
-        "albumID": "1011554657",
-        "name": "The Trillest",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "2b96e3f1-11d8-4591-b3de-2d5711857df0",
-        "albumID": "1011554657",
-        "name": "R.I.C.O. (feat. Drake)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "e49ad1de-f90d-4b9b-b4dd-909ca5d18a99",
-        "albumID": "1011554657",
-        "name": "I Got the Juice",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "e672ddbf-5a60-4299-bc14-6148e72d99e5",
-        "albumID": "1011554657",
-        "name": "Ambitionz",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "36c4a200-1569-4a59-afe4-b429e2e78144",
-        "albumID": "1011554657",
-        "name": "Pullin Up (feat. The Weeknd)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "3933748c-a2bf-4244-966b-07c7f13242d4",
-        "albumID": "1011554657",
-        "name": "Check",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "33edc7ed-3b8f-4162-875a-e3ef194e787d",
-        "albumID": "1011554657",
-        "name": "Been That (feat. Rick Ross)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "7492203f-10c5-4a4d-9f35-7f34e0ea21c9",
-        "albumID": "1011554657",
-        "name": "Bad for You (feat. Nicki Minaj)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "be5e6a09-2066-4334-9782-e72196947955",
-        "albumID": "1011554657",
-        "name": "Stand Up",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "90161a28-bb44-462d-b6d9-00b82112d8e6",
-        "albumID": "1011554657",
-        "name": "Cold Hearted (feat. Diddy)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
         "edition": null
       }
     ],
@@ -52185,290 +51515,6 @@
     "edition": null
   },
   {
-    "id": "d00abc01-675e-467c-af6a-01af64cfe9c3",
-    "title": "Wins & Losses",
-    "artists": [
-      {
-        "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "name": "Meek Mill"
-      }
-    ],
-    "releaseDate": "2017-07-21",
-    "type": "Album",
-    "trackCount": 19,
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/c6/eb/afc6eb01-9dbf-88c7-daa7-e10ff51e030e/075679889430.jpg/600x600bb.jpg",
-    "appleId": 1265166103,
-    "songs": [
-      {
-        "id": "bbeba42f-3f6d-48a4-9453-8474ef469158",
-        "albumID": "1265166103",
-        "name": "Wins & Losses",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "7f3e0365-6915-410f-ac26-0beccce48757",
-        "albumID": "1265166103",
-        "name": "Heavy Heart",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "3cf9eabc-0231-4334-b579-673d44989718",
-        "albumID": "1265166103",
-        "name": "F**k That Check Up (feat. Lil Uzi Vert)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "0f12e63b-8b02-4759-a745-72c39c3d2e43",
-        "albumID": "1265166103",
-        "name": "Whatever You Need (feat. Chris Brown & Ty Dolla $ign)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "ab5f398f-ffed-4e03-b451-8b6941fea641",
-        "albumID": "1265166103",
-        "name": "1942 Flows",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "4335e453-0df4-4457-947b-5ca45cf8e458",
-        "albumID": "1265166103",
-        "name": "Issues",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "71388c4d-8210-4d2b-bebf-c9874b5b397c",
-        "albumID": "1265166103",
-        "name": "We Ball (feat. Young Thug)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "2d1576cc-6456-4dc0-9364-d6ab50d7d1fd",
-        "albumID": "1265166103",
-        "name": "These Scars (feat. Future & Guordan Banks)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "9f5181d9-979a-4d10-bee3-7b92d6077e5b",
-        "albumID": "1265166103",
-        "name": "Connect the Dots (feat. Yo Gotti & Rick Ross)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "8bf6ad53-9dec-409f-b747-dbc79c8be8d0",
-        "albumID": "1265166103",
-        "name": "Fall Thru",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "1bb375bd-3ebe-419b-9b8b-b8638b0e387b",
-        "albumID": "1265166103",
-        "name": "Never Lose (feat. Lihtz Kamraz)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "5014d52b-6030-4de2-9ae0-898acdc73f1d",
-        "albumID": "1265166103",
-        "name": "Glow Up",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "4df615c8-0b12-4148-957c-fad302f0e7d5",
-        "albumID": "1265166103",
-        "name": "Young Black America (feat. The-Dream)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "dd739946-4fd2-470b-b6f9-4bdfa4f8ad0e",
-        "albumID": "1265166103",
-        "name": "Open (feat. Verse Simmonds)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "49832d1a-85db-4845-916d-e95ec066517a",
-        "albumID": "1265166103",
-        "name": "Ball Player (feat. Quavo)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "c98bad7f-8cb9-495c-8f98-4f34f58fa5b8",
-        "albumID": "1265166103",
-        "name": "Made It from Nothing (feat. Teyana Taylor & Rick Ross)",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "78a0b67f-ded3-4777-b414-6be5ddb653cb",
-        "albumID": "1265166103",
-        "name": "Price",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "94686699-fccc-469c-8038-6553bb9d8517",
-        "albumID": "1265166103",
-        "name": "Left Hollywood",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      },
-      {
-        "id": "19c9fb97-daeb-4a54-81da-e425df8cf59f",
-        "albumID": "1265166103",
-        "name": "Save Me",
-        "artist": "Meek Mill",
-        "artists": [
-          {
-            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-            "name": "Meek Mill"
-          }
-        ],
-        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
-        "edition": null
-      }
-    ],
-    "edition": null
-  },
-  {
     "id": "d86f199f-e62f-4fe0-99da-2a8f246b56b2",
     "title": "The Autobiography",
     "artists": [
@@ -56203,208 +55249,6 @@
           }
         ],
         "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
-        "edition": null
-      }
-    ],
-    "edition": null
-  },
-  {
-    "id": "063bd583-2ff4-4c1b-b48c-04025a4d3491",
-    "title": "Double Or Nothing",
-    "artists": [
-      {
-        "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "name": "Big Sean"
-      },
-      {
-        "id": "11403132-c5f0-4652-9e5e-22b79e824359",
-        "name": "Metro Boomin"
-      }
-    ],
-    "releaseDate": "2017-12-08",
-    "type": "Album",
-    "trackCount": 10,
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8d/3c/b0/8d3cb024-35b0-90c4-1c4b-2b85b3352db0/17UM1IM54902.rgb.jpg/600x600bb.jpg",
-    "appleId": 1442996956,
-    "songs": [
-      {
-        "id": "a3086364-1125-4ab4-9f02-e86d53772c1f",
-        "albumID": "1442996956",
-        "name": "Go Legend (feat. Travis Scott)",
-        "artist": "Big Sean & Metro Boomin",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          },
-          {
-            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
-            "name": "Metro Boomin"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "88a46cf9-a728-4196-a9a4-6025d8659dfb",
-        "albumID": "1442996956",
-        "name": "Big Bidness (feat. 2 Chainz)",
-        "artist": "Big Sean & Metro Boomin",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          },
-          {
-            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
-            "name": "Metro Boomin"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "087b5861-7c96-4ece-8f9d-4614b59f32d6",
-        "albumID": "1442996956",
-        "name": "Who's Stopping Me",
-        "artist": "Big Sean & Metro Boomin",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          },
-          {
-            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
-            "name": "Metro Boomin"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "7ddc68f3-816d-4491-bd05-ce1ef284a91b",
-        "albumID": "1442996956",
-        "name": "Pull Up N Wreck (feat. 21 Savage)",
-        "artist": "Big Sean & Metro Boomin",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          },
-          {
-            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
-            "name": "Metro Boomin"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "ae424182-7f8b-4c04-8b63-067534521d27",
-        "albumID": "1442996956",
-        "name": "So Good (feat. Kash Doll)",
-        "artist": "Big Sean & Metro Boomin",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          },
-          {
-            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
-            "name": "Metro Boomin"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "d749b241-486f-42ba-a292-2ff203957cf7",
-        "albumID": "1442996956",
-        "name": "Savage Time",
-        "artist": "Big Sean & Metro Boomin",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          },
-          {
-            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
-            "name": "Metro Boomin"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "1a9d8f47-559e-4c19-b000-664e6323c6ad",
-        "albumID": "1442996956",
-        "name": "Even the Odds (feat. Young Thug)",
-        "artist": "Big Sean & Metro Boomin",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          },
-          {
-            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
-            "name": "Metro Boomin"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "416bb708-7a6b-4ef9-aa21-52ec2f0836e6",
-        "albumID": "1442996956",
-        "name": "In Tune",
-        "artist": "Big Sean & Metro Boomin",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          },
-          {
-            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
-            "name": "Metro Boomin"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "8994aaff-3885-405f-84a6-cf3cd1a289a5",
-        "albumID": "1442996956",
-        "name": "Reason (feat. Swae Lee)",
-        "artist": "Big Sean & Metro Boomin",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          },
-          {
-            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
-            "name": "Metro Boomin"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-        "edition": null
-      },
-      {
-        "id": "1114feee-5908-42e5-9724-a46e4a7f68ce",
-        "albumID": "1442996956",
-        "name": "No Hearts, No Love",
-        "artist": "Big Sean & Metro Boomin",
-        "artists": [
-          {
-            "id": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
-            "name": "Big Sean"
-          },
-          {
-            "id": "11403132-c5f0-4652-9e5e-22b79e824359",
-            "name": "Metro Boomin"
-          }
-        ],
-        "artistID": "f5aba9c7-8c50-4e13-9883-24e94cefbf41",
         "edition": null
       }
     ],
@@ -110382,192 +109226,6 @@
     "edition": null
   },
   {
-    "id": "69a88d5f-0e9a-49f7-905f-36e9cc89be57",
-    "title": "PLAY ME",
-    "artists": [
-      {
-        "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "name": "Kim Gordon"
-      }
-    ],
-    "releaseDate": "2026-03-13",
-    "type": "Album",
-    "trackCount": 12,
-    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/3d/56/0a3d5627-c6e4-cc2a-e64f-0058a0791454/191401219877.png/600x600bb.jpg",
-    "appleId": 1859967390,
-    "songs": [
-      {
-        "id": "d16bbd1e-d5e0-4243-963b-07d6aa895f4f",
-        "albumID": "1859967390",
-        "name": "PLAY ME",
-        "artist": "Kim Gordon",
-        "artists": [
-          {
-            "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-            "name": "Kim Gordon"
-          }
-        ],
-        "artistID": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "edition": null
-      },
-      {
-        "id": "75944399-3906-4cca-b000-407f7528b323",
-        "albumID": "1859967390",
-        "name": "GIRL WITH A LOOK",
-        "artist": "Kim Gordon",
-        "artists": [
-          {
-            "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-            "name": "Kim Gordon"
-          }
-        ],
-        "artistID": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "edition": null
-      },
-      {
-        "id": "6001f1e3-7c83-448b-b73e-5413075c800f",
-        "albumID": "1859967390",
-        "name": "NO HANDS",
-        "artist": "Kim Gordon",
-        "artists": [
-          {
-            "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-            "name": "Kim Gordon"
-          }
-        ],
-        "artistID": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "edition": null
-      },
-      {
-        "id": "44647814-df57-4d7b-a65d-39db91716edf",
-        "albumID": "1859967390",
-        "name": "BLACK OUT",
-        "artist": "Kim Gordon",
-        "artists": [
-          {
-            "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-            "name": "Kim Gordon"
-          }
-        ],
-        "artistID": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "edition": null
-      },
-      {
-        "id": "c92ed006-d25d-48b7-b04d-02630612b2f2",
-        "albumID": "1859967390",
-        "name": "DIRTY TECH",
-        "artist": "Kim Gordon",
-        "artists": [
-          {
-            "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-            "name": "Kim Gordon"
-          }
-        ],
-        "artistID": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "edition": null
-      },
-      {
-        "id": "d3730e5f-ff6a-4834-ad33-13225da86a88",
-        "albumID": "1859967390",
-        "name": "NOT TODAY",
-        "artist": "Kim Gordon",
-        "artists": [
-          {
-            "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-            "name": "Kim Gordon"
-          }
-        ],
-        "artistID": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "edition": null
-      },
-      {
-        "id": "6bef5288-2b4d-45b3-ba3e-27413c547670",
-        "albumID": "1859967390",
-        "name": "BUSY BEE",
-        "artist": "Kim Gordon",
-        "artists": [
-          {
-            "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-            "name": "Kim Gordon"
-          }
-        ],
-        "artistID": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "edition": null
-      },
-      {
-        "id": "89372e35-c6e9-4144-b20b-e2d24354277b",
-        "albumID": "1859967390",
-        "name": "SQUARE JAW",
-        "artist": "Kim Gordon",
-        "artists": [
-          {
-            "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-            "name": "Kim Gordon"
-          }
-        ],
-        "artistID": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "edition": null
-      },
-      {
-        "id": "3f731d5c-5ae9-4efc-8aca-5f0249e36dc9",
-        "albumID": "1859967390",
-        "name": "SUBCON",
-        "artist": "Kim Gordon",
-        "artists": [
-          {
-            "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-            "name": "Kim Gordon"
-          }
-        ],
-        "artistID": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "edition": null
-      },
-      {
-        "id": "4c7eed5b-eb4f-436a-981f-3c045446f4ca",
-        "albumID": "1859967390",
-        "name": "POST EMPIRE",
-        "artist": "Kim Gordon",
-        "artists": [
-          {
-            "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-            "name": "Kim Gordon"
-          }
-        ],
-        "artistID": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "edition": null
-      },
-      {
-        "id": "6b671f54-b4e8-4362-a4e0-4884bc733c30",
-        "albumID": "1859967390",
-        "name": "NAIL BITER",
-        "artist": "Kim Gordon",
-        "artists": [
-          {
-            "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-            "name": "Kim Gordon"
-          }
-        ],
-        "artistID": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "edition": null
-      },
-      {
-        "id": "32d7b1b8-d45e-4c50-bf35-df84f9ee55ca",
-        "albumID": "1859967390",
-        "name": "BYEBYE25!",
-        "artist": "Kim Gordon",
-        "artists": [
-          {
-            "id": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-            "name": "Kim Gordon"
-          }
-        ],
-        "artistID": "b3ee1431-e72a-4eb0-b52b-c6eb98c6ccbc",
-        "edition": null
-      }
-    ],
-    "edition": null
-  },
-  {
     "id": "7fab9b55-e2d9-4177-9c48-e32b34fdb28e",
     "title": "ALL ROADS LEAD HOME",
     "artists": [
@@ -114582,5 +113240,267 @@
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f4/5c/bc/f45cbc87-8e29-b069-39d8-71db2fc0d1e3/886448381211.jpg/600x600bb.jpg",
     "type": "Album",
     "isDeluxe": false
+  },
+  {
+    "id": "00dd721e-3f65-4259-b120-2a8eb757c50a",
+    "title": "Dreamchasers 2",
+    "artists": [
+      {
+        "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+        "name": "Meek Mill"
+      }
+    ],
+    "releaseDate": "2012-01-01",
+    "type": "Album",
+    "isDeluxe": false,
+    "trackCount": 20,
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a4/ca/d3/a4cad385-037d-b471-0491-9cb4c8e82b3c/artwork.jpg/600x600bb.jpg",
+    "discogsId": 7784613,
+    "songs": [
+      {
+        "id": "16d81788-f417-43a7-8106-a6a1a4f039a2",
+        "albumID": "7784613",
+        "name": "Intro",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "fa9784b1-2379-4f93-bac1-df205da4a025",
+        "albumID": "7784613",
+        "name": "Ready Or Not",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "f7b71029-f6be-4a2c-9724-f92b80eb06f4",
+        "albumID": "7784613",
+        "name": "Amen",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "d4594a04-331d-44f9-8ca6-31da0b11919f",
+        "albumID": "7784613",
+        "name": "Burn",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "3c5bd5ad-4a93-4646-b81c-70eb771444c2",
+        "albumID": "7784613",
+        "name": "Everything ",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "47b1f1ce-f076-4711-bc13-a599c50e3dcd",
+        "albumID": "7784613",
+        "name": "Use To Be",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "2792e78a-a938-4dde-ab6f-123e67577deb",
+        "albumID": "7784613",
+        "name": "Flexing",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "6d42a6bd-67ad-4a9a-a06b-137ee5e35ac0",
+        "albumID": "7784613",
+        "name": "I Get It ",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "815b8ec1-248b-46c1-b060-9f4363c33285",
+        "albumID": "7784613",
+        "name": "Everyday",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "e39b3bb0-ba92-486d-a791-4036018bdab2",
+        "albumID": "7784613",
+        "name": "Racked Up Shawty",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "fd3851c9-6ba8-46be-bfb4-c4973c63d3a6",
+        "albumID": "7784613",
+        "name": "Lean Wit It",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "be6c1fad-e172-4526-bc21-cebfae08c888",
+        "albumID": "7784613",
+        "name": "Big Dreams",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "1fa75f3b-023b-4b30-b04d-f1daa9284f43",
+        "albumID": "7784613",
+        "name": "Take U Home ",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "08c06dde-4451-4a7e-8b70-f74c7d19594b",
+        "albumID": "7784613",
+        "name": "The Ride",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "36107c61-1212-4a25-ae11-334c3d2746ac",
+        "albumID": "7784613",
+        "name": "Face Down",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "59db358d-7a6f-4d2f-ac1b-0345bf0add43",
+        "albumID": "7784613",
+        "name": "Str8 Like That ",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "9daef739-bb9b-4afa-af76-95d1b340032b",
+        "albumID": "7784613",
+        "name": "House Party (Remix)",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "123da6ec-0f79-41b0-bbbc-16d5fa8bce73",
+        "albumID": "7784613",
+        "name": "Real",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "1d3710bf-4a11-4b39-a730-d056d7d1ef45",
+        "albumID": "7784613",
+        "name": "On My Way",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      },
+      {
+        "id": "ddfd9023-0db0-4666-912d-5cf5c621c3d6",
+        "albumID": "7784613",
+        "name": "Outro",
+        "artists": [
+          {
+            "id": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7",
+            "name": "Meek Mill"
+          }
+        ],
+        "artistID": "22d50a4e-3b35-4fa5-a2d8-73d36896cde7"
+      }
+    ]
   }
 ]
