@@ -24,7 +24,7 @@
       {
         "id": "02",
         "name": "Definition",
-        "description": "Trap becomes a named identity, a sound, and a lifestyle.",
+        "description": "Trap becomes a named identity, a sound, and a culture.",
         "order": 2,
         "albumIds": [
           "a9ac550a-c930-4738-bdfb-59de82810689",
@@ -35,7 +35,7 @@
       {
         "id": "03",
         "name": "Sound",
-        "description": "Trap’s sound centers on heavy 808s, rapid hi-hats, dark synths, stripped-back production, aggression, and producer-driven creativity.",
+        "description": "Trap’s sound centers on heavy 808s, rapid hi-hats, dark synths, stripped-back production, aggression, and producer-driven innovation.",
         "order": 3,
         "albumIds": [
           "c0a3bbd8-485c-430a-a56b-9cbe3959e85c",
@@ -75,6 +75,7 @@
           "50699238-0637-44e0-9d16-9fa4ad396c78"
         ]
       }
-    ]
+    ],
+    "createdAt": "2026-08-14T05:25:18.009Z"
   }
 ]
