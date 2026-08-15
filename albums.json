@@ -115366,5 +115366,718 @@
         "artistID": "617471c0-3342-4d27-96be-486f9db73de3"
       }
     ]
+  },
+  {
+    "id": "2ecd9b5a-b53e-429d-8357-c37d63b5b083",
+    "title": "Beast Mode",
+    "artists": [
+      {
+        "id": "a7e57aa7-30d4-466a-9513-76cd65b80af5",
+        "name": "Future"
+      },
+      {
+        "id": "a55fd53d-f774-4bb5-9cff-656cb98fbaa7",
+        "name": "Zaytoven"
+      }
+    ],
+    "releaseDate": "2015-01-01",
+    "type": "Album",
+    "isDeluxe": false,
+    "trackCount": 9,
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Trap"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6b/d8/f7/6bd8f74a-963b-eedb-23d9-5061a5472ca5/886448381204.jpg/600x600bb.jpg",
+    "discogsId": 7984657,
+    "songs": [
+      {
+        "id": "5d40200a-6db3-441b-9c93-750a72205491",
+        "albumID": "7984657",
+        "name": "Oooooh",
+        "artists": [
+          {
+            "id": "a7e57aa7-30d4-466a-9513-76cd65b80af5",
+            "name": "Future"
+          },
+          {
+            "id": "a55fd53d-f774-4bb5-9cff-656cb98fbaa7",
+            "name": "Zaytoven"
+          }
+        ],
+        "artistID": "a7e57aa7-30d4-466a-9513-76cd65b80af5"
+      },
+      {
+        "id": "8f2d2ebd-4cb5-4582-a61d-b6c3a0ca77f8",
+        "albumID": "7984657",
+        "name": "Lay Up",
+        "artists": [
+          {
+            "id": "a7e57aa7-30d4-466a-9513-76cd65b80af5",
+            "name": "Future"
+          },
+          {
+            "id": "a55fd53d-f774-4bb5-9cff-656cb98fbaa7",
+            "name": "Zaytoven"
+          }
+        ],
+        "artistID": "a7e57aa7-30d4-466a-9513-76cd65b80af5"
+      },
+      {
+        "id": "21e02e19-b77c-4078-abcf-30058e1c08c8",
+        "albumID": "7984657",
+        "name": "Aintchu",
+        "artists": [
+          {
+            "id": "a7e57aa7-30d4-466a-9513-76cd65b80af5",
+            "name": "Future"
+          },
+          {
+            "id": "a55fd53d-f774-4bb5-9cff-656cb98fbaa7",
+            "name": "Zaytoven"
+          }
+        ],
+        "artistID": "a7e57aa7-30d4-466a-9513-76cd65b80af5"
+      },
+      {
+        "id": "c872d11e-f761-40f4-80a6-174de0a20b89",
+        "albumID": "7984657",
+        "name": "No Basic",
+        "artists": [
+          {
+            "id": "a7e57aa7-30d4-466a-9513-76cd65b80af5",
+            "name": "Future"
+          },
+          {
+            "id": "a55fd53d-f774-4bb5-9cff-656cb98fbaa7",
+            "name": "Zaytoven"
+          }
+        ],
+        "artistID": "a7e57aa7-30d4-466a-9513-76cd65b80af5"
+      },
+      {
+        "id": "657101ee-21fb-4d0f-abd4-cfa4b29dba65",
+        "albumID": "7984657",
+        "name": "Peacoat",
+        "artists": [
+          {
+            "id": "a7e57aa7-30d4-466a-9513-76cd65b80af5",
+            "name": "Future"
+          },
+          {
+            "id": "a55fd53d-f774-4bb5-9cff-656cb98fbaa7",
+            "name": "Zaytoven"
+          }
+        ],
+        "artistID": "a7e57aa7-30d4-466a-9513-76cd65b80af5"
+      },
+      {
+        "id": "81a56c90-3ceb-4bfa-bd6a-3964ac9f9df4",
+        "albumID": "7984657",
+        "name": "Just Like Bruddas",
+        "artists": [
+          {
+            "id": "a7e57aa7-30d4-466a-9513-76cd65b80af5",
+            "name": "Future"
+          },
+          {
+            "id": "a55fd53d-f774-4bb5-9cff-656cb98fbaa7",
+            "name": "Zaytoven"
+          }
+        ],
+        "artistID": "a7e57aa7-30d4-466a-9513-76cd65b80af5"
+      },
+      {
+        "id": "da8310d9-2d31-4375-bca2-621e2194e711",
+        "albumID": "7984657",
+        "name": "Where I Came From",
+        "artists": [
+          {
+            "id": "a7e57aa7-30d4-466a-9513-76cd65b80af5",
+            "name": "Future"
+          },
+          {
+            "id": "a55fd53d-f774-4bb5-9cff-656cb98fbaa7",
+            "name": "Zaytoven"
+          }
+        ],
+        "artistID": "a7e57aa7-30d4-466a-9513-76cd65b80af5"
+      },
+      {
+        "id": "96bec531-7f29-4ac2-8dba-f0685d56598b",
+        "albumID": "7984657",
+        "name": "Real Sisters",
+        "artists": [
+          {
+            "id": "a7e57aa7-30d4-466a-9513-76cd65b80af5",
+            "name": "Future"
+          },
+          {
+            "id": "a55fd53d-f774-4bb5-9cff-656cb98fbaa7",
+            "name": "Zaytoven"
+          }
+        ],
+        "artistID": "a7e57aa7-30d4-466a-9513-76cd65b80af5"
+      },
+      {
+        "id": "2059c1d2-e3e8-4adb-9976-e606bee5829b",
+        "albumID": "7984657",
+        "name": "Forever Eva",
+        "artists": [
+          {
+            "id": "a7e57aa7-30d4-466a-9513-76cd65b80af5",
+            "name": "Future"
+          },
+          {
+            "id": "a55fd53d-f774-4bb5-9cff-656cb98fbaa7",
+            "name": "Zaytoven"
+          }
+        ],
+        "artistID": "a7e57aa7-30d4-466a-9513-76cd65b80af5"
+      }
+    ]
+  },
+  {
+    "id": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+    "title": "In Our Lifetime",
+    "artists": [
+      {
+        "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+        "name": "8Ball"
+      },
+      {
+        "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+        "name": "MJG"
+      }
+    ],
+    "releaseDate": "1999-05-18",
+    "songs": [
+      {
+        "id": "479f4ae4-b80a-4c71-a3af-03dab712b29d",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "Intro",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "c90bc948-1e73-47f4-af18-a4fece1e69ee",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "We Started This",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "639a4453-4296-4ce9-84a7-1b75e7bc4cd0",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "Paid Dues",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "c7fae8cb-58cd-44bc-aee9-3c49d2a9ecf7",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "Do It How It Go",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "b46e2f5d-5ffa-4419-8c47-7bd052a1b66e",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "Don't Flex",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "34df20ae-47a1-4d8f-b3c8-5a74e497a9e3",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "Belly",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "3cc62a1a-6769-457d-a268-2ba941e9f038",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "Daylight",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "caf7c102-599d-4177-a827-ec987b515abb",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "We Don't Give A Fuck",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "9dc75c2c-8db2-49cc-b1ff-396b75e7a091",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "Get It Crunk",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "ad589302-5762-44c4-bd7b-93d1f5824783",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "Armed Robbery",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "987ec8e9-9b6f-41de-be8d-fa7c74b6e073",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "Love Hurts",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "682cfd19-6d79-4001-98d2-240f1c416f23",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "Nobody But Me",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "f9447dfd-2b81-4896-bda7-9bc7069654a0",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "Throw Your Hands Up",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      },
+      {
+        "id": "c91a7b28-d115-4c39-ad2a-29cb7e29dc87",
+        "albumID": "1061ccd0-ff82-4a06-b071-f029a249e89a",
+        "name": "Speed",
+        "artists": [
+          {
+            "id": "122ba57a-9fbc-41a0-8a7c-83896f230064",
+            "name": "8Ball"
+          },
+          {
+            "id": "80171bc4-a650-409a-b4e5-433e0b031f39",
+            "name": "MJG"
+          }
+        ],
+        "artistID": "122ba57a-9fbc-41a0-8a7c-83896f230064"
+      }
+    ],
+    "trackCount": 14,
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Southern Rap"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f1/13/9a/f1139ac3-17fc-a34a-11f0-681cdae19dd0/mzi.pfnmoqsy.tif/600x600bb.jpg",
+    "type": "Album",
+    "isDeluxe": false
+  },
+  {
+    "id": "ba3931a2-0ca7-4c85-ae5f-53f2034b173d",
+    "title": "When The Smoke Clears",
+    "artists": [
+      {
+        "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+        "name": "Three 6 Mafia"
+      }
+    ],
+    "releaseDate": "2000-01-01",
+    "type": "Album",
+    "isDeluxe": false,
+    "trackCount": 22,
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Gangsta",
+      "Crunk",
+      "Memphis Rap"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music/1c/8e/c3/mzi.jtxrqkmf.jpg/600x600bb.jpg",
+    "discogsId": 599132,
+    "songs": [
+      {
+        "id": "94f5fc17-df43-415d-9399-204f89a83163",
+        "albumID": "599132",
+        "name": "Intro",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "b10024ec-76c6-4b3d-b18b-7a64db169894",
+        "albumID": "599132",
+        "name": "44 Killers (Interlude)",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "26069aff-1287-47aa-add8-d55687360f9b",
+        "albumID": "599132",
+        "name": "Sippin On Some Syrup",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "9f4a0c29-3e7e-4d13-9904-ed57edc3d5f0",
+        "albumID": "599132",
+        "name": "Weak Azz B***h",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "afb4447b-b570-4508-a107-c1f844cd51a1",
+        "albumID": "599132",
+        "name": "Jus Like Us",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "a6dfdcd6-4739-4dc9-abc3-0b3789c1483b",
+        "albumID": "599132",
+        "name": " I'm So Hi",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "a7d4e73d-9d34-4b58-aab8-9de7edbcf91a",
+        "albumID": "599132",
+        "name": "Mafia N****z",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "b9117550-3955-49aa-b011-c8021112246a",
+        "albumID": "599132",
+        "name": "Hook Up W/ H**s (Skit)",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "fdef2fb7-fd66-4415-a214-22ff3b066dc6",
+        "albumID": "599132",
+        "name": "From Da Back",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "66da8f4f-783e-45f0-9664-2e9168566bd8",
+        "albumID": "599132",
+        "name": "F**k Y'all H**s",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "9e57eca7-a232-416d-b282-057c77f6fb43",
+        "albumID": "599132",
+        "name": "Where Da Cheese At",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "a5e31075-35c2-414e-8432-5e09f25b164e",
+        "albumID": "599132",
+        "name": "Tongue Ring",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "a9a46764-94cb-4935-ad0e-0f33ed470714",
+        "albumID": "599132",
+        "name": "Barrin' You B***hes",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "6f5beea0-877b-441f-9ef8-5131f85dffc9",
+        "albumID": "599132",
+        "name": "Whatcha Know",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "ba439abe-2dd3-4e6f-900d-6239305978c0",
+        "albumID": "599132",
+        "name": "Act Like You Know Me (Point Em Out)",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "9948f817-9d08-49f7-8ccc-c95432ba1f25",
+        "albumID": "599132",
+        "name": "Take A Bump",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "245703ae-cc5a-41b3-874e-b390a10f2e60",
+        "albumID": "599132",
+        "name": "Touched Wit It",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "f754446d-9fb7-4ca3-a03c-149e03b26260",
+        "albumID": "599132",
+        "name": "M.E.M.P.H.I.S.",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "d3a9158f-5e46-4ba3-802f-bbaa97e9dccc",
+        "albumID": "599132",
+        "name": "Just Anotha Crazy Clique",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "2b2291dc-7795-4787-a447-81f251ba8c74",
+        "albumID": "599132",
+        "name": "Who Run It",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "42a78121-1553-4507-9438-5a1e43ac656c",
+        "albumID": "599132",
+        "name": "Put Ya Signs",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      },
+      {
+        "id": "60e42929-9686-41e9-a5dc-616a037c311c",
+        "albumID": "599132",
+        "name": "What's Next (Outro)",
+        "artists": [
+          {
+            "id": "f3068122-3095-4402-967b-0e92e06d6f3a",
+            "name": "Three 6 Mafia"
+          }
+        ],
+        "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
+      }
+    ]
   }
 ]
