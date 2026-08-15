@@ -19522,7 +19522,7 @@
         "edition": null
       }
     ],
-    "edition": "Deluxe"
+    "edition": null
   },
   {
     "id": "0d8fa4f5-4442-4941-9d84-42a4a26f8e4e",
@@ -24831,6 +24831,249 @@
           }
         ],
         "artistID": "74fa6d30-f89e-4b4a-8599-2eb7dfec57a5",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
+    "id": "c0a3bbd8-485c-430a-a56b-9cbe3959e85c",
+    "title": "Flockaveli",
+    "artists": [
+      {
+        "id": "df789576-bf90-4562-9d86-82fedf780900",
+        "name": "Waka Flocka Flame"
+      }
+    ],
+    "releaseDate": "2010-10-05",
+    "type": "Album",
+    "trackCount": 17,
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "subgenres": [],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/d4/ac/b5/d4acb58f-9838-0453-9669-9890251ca69c/contsched.sbgahlbr.jpg/600x600bb.jpg",
+    "appleId": 393797951,
+    "songs": [
+      {
+        "id": "e41e76b5-6175-49a9-8f0f-8452448cde36",
+        "albumID": "393797951",
+        "name": "Bustin' At 'Em",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "3bc81a8c-a1e2-4856-928a-f80cd32bfc9b",
+        "albumID": "393797951",
+        "name": "Hard In da Paint",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "4f1a0c9f-b67f-4185-afa2-b239af779b62",
+        "albumID": "393797951",
+        "name": "TTG (Trained To Go) [feat. French Montana, YG Hootie, Joe Moses & Baby Bomb]",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "3077db51-73c7-4a05-b42f-10c97bf7ab93",
+        "albumID": "393797951",
+        "name": "Bang (feat. YG Hootie & Slim Dunkin)",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "c85338e9-15ee-4c00-8dba-e73b024c446d",
+        "albumID": "393797951",
+        "name": "No Hands (feat. Roscoe Dash and Wale)",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "0eac0fd7-2a26-4f47-9836-a386da58894b",
+        "albumID": "393797951",
+        "name": "Bricksquad (feat. Gudda Gudda)",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "79730798-c887-4712-9b5a-c513d75bebce",
+        "albumID": "393797951",
+        "name": "F**k the Club Up (feat. Pastor Troy & Slim Dunkin)",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "a61a497f-e1a3-4365-8770-c6002f03ecc6",
+        "albumID": "393797951",
+        "name": "Homies (feat. YG Hootie, Popa Smurf & Ice Burgundy)",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "707c999c-7911-4cc8-990b-03eec1ac57aa",
+        "albumID": "393797951",
+        "name": "Grove St. Party (feat. Kebo Gotti)",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "504c4d15-8663-4d9f-b74c-debca2b592b1",
+        "albumID": "393797951",
+        "name": "O Let's Do It (feat. Cap)",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "c2e90dcb-cbcc-4e49-a455-e5ea4a14110b",
+        "albumID": "393797951",
+        "name": "Karma (feat. YG Hootie, Popa Smurf & Slim Dunkin)",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "0810829e-74c2-48d3-89f6-5c8786adc6a8",
+        "albumID": "393797951",
+        "name": "Live By the Gun (feat. RA Diggs & Uncle Murda)",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "788a33d1-4436-4d1b-8e04-25dd5d78f42d",
+        "albumID": "393797951",
+        "name": "For My Dawgs",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "fedd1a8b-c4a7-48df-9814-5fc6715be9cd",
+        "albumID": "393797951",
+        "name": "G Check (feat. YG Hootie, Bo Deal & Joe Moses)",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "7a340afe-a521-4f94-a9d1-7be93be5827f",
+        "albumID": "393797951",
+        "name": "Snake In the Grass (feat. Cartier Kitten)",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "8f136bf8-0700-4089-a523-195d70d9958b",
+        "albumID": "393797951",
+        "name": "Smoke, Drank (feat. Bo Deal, Mouse & Kebo Gotti)",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
+        "edition": null
+      },
+      {
+        "id": "19515cd5-e7b8-443d-867c-4df569b3b946",
+        "albumID": "393797951",
+        "name": "F**k This Industry",
+        "artists": [
+          {
+            "id": "df789576-bf90-4562-9d86-82fedf780900",
+            "name": "Waka Flocka Flame"
+          }
+        ],
+        "artistID": "df789576-bf90-4562-9d86-82fedf780900",
         "edition": null
       }
     ],
@@ -34759,6 +35002,184 @@
         ],
         "artistID": "eb7e2ea6-50df-41e6-a1a9-77f0c4f827f7",
         "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
+    "id": "016eaa43-6e56-4264-918f-de808d087c58",
+    "title": "DAYS BEFORE RODEO",
+    "artists": [
+      {
+        "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "name": "Travis Scott"
+      }
+    ],
+    "releaseDate": "2014-08-18",
+    "type": "Album",
+    "trackCount": 12,
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "subgenres": [],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/35/78/7c3578d6-be58-b198-73e4-01e8630e78bb/196871381437.jpg/600x600bb.jpg",
+    "appleId": 1764164178,
+    "songs": [
+      {
+        "id": "23c40afc-c2cd-405c-af5d-aa0777d5d203",
+        "albumID": "1764164178",
+        "name": "Days Before Rodeo: The Prayer",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": null
+      },
+      {
+        "id": "f1498722-d58f-4872-b0d3-fc64abe09b8f",
+        "albumID": "1764164178",
+        "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": null
+      },
+      {
+        "id": "d4493e57-67fb-49df-9a22-8ec3fb86f3f6",
+        "albumID": "1764164178",
+        "name": "Quintana Pt. 2",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": null
+      },
+      {
+        "id": "7340ea3e-3dbc-4a9e-ab7a-c345caf6ce86",
+        "albumID": "1764164178",
+        "name": "Drugs You Should Try It",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": null
+      },
+      {
+        "id": "2d81d239-d477-4f10-9bfd-e71519d85687",
+        "albumID": "1764164178",
+        "name": "Don't Play (feat. The 1975 & Big Sean)",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": null
+      },
+      {
+        "id": "0323947a-2eec-42d0-a539-ed630779ab75",
+        "albumID": "1764164178",
+        "name": "Skyfall (feat. Young Thug)",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": null
+      },
+      {
+        "id": "0c1a608f-047a-469c-88ce-97fd18464271",
+        "albumID": "1764164178",
+        "name": "Zombies",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": null
+      },
+      {
+        "id": "5772e0f4-5f7b-4f7c-b357-00f359779c33",
+        "albumID": "1764164178",
+        "name": "Sloppy Toppy (feat. Migos & Peewee Longway)",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": null
+      },
+      {
+        "id": "e32a9411-a2c8-4160-a964-db7954fc3d69",
+        "albumID": "1764164178",
+        "name": "Basement Freestyle",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": null
+      },
+      {
+        "id": "2497d88f-59ce-4fc9-907e-37e3d16f49a2",
+        "albumID": "1764164178",
+        "name": "Backyard",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": null
+      },
+      {
+        "id": "b75302aa-1142-47f4-911b-c942559c89d3",
+        "albumID": "1764164178",
+        "name": "Grey",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": null
+      },
+      {
+        "id": "14da4a20-58dc-47af-92f7-bad3e9a1590c",
+        "albumID": "1764164178",
+        "name": "BACC",
+        "artists": [
+          {
+            "id": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+            "name": "Travis Scott"
+          }
+        ],
+        "artistID": "ba236dae-5b5c-4ca8-8a4a-f623e855b5d0",
+        "edition": "Bonus"
       }
     ],
     "edition": null
@@ -57244,6 +57665,229 @@
       }
     ],
     "discogsId": 12102645,
+    "edition": null
+  },
+  {
+    "id": "d7f20bd5-ae1b-4a84-8879-d1500e4dc990",
+    "title": "X 100pre",
+    "artists": [
+      {
+        "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "name": "Bad Bunny"
+      }
+    ],
+    "releaseDate": "2018-01-01",
+    "type": "Album",
+    "trackCount": 15,
+    "genres": [
+      "Hip Hop",
+      "Latin",
+      "Pop"
+    ],
+    "subgenres": [
+      "Trap",
+      "Reggaeton",
+      "Latin Pop"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cf/3a/db/cf3adbe6-8ea1-f60f-60fd-713eefda3962/193483317984.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "6ea1aa74-751b-4a5e-b56a-d36ec8a0a9c0",
+        "albumID": "12973184",
+        "name": "Ni Bien Ni Mal",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "9d2c963d-4548-457a-a473-87d70eac7c6a",
+        "albumID": "12973184",
+        "name": "200 MPH",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "4583f328-3087-4023-b995-98ed2f77787e",
+        "albumID": "12973184",
+        "name": "¿Quién Tú Eres?",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "ab26e807-4cbc-417f-b0f2-8d9400d5d4c8",
+        "albumID": "12973184",
+        "name": "Caro",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "6f1d1c09-18ca-46dc-a0af-13870d4ca5b0",
+        "albumID": "12973184",
+        "name": "Tenemos Que Hablar",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "e5d30aee-cbe3-4f85-916e-c10983048e58",
+        "albumID": "12973184",
+        "name": "Otra Noche En Miami",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "8691bde2-6114-44b6-9f6a-0ab7fd06602b",
+        "albumID": "12973184",
+        "name": "Ser Bichote",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "c239b06c-5249-4847-9194-7dd637dfb36a",
+        "albumID": "12973184",
+        "name": "Si Estuviésemos Juntos",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "37b2d616-d317-445f-84d4-6874ebf78507",
+        "albumID": "12973184",
+        "name": "Solo De Mí",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "cc2b3661-2941-48a2-95c4-570e62c55b75",
+        "albumID": "12973184",
+        "name": "Cuando Perriabas",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "ec12a9ea-ea99-4d0e-9305-dfb10bdce478",
+        "albumID": "12973184",
+        "name": "La Romana",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "ed0b9103-9cf3-4b65-a5f9-0f8ac876e882",
+        "albumID": "12973184",
+        "name": "Como Antes",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "41dd37ed-79b9-4244-b625-e1261fbd73af",
+        "albumID": "12973184",
+        "name": "RLNDT",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "b827d278-d314-4f43-a3a7-54d5a5b9458d",
+        "albumID": "12973184",
+        "name": "Estamos Bien",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      },
+      {
+        "id": "38e75b00-5b42-4238-8c82-307174075224",
+        "albumID": "12973184",
+        "name": "Mía",
+        "artists": [
+          {
+            "id": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+            "name": "Bad Bunny"
+          }
+        ],
+        "artistID": "f363019f-bdad-4449-8ac3-61a6dd7f9b56",
+        "edition": null
+      }
+    ],
+    "discogsId": 12973184,
     "edition": null
   },
   {
@@ -79991,6 +80635,266 @@
     "edition": null
   },
   {
+    "id": "86197850-3d3c-4052-bff5-5c25c70ed5f5",
+    "title": "Eternal Atake",
+    "artists": [
+      {
+        "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "name": "Lil Uzi Vert"
+      }
+    ],
+    "releaseDate": "2021-01-01",
+    "type": "Album",
+    "trackCount": 18,
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Cloud Rap",
+      "Pop Rap",
+      "Trap"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/36/ec/9936ec13-b95f-c909-0985-ff10a3c6a39f/075679831934.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "07275e18-251a-432e-8fb9-005c1bc07f66",
+        "albumID": "19803187",
+        "name": "Baby Pluto",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "3889fd49-67cc-4a63-8353-b2835ac40e85",
+        "albumID": "19803187",
+        "name": "Lo Mein",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "17258d04-2164-43e5-8bb0-43c39c3f1b46",
+        "albumID": "19803187",
+        "name": "Silly Watch",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "0551966a-6930-4b49-8879-4192f044071a",
+        "albumID": "19803187",
+        "name": "POP",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "7c2f1b6b-d406-4c28-8b0d-e4f6b47756c8",
+        "albumID": "19803187",
+        "name": "You Better Move",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "6aca9bd4-cb58-484f-ac31-e1ef0ce69c5b",
+        "albumID": "19803187",
+        "name": "Homecoming",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "fecec363-d1fc-48ab-8949-f706b42220f5",
+        "albumID": "19803187",
+        "name": "I'm Sorry",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "e9ba5c10-dde7-473f-bc7e-ed92b52f083c",
+        "albumID": "19803187",
+        "name": "Celebration Station",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "b21cf073-b20e-4d05-a371-bab5ef9c6b94",
+        "albumID": "19803187",
+        "name": "Bigger Than Life",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "87897eeb-4d52-4bbd-87f8-ca5e9487bb57",
+        "albumID": "19803187",
+        "name": "Chrome Heart Tags",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "52e6603e-9bdc-43cc-b85b-2d88edb43e52",
+        "albumID": "19803187",
+        "name": "Bust Me",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "19a02471-aca1-4cc8-95e5-bab09d4930a7",
+        "albumID": "19803187",
+        "name": "Prices",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "739b509b-ca64-42cd-b637-22ef915a76b6",
+        "albumID": "19803187",
+        "name": "Urgency",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "d9c477d2-9580-4a42-ae35-0dd70bbc9f27",
+        "albumID": "19803187",
+        "name": "Venetia",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "7b9fb626-46e0-4e82-8d58-a40182634cdf",
+        "albumID": "19803187",
+        "name": "Secure The Bag",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "b3c2c993-0a2d-484c-bf4d-aa68fde23490",
+        "albumID": "19803187",
+        "name": "P2",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "3f09a203-1f99-4464-8721-da719aba92b1",
+        "albumID": "19803187",
+        "name": "Futsal Shuffle 2020",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      },
+      {
+        "id": "c6306080-0189-448c-946c-ad360eae65fe",
+        "albumID": "19803187",
+        "name": "That Way",
+        "artists": [
+          {
+            "id": "0fd85779-eb2d-444f-b66c-200f291d869e",
+            "name": "Lil Uzi Vert"
+          }
+        ],
+        "artistID": "0fd85779-eb2d-444f-b66c-200f291d869e",
+        "edition": null
+      }
+    ],
+    "discogsId": 19803187,
+    "edition": null
+  },
+  {
     "id": "ff9dab80-14df-4a60-b7a7-0ee3d3fb89c8",
     "title": "Rich Slave",
     "artists": [
@@ -85511,7 +86415,282 @@
       }
     ],
     "discogsId": 24152126,
-    "edition": "Deluxe"
+    "edition": null
+  },
+  {
+    "id": "a0dc1036-834b-4fdd-b2cf-ae9eac353c8c",
+    "title": "No Stylist",
+    "artists": [
+      {
+        "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "name": "Destroy Lonely"
+      }
+    ],
+    "releaseDate": "2022-01-01",
+    "type": "Album",
+    "trackCount": 19,
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Trap"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/3b/75/a83b7539-7e48-88dd-0f44-0950ef2c9829/808391158191_Cover.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "a7a7adae-c618-42ba-9e74-e75a542e5eb1",
+        "albumID": "24730067",
+        "name": "JetLgged",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "2a4ca499-c82a-4aa7-a9e5-ed7525d680af",
+        "albumID": "24730067",
+        "name": "Bergdorf",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "fe5f90c5-1e43-447c-9d65-ce9855c23a72",
+        "albumID": "24730067",
+        "name": "<3MyGng",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "cf376c88-e784-45c6-abdc-b16d5de53e8e",
+        "albumID": "24730067",
+        "name": "VtmntsCoat",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "d5008d92-3f5b-472a-9b5a-fe0108bbcc24",
+        "albumID": "24730067",
+        "name": "NoStylist",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "ca1d770c-0023-4986-9259-27863757687d",
+        "albumID": "24730067",
+        "name": "FakeNggas",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "d8a4bd81-17ba-4966-89d0-6a6df4fb6303",
+        "albumID": "24730067",
+        "name": "Soarin",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "5906cb64-b113-4666-9a9e-1fbd5cb3ced2",
+        "albumID": "24730067",
+        "name": "TurninUp",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "a49a209d-3435-48c1-b081-d41a05b258cb",
+        "albumID": "24730067",
+        "name": "Lnly",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "c462fe9c-6319-4d7f-8210-a0e24c345d3d",
+        "albumID": "24730067",
+        "name": "Prssure",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "3ae2571e-b205-46c8-b324-689cf1a2a5b6",
+        "albumID": "24730067",
+        "name": "OnTheTable",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "6f1b7da1-b6dd-4f0c-bd12-c905675485a5",
+        "albumID": "24730067",
+        "name": "SwgSkool",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "1bdaa5b3-17a6-4a70-84dc-5db1011437b0",
+        "albumID": "24730067",
+        "name": "CrystlCstles",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "e01edf1d-fb27-4cb4-93a3-e81d483f86ae",
+        "albumID": "24730067",
+        "name": "Dangerous",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "55b0d8bb-c270-47c0-b151-463c54582d82",
+        "albumID": "24730067",
+        "name": "MkeItStop",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "4f758983-3640-425e-bce1-1ff2173e8924",
+        "albumID": "24730067",
+        "name": "OnTheFloor",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "67c7a5f3-1969-42e6-8cc1-efdb70e0281d",
+        "albumID": "24730067",
+        "name": "PassAround",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "7790100d-921a-4378-ac50-7e0b4b9b687c",
+        "albumID": "24730067",
+        "name": "OTW",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      },
+      {
+        "id": "150c0ef5-6a6b-4092-b3bd-987b88eac07d",
+        "albumID": "24730067",
+        "name": "Veteran",
+        "artists": [
+          {
+            "id": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+            "name": "Destroy Lonely"
+          },
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "1571e21d-5c91-46cb-bc75-58d6705f8052",
+        "edition": null
+      }
+    ],
+    "discogsId": 24730067,
+    "edition": null
   },
   {
     "id": "e80e3457-8b5b-4aca-834b-7eae5369194d",
@@ -87752,6 +88931,288 @@
           }
         ],
         "artistID": "d02429e6-0008-4197-b95d-9e7d99846fb5",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
+    "id": "5d35c02d-5f63-4d9f-bad3-e4874f7c89eb",
+    "title": "X",
+    "artists": [
+      {
+        "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "name": "Ken Carson"
+      }
+    ],
+    "releaseDate": "2022-07-08",
+    "type": "Album",
+    "trackCount": 20,
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "subgenres": [],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/09/9a/3b/099a3be4-dd5e-48f8-00e4-cf0d53166ee3/22UMGIM71543.rgb.jpg/600x600bb.jpg",
+    "appleId": 1632679206,
+    "songs": [
+      {
+        "id": "d1814c15-7896-450c-a071-ab2f35472bab",
+        "albumID": "1632679206",
+        "name": "Intro",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "3a2a5fb7-250d-4152-aee5-34b712501440",
+        "albumID": "1632679206",
+        "name": "New",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "2b61a45f-91be-455b-a1da-8c9474b9cefe",
+        "albumID": "1632679206",
+        "name": "Gems",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "000999a9-7bf9-4bc1-ace2-b57255ad48dc",
+        "albumID": "1632679206",
+        "name": "Nobody",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "ffb87b90-ca2b-4cd2-8c9c-5dfaed51643c",
+        "albumID": "1632679206",
+        "name": "Go",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "54707ee8-1908-4e6b-b966-fc5aafb7cac0",
+        "albumID": "1632679206",
+        "name": "MDMA (feat. Destroy Lonely)",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "83d66779-9d54-4008-855e-ef452787ef6d",
+        "albumID": "1632679206",
+        "name": "X",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "5fdd1736-1c43-41d7-964d-f8eedaf21553",
+        "albumID": "1632679206",
+        "name": "PDBMH",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "b1e155d1-d885-482f-a308-fbd730b6b820",
+        "albumID": "1632679206",
+        "name": "Money Hunt",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "a204e1c4-f610-466d-b6c0-6725a9ca7655",
+        "albumID": "1632679206",
+        "name": "South Beach",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "5b09d4e5-30ef-4e3a-b291-4b982704bc30",
+        "albumID": "1632679206",
+        "name": "Going Schitz",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "4834332a-c5fd-41ee-aaab-636c6460d864",
+        "albumID": "1632679206",
+        "name": "Same Thing",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "c976ce49-61d7-4105-84ad-8a4cf8f5e5fc",
+        "albumID": "1632679206",
+        "name": "Freestyle 1",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "d36f0b0b-3f74-4743-a80e-674e14654094",
+        "albumID": "1632679206",
+        "name": "Freestyle 2",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "95e51155-aea4-4680-b8df-5a18c52f04f7",
+        "albumID": "1632679206",
+        "name": "Fuk 12",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "fe7967cc-1ead-4812-a03e-9496aca256ca",
+        "albumID": "1632679206",
+        "name": "Murda Musik (feat. Destroy Lonely)",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "5f9643e2-214c-4be3-835b-1109e907e8fa",
+        "albumID": "1632679206",
+        "name": "Delinquent (feat. Homixide Gang)",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "5a5cf8c4-7a29-40e8-9038-158a03fe83af",
+        "albumID": "1632679206",
+        "name": "Get Rich Or Die",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "de6a1bda-df81-4e94-acc3-b406d996a04a",
+        "albumID": "1632679206",
+        "name": "Turn Up",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
+        "edition": null
+      },
+      {
+        "id": "9d8c1ebc-73d8-4945-9f78-15e6d3f7ec61",
+        "albumID": "1632679206",
+        "name": "The End",
+        "artists": [
+          {
+            "id": "7faf6a27-7789-491f-8906-522ed83702c9",
+            "name": "Ken Carson"
+          }
+        ],
+        "artistID": "7faf6a27-7789-491f-8906-522ed83702c9",
         "edition": null
       }
     ],
@@ -91367,6 +92828,259 @@
     ],
     "discogsId": 28153300,
     "edition": null
+  },
+  {
+    "id": "6be957bd-57ee-49d1-b5fe-35ced5050f3b",
+    "title": "Amar",
+    "artists": [
+      {
+        "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "name": "BigXthaPlug"
+      }
+    ],
+    "releaseDate": "2023-01-01",
+    "type": "Album",
+    "trackCount": 17,
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Trap"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4c/ab/93/4cab9367-e443-9609-cfaf-71c6e011d990/197580432465.png/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "3ff4f7aa-d84b-4ef0-b9c0-a4825784df8d",
+        "albumID": "27489012",
+        "name": "Switched Up",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "2f1fd17f-0494-45b2-9728-865215ab5da8",
+        "albumID": "27489012",
+        "name": "Rush Hour",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "a351ee4b-aadb-4575-a111-f9f6974014bd",
+        "albumID": "27489012",
+        "name": "Primetime",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "37e3d199-fe3a-4249-87cc-cc133a16102f",
+        "albumID": "27489012",
+        "name": "Texas",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "e9b114ad-bb58-4661-b859-e85d33f710e2",
+        "albumID": "27489012",
+        "name": "Bad Bitches",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "8795e520-1444-4b09-bc37-160bb6d12203",
+        "albumID": "27489012",
+        "name": "Bacc To Tha Basics",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "9aa645af-2580-4a9f-ae41-93db894f1236",
+        "albumID": "27489012",
+        "name": "Safehouse",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "1422d63b-1bd3-4e21-9562-5d2bd11d1010",
+        "albumID": "27489012",
+        "name": "Change",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "5fea4fa1-eb3c-4313-ba5a-e5f44bf8387e",
+        "albumID": "27489012",
+        "name": "Badu Flow",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "2043f52c-b185-4219-8257-ba513f12eb42",
+        "albumID": "27489012",
+        "name": "I Know",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          },
+          {
+            "id": "fe674255-a09b-4569-bfe5-cd1ca742cae6",
+            "name": "Sauce Walka"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "bf533c1d-f0e9-41b1-8af3-e0f3485f3d39",
+        "albumID": "27489012",
+        "name": "Levels",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "7b40c50a-ade0-4c65-a03e-c4c25b11b96a",
+        "albumID": "27489012",
+        "name": "Thick",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          },
+          {
+            "id": "c40a89ff-f25a-4d4e-b5e3-b927ddab197f",
+            "name": "Tay Money"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "1ce6a935-2a97-43e2-b23a-5a6137656604",
+        "albumID": "27489012",
+        "name": "Dream",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "110fb199-bb25-4db8-9fd4-72cc95bf40dd",
+        "albumID": "27489012",
+        "name": "Whip It",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "10b79c3f-54ae-4057-8140-a5f163dd1c5a",
+        "albumID": "27489012",
+        "name": "Left Eye",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "72b99ecd-12f7-47ec-9f63-2a6c82f7c717",
+        "albumID": "27489012",
+        "name": "Rap Niggas",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      },
+      {
+        "id": "fb369968-77cb-41a5-a30e-5a7a88c31c27",
+        "albumID": "27489012",
+        "name": "Ends",
+        "artists": [
+          {
+            "id": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+            "name": "BigXthaPlug"
+          }
+        ],
+        "artistID": "980ace89-d830-45cd-8990-ce22a0a68c1e",
+        "edition": null
+      }
+    ],
+    "discogsId": 27489012,
+    "edition": "Deluxe"
   },
   {
     "id": "ae2ca351-0650-45d4-82e2-736683ddb1a7",
@@ -112513,6 +114227,537 @@
           }
         ],
         "artistID": "8a6f78a8-5ee5-4c9b-ad83-75d597b1ff3d",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
+    "id": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+    "title": "NDA",
+    "artists": [
+      {
+        "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "name": "Trippie Redd"
+      }
+    ],
+    "releaseDate": "2026-08-14",
+    "type": "Album",
+    "trackCount": 25,
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Melodic Rap",
+      "Trap",
+      "Emo-Rap"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/2d/e8/b12de8a0-9ed3-419d-2893-798ca0c542a5/075679562470.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "d217956a-f7b9-4235-b9eb-11df18427c93",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "MERCH IT",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "e48f6298-d4f5-450a-bb94-1f6cef1d192e",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Yopstar",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "a9f55d1e-696d-4f55-8c03-faf14e65faee",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Paperbag Boy",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "5112f10b-589b-47c4-b747-aa6ce55d3d72",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "V-12",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "640a0c30-9576-4a88-870b-b2bc2801bf0a",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Chanely",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "891518ac-f691-4185-9f2b-5c06259f9597",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "SWAGGER",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "dd3ca47a-cae5-46ec-bd6e-069967b72092",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Pourin 4s",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "73d029c2-c479-436f-9a9c-86ba384ea5a3",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Uncle Phil (feat. Young Thug)",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "82c1812b-0970-478f-bd0b-dc2f20f20b4e",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "For Her (feat. Rema)",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "b1906137-4f8f-4064-b295-f4243199509f",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Free Melly",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "6d495a99-1225-4429-a28e-da39113d0db9",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Say What",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "3ac6f84d-76f0-4665-a593-961646f4f903",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Good Chance",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "e39951a7-85b4-48de-aeea-1a88cf53535a",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Can't Believe It",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "cf6de8d3-ed9f-4ee2-8870-36ea8d770b06",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "How Much X (feat. Tory Lanez)",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "90abe210-5e09-4e48-b4be-cf42848d1722",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Meet The Redds (feat. Sexyy Red)",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "89863d1a-ecf2-4d9f-91ee-005900004017",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Kidding Me (feat. Nine Vicious)",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "f591904b-1426-4da2-8ada-76a53bdf5673",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "I Got Everything",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "25bf4126-2d21-4a6e-afe9-efba251a844c",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Fine Shit",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "655ee67e-e264-4ac9-9488-ed0b96fbaa7c",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "No Way",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "ad9545e4-201e-4c3f-af01-64ed79e4be07",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "MTV (feat. Rob49)",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "48b935f7-8c22-443d-a9da-94f49fc9fd92",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Break It In",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "d028746c-77a0-42f6-bde5-a1158d1e3c64",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Slime Too",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "393098b7-3f02-423f-a259-b705b653e836",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Pink Toes (feat. Quavo)",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "9ad523fb-1feb-432c-84a7-3298fb5350b7",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "Switches & Fentanyl",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      },
+      {
+        "id": "2757da01-75b9-4776-b55a-bb48542124b0",
+        "albumID": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
+        "name": "I'm Sorry Baby",
+        "artists": [
+          {
+            "id": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+            "name": "Trippie Redd"
+          }
+        ],
+        "artistID": "85b3f454-dff5-49a7-99a6-fef96d56b535",
+        "edition": null
+      }
+    ],
+    "edition": null
+  },
+  {
+    "id": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+    "title": "Tension",
+    "artists": [
+      {
+        "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "name": "Fridayy"
+      }
+    ],
+    "releaseDate": "2026-08-14",
+    "type": "Album",
+    "trackCount": 12,
+    "genres": [
+      "R&B"
+    ],
+    "subgenres": [
+      "Carribean R&B",
+      "Soul",
+      "Melodic Rap"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/65/8b/1b/658b1bbc-9253-a2b0-d6dd-524752793bd5/23UMGIM92388.rgb.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "ebacf3aa-f0bc-4a7f-9c45-f637a310cb00",
+        "albumID": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+        "name": "Tension",
+        "artists": [
+          {
+            "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+            "name": "Fridayy"
+          }
+        ],
+        "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "edition": null
+      },
+      {
+        "id": "f362de75-56ed-4654-9f4f-1059a62b92d7",
+        "albumID": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+        "name": "Can You Stay",
+        "artists": [
+          {
+            "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+            "name": "Fridayy"
+          }
+        ],
+        "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "edition": null
+      },
+      {
+        "id": "94ef04f5-5c19-448e-85f0-ac130ae8c72f",
+        "albumID": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+        "name": "Dance",
+        "artists": [
+          {
+            "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+            "name": "Fridayy"
+          }
+        ],
+        "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "edition": null
+      },
+      {
+        "id": "07ceffb8-c79b-45d3-be0a-df4dc4e663bb",
+        "albumID": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+        "name": "Cryin",
+        "artists": [
+          {
+            "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+            "name": "Fridayy"
+          }
+        ],
+        "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "edition": null
+      },
+      {
+        "id": "fa0e2004-05d2-48ca-8a59-a7b80ec4fe9b",
+        "albumID": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+        "name": "Haiku",
+        "artists": [
+          {
+            "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+            "name": "Fridayy"
+          }
+        ],
+        "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "edition": null
+      },
+      {
+        "id": "20a5e303-c693-49b3-af71-a7eab30eadca",
+        "albumID": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+        "name": "Text",
+        "artists": [
+          {
+            "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+            "name": "Fridayy"
+          }
+        ],
+        "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "edition": null
+      },
+      {
+        "id": "3ed53b87-0885-4881-8ff0-94a6ee2a8e4f",
+        "albumID": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+        "name": "Time Will Tell",
+        "artists": [
+          {
+            "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+            "name": "Fridayy"
+          }
+        ],
+        "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "edition": null
+      },
+      {
+        "id": "1682f474-ddbc-424f-bdbb-28986f302136",
+        "albumID": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+        "name": "Time & Place",
+        "artists": [
+          {
+            "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+            "name": "Fridayy"
+          }
+        ],
+        "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "edition": null
+      },
+      {
+        "id": "feb91660-5c2e-474d-b3e8-339c6948aaa2",
+        "albumID": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+        "name": "Too Late",
+        "artists": [
+          {
+            "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+            "name": "Fridayy"
+          }
+        ],
+        "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "edition": null
+      },
+      {
+        "id": "b590d412-d599-4d83-88d5-2fedb02a2647",
+        "albumID": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+        "name": "Skip The Club",
+        "artists": [
+          {
+            "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+            "name": "Fridayy"
+          }
+        ],
+        "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "edition": null
+      },
+      {
+        "id": "f76d4a95-e71f-4a28-b78c-fd2f8ad7d52a",
+        "albumID": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+        "name": "Moment",
+        "artists": [
+          {
+            "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+            "name": "Fridayy"
+          }
+        ],
+        "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "edition": null
+      },
+      {
+        "id": "60d1241d-98b0-4b36-8f16-e6fe529a397c",
+        "albumID": "bea9ddf9-4011-49bb-a93d-5dcaf4164487",
+        "name": "Death Do Us Part",
+        "artists": [
+          {
+            "id": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+            "name": "Fridayy"
+          }
+        ],
+        "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
         "edition": null
       }
     ],

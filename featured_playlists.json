@@ -1,6 +1,6 @@
 [
   {
-    "id": "002",
+    "id": "001",
     "userId": "007",
     "name": "Trap",
     "description": "Evolution of Trap Music",
@@ -9,22 +9,21 @@
     "isFeatured": true,
     "sections": [
       {
-        "id": "01",
+        "id": "0011",
         "name": "Origins: Pre Trap Southern Hip Hop",
-        "description": "A regional sound built around dark atmospheres, hustler stories, 808s, and the raw identity of Southern street rap.",
+        "description": "A Southern sound built around dark atmospheres, hustler storytelling, and 808s — forming the proto‑trap foundation Atlanta later evolves.",
         "order": 1,
         "albumIds": [
-          "13b3629c-6404-4bc5-be6c-1549c899e053",
-          "d823eb0d-c553-4882-b851-708ca7a25f73",
           "2d20430f-fcfe-4d43-9a3d-17d445e9f7e6",
           "1a3594ce-00bb-4f9a-a525-a01a2aa87184",
-          "caff4067-4d67-44c4-84b0-f59c99588cdc"
+          "234a573f-351b-4cb1-866a-39ac1af8eb9e",
+          "9c40b7ba-3578-40bf-9783-32300112d390"
         ]
       },
       {
-        "id": "02",
+        "id": "0012",
         "name": "Definition",
-        "description": "Trap becomes a named identity, a sound, and a culture.",
+        "description": "Trap becomes a defined genre — a distinct sound, identity, and culture.",
         "order": 2,
         "albumIds": [
           "a9ac550a-c930-4738-bdfb-59de82810689",
@@ -33,21 +32,23 @@
         ]
       },
       {
-        "id": "03",
+        "id": "0013",
         "name": "Sound",
-        "description": "Trap’s sound centers on heavy 808s, rapid hi-hats, dark synths, stripped-back production, aggression, and producer-driven innovation.",
+        "description": "Trap crystallizes its defining sound — heavy 808s, rapid hi‑hats, dark synths, and stripped‑back production.",
         "order": 3,
         "albumIds": [
           "c0a3bbd8-485c-430a-a56b-9cbe3959e85c",
           "aa11f06e-811c-4266-a9a2-668c918c4651",
           "97171a2a-1e81-4e2b-82ac-07edb912dc88",
+          "0ee8e174-5812-46b2-b4cc-6719feb5395d",
           "c4d76744-6fdf-47b1-a189-ff02078b4654",
           "cef3bf60-7b04-44b0-9faf-e071cf3c2c02"
         ]
       },
       {
-        "id": "04",
+        "id": "0014",
         "name": "Global Expansion",
+        "description": "These albums push trap beyond the South, reshaping it into a global pop‑scale sound.",
         "order": 4,
         "albumIds": [
             "0f4ef5a0-2a2d-4f4f-a8ec-e05bf939fb5e",
@@ -60,18 +61,33 @@
         ]
       },
       {
-        "id": "05",
-        "name": "Modern",
+        "id": "0015",
+        "name": "Modern Foundation",
+        "description": "These albums form the bridge between 2010s trap and the fragmented 2020s landscape.",
         "order": 5,
         "albumIds": [
-          "506be7f8-7107-448a-ae3d-6a2d77d96f9c",
-          "e535e75e-a7ec-40d8-81e0-3466bb05da00",
+          "38967b60-78e8-48b2-bbc3-87c6c7718be6",
+          "a808ea95-0bd8-4894-a863-b8742c9bf769",
           "00e16e9a-a778-4f7c-a7a4-0d316cf1032c",
+          "86197850-3d3c-4052-bff5-5c25c70ed5f5",
           "ff9dab80-14df-4a60-b7a7-0ee3d3fb89c8",
           "067ccdeb-9b2f-4753-9ef1-5a54cd41c341",
+          "e535e75e-a7ec-40d8-81e0-3466bb05da00"
+        ]
+      },
+      {
+        "id": "0016",
+        "name": "New Gen",
+        "description": "Trap splinters into new regional and stylistic movements.",
+        "order": 6,
+        "albumIds": [
           "6d6aae37-0fcd-4b87-8dcb-0e053014138d",
-          "4db08afe-5e98-4f6d-81d3-860c4e35354f",
-          "f82aae25-e690-47f3-9cdb-243a0f8f620f",
+          "3b4846b2-a2b2-43d1-9c9a-2d574ba7b4c5",
+          "5d35c02d-5f63-4d9f-bad3-e4874f7c89eb",
+          "a0dc1036-834b-4fdd-b2cf-ae9eac353c8c",
+          "6be957bd-57ee-49d1-b5fe-35ced5050f3b",
+          "f0b6c6b3-ad83-4939-a95e-b3487794eaf7",
+          "cbe15b4a-4b6f-4906-91fd-5faeb93ea001",
           "50699238-0637-44e0-9d16-9fa4ad396c78"
         ]
       }
