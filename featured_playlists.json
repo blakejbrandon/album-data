@@ -23,24 +23,21 @@
       {
         "id": "0012",
         "name": "Definition",
-        "description": "Trap becomes a defined genre — a distinct sound, identity, and culture.",
+        "description": "Trap becomes a defined genre — its sound, identity, and culture take full shape.",
         "order": 2,
         "albumIds": [
           "a9ac550a-c930-4738-bdfb-59de82810689",
-          "8b762722-5ebd-4922-bd9b-88d4abde82f3",
-          "dc2d0012-aff9-4ac1-8a18-c26d6d6e70b8"
+          "8b762722-5ebd-4922-bd9b-88d4abde82f3"
         ]
       },
       {
         "id": "0013",
-        "name": "Sound",
-        "description": "Trap crystallizes its defining sound — heavy 808s, rapid hi‑hats, dark synths, and stripped‑back production.",
+        "name": "Sonic Blueprint",
+        "description": "Trap crystallizes its defining sound — minimal 808 production, elastic vocal delivery, and triplet cadence.",
         "order": 3,
         "albumIds": [
-          "c0a3bbd8-485c-430a-a56b-9cbe3959e85c",
-          "aa11f06e-811c-4266-a9a2-668c918c4651",
-          "97171a2a-1e81-4e2b-82ac-07edb912dc88",
-          "0ee8e174-5812-46b2-b4cc-6719feb5395d",
+          "9501b840-1665-4b25-bca8-76565b3351ad",
+          "6eefa858-599b-414f-986f-06a1b5ab49e5",
           "c4d76744-6fdf-47b1-a189-ff02078b4654",
           "cef3bf60-7b04-44b0-9faf-e071cf3c2c02"
         ]
