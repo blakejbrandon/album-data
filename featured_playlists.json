@@ -10,8 +10,8 @@
     "sections": [
       {
         "id": "0011",
-        "name": "Origins -- Southern Foundations",
-        "description": "A Southern sound built on Memphis & Texas hustlers and 808s takes shape as Atlanta’s atmospheric identity begins evolving through ATLiens.",
+        "name": "Origins: Southern Precursors ",
+        "description": "Southern rap develops through Memphis and Texas street culture as Atlanta forms its own atmospheric identity.",
         "order": 1,
         "albumIds": [
           "9c40b7ba-3578-40bf-9783-32300112d390",
@@ -23,7 +23,7 @@
       {
         "id": "0012",
         "name": "Definition",
-        "description": "Trap becomes a defined genre — its sound, identity, and culture take full shape.",
+        "description": "Trap becomes a defined genre with a clear identity.",
         "order": 2,
         "albumIds": [
           "a9ac550a-c930-4738-bdfb-59de82810689",
@@ -33,11 +33,12 @@
       {
         "id": "0013",
         "name": "Sonic Blueprint",
-        "description": "Trap crystallizes its defining sound — minimal 808 production, elastic vocal delivery, and triplet cadence.",
+        "description": "Trap crystallizes its sound through 808s, ad-libs, elastic vocal delivery, and triplet flows.",
         "order": 3,
         "albumIds": [
           "9501b840-1665-4b25-bca8-76565b3351ad",
           "6eefa858-599b-414f-986f-06a1b5ab49e5",
+          "016eaa43-6e56-4264-918f-de808d087c58",
           "c4d76744-6fdf-47b1-a189-ff02078b4654",
           "cef3bf60-7b04-44b0-9faf-e071cf3c2c02"
         ]
@@ -45,11 +46,9 @@
       {
         "id": "0014",
         "name": "Global Expansion",
-        "description": "These albums push trap beyond the South, reshaping it into a global pop‑scale sound.",
+        "description": "Trap escapes its regional and genre boundaries.",
         "order": 4,
         "albumIds": [
-            "0f4ef5a0-2a2d-4f4f-a8ec-e05bf939fb5e",
-            "ae385d48-7292-4012-b6b8-88d39cd6d845",
             "656abda4-789d-4d64-b5d9-95a08dfb899e",
             "4dc70a52-3a85-4c8b-bbeb-c2404b55eb53",
             "25fc6261-014c-4165-bacb-539be62a7e65",
@@ -63,12 +62,11 @@
         "description": "These albums form the bridge between 2010s trap and the fragmented 2020s landscape.",
         "order": 5,
         "albumIds": [
-          "38967b60-78e8-48b2-bbc3-87c6c7718be6",
-          "a808ea95-0bd8-4894-a863-b8742c9bf769",
-          "00e16e9a-a778-4f7c-a7a4-0d316cf1032c",
+          "bcfa8030-48f1-4308-82b3-746caeec5520",
+          "9980aea6-574e-4aaa-97a6-6aa6c186bd21",
+          "913d503b-2ceb-4664-bffc-6a51e82573f6",
+          "4252e36e-4957-4e07-9850-f03154eb19c7",
           "86197850-3d3c-4052-bff5-5c25c70ed5f5",
-          "ff9dab80-14df-4a60-b7a7-0ee3d3fb89c8",
-          "067ccdeb-9b2f-4753-9ef1-5a54cd41c341",
           "e535e75e-a7ec-40d8-81e0-3466bb05da00"
         ]
       },
@@ -78,14 +76,14 @@
         "description": "Trap splinters into new regional and stylistic movements.",
         "order": 6,
         "albumIds": [
+          "7377f310-cabe-4d15-99b9-9b928258e824",
           "6d6aae37-0fcd-4b87-8dcb-0e053014138d",
           "3b4846b2-a2b2-43d1-9c9a-2d574ba7b4c5",
-          "5d35c02d-5f63-4d9f-bad3-e4874f7c89eb",
+          "123a4461-6cd2-4c18-886a-1bf1d257330a",
+          "a2307d2b-96e9-4ee2-8346-b15cbe2dbee4",
           "a0dc1036-834b-4fdd-b2cf-ae9eac353c8c",
           "6be957bd-57ee-49d1-b5fe-35ced5050f3b",
-          "f0b6c6b3-ad83-4939-a95e-b3487794eaf7",
-          "cbe15b4a-4b6f-4906-91fd-5faeb93ea001",
-          "50699238-0637-44e0-9d16-9fa4ad396c78"
+          "cbe15b4a-4b6f-4906-91fd-5faeb93ea001"
         ]
       }
     ],

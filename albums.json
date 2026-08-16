@@ -116079,5 +116079,412 @@
         "artistID": "f3068122-3095-4402-967b-0e92e06d6f3a"
       }
     ]
+  },
+  {
+    "id": "cd7a596f-95a8-4fd8-8e42-8988fa15bd9b",
+    "title": "Beautiful Thugger Girls",
+    "artists": [
+      {
+        "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+        "name": "Young Thug"
+      }
+    ],
+    "releaseDate": "2017-01-01",
+    "type": "Album",
+    "isDeluxe": false,
+    "trackCount": 14,
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Pop Rap",
+      "Trap"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ac/82/09/ac820964-8c65-558c-805d-3d19777b6364/075679892386.jpg/600x600bb.jpg",
+    "discogsId": 11210139,
+    "songs": [
+      {
+        "id": "6547887d-77c0-46e2-b348-cd127cd4b5e8",
+        "albumID": "11210139",
+        "name": "Family Don't Matter",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "5d566c43-77e7-4f56-a983-f815fd2dd73e",
+        "albumID": "11210139",
+        "name": "Tomorrow Til Infinity",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "4919c89e-dff0-49f0-ab6f-1c728cb770fe",
+        "albumID": "11210139",
+        "name": "She Wanna Party",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "52a53323-a3af-4c5e-8e72-0110a6c23d40",
+        "albumID": "11210139",
+        "name": "Daddy's Birthday",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "fbb51762-adc3-40fa-b626-214b3cf433c2",
+        "albumID": "11210139",
+        "name": "Do U Love Me",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "e247abfa-5592-4be7-91f0-a248d741d4e8",
+        "albumID": "11210139",
+        "name": "Relationship",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "ae7457b6-98cf-4e87-b82f-14c7ce4eff04",
+        "albumID": "11210139",
+        "name": "You Said",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "91d9ff7e-cb4e-457b-985b-ca2214956016",
+        "albumID": "11210139",
+        "name": "On Fire",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "57b21271-8d48-451f-878e-1faa3756d821",
+        "albumID": "11210139",
+        "name": "Get High",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "478bad9e-2ed2-4ce0-8b80-79cd00bb3c5e",
+        "albumID": "11210139",
+        "name": "Feel It",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "df4f3c6c-54d4-4739-a56e-2277399cd5c2",
+        "albumID": "11210139",
+        "name": "Me Or Us",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "61b05aff-56a9-42bc-b985-4230f3ea13f1",
+        "albumID": "11210139",
+        "name": "Oh Yeah",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "ffb6e8de-831c-4e82-b672-02997893d5b4",
+        "albumID": "11210139",
+        "name": "For Y'all",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      },
+      {
+        "id": "c6106d3f-ffe6-48bf-b310-59214e43de4c",
+        "albumID": "11210139",
+        "name": "Take Care",
+        "artists": [
+          {
+            "id": "4a72ca32-c624-463e-87c7-fb73e7b34dc4",
+            "name": "Young Thug"
+          }
+        ],
+        "artistID": "4a72ca32-c624-463e-87c7-fb73e7b34dc4"
+      }
+    ]
+  },
+  {
+    "id": "913d503b-2ceb-4664-bffc-6a51e82573f6",
+    "title": "Dying to Live",
+    "artists": [
+      {
+        "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+        "name": "Kodak Black"
+      }
+    ],
+    "releaseDate": "2018-12-14",
+    "type": "Album",
+    "isDeluxe": false,
+    "trackCount": 16,
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "subgenres": [],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8f/23/46/8f2346c7-0db4-523d-e2c7-37949293527a/075679856210.jpg/600x600bb.jpg",
+    "appleId": 1446115312,
+    "songs": [
+      {
+        "id": "8536da84-7b98-422b-a228-38c4d4e5fca9",
+        "albumID": "1446115312",
+        "name": "Testimony",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "fd30a74a-fe93-4bb2-a0b9-4579c396575f",
+        "albumID": "1446115312",
+        "name": "This Forever",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "5055b53d-7871-419d-9041-6ea2e336e07d",
+        "albumID": "1446115312",
+        "name": "Identity Theft",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "9a1b73df-d075-4d71-938f-2d45a89bfc2e",
+        "albumID": "1446115312",
+        "name": "Gnarly (feat. Lil Pump)",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "df820003-db9a-4ad5-aef1-fbbd332552b3",
+        "albumID": "1446115312",
+        "name": "ZEZE (feat. Travis Scott & Offset)",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "c33ca5ab-0eb6-47ed-b094-1a2d7e550eed",
+        "albumID": "1446115312",
+        "name": "Take One",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "ef1ce752-cb1f-4ed3-a3f9-2e4537d36996",
+        "albumID": "1446115312",
+        "name": "MoshPit (feat. Juice WRLD)",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "fd346753-1aab-45d2-aab3-c6272f0786b9",
+        "albumID": "1446115312",
+        "name": "Transgression",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "48fb3b1b-0098-4f5d-926e-0f90c173f3fd",
+        "albumID": "1446115312",
+        "name": "Malcolm X.X.X.",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "a492f47d-a861-4be3-8b3a-2ee6b6023a59",
+        "albumID": "1446115312",
+        "name": "Calling My Spirit",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "ff75e405-2d1c-4599-89e8-657a7dee150b",
+        "albumID": "1446115312",
+        "name": "In the Flesh",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "0c163d1b-5257-4a77-846e-01bdec6ec69a",
+        "albumID": "1446115312",
+        "name": "Close to the Grave",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "0be27779-2dc8-46c8-bc25-7fa32fef785d",
+        "albumID": "1446115312",
+        "name": "From the Cradle",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "46b3ca11-0311-4d48-bf5e-5994c658ff28",
+        "albumID": "1446115312",
+        "name": "If I'm Lyin, I'm Flyin",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "27a9d220-e61f-45b5-a1f4-cc56299acf6e",
+        "albumID": "1446115312",
+        "name": "Needing Something",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      },
+      {
+        "id": "d75194bc-5475-4f91-a4c2-7745e998cd23",
+        "albumID": "1446115312",
+        "name": "Could of Been Different",
+        "artists": [
+          {
+            "id": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd",
+            "name": "Kodak Black"
+          }
+        ],
+        "artistID": "4215e236-05a7-4b06-9c53-ee1a4a9b52bd"
+      }
+    ]
   }
 ]
