@@ -2987,7 +2987,7 @@
       "hip-hop"
     ],
     "subgenres": [
-      "G-funk"
+      "G-Funk"
     ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/5b/7e/8b5b7e96-a8c6-53b5-a652-97cb1a47bc17/617513821833_cover.jpg/600x600bb.jpg",
     "songs": [
@@ -3420,8 +3420,12 @@
     "releaseDate": "1994-01-01",
     "type": "Album",
     "trackCount": 13,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip Hip"
+    ],
+    "subgenres": [
+      "Souther Hip-Hop",
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/03/fa/fb03fac5-fca3-4765-0c50-6c3babd453f9/886444199988_Cover.jpg/600x600bb.jpg",
     "songs": [
       {
@@ -26790,8 +26794,12 @@
     "releaseDate": "2011-01-01",
     "type": "Album",
     "trackCount": 9,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "R&B"
+    ],
+    "subgenres": [
+      "Alternative R&B"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/31/18/fa/3118fab0-90ea-2ae5-cf6c-bc64054ab9e3/21UMGIM21449.rgb.jpg/600x600bb.jpg",
     "songs": [
       {
@@ -27064,8 +27072,12 @@
     "releaseDate": "2011-01-01",
     "type": "Album",
     "trackCount": 9,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "R&B"
+    ],
+    "subgenres": [
+      "Alternative R&B"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/42/e0/1a/42e01a95-6558-37d5-8527-bcce7072279e/21UMGIM61407.rgb.jpg/600x600bb.jpg",
     "songs": [
       {
@@ -36505,9 +36517,11 @@
     "type": "Album",
     "trackCount": 12,
     "genres": [
-      "Hip-Hop/Rap"
+      "Hip-Hop"
     ],
-    "subgenres": [],
+    "subgenres": [
+      "Trap", "Psychedelic Trap", "Alternative Hip-Hop"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/35/78/7c3578d6-be58-b198-73e4-01e8630e78bb/196871381437.jpg/600x600bb.jpg",
     "appleId": 1764164178,
     "songs": [
@@ -38063,8 +38077,12 @@
     "releaseDate": "2015-01-01",
     "type": "Album",
     "trackCount": 13,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Trap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7f/ab/ba/7fabbae7-d92a-f59e-352b-7b9d1e960feb/075679924872.jpg/600x600bb.jpg",
     "songs": [
       {
@@ -40823,8 +40841,12 @@
     "releaseDate": "2015-07-17",
     "type": "Album",
     "trackCount": 18,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Trap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/01/d0/2101d0ef-079a-974e-317a-780275f8c269/886445328547.jpg/600x600bb.jpg",
     "appleId": 1017125737,
     "songs": [
@@ -49863,8 +49885,12 @@
     "releaseDate": "2017-01-01",
     "type": "Album",
     "trackCount": 10,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Trap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ce/4d/c4/ce4dc451-9eb2-ed8d-e8a4-4554b99013c9/075679893857.jpg/600x600bb.jpg",
     "songs": [
       {
@@ -50907,10 +50933,14 @@
       }
     ],
     "releaseDate": "2017-02-02",
-    "type": "Album",
+    "type": "Mixtape",
     "trackCount": 11,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Trap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/aa/70/08aa70d7-706f-d6e5-666d-b90409bbef1f/888915338568_cover.jpg/600x600bb.jpg",
     "appleId": 1201923812,
     "songs": [
@@ -60592,8 +60622,12 @@
     "releaseDate": "2018-03-30",
     "type": "Album",
     "trackCount": 6,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "R&B"
+    ],
+    "subgenres": [
+      "Alternative R&B"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/db/22/4e/db224ee0-b058-5d06-9a8c-fa10662bd58e/18UMGIM17205.rgb.jpg/600x600bb.jpg",
     "appleId": 1363308558,
     "songs": [
@@ -61100,8 +61134,12 @@
     "releaseDate": "2018-04-20",
     "type": "Album",
     "trackCount": 12,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Conscious Rap", "Jazz Rap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/8e/9d/7a8e9dcb-128c-aeaa-540d-eea733637695/18UMGIM22943.rgb.jpg/600x600bb.jpg",
     "appleId": 1373860689,
     "songs": [
@@ -62146,8 +62184,12 @@
     "releaseDate": "2018-06-06",
     "type": "Album",
     "trackCount": 7,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+        "Alternative Hip-Hop", "Melodic Rap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f8/92/62/f892628e-bfd5-2437-c1f5-0ebbd366de09/00602577303098.rgb.jpg/600x600bb.jpg",
     "appleId": 1441460375,
     "songs": [
@@ -67114,8 +67156,12 @@
     "releaseDate": "2019-01-01",
     "type": "Album",
     "trackCount": 7,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip-Hop"
+    ],
+    "subgenres": [
+      "Boom Bap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/c8/3b/5cc83b7f-2d17-0b99-e4c1-f1808b160448/193483966380.jpg/600x600bb.jpg",
     "songs": [
       {
@@ -73563,8 +73609,12 @@
     "releaseDate": "2020-01-01",
     "type": "Album",
     "trackCount": 16,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Boom Bap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/eb/9b/58/eb9b587a-1549-2c0f-1cd8-ef7c2405698e/194690253973_cover.jpg/600x600bb.jpg",
     "songs": [
       {
@@ -78885,8 +78935,12 @@
     "releaseDate": "2020-10-02",
     "type": "Album",
     "trackCount": 15,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Trap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/53/ed/40/53ed4078-7d2a-076e-f9b9-ffb29e776c42/886448747703.jpg/600x600bb.jpg",
     "appleId": 1534263780,
     "songs": [
@@ -79740,7 +79794,7 @@
     "type": "Album",
     "trackCount": 25,
     "genres": [
-      "R&B/Soul"
+      "R&B", "Soul"
     ],
     "subgenres": [],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/76/46/5b76469e-2d48-98aa-198d-6ffa3e16d607/075679803726.jpg/600x600bb.jpg",
@@ -81759,8 +81813,12 @@
     "releaseDate": "2021-01-01",
     "type": "Album",
     "trackCount": 9,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Boom Bap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/50/7b/94507bef-46eb-17fd-7b71-3fd7a58cbab6/194690716775_cover.jpg/600x600bb.jpg",
     "songs": [
       {
@@ -99178,8 +99236,12 @@
     "releaseDate": "2023-12-01",
     "type": "Album",
     "trackCount": 7,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Trap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/a3/80/42a380a5-821c-587e-f608-e1c90d700cd2/BigX_TheBiggest_Clean_gEGevl8.jpg/600x600bb.jpg",
     "appleId": 1718462973,
     "songs": [
@@ -100990,10 +101052,14 @@
       }
     ],
     "releaseDate": "2024-04-05",
-    "type": "Album",
+    "type": "Mixtape",
     "trackCount": 12,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip Hop"
+    ],
+    "subgenres": [
+      "Trap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/80/c7/cc80c753-4c2e-5877-03f2-31c2a3849f19/24UMGIM32202.rgb.jpg/600x600bb.jpg",
     "appleId": 1739255439,
     "songs": [
