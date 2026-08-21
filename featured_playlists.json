@@ -1,8 +1,56 @@
 [
   {
+    "id": "000",
+    "userId": "007",
+    "name": "New Releases",
+    "isTiered": false,
+    "isRanked": false,
+    "isFeatured": true,
+    "sections": [
+      {
+        "id": "0001",
+        "name": "Fresh",
+        "order": 1,
+        "albumIds": [
+          "7cee4272-3c70-49ad-9729-4c58427c93be",
+          "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+          "986616b5-7d63-4c02-ad30-f8f8359f1135",
+          "77006110-c113-477c-99c4-77fbc07aceec"
+        ]
+      }
+    ],
+    "createdAt": "2026-08-21T07:03:00Z"
+  },
+    {
+    "id": "0002",
+    "userId": "007",
+    "name": "2026 Essentials",
+    "isTiered": false,
+    "isRanked": false,
+    "isFeatured": true,
+    "sections": [
+      {
+        "id": "0001",
+        "name": "Fresh",
+        "order": 1,
+        "albumIds": [
+          "a7dfb84d-0d65-4de1-b643-d9e263c38996",
+          "929074c0-ad1f-45e0-998a-cff321cc9da5",
+          "83009231-f512-4b8a-b56e-7ff583b25c85",
+          "cf55973c-1446-4f6d-b55a-3c3dd81bc993",
+          "741a86e5-faff-44cb-a5af-348ec2db1c94",
+          "30d907b2-b19e-4080-8125-8caa2b484b0d",
+          "b2ba15a0-fdcf-4db7-9704-80d9378df284",
+
+        ]
+      }
+    ],
+    "createdAt": "2026-08-21T07:03:00Z"
+  },
+  {
     "id": "001",
     "userId": "007",
-    "name": "Trap",
+    "name": "Trap Muzik",
     "description": "Evolution of Trap Music",
     "isTiered": true,
     "isRanked": false,

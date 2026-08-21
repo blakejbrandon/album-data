@@ -111712,6 +111712,228 @@
     "discogsId": 36869749
   },
   {
+    "id": "f0f22c3c-bd87-4a95-899e-f83f1ff37baa",
+    "title": "Don't Be Dumb",
+    "artists": [
+      {
+        "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "name": "ASAP Rocky"
+      }
+    ],
+    "releaseDate": "2026-01-01",
+    "type": "Album",
+    "edition": null,
+    "trackCount": 15,
+    "genres": [
+      "Hip-Hop"
+    ],
+    "subgenres": [
+      "Cloud Rap",
+      "Trap",
+      "Boom Bap",
+      "Jazz Rap"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/99/f1/5899f1b4-674b-3033-9e12-14348a9de396/196873986029.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "4fe15ca6-c7a9-4c3e-86c3-ae0ada78b0ce",
+        "albumID": "36231535",
+        "name": "Order Of Protection",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "5cb04e9d-79e4-4172-b19d-ee1db1e85eb8",
+        "albumID": "36231535",
+        "name": "Helicopter",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "b715a854-77f7-4c69-851c-a4d104314de0",
+        "albumID": "36231535",
+        "name": "Interrogation (Skit)",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "81bcfdba-1e60-46be-ab90-bb80cd7d6d08",
+        "albumID": "36231535",
+        "name": "Stole Ya Flow",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "8569f44f-24c5-451b-a1b8-b149260e54fe",
+        "albumID": "36231535",
+        "name": "Stay Here 4 Life",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "79a5db4d-4e43-4d51-9486-e6465ed4e1b1",
+        "albumID": "36231535",
+        "name": "Playa",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "28c25cea-470d-49cf-83d1-f62b443b9b84",
+        "albumID": "36231535",
+        "name": "No Trespassing",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "4513c830-22b7-4cb4-8e3e-ab76a04b9347",
+        "albumID": "36231535",
+        "name": "Stop Snitching",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "57cc9759-ceb8-428d-83fc-1c31dc7429c8",
+        "albumID": "36231535",
+        "name": "STFU",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "cd0cabcb-aa12-454d-b8be-1de3f121f5fa",
+        "albumID": "36231535",
+        "name": "Punk Rocky",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "67a36ea0-31f2-44b2-8981-efea95271d10",
+        "albumID": "36231535",
+        "name": "Air Force (Black Demarco)",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "cee5f47f-8f5b-4cef-841f-e9920037ea4e",
+        "albumID": "36231535",
+        "name": "Whiskey (Release Me)",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "b1c5996a-52c5-484f-b7f4-04d454bb777d",
+        "albumID": "36231535",
+        "name": "Robbery",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "4ef5736c-1f21-4f21-ac61-b3944e5b0ae0",
+        "albumID": "36231535",
+        "name": "Don't Be Dumb / Trip Baby",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      },
+      {
+        "id": "0f12dcf8-c4ec-403c-8f6c-be7f95214c41",
+        "albumID": "36231535",
+        "name": "The End",
+        "artists": [
+          {
+            "id": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+            "name": "ASAP Rocky"
+          }
+        ],
+        "artistID": "27a8113a-2ef3-4bb0-bb0f-46b8c4105f22",
+        "edition": null
+      }
+    ],
+    "discogsId": 36231535
+  },
+  {
     "id": "6c4ce513-eb05-4d15-bb53-2d13498c137d",
     "title": "Slime Cry",
     "artists": [
@@ -113973,6 +114195,82 @@
           }
         ],
         "artistID": "ce5ed8f4-4e6b-4c0b-95d8-28c348cdd368",
+        "edition": null
+      }
+    ]
+  },
+  {
+    "id": "023bad67-03d6-4614-92ec-0ce6bde66cbb",
+    "title": "Sugar Girl",
+    "artists": [
+      {
+        "id": "25506722-1409-4c71-8194-4a3639e1eabd",
+        "name": "Little Simz"
+      }
+    ],
+    "releaseDate": "2026-05-08",
+    "type": "EP",
+    "edition": null,
+    "trackCount": 4,
+    "genres": [
+      "Hip-Hop"
+    ],
+    "subgenres": [
+      "Trap",
+      "Alternative Hip-Hop"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/64/10/3064103f-d543-bbdf-1461-947ecc5a49db/820233138581.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "65404e55-94c5-45ba-8ebe-dd5c09ec8958",
+        "albumID": "023bad67-03d6-4614-92ec-0ce6bde66cbb",
+        "name": "That's a No No",
+        "artists": [
+          {
+            "id": "25506722-1409-4c71-8194-4a3639e1eabd",
+            "name": "Little Simz"
+          }
+        ],
+        "artistID": "25506722-1409-4c71-8194-4a3639e1eabd",
+        "edition": null
+      },
+      {
+        "id": "d4a477ef-d327-482c-a6c7-2c77fe709299",
+        "albumID": "023bad67-03d6-4614-92ec-0ce6bde66cbb",
+        "name": "Game on",
+        "artists": [
+          {
+            "id": "25506722-1409-4c71-8194-4a3639e1eabd",
+            "name": "Little Simz"
+          }
+        ],
+        "artistID": "25506722-1409-4c71-8194-4a3639e1eabd",
+        "edition": null
+      },
+      {
+        "id": "f48fdf49-95da-455b-a685-8eb529436126",
+        "albumID": "023bad67-03d6-4614-92ec-0ce6bde66cbb",
+        "name": "Open Arms",
+        "artists": [
+          {
+            "id": "25506722-1409-4c71-8194-4a3639e1eabd",
+            "name": "Little Simz"
+          }
+        ],
+        "artistID": "25506722-1409-4c71-8194-4a3639e1eabd",
+        "edition": null
+      },
+      {
+        "id": "5b4ea039-348c-40f0-a345-49d37bcfac59",
+        "albumID": "023bad67-03d6-4614-92ec-0ce6bde66cbb",
+        "name": "Telephone",
+        "artists": [
+          {
+            "id": "25506722-1409-4c71-8194-4a3639e1eabd",
+            "name": "Little Simz"
+          }
+        ],
+        "artistID": "25506722-1409-4c71-8194-4a3639e1eabd",
         "edition": null
       }
     ]
@@ -116629,6 +116927,276 @@
     ]
   },
   {
+    "id": "77006110-c113-477c-99c4-77fbc07aceec",
+    "title": "Dragon's Breath",
+    "artists": [
+      {
+        "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "name": "Inspecta Deck"
+      }
+    ],
+    "releaseDate": "2026-08-07",
+    "type": "Album",
+    "edition": null,
+    "trackCount": 19,
+    "genres": [
+      "Hip-Hop"
+    ],
+    "subgenres": [
+      "Boom Bap"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/ca/b4/e5cab488-2ff7-8f36-cb4e-d12195d8d41d/cover_4062851327213.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "f4b70583-8c9b-474d-a7c1-b06ce4129589",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Dragon's Intro",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "8ddde65b-6d49-4673-8fab-cef53aa41d5e",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Never Fold",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "bfe999df-8001-41ed-a2a3-577e89bd2da6",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "H.E.C.T.O.R",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "c4f56606-a999-409a-bed0-a94f2b6ba233",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Lighter Fluid",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "727bc2ac-c5d4-4530-99cc-361dcda0d2c6",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Shaolin Rebel 2",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "d20d2ff0-9234-457e-bf13-69023b5f92cf",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "The System",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "d0c6613b-659e-4741-b6f8-2b1ed5388364",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Up At Night",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "b866348c-12d6-4f63-98f3-45950d48da3f",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Day In The Life",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "9ff8c985-a08b-413b-84da-95935c195d4e",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "One of One",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "992f6c36-405d-4690-8851-2d812be201f4",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Flight School",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "ddb75842-0f65-4743-a5b7-5ea68e0e97de",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Burgundy",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "5d9de11a-7b96-4b29-b018-aa810985e7c9",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Cold Case",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "0c329275-d796-4a24-b48f-2f5a63940618",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Divine Protection",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "531869cb-9d94-4ad6-aa06-ae27e026c9c3",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Solitude",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "ca8165e1-252d-4a93-ab97-5d62dfa66356",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Anointed",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "5c2e3d27-d082-4798-8a43-05a1b7111ce9",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Possession",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "abbe1e14-b0bc-46e6-9c4e-bf7f4e9d52ce",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Funny Style",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "2e751e4a-de90-417a-92a7-44a870e30726",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Czariana Grande",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      },
+      {
+        "id": "ccc00631-b435-4d98-905e-2b2c4a17ef8b",
+        "albumID": "77006110-c113-477c-99c4-77fbc07aceec",
+        "name": "Explicit Material",
+        "artists": [
+          {
+            "id": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+            "name": "Inspecta Deck"
+          }
+        ],
+        "artistID": "8b73c001-42bc-4308-812f-66aa8ee8342b",
+        "edition": null
+      }
+    ]
+  },
+  {
     "id": "75a53952-5717-49a3-b0ff-1ed79b1ec52e",
     "title": "NDA",
     "artists": [
@@ -117155,6 +117723,748 @@
           }
         ],
         "artistID": "fdeda6b8-8603-4434-a498-0727255d3ef2",
+        "edition": null
+      }
+    ]
+  },
+  {
+    "id": "7cee4272-3c70-49ad-9729-4c58427c93be",
+    "title": "God Gotta Afro & Gold Hoops",
+    "artists": [
+      {
+        "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "name": "Rapsody"
+      }
+    ],
+    "releaseDate": "2026-08-20",
+    "type": "Album",
+    "edition": null,
+    "trackCount": 16,
+    "genres": [
+      "Hip-Hop"
+    ],
+    "subgenres": [],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/1f/2d/a31f2d6b-883e-3252-3d3c-f35bd5c6d6a3/26UMGIM73976.rgb.jpg/600x600bb.jpg",
+    "appleId": 6778239377,
+    "songs": [
+      {
+        "id": "e6a45687-dfc7-462a-93df-15dbfa07b2df",
+        "albumID": "6778239377",
+        "name": "Peace, God!",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "73fc2cc7-e02c-4049-b8d6-009d1efcbefc",
+        "albumID": "6778239377",
+        "name": "Free Yo’ Mind",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "ac5559f4-ab5f-41e1-9011-7c292df023dd",
+        "albumID": "6778239377",
+        "name": "No Way (feat. KARABO YA MORENA)",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          },
+          {
+            "id": "104fb1a0-3d19-46b2-a34e-79f1e6b9a9ac",
+            "name": "Mr. Porter"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "6d12b4c2-9eb8-4675-9ec7-f3aeb8dfb42b",
+        "albumID": "6778239377",
+        "name": "Apple Juice",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "2caf088e-7c2c-4dd6-bc43-9f0583e65ff4",
+        "albumID": "6778239377",
+        "name": "Never Break",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          },
+          {
+            "id": "104fb1a0-3d19-46b2-a34e-79f1e6b9a9ac",
+            "name": "Mr. Porter"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "64b73898-f275-43ab-b43a-e25495136b78",
+        "albumID": "6778239377",
+        "name": "God Gotta Afro (feat. KARABO YA MORENA)",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "6fc63ae9-f26e-4b5c-9150-52bebf8f12f6",
+        "albumID": "6778239377",
+        "name": "OMG! (Love to Sun Ra)",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          },
+          {
+            "id": "d4264c55-068b-4b08-80a6-26348fe06ab8",
+            "name": "Nomisupasta"
+          },
+          {
+            "id": "ec741cc5-3531-412c-9180-805fe721b02e",
+            "name": "Jojo Abot"
+          },
+          {
+            "id": "9f9b7f7b-1a37-443d-9b3d-351d4f6e9816",
+            "name": "George Clinton"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "00af17be-4af4-44cb-92b2-acbdca7e2414",
+        "albumID": "6778239377",
+        "name": "Black Love",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "32e828cd-64fe-446b-83d1-afcaac125fb4",
+        "albumID": "6778239377",
+        "name": "Pick A Side",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          },
+          {
+            "id": "28d0a475-549f-4a95-9b19-ee38ea0b4caf",
+            "name": "Amanda Reifer"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "512a5a96-69ac-437b-b532-afcdce6e5386",
+        "albumID": "6778239377",
+        "name": "Abandoned Me",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          },
+          {
+            "id": "104fb1a0-3d19-46b2-a34e-79f1e6b9a9ac",
+            "name": "Mr. Porter"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "38f5ed0a-4940-4779-a668-386c35c22822",
+        "albumID": "6778239377",
+        "name": "The Peejaays",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "7a31b015-0c41-4621-813e-5428bdd0ca15",
+        "albumID": "6778239377",
+        "name": "You! (DJ Whoo Kid Joint)",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "ae937d57-af89-4280-96c5-d93fa648a8c3",
+        "albumID": "6778239377",
+        "name": "Black Is Beautiful",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "d22e8cb2-30b5-4522-ada9-5be6e8311e96",
+        "albumID": "6778239377",
+        "name": "Pretty Bird / Way U R",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "4bda13a5-a3b7-4762-b995-4aaf0f5abbc1",
+        "albumID": "6778239377",
+        "name": "Joyful",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          },
+          {
+            "id": "d4264c55-068b-4b08-80a6-26348fe06ab8",
+            "name": "Nomisupasta"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      },
+      {
+        "id": "4c7d2e2a-8b00-4aec-8ced-623801f67761",
+        "albumID": "6778239377",
+        "name": "Act II: Bloodline / Growing Older",
+        "artists": [
+          {
+            "id": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+            "name": "Rapsody"
+          },
+          {
+            "id": "884a7e5f-2da1-410e-803a-0c67206ecdc7",
+            "name": "Amber Navran"
+          }
+        ],
+        "artistID": "b3bf4ef8-c980-4428-8eed-f393a74d8d44",
+        "edition": null
+      }
+    ]
+  },
+  {
+    "id": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+    "title": "The Documentary III",
+    "artists": [
+      {
+        "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "name": "The Game"
+      }
+    ],
+    "releaseDate": "2026-08-21",
+    "type": "Album",
+    "edition": null,
+    "trackCount": 24,
+    "genres": [
+      "Hip-Hop"
+    ],
+    "subgenres": [
+      "West Coast Hip-Hop"
+    ],
+    "coverURL": "",
+    "songs": [
+      {
+        "id": "cc184981-becd-47fd-b3c3-55bf815bc528",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "Geezus",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "465d6d8a-b201-485f-9da2-e5befd374c03",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "Love It or Hate It",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "f2e17de2-5f24-4964-ad84-74c254770d41",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "Steppers",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "0e33fb91-b27b-4909-9087-fa14de23e687",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "The Life",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "a1b8a985-063c-47dd-8811-0faf83b012fd",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "Scary Times",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "c310e6c5-1737-4831-bea5-b2f9114e0611",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "20 Deep",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "537a0401-d651-4bb1-9b56-eb399be7b47c",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "No Brakes",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "815ea0bd-376e-4bef-b344-2766602611a8",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "Sticks",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "2486e6a9-38b0-48d5-8ea0-1770b56dac23",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "Geekin",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "33b8150a-6aa9-44dc-b9cc-1fffe2749934",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "40 Nights",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "ec81128f-2276-4892-bef4-e2de615c030e",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "Do You Love Me",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "424c7ecd-a259-41a6-977e-c68a9a43ceda",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "Run It Up",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "90711d9f-677e-4a91-a289-ade5500edeac",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "Party At Game's",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "c2ba77be-a7b6-44af-b63b-80b31df615b0",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "BABY",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "eda52118-3c7b-4664-96bd-ee40825f67b1",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "In The Way",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "c97658b2-773b-4ebe-a880-669a032338f4",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "The Part",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "8b609904-66b9-45b0-963b-1b967b151f29",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "HELLA",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "223310e4-20db-423c-891b-87521f9be619",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "Nothing 2 Hide",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "9e1c6566-215d-443b-ba0d-7eb2f7ac808e",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "LA Monster",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "4bde034d-0aac-4d0d-985d-8b32380fbd2a",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "Meet The Parents",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "74c38e81-a96b-42c9-98f8-b596febedf8b",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "The Pen",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "a4929c90-47f3-422f-b894-e870fa2ea5c1",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "The Cookout",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "5c524339-124b-4273-9965-b30ebf8c913e",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "I Won't Be Afraid",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      },
+      {
+        "id": "04471012-e514-4d1c-97b1-7799cf129728",
+        "albumID": "d73ca4eb-1c9d-4fc5-a259-d6687d1ecf50",
+        "name": "Game Recognize Game",
+        "artists": [
+          {
+            "id": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+            "name": "The Game"
+          }
+        ],
+        "artistID": "a9897a50-a5ee-410e-8533-ef3fa18db46c",
+        "edition": null
+      }
+    ]
+  },
+  {
+    "id": "986616b5-7d63-4c02-ad30-f8f8359f1135",
+    "title": "ii",
+    "artists": [
+      {
+        "id": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+        "name": "Denzel Curry"
+      }
+    ],
+    "releaseDate": "2026-08-21",
+    "type": "LP",
+    "edition": null,
+    "trackCount": 9,
+    "genres": [
+      "Hip-Hop"
+    ],
+    "subgenres": [
+      "Boom Bap",
+      "Conscious Rap"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/52/07/dc5207bf-496b-4912-58d6-3aabb83b9c88/26CRGIM53902.rgb.jpg/600x600bb.jpg",
+    "songs": [
+      {
+        "id": "4dfa3858-6069-453d-bdf1-cd99f1778cbf",
+        "albumID": "986616b5-7d63-4c02-ad30-f8f8359f1135",
+        "name": "GONE FISHING",
+        "artists": [
+          {
+            "id": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+            "name": "Denzel Curry"
+          }
+        ],
+        "artistID": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+        "edition": null
+      },
+      {
+        "id": "4d2a095e-0345-4b2e-a4ca-15b98c1e7069",
+        "albumID": "986616b5-7d63-4c02-ad30-f8f8359f1135",
+        "name": "EVIL GRIN",
+        "artists": [
+          {
+            "id": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+            "name": "Denzel Curry"
+          }
+        ],
+        "artistID": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+        "edition": null
+      },
+      {
+        "id": "1f1f43ca-4ef1-4241-a036-9a6dc0201727",
+        "albumID": "986616b5-7d63-4c02-ad30-f8f8359f1135",
+        "name": "CANDLELIGHT",
+        "artists": [
+          {
+            "id": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+            "name": "Denzel Curry"
+          }
+        ],
+        "artistID": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+        "edition": null
+      },
+      {
+        "id": "490e66cb-b6f2-4051-ba58-5da377ad5f3b",
+        "albumID": "986616b5-7d63-4c02-ad30-f8f8359f1135",
+        "name": "PRODUCT",
+        "artists": [
+          {
+            "id": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+            "name": "Denzel Curry"
+          }
+        ],
+        "artistID": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+        "edition": null
+      },
+      {
+        "id": "7dccfbed-3c93-4360-8371-95238f82f511",
+        "albumID": "986616b5-7d63-4c02-ad30-f8f8359f1135",
+        "name": "UPS",
+        "artists": [
+          {
+            "id": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+            "name": "Denzel Curry"
+          }
+        ],
+        "artistID": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+        "edition": null
+      },
+      {
+        "id": "b71b0404-3e78-48fa-b0a2-8ab939c4dfe3",
+        "albumID": "986616b5-7d63-4c02-ad30-f8f8359f1135",
+        "name": "BENJAMIN",
+        "artists": [
+          {
+            "id": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+            "name": "Denzel Curry"
+          }
+        ],
+        "artistID": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+        "edition": null
+      },
+      {
+        "id": "21145730-3888-4d6b-b5f7-559fe9795ff1",
+        "albumID": "986616b5-7d63-4c02-ad30-f8f8359f1135",
+        "name": "COLD NIGHT IN HELL",
+        "artists": [
+          {
+            "id": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+            "name": "Denzel Curry"
+          }
+        ],
+        "artistID": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+        "edition": null
+      },
+      {
+        "id": "e5577ed4-694b-428e-9626-572972967132",
+        "albumID": "986616b5-7d63-4c02-ad30-f8f8359f1135",
+        "name": "CROWN",
+        "artists": [
+          {
+            "id": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+            "name": "Denzel Curry"
+          }
+        ],
+        "artistID": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+        "edition": null
+      },
+      {
+        "id": "de6be0d5-778f-4956-b53d-7caefe1173de",
+        "albumID": "986616b5-7d63-4c02-ad30-f8f8359f1135",
+        "name": "DIFFERENCE",
+        "artists": [
+          {
+            "id": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
+            "name": "Denzel Curry"
+          }
+        ],
+        "artistID": "f4f9134d-588e-405d-8e22-bafd06d5d5a1",
         "edition": null
       }
     ]
