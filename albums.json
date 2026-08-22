@@ -26916,8 +26916,12 @@
     "type": "Album",
     "edition": null,
     "trackCount": 9,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "R&B"
+    ],
+    "subgenres": [
+      "Alternative R&B"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/57/34/ec573456-7d5a-4a48-018c-2b252ec2d825/21UM1IM44288.rgb.jpg/600x600bb.jpg",
     "songs": [
       {
@@ -27165,7 +27169,7 @@
   },
   {
     "id": "1b5c961a-058f-472e-b126-c95c17d7ac49",
-    "title": "Sailing Soul(s) [2021 Bonus Tracks Edition]",
+    "title": "Sailing Soul(s)",
     "artists": [
       {
         "id": "25a565e7-c7f4-405c-9e77-b217f1dd17f7",
@@ -41407,8 +41411,14 @@
     "type": "Album",
     "edition": null,
     "trackCount": 16,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip-Hop"
+    ],
+    "subgenres": [
+      "Trap",
+      "Psychedelic Trap",
+      "Alternative Hip-Hop"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/fb/f1/6dfbf17d-4032-f585-35ad-f3f9b6859cd9/886445460421.jpg/600x600bb.jpg",
     "appleId": 1456179762,
     "songs": [
@@ -41880,8 +41890,13 @@
     "type": "Album",
     "edition": null,
     "trackCount": 11,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip-Hop"
+    ],
+    "subgenres": [
+      "Trap",
+      "Melodic Rap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d3/74/1d/d3741d09-5c9a-461b-aba3-fa345d306d5a/00602547616678.rgb.jpg/600x600bb.jpg",
     "appleId": 1440848548,
     "songs": [
@@ -72527,8 +72542,12 @@
     "type": "Album",
     "edition": null,
     "trackCount": 13,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip-Hop"
+    ],
+    "subgenres": [
+      "Boom Bap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8f/bf/b2/8fbfb2d9-6ef2-951a-c6cd-26495e9c23e1/dj.vbothjgo.jpg/600x600bb.jpg",
     "songs": [
       {
@@ -73893,6 +73912,214 @@
           }
         ],
         "artistID": "69a23307-a4a0-4fad-8ef9-40f1a3077979",
+        "edition": null
+      }
+    ]
+  },
+  {
+    "id": "a95b7e58-4fc6-452a-a301-74546e3138f3",
+    "title": "After Hours",
+    "artists": [
+      {
+        "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "name": "The Weeknd"
+      }
+    ],
+    "releaseDate": "2020-03-20",
+    "type": "Album",
+    "edition": null,
+    "trackCount": 14,
+    "genres": [
+      "Pop",
+      "R&B"
+    ],
+    "subgenres": [
+      "Synth Pop",
+      "Alternative R&B"
+    ],
+    "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2b/b9/fe/2bb9fef5-d7f3-8345-25a9-db0e79fde4e4/20UMGIM11048.rgb.jpg/600x600bb.jpg",
+    "appleId": 1499385848,
+    "songs": [
+      {
+        "id": "ebeadcd6-8c67-4dd9-a1aa-cf486a877b60",
+        "albumID": "1499385848",
+        "name": "Alone Again",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "260cf4b1-db79-46c3-8449-bd88ad57aca4",
+        "albumID": "1499385848",
+        "name": "Too Late",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "b172341b-2884-4e36-b158-25cf8becd656",
+        "albumID": "1499385848",
+        "name": "Hardest To Love",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "77963c30-4cac-447f-9a49-84815f793ea1",
+        "albumID": "1499385848",
+        "name": "Scared To Live",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "939f18cb-00de-4650-bf80-bf0613e7f56a",
+        "albumID": "1499385848",
+        "name": "Snowchild",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "3c25b8a4-a201-494f-ac6e-0f0c10ac3875",
+        "albumID": "1499385848",
+        "name": "Escape From LA",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "a49247d6-1fb5-4bec-af23-37f8436abffe",
+        "albumID": "1499385848",
+        "name": "Heartless",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "be768797-5a5a-482c-b6a2-03b3061d439f",
+        "albumID": "1499385848",
+        "name": "Faith",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "e6171037-9e2d-4215-a471-1a4a6758174f",
+        "albumID": "1499385848",
+        "name": "Blinding Lights",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "96c60c06-9058-40ed-82f6-fc761781e67e",
+        "albumID": "1499385848",
+        "name": "In Your Eyes",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "5a2fee78-8190-42ad-927c-104070c43a1b",
+        "albumID": "1499385848",
+        "name": "Save Your Tears",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "6ccb2d57-a6e0-480e-864d-7c25b4a8313a",
+        "albumID": "1499385848",
+        "name": "Repeat After Me (Interlude)",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "f67dd3e1-ad9a-44b9-9128-6b343d1d9c73",
+        "albumID": "1499385848",
+        "name": "After Hours",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
+        "edition": null
+      },
+      {
+        "id": "79e7b3c4-8338-4f2c-9771-73aece2ea4b0",
+        "albumID": "1499385848",
+        "name": "Until I Bleed Out",
+        "artists": [
+          {
+            "id": "c3508078-0416-4d38-abc7-ec52da9765df",
+            "name": "The Weeknd"
+          }
+        ],
+        "artistID": "c3508078-0416-4d38-abc7-ec52da9765df",
         "edition": null
       }
     ]
@@ -110109,8 +110336,14 @@
     "type": "Album",
     "edition": null,
     "trackCount": 14,
-    "genres": [],
-    "subgenres": [],
+    "genres": [
+      "Hip-Hop",
+      "Country"
+    ],
+    "subgenres": [
+      "Country Rap",
+      "Trap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/b7/59/c6b759ff-dad9-a9fa-6ab6-a4879e4a3517/199826504608.png/600x600bb.jpg",
     "appleId": 1853984839,
     "songs": [
@@ -111367,7 +111600,9 @@
       "Hip-Hop",
       "Rock"
     ],
-    "subgenres": [],
+    "subgenres": [
+      "Alternative Hip-Hop"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/fe/3c/27fe3ccb-9f3c-1472-a2af-ddabe248699b/26CRGIM53564.rgb.jpg/600x600bb.jpg",
     "songs": [
       {
@@ -115507,7 +115742,10 @@
     "genres": [
       "Hip-Hop"
     ],
-    "subgenres": [],
+    "subgenres": [
+      "Jazz Rap",
+      "Boom Bap"
+    ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/3d/16/593d1699-7a94-ddc4-908e-eb48aed1ce87/26UMGIM65013.rgb.jpg/600x600bb.jpg",
     "appleId": 6779443177,
     "songs": [
@@ -118345,8 +118583,9 @@
       "Hip-Hop"
     ],
     "subgenres": [
+      "Experimental Rap",
       "Boom Bap",
-      "Conscious Rap"
+      "Alternative Hip-Hop"
     ],
     "coverURL": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/52/07/dc5207bf-496b-4912-58d6-3aabb83b9c88/26CRGIM53902.rgb.jpg/600x600bb.jpg",
     "songs": [
